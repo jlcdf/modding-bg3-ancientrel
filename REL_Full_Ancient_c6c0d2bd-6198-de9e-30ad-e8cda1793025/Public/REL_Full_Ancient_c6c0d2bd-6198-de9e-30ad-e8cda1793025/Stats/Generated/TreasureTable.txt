@@ -2455,274 +2455,6 @@ new treasuretable "REL_Szarr_QuestRing"
 new subtable "-1"
 object category "I_UNI_LOW_SzarrRing",1,0,0,0,0,0,0,0
 
-new treasuretable "REL_Gems"
-new subtable "-1"
-object category "I_OBJ_Agate",2,0,0,0,0,0,0,0
-object category "I_OBJ_Malachite",2,0,0,0,0,0,0,0
-object category "I_OBJ_Onyx",2,0,0,0,0,0,0,0
-object category "I_OBJ_Bloodstone",2,0,0,0,0,0,0,0
-object category "I_OBJ_Jade",2,0,0,0,0,0,0,0
-object category "I_OBJ_Pearl",2,0,0,0,0,0,0,0
-object category "I_OBJ_Amethyst",2,0,0,0,0,0,0,0
-object category "I_OBJ_Topaz",2,0,0,0,0,0,0,0
-object category "I_OBJ_Peridot",2,0,0,0,0,0,0,0
-object category "I_OBJ_Sapphire",2,0,0,0,0,0,0,0
-object category "I_OBJ_Ruby",2,0,0,0,0,0,0,0
-object category "I_OBJ_Jacinth",2,0,0,0,0,0,0,0
-object category "I_OBJ_Diamond",1,0,0,0,0,0,0,0
-object category "I_OBJ_Crystal_PurpleFluorite_Shard",1,0,0,0,0,0,0,0
-
-new treasuretable "AMP_ArcanizerPool"
-new subtable "-1"
-object category "I_arc_G_Monk1",1000,0,0,0,0,0,0,0
-object category "I_arc_G_Monk2",150,0,0,0,0,0,0,0
-object category "I_arc_G_Monk3",25,0,0,0,0,0,0,0
-object category "I_arc_G_Monk4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Radiant1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Radiant2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Radiant3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Radiant4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Force1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Force2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Force3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Force4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Lightning1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Lightning2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Lightning3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Lightning4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Fire1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Fire2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Fire3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Fire4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Cold1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Cold2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Cold3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Cold4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Necrotic1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Necrotic2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Necrotic3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Necrotic4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Warrior1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Warrior2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Warrior3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Warrior4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Acid1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Acid2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Acid3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Acid4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Thunder1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Thunder2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Thunder3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Thunder4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Psychic1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Psychic2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Psychic3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Psychic4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Blood1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Blood2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Blood3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Blood4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Underdark1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Underdark2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Underdark3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Underdark4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Poison1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Poison2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Poison3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Poison4",3,0,0,0,0,0,0,0
-object category "I_arc_N_Diamond1",1000,0,0,0,0,0,0,0
-object category "I_arc_N_Diamond2",150,0,0,0,0,0,0,0
-object category "I_arc_N_Diamond3",25,0,0,0,0,0,0,0
-object category "I_arc_N_Diamond4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Radiant1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Radiant2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Radiant3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Radiant4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Force1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Force2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Force3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Force4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Lightning1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Lightning2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Lightning3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Lightning4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Fire1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Fire2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Fire3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Fire4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Cold1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Cold2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Cold3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Cold4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Necrotic1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Necrotic2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Necrotic3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Necrotic4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Warrior1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Warrior2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Warrior3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Warrior4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Acid1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Acid2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Acid3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Acid4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Thunder1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Thunder2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Thunder3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Thunder4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Psychic1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Psychic2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Psychic3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Psychic4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Blood1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Blood2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Blood3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Blood4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Underdark1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Underdark2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Underdark3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Underdark4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Poison1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Poison2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Poison3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Poison4",3,0,0,0,0,0,0,0
-object category "I_arc_R_Diamond1",1000,0,0,0,0,0,0,0
-object category "I_arc_R_Diamond2",150,0,0,0,0,0,0,0
-object category "I_arc_R_Diamond3",25,0,0,0,0,0,0,0
-object category "I_arc_R_Diamond4",3,0,0,0,0,0,0,0
-object category "I_WPN_Greataxe_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Greataxe_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Greataxe_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Greataxe_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Greatsword_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Greatsword_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Greatsword_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Greatsword_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Halberd_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Halberd_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Halberd_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Halberd_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Glaive_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Glaive_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Glaive_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Glaive_l",3,0,0,0,0,0,0,0
-object category "I_WPN_HeavyCrossbow_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_HeavyCrossbow_r",150,0,0,0,0,0,0,0
-object category "I_WPN_HeavyCrossbow_e",25,0,0,0,0,0,0,0
-object category "I_WPN_HeavyCrossbow_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Rapier_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Rapier_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Rapier_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Rapier_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Battleaxe_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Battleaxe_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Battleaxe_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Battleaxe_l",3,0,0,0,0,0,0,0
-object category "I_WPN_WarPick_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_WarPick_r",150,0,0,0,0,0,0,0
-object category "I_WPN_WarPick_e",25,0,0,0,0,0,0,0
-object category "I_WPN_WarPick_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Flail_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Flail_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Flail_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Flail_l",3,0,0,0,0,0,0,0
-object category "I_WPN_HandCrossbow_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_HandCrossbow_r",150,0,0,0,0,0,0,0
-object category "I_WPN_HandCrossbow_e",25,0,0,0,0,0,0,0
-object category "I_WPN_HandCrossbow_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Longbow_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Longbow_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Longbow_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Longbow_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Morningstar_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Morningstar_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Morningstar_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Morningstar_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Warhammer_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Warhammer_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Warhammer_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Warhammer_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Longsword_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Longsword_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Longsword_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Longsword_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Trident_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Trident_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Trident_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Trident_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Scimitar_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Scimitar_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Scimitar_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Scimitar_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Pike_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Pike_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Pike_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Pike_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Shortsword_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Shortsword_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Shortsword_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Shortsword_l",3,0,0,0,0,0,0,0
-object category "I_WPN_LightHammer_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_LightHammer_r",150,0,0,0,0,0,0,0
-object category "I_WPN_LightHammer_e",25,0,0,0,0,0,0,0
-object category "I_WPN_LightHammer_l",3,0,0,0,0,0,0,0
-object category "I_WPN_LightCrossbow_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_LightCrossbow_r",150,0,0,0,0,0,0,0
-object category "I_WPN_LightCrossbow_e",25,0,0,0,0,0,0,0
-object category "I_WPN_LightCrossbow_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Mace_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Mace_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Mace_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Mace_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Dagger_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Dagger_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Dagger_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Dagger_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Greatclub_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Greatclub_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Greatclub_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Greatclub_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Handaxe_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Handaxe_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Handaxe_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Handaxe_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Shortbow_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Shortbow_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Shortbow_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Shortbow_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Club_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Club_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Club_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Club_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Torch_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Torch_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Torch_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Torch_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Javelin_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Javelin_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Javelin_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Javelin_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Quarterstaff_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Quarterstaff_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Quarterstaff_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Quarterstaff_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Spear_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Spear_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Spear_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Spear_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Sickle_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Sickle_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Sickle_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Sickle_l",3,0,0,0,0,0,0,0
-object category "I_ARM_Shield_u",1000,0,0,0,0,0,0,0
-object category "I_ARM_Shield_r",150,0,0,0,0,0,0,0
-object category "I_ARM_Shield_e",25,0,0,0,0,0,0,0
-object category "I_ARM_Shield_l",3,0,0,0,0,0,0,0
-object category "I_WPN_Maul_u",1000,0,0,0,0,0,0,0
-object category "I_WPN_Maul_r",150,0,0,0,0,0,0,0
-object category "I_WPN_Maul_e",25,0,0,0,0,0,0,0
-object category "I_WPN_Maul_l",3,0,0,0,0,0,0,0
-
 // Gems fix Part 1
 new treasuretable "Monster_Mindflayer"
 new subtable "2,1"
@@ -2752,13 +2484,13 @@ object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_KC_MagmaMephit"
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_Monster_Mephit_Magma",1,0,0,0,0,0,0,0
 
 new treasuretable "GOB_King_Treasures_Valuables"
 new subtable "3,1;4,1;5,1;6,1;7,1;8,1;9,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "FOR_Spiders_Cocoon"
 new subtable "1,3;2,1"
@@ -2770,7 +2502,7 @@ object category "I_ARM_Helmet_Leather",1,0,0,0,0,0,0,0
 object category "T_Gold_Pocket_Modest",1,0,0,0,0,0,0,0
 object category "I_WPN_Dagger",1,0,0,0,0,0,0,0
 object category "I_WPN_Club",1,0,0,0,0,0,0,0
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 object category "I_WPN_Torch",1,0,0,0,0,0,0,0
 object category "T_ST_GEN_Valuables_Jewelry_Copper",1,0,0,0,0,0,0,0
 object category "I_ARM_Shoes",1,0,0,0,0,0,0,0
@@ -2781,7 +2513,7 @@ new treasuretable "DEN_Thieflings_Stash"
 new subtable "1,1"
 object category "T_Gold_Stash_Poor",1,0,0,0,0,0,0,0
 new subtable "0,3;1,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_WIP_JunkItem_Human",1,0,0,0,0,0,0,0
 
@@ -2790,45 +2522,45 @@ new treasuretable "AMP_Poor_Choice"
 new subtable "-1"
 object category "T_REL_All_Uncommon",100,0,0,0,0,0,0,0
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Uncommon",75,0,0,0,0,0,0,0
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Uncommon",50,0,0,0,0,0,0,0
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 
 // Mid-game quest reward
 new treasuretable "AMP_Medium_Choice"
 new subtable "-1"
 object category "T_REL_All_Rare",200,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",150,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 
 // Reward for key quests
 new treasuretable "AMP_Rich_Choice"
 new subtable "-1"
 object category "T_REL_All_Epic",200,0,0,0,0,0,0,0
 object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Epic",150,0,0,0,0,0,0,0
 object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Epic",100,0,0,0,0,0,0,0
 object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 
 // Reward for main quest chains
 new treasuretable "AMP_Legendary_Choice"
@@ -2842,8 +2574,8 @@ new subtable "-1"
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 object category "T_REL_All_Legendary",4,0,0,0,0,0,0,0
 new subtable "-1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal3",2,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",2,0,0,0,0,0,0,0
 
 // Reward for all sorts of weird quests, where there is a wide range of rarities.
 new treasuretable "AMP_Mixed_4_Choice"
@@ -2864,14 +2596,14 @@ object category "T_REL_All_Uncommon",50,0,0,0,0,0,0,0
 object category "T_REL_All_Rare",50,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "I_Enchant_Crystal4",10,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",5,0,0,0,0,0,0,0
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",10,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",5,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 // Mizora Special 1
 new treasuretable "AMP_Mizora_Choice"
 new subtable "-1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -2899,7 +2631,7 @@ object category "I_UNI_MagicStaff_Part_Crystal",3,0,0,0,0,0,0,0
 object category "I_UNI_MagicStaff_Part_Helve",3,0,0,0,0,0,0,0
 object category "I_UNI_MagicStaff_Part_Top",3,0,0,0,0,0,0,0
 object category "I_UNI_PUZ_MithralOre",1,0,0,0,0,0,0,0
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Generic",1,0,0,0,0,0,0,0
 
 new treasuretable "AMP_Mold_Gar"
 new subtable "-1"
@@ -2968,124 +2700,120 @@ object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Uncommon",100,0,0,0,0,0,0,0
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "T_AMP_ArcanizerPool",1,0,0,0,0,0,0,0
 
 // Act 1 Completion
 new treasuretable "AMP_Medium_Choice_Final"
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Normal",1,0,0,0,0,0,0,0
 
 // Act 2 Completion
 new treasuretable "AMP_Act2_Final"
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",50,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_Disenchanter",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "REL_50_Chance_Low"
 new subtable "0,1;1,1"
@@ -3127,13 +2855,13 @@ new treasuretable "REL_Kagha"
 new subtable "3,3;4,2;5,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "REL_Nere"
 new subtable "1,5;2,3;3,2;4,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,3;2,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_AMP_Vanilla_Craft",1,0,0,0,0,0,0,0
 
@@ -3143,7 +2871,7 @@ object category "T_REL_Special_High",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_MAG_Gortash_Gloves",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Ketheric_Loot"
 new subtable "-1"
@@ -3151,54 +2879,54 @@ object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_MOO_Ketheric_Armor",1,0,0,0,0,0,0,0
 new subtable "0,1;1,2;2,2;3,1;4,1;5,2"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "HAG_Hag"
 new subtable "4,3;5,2;6,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_LadyJannath"
 CanMerge 1
 new subtable "-1"
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_KuoToa_Boooal"
 CanMerge 1
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_AMP_Vanilla_Craft",1,0,0,0,0,0,0,0
 new subtable "3,1;4,1;5,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "REL_Viconia"
 new subtable "1,2;2,1"
 object category "T_REL_Special_High",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "HAG_Lair_RingChest"
 CanMerge 1
 new subtable "2,3;3,3;4,3;5,2;6,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_CazadorsPalace_Crypt_Treasure"
 new subtable "-1"
 object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Legendary_HoH_Treasure"
 new subtable "1,1;2,1;3,1;4,1"
@@ -3206,7 +2934,7 @@ object category "T_REL_Special_High",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1;3,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1;3,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Legendary_Raphael_Treasure"
 new subtable "1,4;2,2;3,1"
@@ -3218,11 +2946,11 @@ object category "T_Gold_Pocket_Opulent",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_ST_Alcohol_Valuable",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1;3,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Legendary_Incubus_Treasure"
 new subtable "-1"
@@ -3239,40 +2967,40 @@ object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,3;1,2;2,1;3,1;4,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Dragon_Legendary_Trident_Treasure"
 new subtable "-1"
 object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1;3,1;4,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Legendary_Trident_Treasure"
 new subtable "-1"
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Legendary_DualWielder_Treasure"
 new subtable "-1"
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "SHA_OrthonTreasure_Legendary_Greatsword_Treasure"
 new subtable "-1"
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "0,1;1,2;2,1;3,1;4,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Cazador_Trapped_Coffin"
 new subtable "-1"
@@ -3294,7 +3022,7 @@ new treasuretable "LOW_HOH_Spectator_Treasure"
 new subtable "1,1;2,1;3,1"
 object category "T_REL_All_Rare,1,0,0,0,0,0,0,0
 new subtable "0,3;1,1;2,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "INT_Orpheus_Treasure"
 new subtable "-1"
@@ -3304,11 +3032,11 @@ new treasuretable "LOW_Sarevok_Treasure"
 new subtable "-2"
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_CazadorPalace_DeadGirlChest_Treasure"
 new subtable "-1"
@@ -3320,7 +3048,7 @@ new treasuretable "Arron_Container"
 new subtable "0,3;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-2"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "REL_MonkAmulet_Skeleton"
 new subtable "0,2;1,2;2,1"
@@ -3332,46 +3060,11 @@ new treasuretable "REL_Goblin_Lootbox"
 new subtable "1,1;2,1;3,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,2;2,2"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,3;1,1;2,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 new subtable "-6"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
-
-new treasuretable "AMP_Tutorial_Lootbox"
-new subtable "3,1;4,1;5,1;6,1;7,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
-new subtable "1,1;2,1;3,1;4,1;5,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
-new subtable "-30"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
-new subtable "-18"
-object category "I_Craft1",1,0,0,0,0,0,0,0
-
-new treasuretable "AMP_Camp_Lootbox_01"
-new subtable "1,3;2,2;3,2;4,3;5,2"
-object category "T_AMP_ArcanizerPool",1,0,0,0,0,0,0,0
-new subtable "0,3;1,2;2,1;3,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
-new subtable "-14"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
-
-new treasuretable "AMP_Astral_Chest_01"
-new subtable "1,3;2,2;3,2;4,1;5,1;6,1;7,1;8,1;9,1"
-object category "T_AMP_ArcanizerPool",1,0,0,0,0,0,0,0
-new subtable "0,2;1,2;2,3;3,2;4,1;5,1;6,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
-new subtable "0,2;1,2;2,1;3,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
-new subtable "0,2;1,2;2,1;3,1"
-object category "T_AMP_Vanilla_Craft",1,0,0,0,0,0,0,0
-new subtable "-21"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
-
-new treasuretable "DLC_DD_Clothing_Chest"
-CanMerge 1
-new subtable "4,1"
-object category "I_AMP_Book",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_Village_PeasantLoot"
 new subtable "1,1; 2,1"
@@ -3416,7 +3109,7 @@ object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_DruidTreasure_Equipment"
 new subtable "-3"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,2;1,1;2,1;3,1;4,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
@@ -3433,7 +3126,7 @@ new subtable "1,1;2,1"
 object category "T_REL_All_Rare",100,0,0,0,0,0,0,0
 object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "0,3;1,2;2,2"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_AMP_Vanilla_Craft",1,0,0,0,0,0,0,0
 
@@ -3441,7 +3134,7 @@ new treasuretable "DEN_BardChest"
 new subtable "0,2;1,1;2,1"
 object category "T_REL_All_Uncommon",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_GoblinHunt_RewardBag"
 new subtable "0,2;1,1;2,1"
@@ -3469,12 +3162,12 @@ new treasuretable "FOR_DeathOfATrueSoul_SeluneStash"
 new subtable "-1"
 object category "T_ST_GEN_Valuables_Necklace_Silver",1,0,0,0,0,0,0,0
 new subtable "-2"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_OBJ_Idol_Selune",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_Special_Low",2,0,0,0,0,0,0,0
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "FOR_VillageFightReward"
 new subtable "0,3;1,2;2,1"
@@ -3546,9 +3239,9 @@ object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "1,1;3,1;2,1;0,2"
 object category "T_AMP_Vanilla_Craft",1,0,0,0,0,0,0,0
 new subtable "0,1;1,3"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1;3,1;4,1;5,1;6,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "GOB_PriestChanber_Chest"
 new subtable "0,1;1,2"
@@ -3560,7 +3253,7 @@ object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_Exploration_Additional",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_SeluneOutpost_Paladin_Treasure"
 new subtable "0,1;1,2;2,1"
@@ -3592,7 +3285,7 @@ object category "T_Exploration_Major",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_Supply_Scrolls_3",1,0,0,0,0,0,0,0
 new subtable "0,1;1,2;2,1;3,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,2;2,1"
 object category "T_AMP_Vanilla_Craft",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1;3,1"
@@ -3600,7 +3293,7 @@ object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_Duergar_Raft_Chest"
 new subtable "1,1;2,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_Gold_Stash_Poor",1,0,0,0,0,0,0,0
 
@@ -3648,31 +3341,31 @@ object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_Supply_Scroll_Utility_Single",1,0,0,0,0,0,0,0
 new subtable "0,4;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_TreasuryVault_1_Treasure"
 new subtable "0,1;1,2;2,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,4;1,1;2,1;3,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_TreasuryVault_2_Treasure"
 new subtable "0,1;1,2;2,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_TreasuryVault_3_Treasure"
 new subtable "0,1;1,2;2,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_TreasuryVault_4_Treasure"
 new subtable "0,1;1,2;2,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Treasure_Wealthy",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_InterrogationTable_Hidden_Chest"
 new subtable "0,1;1,2;2,1"
@@ -3684,7 +3377,7 @@ object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,1;1,2;2,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_SecretStudyTreasure_Chest"
 new subtable "-1"
@@ -3702,7 +3395,7 @@ new treasuretable "MOO_KethhericPersonalBelonging_Chest"
 new subtable "-1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_ConfiscatedGoods"
 new subtable "-2"
@@ -3766,7 +3459,7 @@ new treasuretable "WYR_JungleOfChult_Arcanic_Treasure"
 new subtable "-1"
 object category "T_REL_Special_High",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_Disenchanter",1,0,0,0,0,0,0,0
 
@@ -3852,19 +3545,19 @@ new treasuretable "LOW_StormshoreTabernacle_Tyr_Treasure"
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,3;1,1"
-object category "I_Enchant_Crystal3",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_StormshoreTabernacle_Helm_Treasure"
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_StormshoreTabernacle_GenericGod_Treasure"
 new subtable "-1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_CountingShouse_Vault9_Treasure"
 new subtable "-1"
@@ -3906,11 +3599,11 @@ new treasuretable "LOW_CountingHouse_CommonVault_2_Treasure"
 new subtable "0,1;1,1;2,1"
 object category "T_REL_Special_High",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_CountingHouse_CommonVault_6_Treasure"
 new subtable "-1"
@@ -3940,7 +3633,7 @@ new treasuretable "SharFinal_Skeleton01"
 new subtable "1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,3;1,2;2,2;3,1;4,1;5,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 // CHARACTERS LOOT
 
@@ -4027,7 +3720,7 @@ object category "T_Supply_Alchemy_Poison",1,0,0,0,0,0,0,0
 new subtable "3,1"
 object category "T_ST_Alchemy_Loot_Rare",1,0,0,0,0,0,0,0
 new subtable "0,1;2,1;1,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 
@@ -4051,11 +3744,11 @@ object category "I_ARM_HalfPlate_Body_Githyanki",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,1;3,1;2,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_KC_LavaElemental"
 new subtable "3,1;4,1;5,1;2,1;1,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "EQP_Jaheira_Loot"
 new subtable "-1"
@@ -4077,7 +3770,7 @@ object category "I_OBJ_Bag_AlchemyPouch",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Underwear_Jaheira",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Drider_Loot"
 new subtable "0,2;1,2;2,1"
@@ -4085,7 +3778,7 @@ object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_Quest_SCL_MoonlanternWithPixie",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_GoblinRaider_Captain"
 CanMerge 1
@@ -4101,9 +3794,9 @@ new treasuretable "Isobel_Loot"
 new subtable "-3"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1;3,1;4,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "2,1;3,1;4,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_AMP_Book",1,0,0,0,0,0,0,0
 
@@ -4128,23 +3821,23 @@ object category "I_OBJ_Bag_AlchemyPouch",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_ARM_Underwear_Minthara",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_Spectator_Reward"
 new subtable "1,3;2,1;3,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "GLO_Orin"
 new subtable "-1"
 object category "T_Gold_Combat_Leader_Strong",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1;3,1;4,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "FOR_Spiders_SpiderQueen"
 new subtable "1,2;2,2;3,1;4,2;5,1;6,1"
@@ -4163,7 +3856,7 @@ object category "I_OBJ_Bone",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_AMP_Mold_Gar",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "FOR_SchoolOgre_Smart_Corpse"
 new subtable "0,2;1,1;2,1"
@@ -4245,7 +3938,7 @@ object category "T_REL_All_Legendary",1,0,0,0,0,0,0,0
 new subtable "2,1;3,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1;3,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_KC_Mimic_BardReward"
 new subtable "-1"
@@ -4257,9 +3950,9 @@ new treasuretable "TWN_TollCollector_Treasure"
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "1,1;2,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "TWN_Surgeon_Treasure"
 new subtable "-1"
@@ -4269,7 +3962,7 @@ object category "T_ST_Alchemy_Loot_Rare",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "TWN_ZealousAssistant1_Treasure"
 new subtable "-1"
@@ -4299,9 +3992,9 @@ new treasuretable "WYR_Windmill_Mindflayer"
 new subtable "1,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AMP_Book",1,0,0,0,0,0,0,0
 
@@ -4309,7 +4002,7 @@ new treasuretable "LOW_Ptaris_Treasure"
 new subtable "-1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal",1,0,0,0,0,0,0,0
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_DarkShamblingMound"
 new subtable "0,1;1,1;2,1"
@@ -4323,9 +4016,9 @@ new treasuretable "HAV_PhasmOx"
 new subtable "-1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "2,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "HAV_Meenlock_Reward"
 new subtable "1,1;2,1;3,1;4,1"
@@ -4339,7 +4032,7 @@ new treasuretable "SCl_VlaakithKiller_Treasure"
 new subtable "-2"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_HOH_HopeLoot_Treasure"
 new subtable "-1"
@@ -4361,17 +4054,17 @@ new treasuretable "UND_Tower_AutomatonCorpse"
 new subtable "0,1;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,9;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,9;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_Tower_Bernard"
 new subtable "-2"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1;2,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 new subtable "0,9;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Circus_Ringmaster"
 new subtable "1,1"
@@ -4420,25 +4113,25 @@ new treasuretable "REL_Zevlor"
 new subtable "-3"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,1;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "REL_Halsin"
 new subtable "-10"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-4"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "REL_Yeva"
 new subtable "-2"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,4;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "AMP_Hunter"
 new subtable "-2"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,4;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "AMP_Ravengard"
 new subtable "-2"
@@ -5585,7 +5278,7 @@ object category "T_REL_All_Epic",1,0,0,0,0,0,0,0
 new subtable "-3"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "-3"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_GithQuartermistress_Trade_None"
 new subtable "1,1"
@@ -5663,7 +5356,7 @@ object category "T_REL_All_Uncommon",1,0,0,0,0,0,0,0
 new subtable "-3"
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "-4"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_SocietyOfBrilliance_Mindflayer_None"
 new subtable "2,1; 3,1"
@@ -5679,7 +5372,7 @@ object category "I_OBJ_MindflayerBulb_Vacuum",1,0,0,0,0,0,0,0
 new subtable "3,1;2,1;1,1;0,1"
 object category "I_OBJ_Potion_Of_Psychic_Resistance",1,0,0,0,0,0,0,0
 new subtable "0,9;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade"
 new subtable "1,1"
@@ -6605,7 +6298,7 @@ CanMerge 1
 new subtable "0,2;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "BanditCave_Backpack"
 new subtable "0,3;1,1"
@@ -6631,7 +6324,7 @@ CanMerge 1
 new subtable "0,39;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,9;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "WLD_CRA_RidgeSecretChest"
 CanMerge 1
@@ -6653,7 +6346,7 @@ CanMerge 1
 new subtable "0,39;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_DruidLeader_Chest"
 CanMerge 1
@@ -6697,7 +6390,7 @@ CanMerge 1
 new subtable "0,9;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-2"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_KC_ThrinnChest"
 CanMerge 1
@@ -7044,7 +6737,7 @@ CanMerge 1
 new subtable "0,9;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "FOR_Windmill_GoblinStash"
 CanMerge 1
@@ -7071,14 +6764,14 @@ CanMerge 1
 new subtable "0,99;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,2;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Monster_Mindflayer"
 CanMerge 1
 new subtable "0,14;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,4;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Backpack_Thief"
 CanMerge 1
@@ -7158,7 +6851,7 @@ object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new treasuretable "PLA_Karlach_Backpack"
 CanMerge 1
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "GOB_AdventurerScoutBackpack"
 CanMerge 1
@@ -7195,7 +6888,7 @@ CanMerge 1
 new subtable "0,9;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-2"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Monster_HookHorror"
 CanMerge 1
@@ -7242,7 +6935,7 @@ CanMerge 1
 new subtable "0,39;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "PLA_ZhentHideout_Container_Illicit"
 CanMerge 1
@@ -7270,21 +6963,21 @@ new subtable "0,39;1,1"
 object category "T_REL_All_Uncommon",10,0,0,0,0,0,0,0
 object category "T_REL_All_Rare",1,0,0,0,0,0,0,0
 new subtable "0,12;1,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_Gith_Elite"
 CanMerge 1
 new subtable "0,39;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,2;1,1"
-object category "I_Enchant_Crystal2",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Mindflayer_Dead"
 CanMerge 1
 new subtable "0,99;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,6;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_BackupCambion_Reward"
 CanMerge 1
@@ -7306,14 +6999,14 @@ CanMerge 1
 new subtable "0,9;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "0,4;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "GOB_PainPriest"
 CanMerge 1
 new subtable "0,39;1,1"
 object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new subtable "-1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Thugs_Leader"
 CanMerge 1
@@ -7325,7 +7018,7 @@ CanMerge 1
 new subtable "0,19;1,1"
 object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 new subtable "0,6;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "CHA_Exterior_Bandit_Leader"
 CanMerge 1
@@ -7345,27 +7038,27 @@ object category "T_REL_Special_Low",1,0,0,0,0,0,0,0
 new treasuretable "CRE_Supplies_Fancy"
 CanMerge 1
 new subtable "0,5;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_Supplies_Poor"
 CanMerge 1
 new subtable "0,19;1,1"
-object category "I_Enchant_Crystal4",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
 
 new treasuretable "Gold_Stash_Normal"
 CanMerge 1
 new subtable "0,199;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "Gold_Stash_Wealthy"
 CanMerge 1
 new subtable "0,99;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 new treasuretable "Gold_Stash_Opulent"
 CanMerge 1
 new subtable "0,49;1,1"
-object category "I_Celestial_Shard",1,0,0,0,0,0,0,0
+object category "T_Valuables_Jewelry",1,0,0,0,0,0,0,0
 
 
 // QUEST REWARS - 22.12.24 mostly became irrelevant due to above lines
@@ -7552,4 +7245,4 @@ object category "T_REL_Special_Normal",1,0,0,0,0,0,0,0
 
 new treasuretable "Valuables_Gems"
 new subtable "0,1;1,1"
-object category "T_REL_Gems",1,0,0,0,0,0,0,0
+object category "T_Valuables_Gems",1,0,0,0,0,0,0,0
