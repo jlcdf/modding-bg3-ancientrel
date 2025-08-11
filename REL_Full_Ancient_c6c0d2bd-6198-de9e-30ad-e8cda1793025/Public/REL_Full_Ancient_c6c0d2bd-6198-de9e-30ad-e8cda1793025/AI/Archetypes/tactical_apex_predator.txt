@@ -1,3 +1,0 @@
-USING beast
-
-MODIFIER_HIT_CHANCE_STUPIDITY                    0.95
