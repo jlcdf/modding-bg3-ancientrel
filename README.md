@@ -9,3 +9,4 @@ WIP
 - Removed additional encounters
 - Removed additional unimmersive sources (Astral Chest, Cambion)
 - Removed AI Archetypes changes (feature-creep)
+- Removed some changes on price/rarity (gems, valuables) and vanilla economy rebalances that seemed out of scope
