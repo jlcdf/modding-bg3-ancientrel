@@ -1,0 +1,286 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h37514dc8g973ag4156g8383g5bf7ba44054d" version="1">Gotas Mágicas</content>
+  <content contentuid="hbdc2841dga7aeg4e6dgb7c0g333297ab6155" version="1">Sua &lt;LSTag Tooltip="ArmourClass"&gt;Classe de Armadura&lt;/LSTag&gt; é reduzida em &lt;b&gt;[1]&lt;/b&gt; enquanto você não estiver &lt;LSTag Type="Status" Tooltip="WET"&gt;Molhado&lt;/LSTag&gt;. &lt;LSTag Tooltip="ArmourClass"&gt;Classe de Armadura&lt;/LSTag&gt; é aumentada em &lt;b&gt;[2]&lt;/b&gt; enquanto você estiver &lt;LSTag Type="Status" Tooltip="WET"&gt;Molhado&lt;/LSTag&gt;.</content>
+  <content contentuid="hcc5598b8geadbg4decgaebfgf1fe04d628c1" version="1">Espinhos de Gelo Imbuídos</content>
+  <content contentuid="h56591518gf664g4d79gab69g7bc5265d253c" version="1">Enquanto sob o efeito de &lt;LSTag Type="Spell" Tooltip="Target_MageArmor"&gt;Armadura Arcana&lt;/LSTag&gt;, suas magias e truques que causam&lt;b&gt;[1]&lt;/b&gt; &lt;b&gt;podem&lt;/b&gt; infligir &lt;LSTag Type="Status" Tooltip="WEAPON34"&gt;Sangramento Mágico&lt;/LSTag&gt; no alvo &lt;i&gt;(mesmo se o alvo for imune a sangramento)&lt;/i&gt;.</content>
+  <content contentuid="hbe6dd597g22a1g4c89ga03dg11391febb782" version="1">Elemental da Água Menor</content>
+  <content contentuid="h65d4cdb3g6e1dg4f54ga4a2g9180c89e6fd3" version="1">Invoca um elemental da água menor que excele em causar&lt;b&gt;[1]&lt;/b&gt; a qualquer distância.</content>
+  <content contentuid="h7a13b994gd956g466bga0b3ga3aed7adf2ab" version="1">Dominação dos Fracos</content>
+  <content contentuid="hae929212g0cc9g4dfag9912gf08c7625daa5" version="1">Quando você usa &lt;LSTag Type="Spell" Tooltip="Shout_Champion_Challenge"&gt;Desafio do Campeão&lt;/LSTag&gt;, inimigos afetados também ficam &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Amedrontados&lt;/LSTag&gt; por &lt;b&gt;[1]&lt;/b&gt; turnos.</content>
+  <content contentuid="h24d5e050gcce9g492dg897fge25bf9aaa1a2" version="1">Punição Cegante</content>
+  <content contentuid="h14531d06gf79ag4e97ga5a5g546171c8311f" version="1">Responda a um inimigo que &lt;b&gt;erra&lt;/b&gt; você em &lt;b&gt;alcance corpo a corpo&lt;/b&gt; usando imediatamente &lt;LSTag Type="Spell" Tooltip="Target_AMP_Smite_Blinding"&gt;Golpe Cegante&lt;/LSTag&gt; contra eles — consumindo uma carga de &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Canalizar Juramento&lt;/LSTag&gt;.</content>
+  <content contentuid="h9d837f60g6ce8g42d4gb096geb1846dbc495" version="1">Elemental da Água Maior</content>
+  <content contentuid="hcf966e8bgd552g4771gba12gec6a11d16cda" version="1">Invoca um elemental da água maior que excele em causar&lt;b&gt;[1]&lt;/b&gt; a qualquer distância.</content>
+  <content contentuid="h12d43b61ga14bg43bfgbb10gb531f0802b2f" version="1">Sopro do Inverno</content>
+  <content contentuid="h5a723dacga48cg4d7bgbbbagdf51a0ed7c83" version="1">Suas magias ou truques que causam&lt;b&gt;[1]&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h9936810fg8df2g4d1bgbb30g2bb7f0d0fe6f" version="1">Quando você recebe&lt;b&gt;[1]&lt;/b&gt;, cause &lt;b&gt;[2]&lt;/b&gt; ao atacante.</content>
+  <content contentuid="h4025396eg68d8g4a7ag9641gb6bf4c2b3225" version="1">Seus ataques &lt;b&gt;corpo a corpo&lt;/b&gt; que causam&lt;b&gt;[1]&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h692c2cd0g9edbg499bga2d2g96f625dd7aef" version="1">Seus ataques com &lt;b&gt;magias de nível&lt;/b&gt; que causam&lt;b&gt;[1]&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h501bc9dfg0522g4637g8248g6d42fe601b4f" version="1">Seus ataques &lt;b&gt;desarmados&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h23940932g0662g4cf7g8cbfg916744cb573a" version="1">Seus ataques &lt;b&gt;arremessados&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h15525d08g9756g4167g9ef8gd66c6bd81b40" version="1">Seus ataques &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt; enquanto você tem menos de &lt;b&gt;[2]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;.</content>
+  <content contentuid="h1d8ae7a2g1786g4663gb20ag06857f653ce1" version="1">Seus ataques &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt; enquanto você tem mais de &lt;b&gt;[2]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;.</content>
+  <content contentuid="hc06f2fd6ge748g4b6aga6a7g7b810fd7435f" version="1">Suas magias ou truques que causam&lt;b&gt;[1]&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[2]&lt;/b&gt; enquanto você tem menos de &lt;b&gt;[3]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;.</content>
+  <content contentuid="h2310f382gbcb3g43b3g912ag928aba4882e4" version="1">Suas magias ou truques que causam&lt;b&gt;[1]&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[2]&lt;/b&gt; enquanto você tem mais de &lt;b&gt;[3]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt;.</content>
+  <content contentuid="h2915d88cgb7b6g4678g88eagb90d2cbbd37a" version="1">Quando você &lt;b&gt;erra&lt;/b&gt; um inimigo com um ataque, você ainda causa &lt;b&gt;[1]&lt;/b&gt; a ele.</content>
+  <content contentuid="h7fe43e4dgffcfg4f9bg8b46g2db1f25339ca" version="1">Quando você &lt;b&gt;falha criticamente&lt;/b&gt; contra um inimigo com um ataque, você ainda causa &lt;b&gt;[1]&lt;/b&gt; a ele.</content>
+  <content contentuid="hc6ad8785g5cc6g4ec8g987fg13f3d53576ed" version="1">Enquanto você está afetado por &lt;LSTag Type="Status" Tooltip="STATUS"&gt;STATUS&lt;/LSTag&gt;, seus ataques &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="hbad50d1dge5d8g4a0eg9d08g450db15b9930" version="1">Resistência do Campeão</content>
+  <content contentuid="h762875c1g8871g4575g921cgeb13ee10dcd1" version="1">Enquanto usa &lt;LSTag Tooltip="ArmourProficiency"&gt;armadura pesada&lt;/LSTag&gt; e um &lt;b&gt;escudo&lt;/b&gt;, todo dano que você recebe é reduzido em &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h6b59a3dbgf4d1g4172gb3acg6ad0ea28316a" version="1">Fortaleza Celestial</content>
+  <content contentuid="h107efa4cgd728g45f1gbd3ag1878ac725b5b" version="1">Apreensão Psíquica</content>
+  <content contentuid="h16873f45g95a5g4f84g941dg3ab7d371492e" version="1">Poderes psíquicos teletransportam todos os itens valiosos dentro de &lt;b&gt;[1]&lt;/b&gt; para o portador.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Esta funcionalidade pode ser alternada na aba de efeitos passivos.</content>
+  <content contentuid="hf5f03431g6f2fg45b7ga888g38bff853b057" version="1">Elmo Psíquico</content>
+  <content contentuid="he5638188g909dg4eb9g963fg301ff4c5b9bf" version="1">Quando tuas mãos, tremendo com antiga expectativa, colocaram o elmo roxo-negro sobre tua coroa, uma sensação muito peculiar te acometeu — como se as próprias fronteiras entre a carne mortal e os reinos etéreos tivessem se tornado tênues. Foi como testemunhar os grandes blocos de gelo dos Ermos do Norte cederem ao avanço imparável da primavera, ou navegar pelas correntes perigosas do Plano Astral a bordo de uma embarcação feita de nada além de ritual e vontade. Um frio curioso desceu sobre tuas pontas dos dedos, alcançando profundamente osso e medula, enquanto dentro dos confins secretos do elmo, uma entidade não de origem mortal começou a tecer sua tapeçaria psíquica de poder e intenção. Que poder antigo, que artes esquecidas esta descoberta arcana concederá ao seu portador? Em verdade, a resposta reside nos sussurros do destino que agora circulam teus pensamentos.</content>
+  <content contentuid="hef6f326aga252g48d7g912cg233e24efbb34" version="1">Nota de Paramonov</content>
+  <content contentuid="h91e8ed28gc9ffg422dgbe6cgf607e0b272de" version="1">Leitura Essencial!</content>
+  <content contentuid="h7f99e6edga2ecg433dga40ag03afa3182b4e" version="1">Olá! Esta coleção apresenta novos equipamentos criados como parte da expansão final — CONSTRUÇÕES MAIS RICAS. Deixe-me explicar brevemente por que estou criando isso.&lt;br&gt;&lt;br&gt;&lt;b&gt;Equilíbrio de Progressão&lt;/b&gt;&lt;br&gt;Muitos jogadores frequentemente reclamaram comigo nos comentários da página do mod no mod.io (onde você também pode me visitar, mas por favor se dirija em inglês) que mesmo com a natureza aleatória do mod, eles montavam construções decentes muito raramente. Isso é compreensível - afinal, sinergias no pool aleatório não são suficientemente condensadas. Imagine: 1200 itens, e quase cada um tem uma mecânica única. Isso afeta o equilíbrio de progressão, como você se fortalece ao longo do tempo, e portanto é muito importante tornar as sinergias mais densas, mais saturadas. Neste sentido, decidi focar especificamente em equipamentos, finalmente alcançando o número total de novos artefatos para +1000 peças — e fazer isso no menor tempo possível, conservando recursos de tempo.&lt;br&gt;&lt;br&gt;&lt;b&gt;Recursos de Tempo&lt;/b&gt;&lt;br&gt;Não é segredo que trabalho no mod sozinho, ninguém me ajuda. Consequentemente, para acelerar o lançamento de conteúdo, preciso comprimir algumas tarefas, deixando-as para depois. Por exemplo, ainda não consigo trazer ícones de capas para o novo formato ou terminar alguns VFX legais para artefatos antigos. Vou fazer o mesmo aqui: remover operações muito custosas do fluxo de trabalho, deixando apenas o mais importante.&lt;br&gt;&lt;br&gt;&lt;b&gt;Mais Importante&lt;/b&gt;&lt;br&gt;A jogabilidade permanece o mais importante. Você quer ver muitos itens novos e bons para suas sinergias favoritas, gostaria de ver novos; e muitos. Portanto, como parte da expansão final, tentarei usar um mínimo de novos recursos: como ícones, nomes únicos ou texto descritivo. Esta é a parte mais demorada pois requer um processo criativo profundo. O foco está apenas no componente de jogabilidade, o que tornará um mero item um artefato mágico verdadeiramente útil. Eu não me importaria, digamos, em adicionar muitos itens novos à coleção. Mas enquanto eu for o único criando — o processo não será rápido, o que significa que não faz sentido neste formato.&lt;br&gt;&lt;br&gt;&lt;b&gt;Ajuda&lt;/b&gt;&lt;br&gt;Ainda estou coletando votos dos jogadores (link para Google Forms está na descrição do mod) sobre quais sinergias devo desenvolver antes de terminar completamente o trabalho na coleção. Principalmente são ideias que estou disposto a adicionar, essa é minha visão autoral, mas é claro, considerarei outras sinergias para adicionar à pesquisa. Você poderia ajudar com isso, escolha várias opções que gosta, me deixe saber como sente o jogo. Obrigado. E obrigado por usar a BG3 Revolution.</content>
+  <content contentuid="h6ea5de53g647fg4d09ga4b0g904ca4db08f7" version="1">Ver Novos Itens</content>
+  <content contentuid="h5a8533c8g0d6fg4d79gb623g6851770d7c93" version="1">Invoca artefatos frescos da nova expansão. Novos itens usam recursos de artefatos existentes.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Se você ver estes itens, não os encontrará mais aleatoriamente no mundo!&lt;/b&gt;</content>
+  <content contentuid="h4d38d22bgc59ag42a7g9fa2gf2befae05187" version="1">Baluarte Gélido de Rellavar</content>
+  <content contentuid="h4ce464fdgcc68g4de2ga705g168e6356070f" version="1">Invoque o poderoso patrono do povo do inverno, tornando-se invulnerável até causar dano a outro.</content>
+  <content contentuid="h281e8278g9315g4deeg8ee7gb02091295a5f" version="1">A entidade afetada não pode ser alvo de ataques ou magias inimigas. No entanto, ainda pode receber dano de magias que influenciam uma área maior. A condição termina se a entidade afetada atacar ou ferir outra criatura, e receberá &lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY_BLOCK"&gt;Baluarte Gélido Bloqueado&lt;/LSTag&gt; por &lt;b&gt;[1]&lt;/b&gt; turnos.</content>
+  <content contentuid="h68b3c4bfg2df0g4f55gab6ag69b56c4f8183" version="1">Baluarte Gélido Bloqueado</content>
+  <content contentuid="hff18f573ga14ag4b8bga224g37e05283d001" version="1">A entidade afetada não pode receber &lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY"&gt;Baluarte Gélido&lt;/LSTag&gt;.</content>
+  <content contentuid="hb2ab5877g9c6fg4bbeg8fc8gc4fd1b1a0040" version="1">Véu da Rainha</content>
+  <content contentuid="h2d803397gb43eg4629g87d5gc1583985a4b9" version="1">Enquanto não há &lt;b&gt;aliados&lt;/b&gt; dentro de &lt;b&gt;[1]&lt;/b&gt; de você, torna-se &lt;LSTag Tooltip="Immune"&gt;imune&lt;/LSTag&gt; a&lt;b&gt;[2]&lt;/b&gt;, efeitos de &lt;b&gt;superfície congelada&lt;/b&gt; e status &lt;LSTag Type="Status" Tooltip="WET"&gt;Molhado&lt;/LSTag&gt;.</content>
+  <content contentuid="hf0f32c46g1d71g4652g98bag217acbbb1888" version="1">Você é &lt;LSTag Tooltip="Immune"&gt;imune&lt;/LSTag&gt; a&lt;b&gt;[1]&lt;/b&gt;, não pode escorregar no &lt;b&gt;gelo&lt;/b&gt;, e não pode ficar &lt;LSTag Type="Status" Tooltip="WET"&gt;molhado&lt;/LSTag&gt;.</content>
+  <content contentuid="hd379c44fg4257g488bgb380gf1679a4446cd" version="1">Saturação Gélida</content>
+  <content contentuid="h76de04e2g319cg49e0g9428ga8f8ff6d9333" version="1">Enquanto estiver em uma &lt;b&gt;superfície congelada&lt;/b&gt;, recupera &lt;b&gt;[1]&lt;/b&gt; no final de cada turno.</content>
+  <content contentuid="hafa4f12dg1189g498agb32ega6f9bf023ab7" version="1">Enquanto estiver em uma &lt;b&gt;superfície congelada&lt;/b&gt;, recupera &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="hbf45a25ag1bfbg4880g8cb9g3934a11c66ca" version="1">Chegada do Ceifador</content>
+  <content contentuid="h3f5e42begf7a8g4bbcga7b7gd6602cdf89db" version="1">Arremesso Encantado</content>
+  <content contentuid="hbb01a358gce46g4cd6g9c70gd66813a425a2" version="1">Instabiles Motus</content>
+  <content contentuid="h396fb289g6d31g4171g997bge73718490885" version="1">Ao usar &lt;LSTag Type="Spell" Tooltip="Throw_Telekinesis"&gt;Telecinesia&lt;/LSTag&gt;, você pode gastar um &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;ponto de reação&lt;/LSTag&gt; para desencadear uma onda de &lt;LSTag Tooltip="WildMagic"&gt;magia selvagem&lt;/LSTag&gt; em si mesmo.</content>
+  <content contentuid="h9115f109ge56ag4f65g838eg9e38b3538d1c" version="1">Desencadeia uma onda de &lt;LSTag Tooltip="WildMagic"&gt;magia selvagem&lt;/LSTag&gt; após mover o alvo.</content>
+  <content contentuid="hf0a98364g780cg449ag8670gc419e56d95a0" version="1">%%% ESCOLHA UM NOME CULTURALMENTE APROPRIADO, JACK BONES ESTRITAMENTE PARA PÚBLICO DOS EUA %%%</content>
+  <content contentuid="h2e8ffb67gd5afg4e07gbc2fg28389a02ac78" version="1">Jack Bones</content>
+  <content contentuid="h96111e77g7211g4448gb5c9gf693444b14b0" version="1">Invocar Jack Bones</content>
+  <content contentuid="h0dc18304gacdfg4795ga2b7g5d27e263e0ef" version="1">Levanta um duelista esquelético faminto por aplausos de um cadáver próximo.</content>
+  <content contentuid="hebd94a74gecdag42a6g84a2gcabce935669d" version="1">Ao acertar com &lt;b&gt;ataques arremessados&lt;/b&gt; ou &lt;b&gt;ataques desarmados&lt;/b&gt;, o portador ganha &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Cargas de Raio&lt;/LSTag&gt; &lt;b&gt;x[1]&lt;/b&gt;.</content>
+
+  <content contentuid="h80d47a3cg88adg4c68gbe6agcc8aae2a568c" version="3">Quando você mata uma criatura, pode conjurar uma magia de &lt;b&gt;qualquer Nível&lt;/b&gt; sem gastar ou ter um &lt;LSTag Tooltip="SpellSlot"&gt;espaço de magia&lt;/LSTag&gt;.</content>
+
+  <content contentuid="hf1cdef74g3fb1g27ceg860ag680d595bf77c" version="1">Rrangundyr</content>
+  <content contentuid="hd7a62e41gf8cag70e0ga642g8df112f274d0" version="1">Runas mágicas envolvem o metal deste martelo esbelto de uma mão, cobrindo quase toda sua superfície com um brilho azul intenso. Quando você tocou o cabo, imediatamente puxou a mão para trás - ele dá choque! Mas depois de se acostumar, você até achou que tinha um efeito de massagem leve. De todas as runas que tentou decifrar, só conseguiu traduzir uma palavra - Rrangundyr, seja lá o que isso signifique.</content>
+  <content contentuid="h8be4e186g1dc7g996cg3d5dgeaec3f7ddd9e" version="1">Descarga de Rrangundyr</content>
+  <content contentuid="hb1feaa23g54c8gec34g3870g10a23cb90c2c" version="1">Após ganhar mais de &lt;b&gt;[1]&lt;/b&gt; &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Cargas de Raio&lt;/LSTag&gt;, você carrega seu próximo ataque de qualquer tipo, que criará uma explosão em um raio de &lt;b&gt;[2]&lt;/b&gt;, causando &lt;b&gt;[4]&lt;/b&gt; a todas as criaturas e eletrificando superfícies. Uma criatura afetada pode reduzir o dano pela metade se tiver sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de Destreza (&lt;b&gt;[3]&lt;/b&gt;).</content>
+
+  <content contentuid="h9a0f33e3g0712g9b26gdc1agd68629fcaa0f" version="1">Arauto Ressonante</content>
+  <content contentuid="he06a808cg25dbgb270g623eg3551dee64436" version="1">Cada faceta desta espada filigranada brilha como ouro, e a lâmina está afiada a tal perfeição que se pode até ouvir o leve tilintar musical da lâmina em batalha.</content>
+  <content contentuid="hcf55ff67g948bgde71gd1b4g2a37a835beff" version="1">Ritmo Instável</content>
+  <content contentuid="h705015bbga0ebg47f1g14d2g919ea5eee163" version="1">Ao atacar inimigos em combate com esta espada, você ganha &lt;b&gt;[1]&lt;/b&gt; acúmulo de &lt;LSTag Type="Status" Tooltip="CADENCE_STACK"&gt;Cadência&lt;/LSTag&gt;, aumentando o dano da arma.</content>
+  <content contentuid="hbb09afdeg01b1g7ce0g5bb5gad839e82fc67" version="1">Cadência</content>
+  <content contentuid="hf1b6e256gd200g58ffgbc54gb6f513b511d3" version="1">&lt;b&gt;+[1]&lt;/b&gt; dano de arma por acúmulo deste efeito.&lt;br&gt;&lt;br&gt;Se você tiver mais de &lt;b&gt;[2]&lt;/b&gt; acúmulos ao atacar, você desencadeará uma melodia ressonante e causará &lt;b&gt;[3]&lt;/b&gt; a todas as criaturas dentro de &lt;b&gt;[4]&lt;/b&gt;. Uma criatura afetada pode reduzir o dano pela metade se tiver sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de Destreza (&lt;b&gt;[5]&lt;/b&gt;).</content>
+
+  <content contentuid="h76636ffeg4de8g4306gb561gd37d9c0cc64c" version="1">Armadura da Guarda Verdejante</content>
+  <content contentuid="h78fbbea1gfd55g4af6ga5c1g0156406e860a" version="1">Por um milênio, a Guarda Verdejante manteve vigília na Floresta Chondatha, onde pólen de árvores antigas forma uma armadura mais dura que mithral sobre suas placas sagradas. Seu dever eterno: conter o Coração Apodrecido, aquela semente corrompida da floresta primordial que pulsa com vida malévola nos bosques proibidos das profundezas.</content>
+  <content contentuid="h12e91714g9731g4795g802bga5fa82471259" version="1">Proteção de Pólen Ancestral</content>
+  <content contentuid="h551c78a8g1c24g4509g9c73g45dfa5134a98" version="1">Se você não se &lt;LSTag Tooltip="MovementSpeed"&gt;moveu&lt;/LSTag&gt; em seu turno no combate, recupere &lt;b&gt;[1]&lt;/b&gt; no final do seu turno.</content>
+  <content contentuid="hcc4fd6a3g3feag4c33gb83agaee1dfa42274" version="1">Removido ao se mover. Recupera &lt;b&gt;[1]&lt;/b&gt; no final de cada turno.</content>
+
+  <content contentuid="hb4d543dfg057eg472eg9034g49ebdcc3b4c7" version="1">Vestes de Rhokandra</content>
+  <content contentuid="ha7b94c86gff55g47e6ga299g9ec749e1158d" version="1">Os sacerdotes da morte de Thay antiga teceram estas vestes das mortalhas de mil mártires que morreram em êxtase, suas almas voluntariamente entregues ao Trono de Ossos. Cada fio pulsa com essência tanatúrgica — a alegria concentrada daqueles que abraçaram o esquecimento como libertação. Usá-las é tornar-se um conduíte entre os vivos e os mortos agradecidos.</content>
+  <content contentuid="h16df256dg1294g474eg85cfgd3c505754bf2" version="1">Pastor de Almas</content>
+  <content contentuid="hb4c70a9ag2d8fg4a4ag9ffbgb1ae872071c9" version="1">Se um inimigo resistir com sucesso à sua magia de &lt;b&gt;necromancia&lt;/b&gt;, recupere um &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Ponto de Ação&lt;/LSTag&gt;.&lt;br&gt;&lt;b&gt;+[1]&lt;/b&gt; à &lt;LSTag Tooltip="SpellDifficultyClass"&gt;CD de Teste de Magia&lt;/LSTag&gt;.</content>
+  <content contentuid="hf6ed83c6g0208g4fc9g9e1bg414a99916c8b" version="1">Saturação Necrótica</content>
+  <content contentuid="h13fd0edag2f74g4040gb0b0ga6bbf820489b" version="1">No início do seu turno, enquanto você tem cargas de &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Canalizar Divindade&lt;/LSTag&gt;, recupere &lt;b&gt;[1]&lt;/b&gt; &lt;i&gt;(mesmo se você for &lt;b&gt;morto-vivo&lt;/b&gt;)&lt;/i&gt;.&lt;br&gt;&lt;br&gt;A efetividade escala com o modificador de &lt;LSTag Tooltip="Wisdom"&gt;Sabedoria&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h1f6139fbg61fdg47afg8b81geafc4cf163e0" version="1">Mantos do Arquimago Khalandros</content>
+  <content contentuid="h9eafddadge9adg4f25g9b89g538de6433e2c" version="1">Quando o Arquimago Khalandros violou o Reino Distante buscando a Equação Primordial, a própria realidade recuou de sua arrogância. Seus mantos se tornaram um paradoxo vivo — fios tecidos da própria possibilidade, mudando através de espectros além da percepção mortal. Aqueles que os usam relatam ver cores que não têm nomes, ouvir os sussurros de magias ainda não conjuradas.</content>
+  <content contentuid="h57d9659dg7d1bg4be8gafa1g8a0d9466316e" version="1">Surto Crítico</content>
+  <content contentuid="h870a038cga882g4cb7g9241ga4b70e4fd4a2" version="1">Ao conseguir um &lt;LSTag Tooltip="CriticalHit"&gt;Acerto Crítico&lt;/LSTag&gt; com uma &lt;b&gt;magia ou truque&lt;/b&gt;, recupere &lt;LSTag Tooltip="SpellSlot"&gt;Espaços de Magia&lt;/LSTag&gt; aleatórios de níveis &lt;b&gt;[1]~[2]&lt;/b&gt; com uma pequena chance.</content>
+  <content contentuid="he010d034gfabag4a7bg8b23g883edab5e84a" version="1">Distorção da Realidade</content>
+  <content contentuid="heb116c9dg806ag45e9gac8ag15ea5e93e374" version="1">Quando um inimigo &lt;b&gt;erra criticamente&lt;/b&gt; você, o caos da magia selvagem distorce a realidade — seu próximo ataque se torna um &lt;LSTag Tooltip="CriticalHit"&gt;Acerto Crítico&lt;/LSTag&gt;.</content>
+  <content contentuid="h5aec9d33g75ccg4743g9274g58ba3875cdb7" version="1">A magia selvagem distorceu a realidade — seu próximo ataque será um &lt;LSTag Tooltip="CriticalHit"&gt;Acerto Crítico&lt;/LSTag&gt;.</content>
+
+  <content contentuid="hb726acb6g36ebg4975g9acdg849b7a09e0d0" version="1">Regalia da Corte Carmesim</content>
+  <content contentuid="headd82f3g2852g43edga8ddg14f2f0ca586c" version="1">Nos salões envoltos em sombras do Castelo Ravenloft, nove linhagens nobres voluntariamente ofereceram seus descendentes para santificar esta vestimenta. Oráculos cegos teceram seda sem lua com fios extraídos de veias voluntárias, cada ponto uma oração à noite eterna. O manto lembra seu batismo — aquela véspera amaldiçoada quando a mortalidade se tornou um sonho distante.</content>
+  <content contentuid="h9b695233g963cg4728gb59eg3d01806fae0d" version="1">Legado Sanguíneo</content>
+  <content contentuid="h7d159547ga2a1g47daga8cagaad8db406b8e" version="1">Ao causar dano com &lt;LSTag Type="Spell" Tooltip="Target_VampireBite_Astarion"&gt;Mordida Vampírica&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;Toque Vampírico&lt;/LSTag&gt;, você adicionalmente causa &lt;b&gt;[1]&lt;/b&gt;.</content>
+
+  <content contentuid="h98994d1egfc8fg438bg81b1g4221894fd28a" version="1">Lembrança dos Ghergs</content>
+  <content contentuid="ha3abaa9dga4cbg4ee4g80c4g87269b52bed9" version="1">"Assim terminou a gloriosa campanha contra os traiçoeiros Ghergs" — assim as histórias dos vencedores registram a extinção de um povo inteiro. O General Alierghast os chamou de selvagens, bárbaros, uma ameaça à civilização. A verdade morreu com eles: eram fazendeiros, poetas, curandeiros. O próprio filho de Alierghast sabia disso — ele havia secretamente se casado com uma mulher Gherg, aprendendo seus modos gentis antes da guerra consumir tudo. Quando ela queimou com seu povo, ele passou doze anos quebrados tentando ressuscitar os mortos. O ritual falhou, mas deixou este manto amaldiçoado — tecido de cinzas e luto, guardando fragmentos dos inocentes assassinados.</content>
+  <content contentuid="h21db9c4ag7868g490ag8f2eg68b80da39211" version="1">Invocar Espírito Gherg</content>
+  <content contentuid="h92c07046gc0f9g4e93gb1c7g9498a3f48274" version="1">Convoque o espírito de um ancestral Gherg, buscando justiça por seu povo massacrado. O fantasma enfraquece enquanto luta para permanecer no mundo que os esqueceu.</content>
+  <content contentuid="h9ab0147fg0123g4102g8f64g7e6aa7cfc195" version="1">Invocar Espírito Gherg</content>
+  <content contentuid="h39636e1fge694g444eg99d1ga56da12a285a" version="1">Um espírito Gherg melancólico aparece ao lado do atacante, lutando contra seus inimigos com a fúria desesperada dos extintos. Cada turno enfraquece sua frágil ligação com a existência.</content>
+  <content contentuid="hb589b088g072fg49afg81b0g1de6577fd2cb" version="1">Herança Perdida</content>
+  <content contentuid="h682f0e1eg6402g45fcg8b98gce1b734026a2" version="1">Se você for &lt;b&gt;humano&lt;/b&gt; ou &lt;b&gt;meio-elfo&lt;/b&gt; &lt;i&gt;(ou disfarçado como um)&lt;/i&gt;, ganhe &lt;b&gt;+[1]&lt;/b&gt; &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Ponto de Reação&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Você pode gastar uma &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reação&lt;/LSTag&gt; quando você ou um aliado forem atingidos para invocar um espírito Gherg enlutado.</content>
+  <content contentuid="h4929ba65g946ag4ec8g8340gc033f026aefa" version="1">Ancestral Gherg</content>
+  <content contentuid="h69664df9g4551g47e5ga975ga0cc3048f1b4" version="1">Os Esquecidos</content>
+
+  <content contentuid="he413d503ga1a5g4792gbdf2g0aa6a820a1b2" version="1">Baluarte da Forja de Ferro</content>
+  <content contentuid="h73a9b30dg9465g4664g9056ge9811bc3a3d7" version="1">Nas forjas mais profundas do Salão Mithral, onde rios de adamantina derretida fluem como água, mestres ferreiros forjaram esta armadura de ferro meteórico abençoado pelo próprio Clangeddin. Cada placa foi temperada em fogo de dragão e resfriada nas lágrimas de gigantes de pedra. O clã Barbaprata a presenteou aos seus maiores campeões — aqueles que enfrentaram sozinhos as trevas e prevaleceram.</content>
+  <content contentuid="hd3f0d7fbg213ag4eedga1d0gf02a8da9f87d" version="1">Bênção de Clangeddin</content>
+  <content contentuid="hba3a3bb4g0815g4505gb419g281bb838da13" version="1">Você ganha &lt;LSTag Type="Status" Tooltip="MAG_BLADE_WARD"&gt;Proteção contra Lâminas&lt;/LSTag&gt; permanente.</content>
+
+  <content contentuid="ha60da59ag519cg4a11ga802g05f94f74affe" version="1">Armadura de Troféus de Despana</content>
+  <content contentuid="h0a7579fagee9fg41e0ga1bcg43863792f56b" version="1">Vallen Despana não conquistou glória na arena de Menzoberranzan — ela conquistou exílio. Um século de trabalho mercenário rendeu cem inimigos conquistados, e de cada um ela reivindicou uma única placa de armadura. Nas forjas de Porto do Crânio, ela as refez nesta armadura impossível: cada peça molecularmente realinhada para criar armadura que se move como seda sombria mas deflecte como adamantina. "Cada placa," ela diria, "é uma vida que tomei. Cada vida, uma lição aprendida."</content>
+  <content contentuid="h9ec8ed32gb4a0g46fega6c4g8f8cb89e4eb8" version="1">Gume do Mercenário</content>
+  <content contentuid="hc7c92b5bgb6b0g4b23gb688gbb586adb954b" version="1">Se você for &lt;b&gt;drow&lt;/b&gt; &lt;i&gt;(ou disfarçado como um)&lt;/i&gt;, ganhe &lt;b&gt;+[1]&lt;/b&gt; &lt;LSTag Tooltip="MovementSpeed"&gt;Velocidade de Movimento&lt;/LSTag&gt;, &lt;b&gt;+[3]&lt;/b&gt; a &lt;LSTag Tooltip="AttackRolls"&gt;Testes de Ataque com Arma&lt;/LSTag&gt; e &lt;b&gt;+[2]%&lt;/b&gt; à distância de &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Salto&lt;/LSTag&gt;. Adicionalmente, usar esta armadura como &lt;b&gt;drow&lt;/b&gt; também concede imunidade a &lt;LSTag Tooltip="OpportunityAttack"&gt;Ataques de Oportunidade&lt;/LSTag&gt; e &lt;b&gt;[2]%&lt;/b&gt; de redução em dano de queda.</content>
+
+  <content contentuid="hfda22347gf29bg4183g9bdcga0bd05e1e21b" version="1">Paradoxo do Prisioneiro</content>
+  <content contentuid="h82b80865g2251g4538g9722gc36d800e9c8a" version="1">"Caso #847: Prisioneiro descobriu falha dimensional na Cela B-12. Sujeito começou a duplicar pães exponencialmente. Após escape: 14 toneladas de produtos assados. Sujeito quase morto de fome — nenhum pão foi tocado. Nota: Encantamento do manto impede remoção uma vez vestido. Considerar para reincidentes." — Nota amassada dos arquivos da Prisão de Águas Profundas.</content>
+  <content contentuid="h8fe55478g8240g4925g85aagedbc5bb1f57e" version="1">Quebra-pão</content>
+  <content contentuid="he054cd16ged7ag46efgba4bgc92ca2780bbb" version="1">Plano B</content>
+  <content contentuid="hbec7d13ag7e25g4233g87f4gb46e2430cfe6" version="1">Quando seus &lt;LSTag Tooltip="HitPoints"&gt;PV&lt;/LSTag&gt; caem abaixo de &lt;b&gt;[1]%&lt;/b&gt; em combate, todos os inimigos dentro de &lt;b&gt;[2]&lt;/b&gt; devem ter sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;LSTag Tooltip="Wisdom"&gt;Sabedoria&lt;/LSTag&gt; (&lt;b&gt;[3]&lt;/b&gt;) ou ficam &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralisados&lt;/LSTag&gt; por &lt;b&gt;[4]&lt;/b&gt; turnos.&lt;br&gt;&lt;br&gt;Ativa no máximo &lt;b&gt;uma vez&lt;/b&gt; por combate.</content>
+  <content contentuid="hb3011a8eg9e01g44b2ga56eg50126092e10d" version="1">Protocolo de Emergência</content>
+  <content contentuid="h97fc88e8g1619g4b37gb247g3ea50af9acb3" version="1">Paralise todas as criaturas dentro de &lt;b&gt;[1]&lt;/b&gt; de raio do portador do manto amaldiçoado.</content>
+  <content contentuid="h354c8ce8gc347g46c4g972fg9095bee5fea4" version="1">PEGO!</content>
+  <content contentuid="h8a68bf9ag88dag4969ga82eg9feab587f6f0" version="1">As balanças cósmicas da justiça se inclinam contra você — esta vestimenta amaldiçoada se liga à sua própria alma. Uma vez vestida, ela &lt;b&gt;não pode ser removida por quaisquer meios mortais&lt;/b&gt;. Considere-a sua letra escarlate, sua marca de vergonha, seu eterno "me chute" do próprio universo.</content>
+
+  <content contentuid="h4ade7f0fg72deg40a7g8306g7444dee48007" version="1">Armadura de Coroação do Senhor do Inverno</content>
+  <content contentuid="he1c81ea5g2a56g43ecgab3dg709435fa0637" version="1">Antes dos deuses caminharem por Toril, antes do fogo conhecer o calor, o Primeiro Inverno desceu. De seu coração surgiu o Trono do Zero Absoluto, e sobre ele sentou o Rei Sem Nome — nem vivo nem morto-vivo, mas algo entre. Sua cota de malha foi forjada de gelo meteórico que caiu quando as estrelas ainda sonhavam, cada peça um fragmento do inverno cósmico dado forma.</content>
+  <content contentuid="hc82b37c7g96e6g4b46g9af3g86b53c5fffe4" version="1">Garra da Sepultura</content>
+  <content contentuid="h76c0e5feg29a2g4f68g8102g25a1d70e6e36" version="1">Ao causar &lt;b&gt;[1]&lt;/b&gt;, você &lt;b&gt;também&lt;/b&gt; causa &lt;b&gt;[2]&lt;/b&gt;.&lt;br&gt;Você se torna o &lt;LSTag Type="Status" Tooltip="AMP_NECROMANCER_UNDEAD_FORM"&gt;Rei Sem Nome&lt;/LSTag&gt;.</content>
+  <content contentuid="h7b68076dg02e7g4a2agb0c8g814106943245" version="1">Inverno Eterno</content>
+  <content contentuid="h7e4538c1g8164g4334g948ege0425b39bad2" version="1">Enquanto estiver em uma &lt;b&gt;superfície congelada&lt;/b&gt;, use &lt;LSTag Type="Spell" Tooltip="Wall_AMP_WallOfIce_Free"&gt;Parede de Gelo&lt;/LSTag&gt; gratuitamente &lt;b&gt;uma vez por turno&lt;/b&gt;.</content>
+  <content contentuid="h06d2405fg3028g4e1bg8070g830ef1799452" version="1">Forma do Rei Sem Nome</content>
+  <content contentuid="h3a75c51ag1db9g42f0g8345gdd6aeb7cb8b2" version="1">Sua carne passa pela transformação menor da lichdom. Você ganha &lt;LSTag Tooltip="Immune"&gt;Imunidade&lt;/LSTag&gt; a&lt;b&gt;[1]&lt;/b&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistência&lt;/LSTag&gt; a&lt;b&gt;[2]&lt;/b&gt;, e não pode ser afetado por &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralisia&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Veneno&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Sangramento&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;Sono&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Encanto&lt;/LSTag&gt;, ou outras condições que não afetam Mortos-vivos. Você também não pode se curar usando os métodos dos vivos.</content>
+
+  <content contentuid="hf8261620gaa82g4dd4ga179gb1de6425d25a" version="1">Zelo do Executor</content>
+  <content contentuid="h4b6dff61gdd68g4826gbb00g99af04ba576f" version="1">Seus &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Passos Sombrios&lt;/LSTag&gt; são usados &lt;b&gt;gratuitamente&lt;/b&gt; em combate.</content>
+
+  <content contentuid="h4744ffafg2b4bg4253g8c9ag47c54ce0ce7f" version="1">Dentro do recipiente de aço, essência luminosa roda em padrões mais antigos que a memória. O selo dentado porta a marca de um artífice — runas gravadas falando de transmutação e ligação, de poder destilado do próprio sopro de estrelas moribundas. Um calor tênue emana através do vidro temperado, como se algo dentro ainda sonhasse com a forja que o gerou.</content>
+
+  <content contentuid="h7a8c4f92g0e1bg4d58g9ac3g6b9d2e47c851" version="1">Extrato de Hera Venenosa</content>
+  <content contentuid="hf3b829a1g6c47g4e92gb815gd04f7a6c9263" version="1">Torrentes Tóxicas</content>
+  <content contentuid="h2d5e6f18gb9c4g45a7g8e20g3f8b1d457e92" version="1">Quando você causa&lt;b&gt;[1]&lt;/b&gt; com &lt;b&gt;Ataques com Arma&lt;/b&gt;, o alvo deve ter sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;b&gt;Constituição&lt;/b&gt; ou você recupera um &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Ponto de Ação Bônus&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;A efetividade da &lt;LSTag Tooltip="DifficultyClass"&gt;CD&lt;/LSTag&gt; depende da sua &lt;b&gt;CD de Teste de Manobra&lt;/b&gt;.</content>
+
+  <content contentuid="h8a6f3c94gb729g4e51gd847gf2b8e9c45a73" version="1">Infusão de Faísca Liquefeita</content>
+  <content contentuid="hc8f4e729g5a1bg4d63g9e47g82b3c6f95d18" version="1">Condução de Faísca</content>
+  <content contentuid="h9a7d2c41gb456g4e89ga293gf74e8b1c6d95" version="1">&lt;b&gt;A cada turno&lt;/b&gt; em combate, ganhe &lt;LSTag Type="Status" Tooltip="AMP_FREE_CAST"&gt;Catalisador Carregado&lt;/LSTag&gt; para conjurar sua &lt;b&gt;próxima&lt;/b&gt; &lt;b&gt;magia de nível&lt;/b&gt; sem consumir um &lt;LSTag Tooltip="SpellSlot"&gt;Espaço de Magia&lt;/LSTag&gt;.</content>
+  <content contentuid="he3b6f927g4c58g4a72gb184gd9f5a8e4c631" version="1">Catalisador Carregado</content>
+  <content contentuid="h6d1a5f38g7e92g4b65gc047ga8b2d3f67e94" version="1">Sua &lt;b&gt;próxima&lt;/b&gt; &lt;b&gt;magia de nível&lt;/b&gt; não custa &lt;LSTag Tooltip="SpellSlot"&gt;Espaço de Magia&lt;/LSTag&gt;. Quando você &lt;b&gt;conjura uma magia&lt;/b&gt;, recebe &lt;b&gt;[1]&lt;/b&gt;.</content>
+
+  <content contentuid="hf5e9d172ga483g4c67gb920ge7a6c8f41d59" version="1">Concentrado de Três Dedos de Gnoll</content>
+  <content contentuid="h4f7a8b29gc15dg4e68ga047gd3b9f5c28e71" version="1">Raiva Fervente</content>
+  <content contentuid="ha2e6d948g73b1g4c92gb865ge8f4a7d35c96" version="1">Enquanto afetado por qualquer condição de &lt;b&gt;Loucura&lt;/b&gt;, seus &lt;b&gt;ataques desarmados&lt;/b&gt; são &lt;b&gt;sempre&lt;/b&gt; &lt;LSTag Tooltip="CriticalHit"&gt;Acertos Críticos&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h2c7b8e41gd596g4f84ga038gf9e2c5a73b64" version="1">Infusão de Lágrima de Pégaso Liquefeita</content>
+  <content contentuid="hb3c7f684ga928g4d51ge739gf6a4c8b91e27" version="1">Salto Instável</content>
+  <content contentuid="hd8f2a157gb634g4e78ga492gc5e9d7f43b86" version="1">Instantaneamente troque de lugar com a criatura alvo em combate. Se o alvo tiver sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;b&gt;Inteligência&lt;/b&gt; &lt;b&gt;([1])&lt;/b&gt;, &lt;b&gt;você&lt;/b&gt; fica &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Atordoado&lt;/LSTag&gt;.</content>
+
+  <content contentuid="ha5c8f294gb716g4e83gd629gf7e3a9c48b65" version="1">Destilado de Pó de Obsidiana</content>
+  <content contentuid="h9e4f2a81gc627g4d59gb703ge8c5f9a46b84" version="1">Explosão Infernal</content>
+  <content contentuid="hd7c6e391gb548g4f72ga829gf6d4a8c25e97" version="1">Sempre que você recebe &lt;b&gt;qualquer condição&lt;/b&gt; em combate, crie uma superfície de &lt;b&gt;Fogo Infernal&lt;/b&gt; de &lt;b&gt;[1]&lt;/b&gt; ao seu redor por &lt;b&gt;[2]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="hf2d8e675ga439g4c61gb705gd9e3f8a27b94" version="1">Extrato do Reino Migex</content>
+  <content contentuid="h8b4c7a26gd187g4f92ge638gf5a2c9e84d71" version="1">Migexário</content>
+  <content contentuid="he7f9c421gb653g4a84gd927ga6b8f4c59e38" version="1">Quando você causa dano a um &lt;b&gt;inimigo ferido&lt;/b&gt;, você recebe &lt;b&gt;[1]&lt;/b&gt;.</content>
+
+  <content contentuid="h4a7e9c63gb285g4f14gd639ge8c7f5a92b48" version="1">Tintura de Coragem Primal</content>
+  <content contentuid="hc9f5d182ga647g4e39gb574gf2e8c6a71d93" version="1">Coragem Líquida</content>
+  <content contentuid="h6b8a4e75gd394g4c62ge187ga9f3d5c48b76" version="1">Enquanto &lt;b&gt;bêbado&lt;/b&gt;, o número que você precisa rolar para conseguir um &lt;LSTag Tooltip="CriticalHit"&gt;Acerto Crítico&lt;/LSTag&gt; com &lt;b&gt;ataques desarmados&lt;/b&gt; é reduzido em &lt;b&gt;[1]&lt;/b&gt;.</content>
+
+  <content contentuid="ha3546042g072dg42dcga90cg4c7d6c83bd8e" version="1">Infusão de Alma de Golem Liquefeita</content>
+  <content contentuid="habbfb66age714g4bcag9f7eg5c49bbecb5d5" version="1">Sopro do Golem</content>
+  <content contentuid="h3b73ae32gc634g4572g8248gdd998eff3286" version="1">Quando você &lt;b&gt;erra&lt;/b&gt; um &lt;b&gt;inimigo&lt;/b&gt;, todas as criaturas dentro de &lt;b&gt;[1]&lt;/b&gt; &lt;i&gt;(incluindo você mesmo)&lt;/i&gt; devem ter sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;b&gt;Força&lt;/b&gt; (&lt;b&gt;[2]&lt;/b&gt;) ou ficam &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;Petrificadas&lt;/LSTag&gt; por &lt;b&gt;[3]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="h263e5e67gd822g4576g929fg1599cf950e9a" version="1">Essência de Orelha do Tentador</content>
+  <content contentuid="h51b4e66agc1bcg494eg80ceg849b6c010ae0" version="1">Ressonância Encantadora</content>
+  <content contentuid="h0ab03f0fg170eg4a5fgb45bg75caf1e1412f" version="1">Você &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;encanta&lt;/LSTag&gt; uma criatura que você danifica — se ela falhar em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;b&gt;Sabedoria&lt;/b&gt;, por &lt;b&gt;[1]&lt;/b&gt; turnos.&lt;br&gt;&lt;br&gt;A efetividade da &lt;LSTag Tooltip="DifficultyClass"&gt;CD&lt;/LSTag&gt; depende da sua &lt;b&gt;CD de Teste de Manobra&lt;/b&gt;.</content>
+
+  <content contentuid="hae1851c6g90e1g4573g8a60g66530f43c931" version="1">Infusão Concentrada de Clarão</content>
+  <content contentuid="haa78760agec20g4938g8f07gf6aabb4bbdc7" version="1">Aura de Sprite Brilhante</content>
+  <content contentuid="h10b8c3c5g0d56g49fag822bg9343bb192354" version="1">Quando uma criatura dentro de &lt;b&gt;[1]&lt;/b&gt; de você recebe&lt;b&gt;[2]&lt;/b&gt;, ela deve ter sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;b&gt;Constituição&lt;/b&gt; (&lt;b&gt;[3]&lt;/b&gt;) ou recebe &lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;Orbe Radiante&lt;/LSTag&gt; por &lt;b&gt;[4]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="hb981a7e2gada3g42d2gb9acg804ed1ab42c9" version="1">Tintura de Caranguejo Envelhecido</content>
+  <content contentuid="h2d7a3826g7549g4cb2ga6eegbd29874c120c" version="1">Vórtice do Aquamante</content>
+  <content contentuid="hed14a15fg0511g4cddg8179g927f88a26409" version="1">Todas as suas &lt;b&gt;magias de nível&lt;/b&gt; também deixam alvos &lt;LSTag Type="Status" Tooltip="WET"&gt;Molhados&lt;/LSTag&gt; por &lt;b&gt;[1]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="h14f22844g2fd3g4413gb122gcac125b58fb0" version="1">Extrato de Fígado Diabólico</content>
+  <content contentuid="h9130569dg8788g44d4gbdcdgace726b057cb" version="1">Vínculo Sanguíneo</content>
+  <content contentuid="h4264ec2bg6e6fg42d1gb95cg9a3e23d13b52" version="1">Enquanto um &lt;b&gt;diabrete&lt;/b&gt; aliado estiver dentro de &lt;b&gt;[2]&lt;/b&gt; de você, ambos &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt; com todas as fontes de dano.</content>
+  <content contentuid="hd3284920g983dg4661gbde8g5dfa5e1f5743" version="1">Empoderamento Diabólico</content>
+  <content contentuid="h909a8ce7gf338g4f56g948cg1cb18e2cbe42" version="1">Você &lt;b&gt;também&lt;/b&gt; causa &lt;b&gt;[1]&lt;/b&gt; com todas as fontes de dano.</content>
+
+  <content contentuid="h1aab2cb8ga09dg4d41ga13ag5407f29bf1ed" version="1">Destilado de Primeira Categoria das Terras Feéricas</content>
+  <content contentuid="h85a8aaf0gf61eg46b1g9540g5af7542eb545" version="1">Destruição Mental</content>
+  <content contentuid="hb13b9931gfd75g4ef2gb31agb0d4598d2b78" version="1">Quando você causa&lt;b&gt;[1]&lt;/b&gt;, o alvo deve ter sucesso em um &lt;LSTag Tooltip="SavingThrow"&gt;Teste de Resistência&lt;/LSTag&gt; de &lt;b&gt;Sabedoria&lt;/b&gt; (&lt;b&gt;[2]&lt;/b&gt;) ou fica &lt;LSTag Type="Status" Tooltip="CONFUSED"&gt;Confuso&lt;/LSTag&gt; por &lt;b&gt;[3]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="h2969d37cgcf83g4a30gbb16gb37818c09248" version="1">Cristais de Alma Esmagados</content>
+  <content contentuid="h51dbc20bg51d7g4f29ga3ccg12ad429187fc" version="1">Guerreiro Amaldiçoado</content>
+  <content contentuid="hb440d7e3g10e5g4b2dg9628gb5e6ac643381" version="1">Seus &lt;b&gt;Ataques Corpo a Corpo com Arma&lt;/b&gt; &lt;b&gt;também&lt;/b&gt; causam &lt;b&gt;[1]&lt;/b&gt;, se você tiver qualquer &lt;b&gt;maldição&lt;/b&gt; afetando você. &lt;i&gt;(Tipo de dano depende da sua arma equipada)&lt;/i&gt;</content>
+
+  <content contentuid="h6b5f40bag3a90g49d8g92b7gc57ff528d7fb" version="1">Infusão de Rim Drow Purificado</content>
+  <content contentuid="h5e049d6cg09fag4823ga70bg3a63b3adacd6" version="1">Crescimento de Teia</content>
+  <content contentuid="hd0225d72gad01g4542gb6e0g527dc861ea1f" version="1">Sempre que você &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Imobiliza&lt;/LSTag&gt; uma criatura, crie uma superfície de &lt;b&gt;Teia&lt;/b&gt; de raio &lt;b&gt;[1]&lt;/b&gt; próxima por &lt;b&gt;[2]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="h2f3c2359gbb0dg40a0gb068gba4c1fb6ffe7" version="1">Infusão de Campo de Flores</content>
+  <content contentuid="h133d8811g9aceg41a1g89e8g87f886d2a2ab" version="1">Desafio da Natureza</content>
+  <content contentuid="hf9955a97g1645g46cagb4e9g53251e640100" version="1">Enquanto estiver em &lt;b&gt;crescimento de flores espessas&lt;/b&gt;, você é &lt;LSTag Tooltip="Immune"&gt;Imune&lt;/LSTag&gt; a ficar &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Atordoado&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h66d197acgb8aag499dg85a6g3604ced3dd42" version="1">Destilado de Olho de Berbalang</content>
+  <content contentuid="hc4c7daabg815bg4dcagb31dg252d1bd105f0" version="1">Visão Espectral</content>
+  <content contentuid="h1c4d5712gb9c7g4c5dgbe27g533955fa664d" version="1">Quando você mata uma criatura, você ganha &lt;LSTag Type="Status" Tooltip="AMP_DEVILS_SIGHT_STATUS"&gt;Visão Diabólica&lt;/LSTag&gt; por &lt;b&gt;[1]&lt;/b&gt; turnos.</content>
+
+  <content contentuid="h9b911cd1gdeadg4a89gbfa6g01485ee6e99d" version="1">Infusão de Feiticeiro Liquefeito</content>
+  <content contentuid="h8bc2c306g1fefg4c15g85ddg5336ec034f23" version="1">Estratagema Polimórfico</content>
+  <content contentuid="h720e2e70gdb9fg46b2gbd5cgc14226482909" version="1">Quando você usa &lt;b&gt;Corrida&lt;/b&gt;, você é imediatamente transformado em uma &lt;LSTag Type="Status" Tooltip="POLYMORPH_SHEEP"&gt;Ovelha&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h0dcde388g44b3g40e2gaf1age6b07fe982a7" version="1">Extrato de Urso Astral</content>
+  <content contentuid="h45fa5affg6692g4fecgbf5dg455ad74801ee" version="1">Distorção Planar</content>
+  <content contentuid="h6287fcebgda14g4bc6gac32g5625ce810313" version="1">Quando você conjura &lt;LSTag Type="Spell" Tooltip="Shout_Blink"&gt;Piscar&lt;/LSTag&gt;, você tem &lt;b&gt;[1]%&lt;/b&gt; de chance de invocar um &lt;b&gt;Observador&lt;/b&gt; amigável. A conexão do &lt;b&gt;Observador&lt;/b&gt; com o plano material enfraquece a cada turno.</content>
+
+  <content contentuid="h3142af5dgd151g44adga15ag09077936b336" version="1">Infusão de Pulso Supercondutor</content>
+  <content contentuid="hf3628828gbec6g46a4g91a9g9518d5270d2e" version="1">Supercondutor</content>
+  <content contentuid="h98b06c2fg3097g4305gbb5dga1a9aaf2a9bc" version="1">Quando você &lt;b&gt;empurra&lt;/b&gt; uma criatura, empurre-a &lt;b&gt;[1]&lt;/b&gt; mais longe.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;Empurrar inclui qualquer movimento forçado, mesmo de magias.</content>
+
+  <content contentuid="h920f38dagb1d5g46aaga4f5g2d9cf8b8d110" version="1">Extrato Liquefeito de Portão de Baldur</content>
+  <content contentuid="hd2e8e19ag5f7bg4193gbf1ege612d776ca6f" version="1">Capitão Espião</content>
+  <content contentuid="h95e22777gbf9fg49fagbe9fg067ff621512e" version="1">Se você for &lt;b&gt;humano&lt;/b&gt; ou &lt;b&gt;meio-elfo&lt;/b&gt; &lt;i&gt;(ou disfarçado como um)&lt;/i&gt;, seu &lt;b&gt;alcance de salto&lt;/b&gt; fora de combate aumenta em &lt;b&gt;[1]&lt;/b&gt; e você ganha &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibilidade&lt;/LSTag&gt; permanente fora de combate.</content>
+
+  <content contentuid="h27d533aag6cf8g4e1dg9145g8c9735195ecc" version="1">Pólen Absoluto da Pedra Flamejante</content>
+  <content contentuid="h638e42d0g28e1g4ab4gb160gf169b17a3165" version="1">Sintonia da Trama Gnômica</content>
+  <content contentuid="h207eb8d5gdb00g4fbeg8d4dgc0ff935beead" version="1">Se você for &lt;b&gt;Minúsculo&lt;/b&gt;, quando você conjura &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Bola de Fogo&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;Golpe Flamejante&lt;/LSTag&gt;, ganha &lt;LSTag Type="Status" Tooltip="AMP_FIRE_MASTERY_CAST"&gt;Maestria do Fogo&lt;/LSTag&gt;.</content>
+  <content contentuid="h474a2259g5dbdg4da3gb864gcf5819090a6a" version="1">Maestria do Fogo</content>
+  <content contentuid="h1e9ac892g9ff6g4611g8044gc5404f80adb1" version="1">Sua próxima &lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;Bola de Fogo&lt;/LSTag&gt; ou &lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;Golpe Flamejante&lt;/LSTag&gt; pode ser conjurada sem gastar &lt;LSTag Tooltip="SpellSlot"&gt;Espaços de Magia&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h4f8e921bg3a5cg4d72g8914g2a1f7b9c8456" version="1">Manto de Grimland</content>
+  <content contentuid="he2f8941bg6d2ag4b18g9a73gf8c52e4d7890" version="1">Grimland já foi Duplo Alcance. O Povo do Interior e os Habitantes da Costa a construíram juntos, diferentes mas unidos. Então vieram as Pedras Falantes. Toda voz ouvida de uma vez. Toda palavra amarga ecoada de volta dez vezes.&lt;br&gt;&lt;br&gt;O Interior ouviu zombaria. A Costa ouviu ódio. A verdade se afogou no barulho.&lt;br&gt;&lt;br&gt;Os Divisores ficaram ricos vendendo raiva. Vizinhos se tornaram inimigos. Inimigos se tornaram nada. Quando a queima parou, ambos os lados haviam vencido. Ambos os lados haviam perdido.&lt;br&gt;&lt;br&gt;Este manto vem daquele lugar-nenhum. Dizem que muda de cor dependendo de quem olha. Dizem muitas coisas em Grimland. Ninguém mais escuta.</content>
+  <content contentuid="h8d1f5a29gb4c7g4e62g9853gf2a681e45d73" version="1">Ninguém Mais Escuta</content>
+  <content contentuid="hc3e6b94fg7a25g4d18g8794gae5f123c6b89" version="1">Enquanto portando qualquer &lt;b&gt;maldição&lt;/b&gt;, você fica &lt;LSTag Type="Status" Tooltip="ENLARGE"&gt;ampliado&lt;/LSTag&gt;.</content>
+
+  <!-- Novas traduções adicionadas -->
+  <content contentuid="h124cb44agb175g4321ga9edg4b1c405598c1" version="1"></content>
+  <content contentuid="h28e86fc9g99fbg4e8dg91f6gd5dc8f855b98" version="1">Tempestade Focada</content>
+  <content contentuid="h291147ddgb74cg434cg9152gff7fdef08951" version="1">Essas botas antigas foram criadas por magos nethereses estudando os limites da magia de transmutação. Eles focaram no conceito de 'movimento aprimorado', criando encantamentos que permitem ao usuário se mover com graça e velocidade incomparáveis.</content>
+  <content contentuid="h29caaa06g9240g4720gb533g63e710348334" version="1">Se você é um githyanki ou está disfarçado como um, acumule Resistência Astral a cada turno em combate. Após acumular 5 cargas, pode usar Saturação Githzerai.</content>
+  <content contentuid="h2fea3bbag1bb5g436ag8fdfgb29362ed0483" version="1">Coroa do Vludber "Ursogoblin"</content>
+  <content contentuid="h32994387ga95ag4f98g94cbg911d6ded6b2d" version="1"></content>
+  <content contentuid="h341afd5eg336ag4786gb0eeg3b18ce70c3cd" version="1">Jack Bones costurou essa túnica de necromante com cortinas de teatro após a morte, amarrando sua alma ao tecido. A túnica sussurra conselhos sombrios para seu usuário.</content>
+  <content contentuid="h39f5db86g96afg4c48g9ff3ge5feac49d5a2" version="1">Luz na Escuridão</content>
+  <content contentuid="h4da9dcd4gc58dg49d9gb6cagefbfd5b7a2e6" version="1"></content>
+  <content contentuid="h5108686egdeebg4c36gb8a7g29bff87d0a74" version="1">Vludber, o único halfling a se tornar chefe honorário da tribo ursogoblin da Espinha do Mundo, ganhou esse título depois de derrotar três campeões em combate usando apenas piadas e acrobacias.</content>
+  <content contentuid="h54f68c4cgd309g4761gac91ga0d888e90af7" version="1">Botas Artísticas de Valerian</content>
+  <content contentuid="h64af2da9g175cg4b84ga7d9gae42f2cc6555" version="1">Um jovem xamã do clã Chamador de Tempestades passou meses observando tempestades na passagem da montanha, registrando os padrões dos raios em um medalhão especial.</content>
+  <content contentuid="h66c93f54g0e96g473eg8daeg20104cfab6a8" version="1">Tecido do Buscador de Aplausos</content>
+  <content contentuid="h6f6658f7gdf22g4952ga5c7g3a03c09a4d84" version="1">Medalhão de Tempestade Focada</content>
+  <content contentuid="h73ecc0efg64ebg4145g9263gb4a8e266093f" version="1">Acrobacias Rápidas</content>
+  <content contentuid="h745f0ee6g2bb9g45b0gbd54g600b7253dc3b" version="1">%%% NÃO TOQUE NAS COISAS ABAIXO, AINDA EM DESENVOLVIMENTO!!!! %%%</content>
+  <content contentuid="h760d6e29g7aafg4704g9630g0bf3a10383e4" version="1">Este elegante chapéu emplumado pertenceu a um famoso diplomata do norte cujas negociações de paz salvaram mais vidas do que qualquer espada jamais poderia.</content>
+  <content contentuid="h79a94c73gcc0ag4cf5g9c67g484afd279a93" version="1">Sempre que um &lt;b&gt;morto-vivo&lt;/b&gt; morre dentro de &lt;b&gt;[1]&lt;/b&gt; de você, isso ativa uma &lt;LSTag Type="Status" Tooltip="EXPLOSION"&gt;Explosão de Luz&lt;/LSTag&gt;.</content>
+  <content contentuid="h7b267c00gc67ag4d96g8005g1de7cbf3e6ca" version="1">Anel do Lorde Zheaniv</content>
+  <content contentuid="h7ed93ec7gd75bg4117g9b2fgdfe9477f7041" version="1">Saturação Githzerai</content>
+  <content contentuid="h81923b83gdb35g4de1ga0c7g2ea36786494e" version="1">Botas de Ressonância Profunda</content>
+  <content contentuid="h8a9cf0e6gd739g4319ga407gbfcf73a71adf" version="1">Sopro Sombrio</content>
+  <content contentuid="h9173ac24ga40cg4cf3ga6ceg4672e12ee9c2" version="1">Quando você usa ações, todos os inimigos dentro de 5m ao seu redor devem passar em um teste de resistência de Inteligência (4) ou ficar &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Atordoados&lt;/LSTag&gt; por 1 turno.</content>
+  <content contentuid="h99f41936gc99fg412dg9082gc63539dba2d8" version="1">Quando você está &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;Petrificado&lt;/LSTag&gt;, no início de cada turno, todos os inimigos dentro de 3m de você recebem &lt;b&gt;[1]&lt;/b&gt; dano de trovão.</content>
+  <content contentuid="h9a880ed5g25f3g4f88gbb66g292d4fc6a806" version="1">Ressonância Profunda</content>
+  <content contentuid="ha10fc6cbg8068g43dcg99d1g4d842a159963" version="1">-1 de dano. [Saltar sem gastar recursos]</content>
+  <content contentuid="ha3da4117g6fa7g416bg9269g887d40d74533" version="1">Se você não estiver usando armadura e escudo, ganhe +2 de Classe de Armadura.</content>
+  <content contentuid="hac7ef674ge1a3g4e65gb205g63dec159e17b" version="1">Resistência Astral</content>
+  <content contentuid="hbb333835g9ef0g4f11gb74agd27e158dcaaf" version="1">Roubando os Holofotes</content>
+  <content contentuid="hbe559570g68a2g429dga935g2f1d97d9e831" version="1">Vibrações poderosas emanam do corpo petrificado, criando ondas sônicas destrutivas.</content>
+  <content contentuid="hc23f2ccfgc308g42d5g80f4g48c85c2a99d0" version="1">Piadas Incríveis</content>
+  <content contentuid="hc2685098gae65g4834g8dbeg2f049cc405e6" version="1">Maestria de Revolietti</content>
+  <content contentuid="hc63bd2ffg8a4cg4699g9f1dgbb2d9656cc77" version="1">Você não pode ser derrubado e não é desacelerado em terreno difícil. Você não provoca ataques de oportunidade ao se mover.</content>
+  <content contentuid="he83b9ae8g9392g1af1geedfgbfa00fbb2dce" version="14">Dothrophenia</content>
+  <content contentuid="hee85e200gc7c6g4a90gb2beg745ee6f59f92" version="1">Chapéu de Diplomata Ausente</content>
+  <content contentuid="hf6cb4b8dgcf4bg4463gab0ag0e0ac393875e" version="1">Todos os objetos em chamas dentro de 15m de você são instantaneamente extintos. A Constituição aumenta para cada turno em que você extingue pelo menos uma chama.</content>
+  <content contentuid="hf6dce18fg9714g44d6ga50ag043c6fd3c390" version="1"></content>
+  <content contentuid="hfab0bd82g8cfbg45dfgb965g66504d36aaca" version="1">Otimismo Brilhante</content>
+  <content contentuid="hff70d244g19abg4ec9ga7c3g9795648f2cfc" version="1">Anel do Githzerai Bigodudo</content>
+</contentList>

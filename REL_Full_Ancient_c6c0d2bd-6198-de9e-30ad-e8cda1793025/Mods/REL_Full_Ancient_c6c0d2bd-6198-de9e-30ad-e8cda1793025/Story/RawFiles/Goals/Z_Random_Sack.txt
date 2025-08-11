@@ -1,0 +1,60 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// Track if reward has been claimed
+DB_AMP_BearReward_Claimed(0);
+KBSECTION
+// When the bear rock is moved, spawn random sack and handle reward (ONLY ONCE)
+IF
+Moved(S_DEN_BearRock_80a525ad-80df-4473-944e-0ca6a5a84676)
+AND
+DB_Players(_Player)
+AND
+DB_AMP_BearReward_Claimed(0)
+THEN
+// Mark reward as claimed
+NOT DB_AMP_BearReward_Claimed(0);
+DB_AMP_BearReward_Claimed(1);
+PROC_HandleBearReward((CHARACTER)_Player);
+
+// When the bear rock is destroyed, spawn random sack and handle reward (ONLY ONCE)
+IF
+DestroyedBy(S_DEN_BearRock_80a525ad-80df-4473-944e-0ca6a5a84676, _, _, _)
+AND
+DB_Players(_Player)
+AND
+DB_AMP_BearReward_Claimed(0)
+THEN
+// Mark reward as claimed
+NOT DB_AMP_BearReward_Claimed(0);
+DB_AMP_BearReward_Claimed(1);
+PROC_HandleBearReward((CHARACTER)_Player);
+
+// Main procedure to handle the bear reward
+PROC
+PROC_HandleBearReward((CHARACTER)_Player)
+THEN
+PROC_SpawnRandomSack();
+SetFlag(DEN_ZenBear_Event_RevealReward_c6fef36d-20b4-3f21-a2e5-e7fcedcbf316, NULL_00000000-0000-0000-0000-000000000000, 0);
+PROC_HideMarker((CHARACTER)_Player, "DEN_DruidPond_BearReward");
+
+// Spawn the random sack at the bear reward location
+PROC
+PROC_SpawnRandomSack()
+AND
+CreateAt((GUIDSTRING)AMP_Sack_f66cb66e-8a34-4921-87a3-66e668805205, 261.64777, 2.218559, 479.42163, 0, 0, "", _CreatedSack)
+THEN
+DB_NOOP(1);
+
+// When the flag is set to reveal the reward, show the marker
+IF
+FlagSet(DEN_ZenBear_Event_RevealReward_c6fef36d-20b4-3f21-a2e5-e7fcedcbf316, NULL_00000000-0000-0000-0000-000000000000, _Inst)
+AND
+DB_DialogPlayers(_Inst, _Player, _)
+THEN
+PROC_ShowMarker((CHARACTER)_Player, "DEN_DruidPond_BearReward");
+EXITSECTION
+// Clean up tracking database on exit
+NOT DB_AMP_BearReward_Claimed(0);
+NOT DB_AMP_BearReward_Claimed(1);
+ENDEXITSECTION

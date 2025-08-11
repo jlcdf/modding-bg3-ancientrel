@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="10" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2631514e-e549-43f5-9cf2-cec3fc20cb08" />
+					<attribute id="Name" type="LSString" value="AMP_Camp_Lootbox_000" />
+					<attribute id="LevelName" type="FixedString" value="CMP_BGO_Elfsong_B" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="TemplateName" type="FixedString" value="59bd6dc0-373f-41a4-8ad3-e923f89e2bc5" />
+					<attribute id="Flag" type="uint8" value="1" />
+					<attribute id="Key" type="FixedString" value="NO_KEY" />
+					<children>
+						<node id="Transform">
+							<attribute id="Scale" type="float" value="1" />
+							<attribute id="Position" type="fvec3" value="10.8520355 2.53 -1.9934667" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.86135507 0 0.50800276" />
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="CMP_BGO_Elfsong_B" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

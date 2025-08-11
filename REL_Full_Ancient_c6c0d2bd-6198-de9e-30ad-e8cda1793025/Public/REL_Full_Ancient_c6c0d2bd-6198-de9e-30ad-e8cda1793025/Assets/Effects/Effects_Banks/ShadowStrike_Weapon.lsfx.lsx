@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="1" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Dependencies">
+		<node id="Dependencies">
+			<children>
+				<node id="DependentResource">
+					<attribute id="Object" type="FixedString" value="b3d0e6a5-0298-43ad-eef0-72901f22c78a" />
+				</node>
+				<node id="DependentResource">
+					<attribute id="Object" type="FixedString" value="ec55b190-8d4c-1523-5d0c-f6b2450cf0a0" />
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="Effect">
+		<node id="Effect">
+			<attribute id="Duration" type="float" value="3" />
+			<children>
+				<node id="EffectComponents">
+					<children>
+						<node id="EffectComponent">
+							<attribute id="EndTime" type="float" value="3" />
+							<attribute id="ID" type="guid" value="f273fca0-7d39-4171-96be-a1b9f266b387" />
+							<attribute id="Name" type="LSString" value="BoundingSphere" />
+							<attribute id="StartTime" type="float" value="0" />
+							<attribute id="Track" type="uint32" value="0" />
+							<attribute id="Type" type="LSString" value="BoundingSphere" />
+							<children>
+								<node id="Properties">
+									<children>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Name" />
+											<attribute id="FullName" type="FixedString" value="Name" />
+											<attribute id="Type" type="uint8" value="7" />
+											<attribute id="Value" type="LSString" value="BoundingSphere" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Position" />
+											<attribute id="FullName" type="FixedString" value="Center" />
+											<attribute id="Type" type="uint8" value="8" />
+											<attribute id="Value" type="fvec3" value="0 0 0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Radius" />
+											<attribute id="FullName" type="FixedString" value="Radius" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="4" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Visible" />
+											<attribute id="FullName" type="FixedString" value="Visible" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="EffectComponent">
+							<attribute id="EndTime" type="float" value="3" />
+							<attribute id="ID" type="guid" value="a6f80cb5-b58d-419d-a32a-a114373af1e7" />
+							<attribute id="Name" type="LSString" value="OverlayMaterial" />
+							<attribute id="StartTime" type="float" value="0" />
+							<attribute id="Track" type="uint32" value="0" />
+							<attribute id="Type" type="LSString" value="OverlayMaterial" />
+							<children>
+								<node id="Properties">
+									<children>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Name" />
+											<attribute id="FullName" type="FixedString" value="Name" />
+											<attribute id="Type" type="uint8" value="7" />
+											<attribute id="Value" type="LSString" value="OverlayMaterial" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Name" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float 01.Name" />
+											<attribute id="Type" type="uint8" value="7" />
+											<attribute id="Value" type="LSString" value="" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Value" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float 01.Value" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Name" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float 02.Name" />
+											<attribute id="Type" type="uint8" value="7" />
+											<attribute id="Value" type="LSString" value="" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Value" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float 02.Value" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Name" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float3 01.Name" />
+											<attribute id="Type" type="uint8" value="7" />
+											<attribute id="Value" type="LSString" value="" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Value" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float3 01.Value" />
+											<attribute id="Type" type="uint8" value="8" />
+											<attribute id="Value" type="fvec3" value="0 0 0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Name" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float3 02.Name" />
+											<attribute id="Type" type="uint8" value="7" />
+											<attribute id="Value" type="LSString" value="" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Value" />
+											<attribute id="FullName" type="FixedString" value="Custom.Float3 02.Value" />
+											<attribute id="Type" type="uint8" value="8" />
+											<attribute id="Value" type="fvec3" value="0 0 0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Material GUID" />
+											<attribute id="FullName" type="FixedString" value="Material GUID" />
+											<attribute id="Type" type="uint8" value="10" />
+											<attribute id="Value" type="FixedString" value="b3d0e6a5-0298-43ad-eef0-72901f22c78a" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Body" />
+											<attribute id="FullName" type="FixedString" value="Apply to Body" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Weapon" />
+											<attribute id="FullName" type="FixedString" value="Apply to Weapon" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Armour" />
+											<attribute id="FullName" type="FixedString" value="Apply to Armour" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Wings" />
+											<attribute id="FullName" type="FixedString" value="Apply to Wings" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Horns" />
+											<attribute id="FullName" type="FixedString" value="Apply to Horns" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Overhead" />
+											<attribute id="FullName" type="FixedString" value="Apply to Overhead" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply to Instrument" />
+											<attribute id="FullName" type="FixedString" value="Apply to Instrument" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="False" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Overlay Type" />
+											<attribute id="FullName" type="FixedString" value="Overlay Type" />
+											<attribute id="Type" type="uint8" value="1" />
+											<attribute id="Value" type="int32" value="0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Target Visual" />
+											<attribute id="FullName" type="FixedString" value="Target Visual" />
+											<attribute id="Input" type="FixedString" value="Target Visual" />
+											<attribute id="Type" type="uint8" value="8" />
+											<attribute id="Value" type="fvec3" value="0 0 0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Color" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Color" />
+											<attribute id="Type" type="uint8" value="3" />
+											<children>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="0" />
+													<children>
+														<node id="Frame">
+															<attribute id="Color" type="fvec4" value="0 0 0 1" />
+															<attribute id="Time" type="float" value="0" />
+														</node>
+														<node id="Frame">
+															<attribute id="Color" type="fvec4" value="0 0 0 1" />
+															<attribute id="Time" type="float" value="1" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Alpha" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Alpha" />
+											<attribute id="Type" type="uint8" value="6" />
+											<children>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="1" />
+													<children>
+														<node id="Frame">
+															<attribute id="A" type="float" value="38.0135" />
+															<attribute id="B" type="float" value="12.24249" />
+															<attribute id="C" type="float" value="0" />
+															<attribute id="D" type="float" value="0" />
+															<attribute id="Time" type="float" value="0.1260991" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-104.3748" />
+															<attribute id="B" type="float" value="22.82828" />
+															<attribute id="C" type="float" value="4.900891" />
+															<attribute id="D" type="float" value="0.2708886" />
+															<attribute id="Time" type="float" value="0.1352709" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-166.7925" />
+															<attribute id="B" type="float" value="20.06318" />
+															<attribute id="C" type="float" value="5.293301" />
+															<attribute id="D" type="float" value="0.3176781" />
+															<attribute id="Time" type="float" value="0.1478102" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-237.458" />
+															<attribute id="B" type="float" value="13.88208" />
+															<attribute id="C" type="float" value="5.71778" />
+															<attribute id="D" type="float" value="0.386878" />
+															<attribute id="Time" type="float" value="0.1669941" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-237.4678" />
+															<attribute id="B" type="float" value="-0.2156698" />
+															<attribute id="C" type="float" value="5.988235" />
+															<attribute id="D" type="float" value="0.5" />
+															<attribute id="Time" type="float" value="0.186178" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-166.7161" />
+															<attribute id="B" type="float" value="-13.79017" />
+															<attribute id="C" type="float" value="5.71778" />
+															<attribute id="D" type="float" value="0.613122" />
+															<attribute id="Time" type="float" value="0.1987173" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-104.295" />
+															<attribute id="B" type="float" value="-19.95752" />
+															<attribute id="C" type="float" value="5.293303" />
+															<attribute id="D" type="float" value="0.6823218" />
+															<attribute id="Time" type="float" value="0.207889" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="38.01345" />
+															<attribute id="B" type="float" value="-26.62289" />
+															<attribute id="C" type="float" value="4.900893" />
+															<attribute id="D" type="float" value="0.7291112" />
+															<attribute id="Time" type="float" value="0.3339882" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-42.91596" />
+															<attribute id="B" type="float" value="-6.707474" />
+															<attribute id="C" type="float" value="0" />
+															<attribute id="D" type="float" value="1" />
+															<attribute id="Time" type="float" value="0.3951834" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="117.2924" />
+															<attribute id="B" type="float" value="-12.50361" />
+															<attribute id="C" type="float" value="-1.303072" />
+															<attribute id="D" type="float" value="0.9650466" />
+															<attribute id="Time" type="float" value="0.3996344" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="187.5513" />
+															<attribute id="B" type="float" value="-10.98536" />
+															<attribute id="C" type="float" value="-1.407408" />
+															<attribute id="D" type="float" value="0.9590092" />
+															<attribute id="Time" type="float" value="0.4057196" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="268.2416" />
+															<attribute id="B" type="float" value="-7.607981" />
+															<attribute id="C" type="float" value="-1.52027" />
+															<attribute id="D" type="float" value="0.9500803" />
+															<attribute id="Time" type="float" value="0.4150295" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="268.2115" />
+															<attribute id="B" type="float" value="0.1165515" />
+															<attribute id="C" type="float" value="-1.59218" />
+															<attribute id="D" type="float" value="0.9354838" />
+															<attribute id="Time" type="float" value="0.4243393" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="188.09" />
+															<attribute id="B" type="float" value="7.556589" />
+															<attribute id="C" type="float" value="-1.52027" />
+															<attribute id="D" type="float" value="0.9208874" />
+															<attribute id="Time" type="float" value="0.4304246" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="116.8589" />
+															<attribute id="B" type="float" value="10.9403" />
+															<attribute id="C" type="float" value="-1.407408" />
+															<attribute id="D" type="float" value="0.9119584" />
+															<attribute id="Time" type="float" value="0.4348755" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-42.91595" />
+															<attribute id="B" type="float" value="14.58623" />
+															<attribute id="C" type="float" value="-1.303072" />
+															<attribute id="D" type="float" value="0.9059211" />
+															<attribute id="Time" type="float" value="0.4960707" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="33.05624" />
+															<attribute id="B" type="float" value="5.63615" />
+															<attribute id="C" type="float" value="0" />
+															<attribute id="D" type="float" value="0.8709677" />
+															<attribute id="Time" type="float" value="0.562829" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-89.31888" />
+															<attribute id="B" type="float" value="10.499" />
+															<attribute id="C" type="float" value="1.194482" />
+															<attribute id="D" type="float" value="0.905921" />
+															<attribute id="Time" type="float" value="0.5676847" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-145.2685" />
+															<attribute id="B" type="float" value="9.238857" />
+															<attribute id="C" type="float" value="1.290124" />
+															<attribute id="D" type="float" value="0.9119584" />
+															<attribute id="Time" type="float" value="0.5743231" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-206.4289" />
+															<attribute id="B" type="float" value="6.389989" />
+															<attribute id="C" type="float" value="1.393581" />
+															<attribute id="D" type="float" value="0.9208874" />
+															<attribute id="Time" type="float" value="0.5844794" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-206.4834" />
+															<attribute id="B" type="float" value="-0.09956382" />
+															<attribute id="C" type="float" value="1.459499" />
+															<attribute id="D" type="float" value="0.9354839" />
+															<attribute id="Time" type="float" value="0.5946356" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-145.409" />
+															<attribute id="B" type="float" value="-6.344442" />
+															<attribute id="C" type="float" value="1.393581" />
+															<attribute id="D" type="float" value="0.9500803" />
+															<attribute id="Time" type="float" value="0.601274" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-90.53993" />
+															<attribute id="B" type="float" value="-9.189005" />
+															<attribute id="C" type="float" value="1.290124" />
+															<attribute id="D" type="float" value="0.9590092" />
+															<attribute id="Time" type="float" value="0.6061296" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="33.05639" />
+															<attribute id="B" type="float" value="-12.2565" />
+															<attribute id="C" type="float" value="1.194484" />
+															<attribute id="D" type="float" value="0.9650466" />
+															<attribute id="Time" type="float" value="0.672888" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-40.46144" />
+															<attribute id="B" type="float" value="-12.76259" />
+															<attribute id="C" type="float" value="0" />
+															<attribute id="D" type="float" value="1" />
+															<attribute id="Time" type="float" value="0.796391" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="111.2267" />
+															<attribute id="B" type="float" value="-23.79992" />
+															<attribute id="C" type="float" value="-5.003911" />
+															<attribute id="D" type="float" value="0.7291114" />
+															<attribute id="Time" type="float" value="0.8053739" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="177.2826" />
+															<attribute id="B" type="float" value="-20.91087" />
+															<attribute id="C" type="float" value="-5.40457" />
+															<attribute id="D" type="float" value="0.6823219" />
+															<attribute id="Time" type="float" value="0.8176551" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="252.8198" />
+															<attribute id="B" type="float" value="-14.4738" />
+															<attribute id="C" type="float" value="-5.837973" />
+															<attribute id="D" type="float" value="0.6131219" />
+															<attribute id="Time" type="float" value="0.8364441" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="252.7332" />
+															<attribute id="B" type="float" value="0.2256113" />
+															<attribute id="C" type="float" value="-6.114113" />
+															<attribute id="D" type="float" value="0.4999996" />
+															<attribute id="Time" type="float" value="0.855233" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="177.4217" />
+															<attribute id="B" type="float" value="14.37665" />
+															<attribute id="C" type="float" value="-5.837973" />
+															<attribute id="D" type="float" value="0.3868779" />
+															<attribute id="Time" type="float" value="0.8675141" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="111.0386" />
+															<attribute id="B" type="float" value="20.80499" />
+															<attribute id="C" type="float" value="-5.404571" />
+															<attribute id="D" type="float" value="0.3176781" />
+															<attribute id="Time" type="float" value="0.876497" />
+														</node>
+														<node id="Frame">
+															<attribute id="A" type="float" value="-40.4614" />
+															<attribute id="B" type="float" value="27.75392" />
+															<attribute id="C" type="float" value="-5.003912" />
+															<attribute id="D" type="float" value="0.2708887" />
+															<attribute id="Time" type="float" value="1" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Brightness" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Brightness" />
+											<attribute id="Type" type="uint8" value="6" />
+											<children>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="0" />
+													<children>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="0" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="1" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Mesh GUID" />
+											<attribute id="FullName" type="FixedString" value="Debug Mesh.Mesh GUID" />
+											<attribute id="Type" type="uint8" value="10" />
+											<attribute id="Value" type="FixedString" value="ec55b190-8d4c-1523-5d0c-f6b2450cf0a0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Render Channel" />
+											<attribute id="FullName" type="FixedString" value="Render Channel" />
+											<attribute id="Type" type="uint8" value="1" />
+											<attribute id="Value" type="int32" value="0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Mesh Animation" />
+											<attribute id="FullName" type="FixedString" value="Debug Mesh.Animation" />
+											<attribute id="Type" type="uint8" value="10" />
+											<attribute id="Value" type="FixedString" value="" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Mesh Animation Speed" />
+											<attribute id="FullName" type="FixedString" value="Debug Mesh.Animation Speed" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="1" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply Base Map" />
+											<attribute id="FullName" type="FixedString" value="Apply Base Map" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply Normal Map" />
+											<attribute id="FullName" type="FixedString" value="Apply Normal Map" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="True" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply Physical Map" />
+											<attribute id="FullName" type="FixedString" value="Apply Physical Map" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="False" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Apply Glow Map" />
+											<attribute id="FullName" type="FixedString" value="Apply Glow Map" />
+											<attribute id="Type" type="uint8" value="0" />
+											<attribute id="Value" type="bool" value="False" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Overlay Priority" />
+											<attribute id="FullName" type="FixedString" value="Overlay Priority" />
+											<attribute id="Type" type="uint8" value="1" />
+											<attribute id="Value" type="int32" value="0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Fade Time (in seconds)" />
+											<attribute id="FullName" type="FixedString" value="Fade Time (in seconds)" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="0" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Dynamic Value" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Dynamic Value" />
+											<attribute id="Type" type="uint8" value="6" />
+											<children>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="0" />
+													<children>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="0" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="1" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+													</children>
+												</node>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="0" />
+													<children>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="0" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="1" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+													</children>
+												</node>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="0" />
+													<children>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="0" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="1" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+													</children>
+												</node>
+												<node id="Frames">
+													<attribute id="FrameType" type="uint8" value="0" />
+													<children>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="0" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+														<node id="Frame">
+															<attribute id="Time" type="float" value="1" />
+															<attribute id="Value" type="float" value="0" />
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Modifier X" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Modifier X" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="1" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Modifier Y" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Modifier Y" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="1" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Modifier Z" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Modifier Z" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="1" />
+										</node>
+										<node id="Property">
+											<attribute id="AttributeName" type="FixedString" value="Modifier W" />
+											<attribute id="FullName" type="FixedString" value="Dynamic Parameters.Modifier W" />
+											<attribute id="Type" type="uint8" value="4" />
+											<attribute id="Value" type="float" value="1" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Inputs">
+					<children>
+						<node id="Input">
+							<attribute id="Name" type="FixedString" value="Target Visual" />
+							<attribute id="Type" type="uint8" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="Phases">
+					<children>
+						<node id="Phase">
+							<attribute id="Duration" type="float" value="1" />
+							<attribute id="PlayCount" type="int32" value="1" />
+						</node>
+						<node id="Phase">
+							<attribute id="Duration" type="float" value="1" />
+							<attribute id="PlayCount" type="int32" value="-1" />
+						</node>
+						<node id="Phase">
+							<attribute id="Duration" type="float" value="1" />
+							<attribute id="PlayCount" type="int32" value="1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

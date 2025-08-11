@@ -1,0 +1,82 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// Database to track chests in deletion process
+DB_AMP_ChestDeletionInProgress((ITEM)NULL_00000000-0000-0000-0000-000000000000);
+KBSECTION
+// Play Orthon laughter when Astral Chest is opened (with 1 second delay)
+IF
+Opened((ITEM)_Container)
+AND
+IsTagged(_Container, (TAG)ASTRAL_CHEST_KNOCK_d5d006a2-613a-4c2e-87b4-a529c2ce9816, 1)
+THEN
+DB_AMP_AstralChest_LaughterPending(_Container, 1);
+ObjectTimerLaunch(_Container, "AMP_AstralChest_Laughter", 1000, 0);
+
+// Timer finished - play the laughter
+IF
+ObjectTimerFinished((ITEM)_Container, "AMP_AstralChest_Laughter")
+AND
+DB_AMP_AstralChest_LaughterPending(_Container, 1)
+THEN
+PlaySound(_Container, "Orthon_Voice_Combat_Laughter");
+NOT DB_AMP_AstralChest_LaughterPending(_Container, 1);
+
+// Track when an item is removed from Astral Chest
+IF
+RemovedFrom((ITEM)_Item, (GUIDSTRING)_Container)
+AND
+IsTagged(_Container, (TAG)ASTRAL_CHEST_KNOCK_d5d006a2-613a-4c2e-87b4-a529c2ce9816, 1)
+THEN
+PROC_AMP_CheckAndDeleteEmptyChest((ITEM)_Container);
+
+// Check if chest is empty and delete it if needed
+PROC
+PROC_AMP_CheckAndDeleteEmptyChest((ITEM)_Container)
+AND
+IsInventoryEmpty(_Container, 1)
+AND
+NOT DB_AMP_ChestDeletionInProgress(_Container)
+AND
+GetPosition(_Container, _X, _Y, _Z)
+THEN
+// Mark this chest as being processed
+DB_AMP_ChestDeletionInProgress(_Container);
+// Play visual effect before deleting
+PlayEffectAtPosition(AMP_Lootbox_Poof_c2df298a-1926-695f-0de8-88372b87b05c, _X, _Y, _Z, 1.0);
+// Wait a short time before actually deleting
+ObjectTimerLaunch(_Container, "AMP_DeleteEmptyChest", 500, 0);
+
+// Handle the timer when it completes
+IF
+ObjectTimerFinished((ITEM)_Container, "AMP_DeleteEmptyChest")
+AND
+IsTagged(_Container, (TAG)ASTRAL_CHEST_KNOCK_d5d006a2-613a-4c2e-87b4-a529c2ce9816, 1)
+AND
+IsInventoryEmpty(_Container, 1)
+THEN
+NOT DB_AMP_ChestDeletionInProgress(_Container);
+RequestDelete(_Container);
+
+// If the timer finishes but the container is no longer empty
+IF
+ObjectTimerFinished((ITEM)_Container, "AMP_DeleteEmptyChest")
+AND
+DB_AMP_ChestDeletionInProgress(_Container)
+AND
+NOT IsInventoryEmpty(_Container, 1)
+THEN
+NOT DB_AMP_ChestDeletionInProgress(_Container);
+
+// If the timer finishes but the container no longer has the tag
+IF
+ObjectTimerFinished((ITEM)_Container, "AMP_DeleteEmptyChest")
+AND
+DB_AMP_ChestDeletionInProgress(_Container)
+AND
+NOT IsTagged(_Container, (TAG)ASTRAL_CHEST_KNOCK_d5d006a2-613a-4c2e-87b4-a529c2ce9816, 1)
+THEN
+NOT DB_AMP_ChestDeletionInProgress(_Container);
+EXITSECTION
+
+ENDEXITSECTION

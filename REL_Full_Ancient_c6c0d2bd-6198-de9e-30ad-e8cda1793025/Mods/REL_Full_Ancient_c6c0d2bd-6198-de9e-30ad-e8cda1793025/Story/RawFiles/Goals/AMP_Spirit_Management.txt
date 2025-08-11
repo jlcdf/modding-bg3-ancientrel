@@ -1,0 +1,35 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+EnteredLevel((CHARACTER)_Spirit, _Template, _Level)
+AND
+_Template == Spirit_Weak_7811ecf3-2657-4820-99e8-8c6844e147e1
+AND
+GetFaction(_Spirit, _SpiritFaction)
+AND
+DB_Players((CHARACTER)_Player)
+AND
+GetFaction(_Player, _PlayerFaction)
+THEN
+SetRelation(_SpiritFaction, _PlayerFaction, 100);
+SetRelation(_PlayerFaction, _SpiritFaction, 100);
+
+IF
+EnteredLevel((CHARACTER)_Spirit, _Template, _Level)
+AND
+_Template == Spirit_Strong_6deb06a7-ffbb-4924-a547-2ce9bd38591b
+AND
+GetFaction(_Spirit, _SpiritFaction)
+AND
+DB_Players((CHARACTER)_Player)
+AND
+GetFaction(_Player, _PlayerFaction)
+THEN
+SetRelation(_SpiritFaction, _PlayerFaction, 100);
+SetRelation(_PlayerFaction, _SpiritFaction, 100);
+EXITSECTION
+
+ENDEXITSECTION

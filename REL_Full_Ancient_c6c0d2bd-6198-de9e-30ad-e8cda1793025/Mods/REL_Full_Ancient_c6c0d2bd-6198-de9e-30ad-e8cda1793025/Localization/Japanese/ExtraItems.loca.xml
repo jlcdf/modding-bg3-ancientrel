@@ -1,0 +1,288 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h37514dc8g973ag4156g8383g5bf7ba44054d" version="1">魔法の雫</content>
+  <content contentuid="hbdc2841dga7aeg4e6dgb7c0g333297ab6155" version="1">あなたが&lt;LSTag Type="Status" Tooltip="WET"&gt;水濡れ&lt;/LSTag&gt;状態でないとき、&lt;LSTag Tooltip="ArmourClass"&gt;アーマー・クラス&lt;/LSTag&gt;が&lt;b&gt;[1]&lt;/b&gt;減少する&lt;bｒ&gt;あなたが&lt;LSTag Type="Status" Tooltip="WET"&gt;水濡れ&lt;/LSTag&gt;状態の間、&lt;LSTag Tooltip="ArmourClass"&gt;アーマー・クラス&lt;/LSTag&gt;が&lt;b&gt;[2]&lt;/b&gt;増加する</content>
+  <content contentuid="hcc5598b8geadbg4decgaebfgf1fe04d628c1" version="1">氷の棘</content>
+  <content contentuid="h56591518gf664g4d79gab69g7bc5265d253c" version="1">あなたが&lt;LSTag Type="Spell" Tooltip="Target_MageArmor"&gt;魔術師の鎧&lt;/LSTag&gt;の効果を受けている間、&lt;b&gt;[1]&lt;/b&gt;を与える呪文や初級呪文は対象に&lt;LSTag Type="Status" Tooltip="WEAPON34"&gt;深い出血&lt;/LSTag&gt;を与える（対象が出血に対して耐性を持っていても）</content>
+  <content contentuid="hbe6dd597g22a1g4c89ga03dg11391febb782" version="1">小さなウォーターエレメンタル</content>
+  <content contentuid="h65d4cdb3g6e1dg4f54ga4a2g9180c89e6fd3" version="1">あらゆる距離で&lt;b&gt;[1]&lt;/b&gt;攻撃に優れた小さなウォーターエレメンタルを召喚する</content>
+  <content contentuid="h7a13b994gd956g466bga0b3ga3aed7adf2ab" version="1">勇者の威圧</content>
+  <content contentuid="hae929212g0cc9g4dfag9912gf08c7625daa5" version="1">あなたが&lt;LSTag Type="Spell" Tooltip="Shout_Champion_Challenge"&gt;勇者の挑戦&lt;/LSTag&gt;を使用すると、影響を受けた敵は&lt;b&gt;[1]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;恐怖状態&lt;/LSTag&gt;になる</content>
+  <content contentuid="h24d5e050gcce9g492dg897fge25bf9aaa1a2" version="1">目潰しの罰</content>
+  <content contentuid="h14531d06gf79ag4e97ga5a5g546171c8311f" version="1">近接範囲内の敵があなたに対する攻撃をミスしたとき、即座に&lt;LSTag Type="Spell" Tooltip="Target_AMP_Smite_Blinding"&gt;目潰す一撃&lt;/LSTag&gt;で反撃できる&lt;br&gt;反撃には&lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;誓いの伝導&lt;/LSTag&gt;チャージを1消費する</content>
+  <content contentuid="h9d837f60g6ce8g42d4gb096geb1846dbc495" version="1">大いなるウォーターエレメンタル</content>
+  <content contentuid="hcf966e8bgd552g4771gba12gec6a11d16cda" version="1">あらゆる距離で&lt;b&gt;[1]&lt;/b&gt;攻撃に優れた大きなウォーターエレメンタルを召喚する</content>
+  <content contentuid="h12d43b61ga14bg43bfgbb10gb531f0802b2f" version="1">冬の息吹</content>
+  <content contentuid="h5a723dacga48cg4d7bgbbbagdf51a0ed7c83" version="1">あなたの呪文や初級呪文が&lt;b&gt;[1]&lt;/b&gt;を与えるとき、追加で&lt;b&gt;[2]&lt;/b&gt;も与える</content>
+  <content contentuid="h9936810fg8df2g4d1bgbb30g2bb7f0d0fe6f" version="1">あなたが&lt;b&gt;[1]&lt;/b&gt;を受けた時、攻撃者に&lt;b&gt;[2]&lt;/b&gt;を与える</content>
+  <content contentuid="h4025396eg68d8g4a7ag9641gb6bf4c2b3225" version="1">あなたの&lt;b&gt;近接&lt;/b&gt;攻撃が&lt;b&gt;[1]&lt;/b&gt;を与えるとき、追加で&lt;b&gt;[2]&lt;/b&gt;も与える</content>
+  <content contentuid="h692c2cd0g9edbg499bga2d2g96f625dd7aef" version="1">あなたの&lt;b&gt;レベル有り呪文&lt;/b&gt;による攻撃が&lt;b&gt;[1]&lt;/b&gt;を与えるとき、追加で&lt;b&gt;[2]&lt;/b&gt;も与える</content>
+  <content contentuid="h501bc9dfg0522g4637g8248g6d42fe601b4f" version="1">あなたの&lt;b&gt;素手&lt;/b&gt;攻撃は追加で&lt;b&gt;[1]&lt;/b&gt;も与える</content>
+  <content contentuid="h23940932g0662g4cf7g8cbfg916744cb573a" version="1">あなたの&lt;b&gt;投擲&lt;/b&gt;攻撃は追加で&lt;b&gt;[1]&lt;/b&gt;も与える</content>
+  <content contentuid="h15525d08g9756g4167g9ef8gd66c6bd81b40" version="1">あなたの&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が&lt;b&gt;[2]%&lt;/b&gt;未満の時、あなたの攻撃は追加で&lt;b&gt;[1]&lt;/b&gt;も与える</content>
+  <content contentuid="h1d8ae7a2g1786g4663gb20ag06857f653ce1" version="1">あなたの&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が&lt;b&gt;[2]%&lt;/b&gt;を超えている時、追加で&lt;b&gt;[1]&lt;/b&gt;も与える</content>
+  <content contentuid="hc06f2fd6ge748g4b6aga6a7g7b810fd7435f" version="1">あなたの&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が&lt;b&gt;[3]%&lt;/b&gt;未満の状態で、呪文や初級呪文で&lt;b&gt;[1]&lt;/b&gt;を与えるとき、追加で&lt;b&gt;[2]&lt;/b&gt;も与える</content>
+  <content contentuid="h2310f382gbcb3g43b3g912ag928aba4882e4" version="1">あなたの&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が&lt;b&gt;[3]%&lt;/b&gt;を超えている状態で、呪文や初級呪文で&lt;b&gt;[1]&lt;/b&gt;を与えるとき、追加で&lt;b&gt;[2]&lt;/b&gt;も与える</content>
+  <content contentuid="h2915d88cgb7b6g4678g88eagb90d2cbbd37a" version="1">攻撃を&lt;b&gt;ミス&lt;/b&gt;した場合でも、敵に&lt;b&gt;[1]&lt;/b&gt;を与える</content>
+  <content contentuid="h7fe43e4dgffcfg4f9bg8b46g2db1f25339ca" version="1">攻撃を&lt;b&gt;クリティカル・ミス&lt;/b&gt;した場合でも、敵に&lt;b&gt;[1]&lt;/b&gt;を与える</content>
+  <content contentuid="hc6ad8785g5cc6g4ec8g987fg13f3d53576ed" version="1">あなたが何らかの&lt;LSTag Type="Status" Tooltip="STATUS"&gt;状態&lt;/LSTag&gt;を受けているとき、追加で&lt;b&gt;[1]&lt;/b&gt;を与える</content>
+  <content contentuid="hbad50d1dge5d8g4a0eg9d08g450db15b9930" version="1">王者の護り</content>
+  <content contentuid="h762875c1g8871g4575g921cgeb13ee10dcd1" version="1">&lt;LSTag Tooltip="ArmourProficiency"&gt;重装鎧&lt;/LSTag&gt;と&lt;b&gt;盾&lt;/b&gt;を装備していると、受ける全てのダメージは&lt;b&gt;[1]&lt;/b&gt;減少する</content>
+  <content contentuid="h6b59a3dbgf4d1g4172gb3acg6ad0ea28316a" version="1">天空の要塞</content>
+  <content contentuid="h107efa4cgd728g45f1gbd3ag1878ac725b5b" version="1">サイオニック・グラスプ</content>
+  <content contentuid="h16873f45g95a5g4f84g941dg3ab7d371492e" version="1">&lt;b&gt;[1]&lt;/b&gt;内のすべての貴重なアイテムを着用者のところへテレポートさせる&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;この機能はパッシブ効果タブで切り替えることができる</content>
+  <content contentuid="hf5f03431g6f2fg45b7ga888g38bff853b057" version="1">サイオニック・ヘルム</content>
+  <content contentuid="he5638188g909dg4eb9g963fg301ff4c5b9bf" version="1">太古の期待に震える汝の手が、紫黒色の兜を汝の王冠に乗せたとき、最も奇妙な感覚が汝に訪れた。それはまるで、北の荒野の大氷塊が、春の止むことのない前進に屈するのを目撃するような、あるいは、儀式と意志だけで作られた船に乗って、アストラル平原の危険な潮流を航海するような感覚であった。汝の指先には不思議な冷たさが訪れ、骨と髄の奥深くまで到達する。一方、舵の密室では、人間にはない存在が、力と意思のサイオニック・タペストリーを織り始めた。このエルドリッチな発見が、持ち主にどのような古代の力を、どのような忘れられた術を授けるのか。その答えは、汝の思考を包む運命のささやきの中にある。</content>
+  <content contentuid="hef6f326aga252g48d7g912cg233e24efbb34" version="1">Paramonovからのメモ</content>
+  <content contentuid="h91e8ed28gc9ffg422dgbe6cgf607e0b272de" version="1">必読！</content>
+  <content contentuid="h7f99e6edga2ecg433dga40ag03afa3182b4e" version="1">こんにちは！このコレクションは、最終拡張パック「RICHER BUILDS」の一環として作成された新しい装備品を収録したものです&lt;br&gt;なぜこれを作っているのか、簡単に説明させてください&lt;br&gt;&lt;br&gt;&lt;b&gt;進行バランス&lt;/b&gt;&lt;br&gt;mod.ioのModページ（訪問は大歓迎ですが、英語でお願いします）で、多くのプレイヤーから「ランダム性のあるModにもかかわらず、ちゃんとしたビルドがなかなか組めない」といったコメントをもらいました&lt;br&gt;これはもっともなことで、ランダムな装備プールの中でシナジーが十分に凝縮されていないからです&lt;br&gt;想像してみてください：1200個のアイテムがあり、ほとんどが固有のメカニクスを持っているんです&lt;br&gt;つまり今必要なものは、そのメカニクスを補完するような新装備奈のではないかと考えました&lt;br&gt;しかもできるだけ短期間で、それに必要な時間的リソースを抑えながらです&lt;br&gt;&lt;br&gt;&lt;b&gt;時間的リソース&lt;/b&gt;&lt;br&gt;私がこのModを一人で作っていることは、もうご存知かもしれません。手伝ってくれる人はいません&lt;br&gt;なので、コンテンツのリリースを早めるには、いくつかの作業を後回しにしたり、圧縮したりする必要があります&lt;br&gt;たとえば、マントのアイコンを新フォーマットに差し替える作業や、古いアーティファクトのVFX（ビジュアルエフェクト）を完成させる作業は、まだ手がつけられていません&lt;br&gt;今回も同じ方針で進めます。コストが高すぎる作業は除外し、最も重要なものに集中します&lt;br&gt;&lt;br&gt;&lt;b&gt;もっとも重要なもの&lt;/b&gt;&lt;br&gt;それは「ゲームプレイ」です&lt;br&gt;みんなが望んでいるのは、好きなシナジーに合う、たくさんの新しくて良いアイテムを手に入れること、そして新しいビルドの発見です&lt;br&gt;だから今回の最終拡張では、アイコンや固有名、フレーバーテキストといった新しいアセットの使用を最小限に抑えようと思います&lt;br&gt;そうした要素は非常に時間のかかる創造的な作業で、制作速度に大きく影響するからです&lt;br&gt;今はゲーム性の部分にだけ集中します&lt;br&gt;もちろん、もっとアイテムごとに設定やフレーバーを練りたい気持ちはありますが、私一人で作っている限り制作速度は上がらないのでこの方法しか現実的ではありません&lt;br&gt;&lt;br&gt;&lt;b&gt;協力のお願い&lt;/b&gt;&lt;br&gt;現在、どのシナジーを優先して開発すべきかプレイヤーの投票を集めています（GoogleフォームのリンクはModの説明欄にあります）&lt;br&gt;基本的には私自身のビジョンに基づいたアイデアが中心ですが、アンケートに追加する候補として他のシナジー案も検討します&lt;br&gt;気に入った選択肢をいくつか選んで、あなたのゲーム体験を教えてください。よろしくお願いします。そして「Ancient Mega Pack」を遊んでくれてありがとう</content>
+  <content contentuid="h6ea5de53g647fg4d09ga4b0g904ca4db08f7" version="1">新装備を入手</content>
+  <content contentuid="h5a8533c8g0d6fg4d79gb623g6851770d7c93" version="1">新しい拡張プランで追加された装備を確認できる。これらの装備は既存のアセットを使用することで出来る限り高速な量産を可能にしている&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;これらの装備を確認すると、それ以降世界に出現しなくなってしまいます&lt;/b&gt;</content>
+  <content contentuid="h4d38d22bgc59ag42a7g9fa2gf2befae05187" version="1">氷雪の防壁</content>
+  <content contentuid="h4ce464fdgcc68g4de2ga705g168e6356070f" version="1">強大な冬の民の後援者を呼び出し、他者にダメージを与えるまで無敵状態になる</content>
+  <content contentuid="h281e8278g9315g4deeg8ee7gb02091295a5f" version="1">影響を受けた者は敵の攻撃や呪文の対象にならない&lt;br&gt;ただし、広範囲に影響を及ぼす呪文からは依然としてダメージを受ける可能性がある。&lt;br&gt;&lt;br&gt;この状態は、影響を受けた者が他のクリーチャーを攻撃したり害を加えたりすると終了し、その時は&lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY_BLOCK"&gt;フロスト・ブルワーク封印&lt;/LSTag&gt;を&lt;b&gt;[1]&lt;/b&gt;ターンの間受ける</content>
+  <content contentuid="h68b3c4bfg2df0g4f55gab6ag69b56c4f8183" version="1">封印された氷雪の防壁</content>
+  <content contentuid="hff18f573ga14ag4b8bga224g37e05283d001" version="1">影響を受けた者は、&lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY"&gt;氷雪の防壁&lt;/LSTag&gt;を受けられない</content>
+  <content contentuid="hb2ab5877g9c6fg4bbeg8fc8gc4fd1b1a0040" version="1">女王のヴェール</content>
+  <content contentuid="h2d803397gb43eg4629g87d5gc1583985a4b9" version="1">&lt;b&gt;[1]&lt;/b&gt;以内に&lt;b&gt;味方&lt;/b&gt;がいないとき、&lt;b&gt;[2]&lt;/b&gt;に対して&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を得る&lt;br&gt;また氷の上で滑ることはなく、&lt;LSTag Type="Status" Tooltip="WET"&gt;水濡れ&lt;/LSTag&gt;状態にもならない</content>
+  <content contentuid="hf0f32c46g1d71g4652g98bag217acbbb1888" version="1">&lt;b&gt;[1]&lt;/b&gt;に対して&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を持ち、&lt;b&gt;氷&lt;/b&gt;の上で滑ることはなく、&lt;LSTag Type="Status" Tooltip="WET"&gt;濡れ&lt;/LSTag&gt;状態にもならない</content>
+  <content contentuid="hd379c44fg4257g488bgb380gf1679a4446cd" version="1">Frost Saturation</content>
+  <content contentuid="h76de04e2g319cg49e0g9428ga8f8ff6d9333" version="1">&lt;b&gt;凍結した地面&lt;/b&gt;の上に立っている間、ターン終了時に&lt;b&gt;[1]&lt;/b&gt;を回復する</content>
+  <content contentuid="hafa4f12dg1189g498agb32ega6f9bf023ab7" version="1">&lt;b&gt;凍結した地面&lt;/b&gt;の上に立っている間、&lt;b&gt;[1]&lt;/b&gt;を回復する</content>
+  <content contentuid="hbf45a25ag1bfbg4880g8cb9g3934a11c66ca" version="1">死神の到来</content>
+  <content contentuid="h3f5e42begf7a8g4bbcga7b7gd6602cdf89db" version="1">魔法の投擲</content>
+  <content contentuid="hbb01a358gce46g4cd6g9c70gd66813a425a2" version="1">不安定な動き</content>
+  <content contentuid="h396fb289g6d31g4171g997bge73718490885" version="1">&lt;LSTag Type="Spell" Tooltip="Throw_Telekinesis"&gt;念動力&lt;/LSTag&gt;を使用すると、&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;リアクション&lt;/LSTag&gt;を消費して、自身に&lt;LSTag Tooltip="WildMagic"&gt;荒ぶる魔法&lt;/LSTag&gt;の奔流を発生させることができる</content>
+  <content contentuid="h9115f109ge56ag4f65g838eg9e38b3538d1c" version="1">対象を移動させた後、&lt;LSTag Tooltip="WildMagic"&gt;荒ぶる魔法&lt;/LSTag&gt;の奔流を引き起こす</content>
+  <content contentuid="hf0a98364g780cg449ag8670gc419e56d95a0" version="1">%%% CHOOSE A CULTURALLY APPROPRIATE NAME, JACK BONES STRICTLY FOR USA AUDIENCE %%%</content>
+  <content contentuid="h2e8ffb67gd5afg4e07gbc2fg28389a02ac78" version="1">ジャック・スケルトン</content>
+  <content contentuid="h96111e77g7211g4448gb5c9gf693444b14b0" version="1">召喚:ジャック・スケルトン</content>
+  <content contentuid="h0dc18304gacdfg4795ga2b7g5d27e263e0ef" version="1">喝采を欲しがるスケルトンの決闘者を近くの死体から蘇らせる。</content>
+  <content contentuid="h66c93f54g0e96g473eg8daeg20104cfab6a8" version="1">喝采を求む者の衣服</content>
+  <content contentuid="h341afd5eg336ag4786gb0eeg3b18ce70c3cd" version="1">ジャックは死後、劇場のカーテンからこの黒魔術師のローブを縫った。彼は今も永遠の喝采を求めている。</content>
+  <content contentuid="hbb333835g9ef0g4f11gb74agd27e158dcaaf" version="1">注目の的</content>
+  <content contentuid="h79a94c73gcc0ag4cf5g9c67g484afd279a93" version="1">&lt;b&gt;[1]&lt;/b&gt;以内で&lt;b&gt;アンデッド&lt;/b&gt;が死亡するたび、&lt;b&gt;[2]&lt;/b&gt;の範囲に&lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;混乱&lt;/LSTag&gt;の波が発生する</content>
+  <content contentuid="hfab0bd82g8cfbg45dfgb965g66504d36aaca" version="1">光り輝く楽観主義</content>
+  <content contentuid="h39f5db86g96afg4c48g9ff3ge5feac49d5a2" version="1">闇の中の光</content>
+  <content contentuid="h28e86fc9g99fbg4e8dg91f6gd5dc8f855b98" version="1">強き嵐</content>
+  <content contentuid="h6f6658f7gdf22g4952ga5c7g3a03c09a4d84" version="1">嵐のメダリオン</content>
+  <content contentuid="h64af2da9g175cg4b84ga7d9gae42f2cc6555" version="1">ストームコーラー一族の若いシャーマンが、何カ月もかけて峠の嵐を観察し、閃光や落雷のすべてを記録していた。その3日後、彼は仲間に発見され、斜面をさまよいながら 「落雷と落雷の間のダンス」についてつぶやいていた。お守りの中には、彼が捕らえた嵐--あの最後の嵐--がまだ鳴り響いていた。</content>
+  <content contentuid="h4da9dcd4gc58dg49d9gb6cagefbfd5b7a2e6" version="1"></content>
+  <content contentuid="h745f0ee6g2bb9g45b0gbd54g600b7253dc3b" version="1">%%% DONT TOUCH STUFF BELOW, STILL IN DEVELOPMENT!!!! %%%</content>
+  <content contentuid="h54f68c4cgd309g4761gac91ga0d888e90af7" version="1">Valerian's Artful Boots</content>
+  <content contentuid="h32994387ga95ag4f98g94cbg911d6ded6b2d" version="1"></content>
+  <content contentuid="hc2685098gae65g4834g8dbeg2f049cc405e6" version="1">Revolietti's Mastery</content>
+  <content contentuid="hc63bd2ffg8a4cg4699g9f1dgbb2d9656cc77" version="1">You cannot be knocked prone and are not slowed on difficult terrain. You do not provoke opportunity attacks while carrying a bow.</content>
+  <content contentuid="h2fea3bbag1bb5g436ag8fdfgb29362ed0483" version="1">Crown of the Vludber "Bugbear"</content>
+  <content contentuid="h5108686egdeebg4c36gb8a7g29bff87d0a74" version="1">Vludber, the only halfling to become an honorary chieftain of the Spine of the World bugbear tribe, possessed a unique gift of tailoring his jokes to any audience, be it a noble assembly or a troll's den. The bugbears still perform his 'Laughing Giant Dance' during important ceremonies, though none have achieved the mastery of the original.</content>
+  <content contentuid="hc23f2ccfgc308g42d5g80f4g48c85c2a99d0" version="1">Amazing Jokes</content>
+  <content contentuid="h9173ac24ga40cg4cf3ga6ceg4672e12ee9c2" version="1">When you use actions, all foes within 5m around you must pass an Intelligence saving throw (4) or be overcome with terrible laughter for 2 turns. [Charisma +1(22)]</content>
+  <content contentuid="hff70d244g19abg4ec9ga7c3g9795648f2cfc" version="1">Ring of the Mustached Githzerai</content>
+  <content contentuid="hf6dce18fg9714g44d6ga50ag043c6fd3c390" version="1"></content>
+  <content contentuid="h7ed93ec7gd75bg4117g9b2fgdfe9477f7041" version="1">Githzerai Saturation</content>
+  <content contentuid="h29caaa06g9240g4720gb533g63e710348334" version="1">If you are a githyanki or disguised as one, accumulate Astral Tirelessness each turn in combat. After accumulating 10 charges, you can spend them to restore a rage charge. [Strength +1(22)]</content>
+  <content contentuid="hac7ef674ge1a3g4e65gb205g63dec159e17b" version="1">Astral Tirelessness</content>
+  <content contentuid="ha3da4117g6fa7g416bg9269g887d40d74533" version="1">If you are not wearing armor and a shield, gain +2 to Armor Class.</content>
+  <content contentuid="hee85e200gc7c6g4a90gb2beg745ee6f59f92" version="1">Truant's Diplomat Hat</content>
+  <content contentuid="h760d6e29g7aafg4704g9630g0bf3a10383e4" version="1">This elegant plumed hat belonged to a famous northern diplomat whose peace negotiations saved more lives than the swords of the greatest heroes. Neverwinter tavern regulars remember how visitors would forget their initial purposes, spending hours in conversations with a man who valued every opinion, regardless of the speaker's origins.</content>
+  <content contentuid="h73ecc0efg64ebg4145g9263gb4a8e266093f" version="1">Quick Acrobatics</content>
+  <content contentuid="ha10fc6cbg8068g43dcg99d1g4d842a159963" version="1">-1 to damage. [Jump without spending resources]</content>
+  <content contentuid="h7b267c00gc67ag4d96g8005g1de7cbf3e6ca" version="1">Lord Zheaniv's Ring</content>
+  <content contentuid="h124cb44agb175g4321ga9edg4b1c405598c1" version="1">Shadow Breath</content>
+  <content contentuid="h8a9cf0e6gd739g4319ga407gbfcf73a71adf" version="1">All burning objects within 15m of you are instantly extinguished. Constitution increases for each turn spent in shadows during combat, up to +3.</content>
+  <content contentuid="hf6cb4b8dgcf4bg4463gab0ag0e0ac393875e" version="1"></content>
+  
+  <content contentuid="h81923b83gdb35g4de1ga0c7g2ea36786494e" version="1">深い共鳴のブーツ</content>
+  <content contentuid="h291147ddgb74cg434cg9152gff7fdef08951" version="1">この古代のブーツは、ネザリルの魔法使いたちが変成魔法の限界を研究して作ったものだ。作者は自ら進んで石になったが、彼の意志は岩を通して共鳴し続け、敵を粉砕する強力な振動を生み出した。この効果を増幅させるために、靴底には重い金属板が組み込まれている。</content>
+  <content contentuid="h9a880ed5g25f3g4f88gbb66g292d4fc6a806" version="1">深い共鳴</content>
+  <content contentuid="h99f41936gc99fg412dg9082gc63539dba2d8" version="1">あなたが&lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;石化&lt;/LSTag&gt;状態のとき、戦闘中のターン開始時にあなたの石の身体が強力な振動を発生させ、範囲内のすべての敵に&lt;b&gt;[1]&lt;/b&gt;のダメージを与える（範囲は&lt;b&gt;[2]&lt;/b&gt;）</content>
+  <content contentuid="hbe559570g68a2g429dga935g2f1d97d9e831" version="1">石化した身体から強力な振動が発せられ、破壊的な音波が発生する</content>
+  
+  <content contentuid="he83b9ae8g9392g1af1geedfgbfa00fbb2dce" version="14">ドスロフェニア</content>
+  
+  <content contentuid="h80d47a3cg88adg4c68gbe6agcc8aae2a568c" version="3">クリーチャーを倒すと、&lt;b&gt;任意のレベル&lt;/b&gt;の呪文を、&lt;LSTag Tooltip="SpellSlot"&gt;呪文スロット&lt;/LSTag&gt;を消費せずに詠唱できる</content>
+  
+  <content contentuid="hf1cdef74g3fb1g27ceg860ag680d595bf77c" version="1">ラランギュンディル</content>
+  <content contentuid="hd7a62e41gf8cag70e0ga642g8df112f274d0" version="1">この細身の片手ハンマーの金属には魔法のルーンが覆い、ほぼ全表面が明るい青色に輝いている。柄に触れた瞬間、手を強くはじかれた — 電撃を受けたのだ！ しかし慣れると軽いマッサージ効果すら感じられた。解読しようとしたルーンの中で、唯一翻訳できたのは「ラランギュンディル」という単語だけ。意味は不明。</content>
+  <content contentuid="h8be4e186g1dc7g996cg3d5dgeaec3f7ddd9e" version="1">ラランギュンディルの放電</content>
+  <content contentuid="hb1feaa23g54c8gec34g3870g10a23cb90c2c" version="1">&lt;b&gt;[1]&lt;/b&gt;以上の&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;電撃チャージ&lt;/LSTag&gt;を得ると、あらゆる次の攻撃で半径&lt;b&gt;[2]&lt;/b&gt;の爆発を起こし、すべてのクリーチャーに&lt;b&gt;[4]&lt;/b&gt;のダメージを与える。また地面を帯電させる&lt;br&gt;&lt;br&gt;対象のクリーチャーは敏捷力&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;（難易度&lt;b&gt;[3]&lt;/b&gt;）に成功すればダメージを半減できる</content>
+  
+  <content contentuid="h9a0f33e3g0712g9b26gdc1agd68629fcaa0f" version="1">共鳴の先触れ</content>
+  <content contentuid="he06a808cg25dbgb270g623eg3551dee64436" version="1">この透かし細工の剣はあらゆる面が金色に輝き、刃は戦闘中に軽やかな音色を響かせるほど完璧に研ぎ澄まされている。</content>
+  <content contentuid="hcf55ff67g948bgde71gd1b4g2a37a835beff" version="1">不安定なリズム</content>
+  <content contentuid="h705015bbga0ebg47f1g14d2g919ea5eee163" version="1">この剣で敵を攻撃すると、&lt;LSTag Type="Status" Tooltip="CADENCE_STACK"&gt;律動&lt;/LSTag&gt;のスタックを&lt;b&gt;[1]&lt;/b&gt;得る</content>
+  <content contentuid="hbb09afdeg01b1g7ce0g5bb5gad839e82fc67" version="1">律動</content>
+  <content contentuid="hf1b6e256gd200g58ffgbc54gb6f513b511d3" version="1">この効果のスタックごとに武器攻撃によるダメージが&lt;b&gt;+[1]&lt;/b&gt;される&lt;br&gt;&lt;br&gt;攻撃時にスタック数が&lt;b&gt;[2]&lt;/b&gt;を超えている場合、共鳴の旋律を放ち、&lt;b&gt;[4]&lt;/b&gt;以内のすべてのクリーチャーに&lt;b&gt;[3]&lt;/b&gt;のダメージを与える&lt;br&gt;&lt;br&gt;対象のクリーチャーは敏捷力&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;（難易度&lt;b&gt;[5]&lt;/b&gt;）に成功すればダメージを半減できる</content>
+  
+  <content contentuid="hebd94a74gecdag42a6g84a2gcabce935669d" version="1">投擲攻撃または素手攻撃を命中させると、使用者は&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;電撃チャージ&lt;/LSTag&gt;を&lt;b&gt;[1]&lt;/b&gt;得る</content>
+
+  <content contentuid="h76636ffeg4de8g4306gb561gd37d9c0cc64c" version="1">緑の監視のプレート</content>
+  <content contentuid="h78fbbea1gfd55g4af6ga5c1g0156406e860a" version="1">千年もの間、コンダサンの森で緑の監視隊は見張りを続けている。古代の樹木の花粉が神聖な鎧にミスラルより硬い保護を形成し、彼らの永遠の任務は禁断の深森の腐敗した種「腐敗の心」を封じ込めることにある。</content>
+  <content contentuid="h12e91714g9731g4795g802bga5fa82471259" version="1">古代花粉の守護</content>
+  <content contentuid="h551c78a8g1c24g4509g9c73g45dfa5134a98" version="1">戦闘中、自分のターンに&lt;LSTag Tooltip="MovementSpeed"&gt;移動&lt;/LSTag&gt;しなかった場合、ターン終了時に&lt;b&gt;[1]&lt;/b&gt;回復する</content>
+  <content contentuid="hcc4fd6a3g3feag4c33gb83agaee1dfa42274" version="1">毎ターン終了時に&lt;b&gt;[1]&lt;/b&gt;回復する。移動すると解除される</content>
+
+  <content contentuid="hb4d543dfg057eg472eg9034g49ebdcc3b4c7" version="1">ロカンドラの衣装</content>
+  <content contentuid="ha7b94c86gff55g47e6ga299g9ec749e1158d" version="1">古代サイの死の祭司たちは、千人の殉教者が陶酔の中で死に、魂を骨の玉座に喜んで捧げた埋葬布からこの衣装を織り上げた。各糸は死の術のエッセンス—忘却を解放として受け入れた者たちの凝縮された歓喜—を脈打っている。これを纏う者は、生者と感謝する死者の間の導管となる。</content>
+  <content contentuid="h16df256dg1294g474eg85cfgd3c505754bf2" version="1">魂の牧者</content>
+  <content contentuid="hb4c70a9ag2d8fg4a4ag9ffbgb1ae872071c9" version="1">敵があなたの&lt;b&gt;死霊術&lt;/b&gt;呪文に対しセーヴを成功した場合、あなたは&lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;アクション・ポイント&lt;/LSTag&gt;を回復する&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="SpellDifficultyClass"&gt;呪文セーヴ難易度&lt;/LSTag&gt;&lt;b&gt;+[1]&lt;/b&gt;</content>
+  <content contentuid="hf6ed83c6g0208g4fc9g9e1bg414a99916c8b" version="1">死霊飽和</content>
+  <content contentuid="h13fd0edag2f74g4040gb0b0ga6bbf820489b" version="1">ターン開始時、&lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;神性伝導チャージ&lt;/LSTag&gt;を持っていると&lt;b&gt;[1]&lt;/b&gt;回復する&lt;i&gt;（あなたがアンデッドでも）&lt;/i&gt;&lt;br&gt;&lt;br&gt;効果は&lt;LSTag Tooltip="Wisdom"&gt;知力&lt;/LSTag&gt;修正値に応じて強化される</content>
+
+  <content contentuid="h1f6139fbg61fdg47afg8b81geafc4cf163e0" version="1">カランドロス大魔導師のローブ</content>
+  <content contentuid="h9eafddadge9adg4f25g9b89g538de6433e2c" version="1">大魔導師カランドロスが原初の方程式を求めてファー・レルムを侵した際、現実そのものが彼の傲慢さに反発した。彼のローブは可能性そのものから織られた生きた逆説となり、凡人の感覚を超えた光のスペクトラムを変化し続ける。纏う者は名の無い色を見、まだ唱えられていない呪文の囁きを聞くと言われている。</content>
+  <content contentuid="h57d9659dg7d1bg4be8gafa1g8a0d9466316e" version="1">致命の奔流</content>
+  <content contentuid="h870a038cga882g4cb7g9241ga4b70e4fd4a2" version="1">&lt;b&gt;呪文または初級呪文&lt;/b&gt;で&lt;LSTag Tooltip="CriticalHit"&gt;クリティカル・ヒット&lt;/LSTag&gt;を与えた際、レベル&lt;b&gt;[1]~[2]&lt;/b&gt;の&lt;LSTag Tooltip="SpellSlot"&gt;呪文スロット&lt;/LSTag&gt;を低確率で回復する</content>
+  <content contentuid="he010d034gfabag4a7bg8b23g883edab5e84a" version="1">リアリティ・ワープ</content>
+  <content contentuid="heb116c9dg806ag45e9gac8ag15ea5e93e374" version="1">敵が&lt;b&gt;クリティカル・ミス&lt;/b&gt;をしたとき、ワイルドマジックの混沌が現実を歪める——あなたの次の攻撃は&lt;LSTag Tooltip="CriticalHit"&gt;クリティカル・ヒット&lt;/LSTag&gt;になる</content>
+  <content contentuid="h5aec9d33g75ccg4743g9274g58ba3875cdb7" version="1">ワイルドマジックが現実を歪めた——あなたの次の攻撃は&lt;LSTag Tooltip="CriticalHit"&gt;クリティカル・ヒット&lt;/LSTag&gt;になる</content>
+
+  <content contentuid="hb726acb6g36ebg4975g9acdg849b7a09e0d0" version="1">深紅の宮廷の礼装</content>
+  <content contentuid="headd82f3g2852g43edga8ddg14f2f0ca586c" version="1">ラヴェンロフト城の影が垂れこめる広間にて、九つの高貴なる血族がその子らを進んで捧げ、この法衣を聖別した。盲目の神託者たちは、月なき夜の絹を、進んで血を差し出した者の静脈から引いた糸で織り上げた。その一針一針が、永遠の夜への祈りである。このローブは、自らが受けた洗礼を忘れていない――死すべき存在であることが遠い夢と化した、あの呪われた夜を。</content>
+  <content contentuid="h9b695233g963cg4728gb59eg3d01806fae0d" version="1">血の遺産</content>
+  <content contentuid="h7d159547ga2a1g47daga8cagaad8db406b8e" version="1">&lt;LSTag Type="Spell" Tooltip="Target_VampireBite_Astarion"&gt;吸血の噛みつき&lt;/LSTag&gt;または&lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;吸血の手&lt;/LSTag&gt;でダメージを与えたとき、追加で[1]を与える</content>
+
+  <content contentuid="h98994d1egfc8fg438bg81b1g4221894fd28a" version="1">グルグ族の記憶</content>
+  <content contentuid="ha3abaa9dga4cbg4ee4g80c4g87269b52bed9" version="1">「こうして裏切り者グルグ族への栄光ある遠征は幕を閉じた」――それが勝者たちの歴史に記された、一つの民の絶滅。将軍アリヤーガストは彼らを野蛮人、蛮族、文明への脅威と呼んだ。だが真実は彼らと共に死んだ。彼らは農夫であり、詩人であり、癒し手だった。アリヤーガストの息子自身、それを知っていた。密かにグルグの女性と結ばれ、戦争がすべてを飲み込む前に彼女たちの穏やかな生を学んでいたのだ。彼女が民と共に焼かれたとき、彼は十二年を喪失の中で過ごし、死者を蘇らせようとした。儀式は失敗したが、残されたのはこの呪われたマント――灰と悲嘆で織られ、虐殺された無垢の断片を宿している。</content>
+  <content contentuid="h21db9c4ag7868g490ag8f2eg68b80da39211" version="1">グルグの精霊召喚</content>
+  <content contentuid="h92c07046gc0f9g4e93gb1c7g9498a3f48274" version="1">虐殺された民の正義を求めて、グルグの祖霊の霊を呼び出す。忘れ去られた世界にとどまるため、幻霊は徐々に弱まっていく。</content>
+  <content contentuid="h9ab0147fg0123g4102g8f64g7e6aa7cfc195" version="1">グルグの精霊召喚</content>
+  <content contentuid="h39636e1fge694g444eg99d1ga56da12a285a" version="1">悲しみに満ちたグルグの精霊が攻撃者の傍らに現れ、滅びゆく民の必死の怒りをもって敵と戦う。ターンを重ねるごとに、その存在は徐々に脆さを増していく。</content>
+  <content contentuid="hb589b088g072fg49afg81b0g1de6577fd2cb" version="1">失われた血統</content>
+  <content contentuid="h682f0e1eg6402g45fcg8b98gce1b734026a2" version="1">自分が&lt;b&gt;人間&lt;/b&gt;または&lt;b&gt;ハーフエルフ&lt;/b&gt;である場合&lt;i&gt;（もしくはその姿に変装している場合）&lt;/i&gt;、&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;リアクション&lt;/LSTag&gt;を&lt;b&gt;[1]&lt;/b&gt;得る&lt;br&gt;&lt;br&gt;また自分や味方が攻撃を受けた際、&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;リアクション&lt;/LSTag&gt;を消費して、嘆きのグルグの精霊を召喚できる</content>
+  <content contentuid="h4929ba65g946ag4ec8g8340gc033f026aefa" version="1">グルグの先祖</content>
+  <content contentuid="h69664df9g4551g47e5ga975ga0cc3048f1b4" version="1">忘れられし者</content>
+
+  <content contentuid="he413d503ga1a5g4792gbdf2g0aa6a820a1b2" version="1">アイアンフォージ・ブルワーク</content>
+  <content contentuid="h73a9b30dg9465g4664g9056ge9811bc3a3d7" version="1">ミスラル・ホールの最深部、アダマンタインの溶岩が水のように流れる鍛冶場で、名匠たちがこの鎧を鍛え上げた。素材はクランゲディン自身の祝福を受けた隕鉄である。各プレートは竜火で焼き入れられ、石の巨人の涙で急冷された。シルバービアード一族は、この鎧を闇に一人で立ち向かい勝利した偉大な戦士たちに捧げた。</content>
+  <content contentuid="hd3f0d7fbg213ag4eedga1d0gf02a8da9f87d" version="1">クランゲディンの祝福</content>
+  <content contentuid="hba3a3bb4g0815g4505gb419g281bb838da13" version="1">あなたは永続的に&lt;LSTag Type="Status" Tooltip="MAG_BLADE_WARD"&gt;防刃&lt;/LSTag&gt;を得る</content>
+
+  <content contentuid="ha60da59ag519cg4a11ga802g05f94f74affe" version="1">デスパナのトロフィープレート</content>
+  <content contentuid="h0a7579fagee9fg41e0ga1bcg43863792f56b" version="1">ヴァレン・デスパナはメンゾベランザンの闘技場で栄光を得たわけではない――彼女が得たのは追放だった。百年にわたる傭兵としての戦いで百の敵を倒し、その一つ一つから一枚の鎧のプレートを奪った。スカルポートの鍛冶場で、それらを鍛え直してこの不可能とも思える鎧を作り上げた。各パーツは分子レベルで再配列され、影絹のようにしなやかに動きながらもアダマンタインのように弾く。彼女は言った、「この一枚一枚が、私が奪った命。命ごとに学んだ教訓だ」と。</content>
+  <content contentuid="h9ec8ed32gb4a0g46fega6c4g8f8cb89e4eb8" version="1">セルスウォードの刃</content>
+  <content contentuid="hc7c92b5bgb6b0g4b23gb688gbb586adb954b" version="1">自分が&lt;b&gt;ドラウ&lt;/b&gt;であるか&lt;b&gt;ドラウの姿に変装している&lt;/b&gt;場合、&lt;LSTag Tooltip="MovementSpeed"&gt;移動速度&lt;/LSTag&gt;&lt;b&gt;+[1]&lt;/b&gt;、&lt;LSTag Tooltip="AttackRolls"&gt;武器攻撃ロール&lt;/LSTag&gt;&lt;b&gt;+[3]&lt;/b&gt;、&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;ジャンプ&lt;/LSTag&gt;距離に&lt;b&gt;+[2]%&lt;/b&gt;のボーナスを得る&lt;br&gt;&lt;br&gt;さらに、この鎧を&lt;b&gt;ドラウ&lt;/b&gt;が着用すると&lt;LSTag Tooltip="OpportunityAttack"&gt;機会攻撃&lt;/LSTag&gt;を無効化し、落下ダメージを&lt;b&gt;[2]%&lt;/b&gt;軽減する効果も得られる</content>
+
+  <content contentuid="hfda22347gf29bg4183g9bdcga0bd05e1e21b" version="1">囚人の逆説</content>
+  <content contentuid="h82b80865g2251g4538g9722gc36d800e9c8a" version="1">「事例847：囚人がB-12房で次元の不具合を発見。被験者はパンを指数関数的に複製し始めた。脱走時には14トンの焼き菓子が確認された。被験者は飢餓状態でほぼ死にかけていたが、一切パンに手をつけていなかった。注記：ローブの呪文により一度着用すると脱ぐことはできない。再犯者向けに検討すること。」— ウォーターディープ刑務所の記録より破れたメモ。</content>
+  <content contentuid="h8fe55478g8240g4925g85aagedbc5bb1f57e" version="1">パンブレイク</content>
+  <content contentuid="he054cd16ged7ag46efgba4bgc92ca2780bbb" version="1">プランB</content>
+  <content contentuid="hbec7d13ag7e25g4233g87f4gb46e2430cfe6" version="1">戦闘中に自分の&lt;LSTag Tooltip="HitPoints"&gt;ヒット・ポイント&lt;/LSTag&gt;が&lt;b&gt;[1]%&lt;/b&gt;未満になると、&lt;b&gt;[2]&lt;/b&gt;以内のすべての敵は判断力&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;(&lt;b&gt;[3]&lt;/b&gt;)に成功しなければならず、失敗すると&lt;b&gt;[4]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痺&lt;/LSTag&gt;状態になる&lt;br&gt;&lt;br&gt;この効果は戦闘中&lt;b&gt;1回&lt;/b&gt;しか発動しない</content>
+  <content contentuid="hb3011a8eg9e01g44b2ga56eg50126092e10d" version="1">緊急プロトコル</content>
+  <content contentuid="h97fc88e8g1619g4b37gb247g3ea50af9acb3" version="1">半径&lt;b&gt;[1]&lt;/b&gt;内のすべてのクリーチャーを麻痺させる</content>
+  <content contentuid="h354c8ce8gc347g46c4g972fg9095bee5fea4" version="1">発覚！</content>
+  <content contentuid="h8a68bf9ag88dag4969ga82eg9feab587f6f0" version="1">宇宙の正義の秤があなたに傾いた――この呪われた法衣はあなたの魂そのものに縛り付けられる。一度着れば、&lt;b&gt;いかなる凡俗の手段でも脱ぐことはできない&lt;/b&gt;。それはあなたの緋色の烙印、恥の印、宇宙そのものからの永遠のサインである。</content>
+
+  <content contentuid="h4ade7f0fg72deg40a7g8306g7444dee48007" version="1">冬の王の戴冠鎧</content>
+  <content contentuid="he1c81ea5g2a56g43ecgab3dg709435fa0637" version="1">神々がトリルを歩く前、火が温もりを知る前、最初の冬が訪れた。その中心から絶対零度の玉座が生まれ、その上に名もなき王が座した――生者でも死者でもなく、その間の存在。彼のプレートメイルは、星がまだ夢見ていた時代に降った隕石の氷で鍛えられ、各部位は宇宙の冬の断片が形となったものだ。</content>
+  <content contentuid="hc82b37c7g96e6g4b46g9af3g86b53c5fffe4" version="1">墓の掌握</content>
+  <content contentuid="h76c0e5feg29a2g4f68g8102g25a1d70e6e36" version="1">&lt;b&gt;[1]&lt;/b&gt;を与えると、追加で&lt;b&gt;[2]&lt;/b&gt;を与える&lt;br&gt;あなたは&lt;LSTag Type="Status" Tooltip="AMP_NECROMANCER_UNDEAD_FORM"&gt;名もなき王の姿&lt;/LSTag&gt;となる</content>
+  <content contentuid="h7b68076dg02e7g4a2agb0c8g814106943245" version="1">永遠の冬</content>
+  <content contentuid="h7e4538c1g8164g4334g948ege0425b39bad2" version="1">&lt;b&gt;凍った地面&lt;/b&gt;の上に立っている間、&lt;LSTag Type="Spell" Tooltip="Wall_AMP_WallOfIce_Free"&gt;氷の壁&lt;/LSTag&gt;を&lt;b&gt;1ターンに1回無料で使用できる&lt;/b&gt;</content>
+  <content contentuid="h06d2405fg3028g4e1bg8070g830ef1799452" version="1">名もなき王の姿</content>
+  <content contentuid="h3a75c51ag1db9g42f0g8345gdd6aeb7cb8b2" version="1">あなたの肉体の一部がリッチ化する。&lt;b&gt;[1]&lt;/b&gt;に対して&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を得、&lt;b&gt;[2]&lt;/b&gt;に対して&lt;LSTag Tooltip="Resistant"&gt;抵抗&lt;/LSTag&gt;を持ち、&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;麻痺&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="POISONED"&gt;毒&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;出血&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;睡眠&lt;/LSTag&gt;、&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅了&lt;/LSTag&gt;、およびアンデッドに影響しないその他の状態異常を受けなくなる&lt;br&gt;&lt;br&gt;また、生者の治癒方法による自己回復ができなくなる</content>
+
+  <content contentuid="hf8261620gaa82g4dd4ga179gb1de6425d25a" version="1">処刑人の熱意</content>
+  <content contentuid="h4b6dff61gdd68g4826gbb00g99af04ba576f" version="1">戦闘中&lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;霧渡り&lt;/LSTag&gt;が&lt;b&gt;無料で使用できる&lt;/b&gt;</content>
+
+  <content contentuid="h4744ffafg2b4bg4253g8c9ag47c54ce0ce7f" version="1">鋼の容器の中で、記憶よりも古い模様を描く輝くエッセンスが渦巻いている。歯車状の封印には工匠の印が刻まれており、変成と縛り、星の息吹から抽出された力を示すルーンが刻まれている。強化ガラスを通してほのかな温かさが伝わり、その中の何かが今なお自らを生んだ炉を夢見ているかのようだ。</content>
+
+  <content contentuid="h7a8c4f92g0e1bg4d58g9ac3g6b9d2e47c851" version="1">毒蔦の抽出液</content>
+  <content contentuid="hf3b829a1g6c47g4e92gb815gd04f7a6c9263" version="1">毒の流れ</content>
+  <content contentuid="h2d5e6f18gb9c4g45a7g8e20g3f8b1d457e92" version="1">&lt;b&gt;武器攻撃&lt;/b&gt;で&lt;b&gt;[1]&lt;/b&gt;を与えたとき、対象は&lt;b&gt;耐久力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;を行い、失敗するとあなたは&lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;ボーナス・アクション&lt;/LSTag&gt;を回復する</content>
+
+  <content contentuid="h8a6f3c94gb729g4e51gd847gf2b8e9c45a73" version="1">雷の抽出液</content>
+  <content contentuid="hc8f4e729g5a1bg4d63g9e47g82b3c6f95d18" version="1">雷伝導</content>
+  <content contentuid="h9a7d2c41gb456g4e89ga293gf74e8b1c6d95" version="1">戦闘中の&lt;b&gt;毎ターン&lt;/b&gt;、&lt;LSTag Type="Status" Tooltip="AMP_FREE_CAST"&gt;チャージド・カタリスト&lt;/LSTag&gt;を得る</content>
+  <content contentuid="he3b6f927g4c58g4a72gb184gd9f5a8e4c631" version="1">チャージド・カタリスト</content>
+  <content contentuid="h6d1a5f38g7e92g4b65gc047ga8b2d3f67e94" version="1">次あなたの&lt;b&gt;唱える&lt;/b&gt;レベル付き呪文は&lt;LSTag Tooltip="SpellSlot"&gt;呪文スロット&lt;/LSTag&gt;を&lt;b&gt;消費しない&lt;bｒ&gt;&lt;bｒ&gt;しかし&lt;/b&gt;呪文を&lt;b&gt;唱えたとき&lt;/b&gt;、&lt;b&gt;[1]&lt;/b&gt;を受ける</content>
+
+  <content contentuid="hf5e9d172ga483g4c67gb920ge7a6c8f41d59" version="1">グールの抽出液</content>
+  <content contentuid="h4f7a8b29gc15dg4e68ga047gd3b9f5c28e71" version="1">煮えたぎる激怒</content>
+  <content contentuid="ha2e6d948g73b1g4c92gb865ge8f4a7d35c96" version="1">狂気状態のいずれかにかかっている間、あなたの&lt;b&gt;素手攻撃&lt;/b&gt;は&lt;b&gt;常に&lt;/b&gt;&lt;LSTag Tooltip="CriticalHit"&gt;クリティカル・ヒット&lt;/LSTag&gt;となる</content>
+
+  <content contentuid="h2c7b8e41gd596g4f84ga038gf9e2c5a73b64" version="1">ペガサスの涙</content>
+  <content contentuid="hb3c7f684ga928g4d51ge739gf6a4c8b91e27" version="1">不安定な跳躍</content>
+  <content contentuid="hd8f2a157gb634g4e78ga492gc5e9d7f43b86" version="1">戦闘中、対象のクリーチャーと即座に位置を入れ替える&lt;bｒ&gt;対象が&lt;b&gt;知力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;（&lt;b&gt;[1]&lt;/b&gt;）に成功した場合、&lt;b&gt;あなた&lt;/b&gt;は&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;気絶状態&lt;/LSTag&gt;になる</content>
+
+  <content contentuid="ha5c8f294gb716g4e83gd629gf7e3a9c48b65" version="1">黒曜石粉末蒸留液</content>
+  <content contentuid="h9e4f2a81gc627g4d59gb703ge8c5f9a46b84" version="1">地獄の爆発</content>
+  <content contentuid="hd7c6e391gb548g4f72ga829gf6d4a8c25e97" version="1">戦闘中に&lt;b&gt;何らかの状態異常&lt;/b&gt;を受けるたび、半径&lt;b&gt;[1]&lt;/b&gt;の&lt;b&gt;地獄の炎&lt;/b&gt;の表面を&lt;b&gt;[2]&lt;/b&gt;ターンの間、生成する</content>
+
+  <content contentuid="hf2d8e675ga439g4c61gb705gd9e3f8a27b94" version="1">ミジェックス・レルム抽出液</content>
+  <content contentuid="h8b4c7a26gd187g4f92ge638gf5a2c9e84d71" version="1">ミジェックスリウム</content>
+  <content contentuid="he7f9c421gb653g4a84gd927ga6b8f4c59e38" version="1">&lt;b&gt;負傷した敵&lt;/b&gt;にダメージを与えると、&lt;b&gt;[1]&lt;/b&gt;を得る</content>
+
+  <content contentuid="h4a7e9c63gb285g4f14gd639ge8c7f5a92b48" version="1">原始の勇気の抽出液</content>
+  <content contentuid="hc9f5d182ga647g4e39gb574gf2e8c6a71d93" version="1">液体の勇気</content>
+  <content contentuid="h6b8a4e75gd394g4c62ge187ga9f3d5c48b76" version="1">酔っ払い状態の間、&lt;b&gt;素手攻撃&lt;/b&gt;で&lt;LSTag Tooltip="CriticalHit"&gt;クリティカル・ヒット&lt;/LSTag&gt;を出すために必要な出目が&lt;b&gt;[1]&lt;/b&gt;減少する</content>
+
+  <content contentuid="ha3546042g072dg42dcga90cg4c7d6c83bd8e" version="1">液化したゴーレムの魂</content>
+  <content contentuid="habbfb66age714g4bcag9f7eg5c49bbecb5d5" version="1">ゴーレムの息吹</content>
+  <content contentuid="h3b73ae32gc634g4572g8248gdd998eff3286" version="1">&lt;b&gt;敵&lt;/b&gt;への攻撃を&lt;b&gt;外した&lt;/b&gt;際、自分を含む&lt;b&gt;[1]&lt;/b&gt;体のクリーチャー全員が&lt;b&gt;筋力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;（&lt;b&gt;[2]&lt;/b&gt;）に成功しないと、&lt;b&gt;[3]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;石化状態&lt;/LSTag&gt;になる</content>
+
+  <content contentuid="h263e5e67gd822g4576g929fg1599cf950e9a" version="1">誘惑者の耳のエッセンス</content>
+  <content contentuid="h51b4e66agc1bcg494eg80ceg849b6c010ae0" version="1">魅惑の共鳴</content>
+  <content contentuid="h0ab03f0fg170eg4a5fgb45bg75caf1e1412f" version="1">ダメージを与えられたクリーチャーが&lt;b&gt;判断力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;に失敗した場合、&lt;b&gt;[1]&lt;/b&gt;ターンの間そのクリーチャーを&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;魅了&lt;/LSTag&gt;する</content>
+
+  <content contentuid="hae1851c6g90e1g4573g8a60g66530f43c931" version="1">濃縮閃光液</content>
+  <content contentuid="haa78760agec20g4938g8f07gf6aabb4bbdc7" version="1">輝く精霊のオーラ</content>
+  <content contentuid="h10b8c3c5g0d56g49fag822bg9343bb192354" version="1">&lt;b&gt;[1]&lt;/b&gt;以内のクリーチャーが&lt;b&gt;[2]&lt;/b&gt;を受けた時、そのクリーチャーは&lt;b&gt;耐久力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;（&lt;b&gt;[3]&lt;/b&gt;）に成功しなければ、&lt;b&gt;[4]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;光輝のオーブ&lt;/LSTag&gt;を受ける</content>
+
+  <content contentuid="hb981a7e2gada3g42d2gb9acg804ed1ab42c9" version="1">カニの抽出液</content>
+  <content contentuid="h2d7a3826g7549g4cb2ga6eegbd29874c120c" version="1">水術士の渦</content>
+  <content contentuid="hed14a15fg0511g4cddg8179g927f88a26409" version="1">あなたの&lt;b&gt;レベル付き呪文&lt;/b&gt;はすべて、対象を&lt;b&gt;[1]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="WET"&gt;濡れ状態&lt;/LSTag&gt;にする</content>
+
+  <content contentuid="h14f22844g2fd3g4413gb122gcac125b58fb0" version="1">悪魔の肝臓抽出液</content>
+  <content contentuid="h9130569dg8788g44d4gbdcdgace726b057cb" version="1">血の絆</content>
+  <content contentuid="h4264ec2bg6e6fg42d1gb95cg9a3e23d13b52" version="1">&lt;b&gt;味方のデヴィル&lt;/b&gt;が&lt;b&gt;[2]&lt;/b&gt;以内にいる間、あなたとそのデヴィルの両方は、すべてのダメージに&lt;b&gt;[1]&lt;/b&gt;を追加する</content>
+  <content contentuid="hd3284920g983dg4661gbde8g5dfa5e1f5743" version="1">悪魔の強化</content>
+  <content contentuid="h909a8ce7gf338g4f56g948cg1cb18e2cbe42" version="1">あなたはすべてのダメージに&lt;b&gt;[1]&lt;/b&gt;の追加する</content>
+
+  <content contentuid="h1aab2cb8ga09dg4d41ga13ag5407f29bf1ed" version="1">フェイワイルド初級蒸留酒</content>
+  <content contentuid="h85a8aaf0gf61eg46b1g9540g5af7542eb545" version="1">精神崩壊</content>
+  <content contentuid="hb13b9931gfd75g4ef2gb31agb0d4598d2b78" version="1">あなたが&lt;b&gt;[1]&lt;/b&gt;を与えた時、対象は&lt;b&gt;判断力&lt;/b&gt;&lt;LSTag Tooltip="SavingThrow"&gt;セーヴィング・スロー&lt;/LSTag&gt;（&lt;b&gt;[2]&lt;/b&gt;）に成功しなければ、&lt;b&gt;[3]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="CONFUSED"&gt;混乱&lt;/LSTag&gt;状態になる</content>
+
+  <content contentuid="h2969d37cgcf83g4a30gbb16gb37818c09248" version="1">砕けた魂の結晶</content>
+  <content contentuid="h51dbc20bg51d7g4f29ga3ccg12ad429187fc" version="1">呪われし戦士</content>
+  <content contentuid="hb440d7e3g10e5g4b2dg9628gb5e6ac643381" version="1">&lt;b&gt;呪い&lt;/b&gt;の影響を受けている間、あなたの&lt;b&gt;近接武器攻撃&lt;/b&gt;は追加で&lt;b&gt;[1]&lt;/b&gt;を与える&lt;i&gt;（ダメージ種別は装備中の武器に依存）&lt;/i&gt;</content>
+
+  <content contentuid="h6b5f40bag3a90g49d8g92b7gc57ff528d7fb" version="1">精製されたダークエルフの腎臓注入液</content>
+  <content contentuid="h5e049d6cg09fag4823ga70bg3a63b3adacd6" version="1">蜘蛛網の繁茂</content>
+  <content contentuid="hd0225d72gad01g4542gb6e0g527dc861ea1f" version="1">あなたがクリーチャーを&lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;拘束&lt;/LSTag&gt;するたびに、半径&lt;b&gt;[1]&lt;/b&gt;の&lt;b&gt;ウェブ&lt;/b&gt;の地形が&lt;b&gt;[2]&lt;/b&gt;ターンの間生成される</content>
+
+  <content contentuid="h2f3c2359gbb0dg40a0gb068gba4c1fb6ffe7" version="1">花畑の注入液</content>
+  <content contentuid="h133d8811g9aceg41a1g89e8g87f886d2a2ab" version="1">自然の反抗</content>
+  <content contentuid="hf9955a97g1645g46cagb4e9g53251e640100" version="1">&lt;b&gt;繁茂した植物&lt;/b&gt;の上に立っている間、&lt;LSTag Type="Status" Tooltip="STUNNED"&gt;気絶&lt;/LSTag&gt;に対して&lt;LSTag Tooltip="Immune"&gt;完全耐性&lt;/LSTag&gt;を得る</content>
+
+  <content contentuid="h66d197acgb8aag499dg85a6g3604ced3dd42" version="1">ベルバランの眼の蒸留液</content>
+  <content contentuid="hc4c7daabg815bg4dcagb31dg252d1bd105f0" version="1">幽体視覚</content>
+  <content contentuid="h1c4d5712gb9c7g4c5dgbe27g533955fa664d" version="1">クリーチャーを倒すと、&lt;b&gt;[1]&lt;/b&gt;ターンの間&lt;LSTag Type="Status" Tooltip="AMP_DEVILS_SIGHT_STATUS"&gt;悪魔の視界&lt;/LSTag&gt;を得る</content>
+
+  <content contentuid="h9b911cd1gdeadg4a89gbfa6g01485ee6e99d" version="1">液状化したソーサラーの注入液</content>
+  <content contentuid="h8bc2c306g1fefg4c15g85ddg5336ec034f23" version="1">賭けの変身</content>
+  <content contentuid="h720e2e70gdb9fg46b2gbd5cgc14226482909" version="1">&lt;b&gt;早足&lt;/b&gt;を使用すると、即座に&lt;LSTag Type="Status" Tooltip="POLYMORPH_SHEEP"&gt;ヒツジ&lt;/LSTag&gt;に変身する</content>
+
+  <content contentuid="h0dcde388g44b3g40e2gaf1age6b07fe982a7" version="1">アストラル・ベアベリー抽出液</content>
+  <content contentuid="h45fa5affg6692g4fecgbf5dg455ad74801ee" version="1">次元歪曲</content>
+  <content contentuid="h6287fcebgda14g4bc6gac32g5625ce810313" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Blink"&gt;明滅&lt;/LSTag&gt;を唱えると、&lt;b&gt;[1]%&lt;/b&gt;の確率で友好的な&lt;b&gt;ビホルダー&lt;/b&gt;を召喚する&lt;bｒ&gt;&lt;b&gt;ビホルダー&lt;/b&gt;の物質界への繋がりはターンごとに弱まっていく</content>
+
+  <content contentuid="h3142af5dgd151g44adga15ag09077936b336" version="1">超伝導パルス注入液</content>
+  <content contentuid="hf3628828gbec6g46a4g91a9g9518d5270d2e" version="1">超伝導体</content>
+  <content contentuid="h98b06c2fg3097g4305gbb5dga1a9aaf2a9bc" version="1">あなたが&lt;b&gt;敵を押し出す&lt;/b&gt;とき、さらに&lt;b&gt;[1]&lt;/b&gt;遠くに突き飛ばす&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;「押し出し」には、呪文などによる強制移動も含まれる</content>
+
+  <content contentuid="h920f38dagb1d5g46aaga4f5g2d9cf8b8d110" version="1">液状バルダーズ・ゲート抽出液</content>
+  <content contentuid="hd2e8e19ag5f7bg4193gbf1ege612d776ca6f" version="1">諜報隊長</content>
+  <content contentuid="h95e22777gbf9fg49fagbe9fg067ff621512e" version="1">あなたが&lt;b&gt;人間&lt;/b&gt;または&lt;b&gt;ハーフエルフ&lt;/b&gt;である（あるいはそう偽装している）なら、戦闘外での&lt;b&gt;ジャンプ距離&lt;/b&gt;が&lt;b&gt;[1]&lt;/b&gt;増加し、戦闘外で永続的に&lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;不可視&lt;/LSTag&gt;状態になる</content>
+
+  <content contentuid="h27d533aag6cf8g4e1dg9145g8c9735195ecc" version="1">燃える石のアブソリュート花粉</content>
+  <content contentuid="h638e42d0g28e1g4ab4gb160gf169b17a3165" version="1">ノーム式織り調律</content>
+  <content contentuid="h207eb8d5gdb00g4fbeg8d4dgc0ff935beead" version="1">あなたが&lt;b&gt;極小&lt;/b&gt;サイズである場合、&lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;火球&lt;/LSTag&gt;または&lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;天罰の火&lt;/LSTag&gt;を唱えると、&lt;LSTag Type="Status" Tooltip="AMP_FIRE_MASTERY_CAST"&gt;火炎の熟達&lt;/LSTag&gt;を得る</content>
+  <content contentuid="h474a2259g5dbdg4da3gb864gcf5819090a6a" version="1">火炎の熟達</content>
+  <content contentuid="h1e9ac892g9ff6g4611g8044gc5404f80adb1" version="1">次に唱える&lt;LSTag Type="Spell" Tooltip="Projectile_Fireball"&gt;火球&lt;/LSTag&gt;または&lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;天罰の火&lt;/LSTag&gt;は、&lt;LSTag Tooltip="SpellSlot"&gt;呪文スロット&lt;/LSTag&gt;を消費しない</content>
+
+  <content contentuid="h4f8e921bg3a5cg4d72g8914g2a1f7b9c8456" version="1">グリムランドのマント</content>
+  <content contentuid="he2f8941bg6d2ag4b18g9a73gf8c52e4d7890" version="1">かつてグリムランドはツインズリーチと呼ばれていた。ハートランドの民と海岸の住人が共に築き上げた場所で、違いはあれど一体だった。やがて「話す石」が現れ、すべての声が同時に響き渡り、苦い言葉は十倍にも跳ね返った。ハートランドの民は嘲笑を聞き、海岸の住人は憎悪を聞いた。真実は騒音にかき消された。分断者たちは憤怒を売って富を得た。隣人は敵となり、敵は無となった。炎が消えたとき、両者は勝利し、同時に敗北した。このマントはそんな「どこでもない場所」から来たと言われている。見る者によって色が変わるとも言われる。グリムランドでは多くの話が語られるが、もう誰も耳を傾けなくなった。</content>
+  <content contentuid="h8d1f5a29gb4c7g4e62g9853gf2a681e45d73" version="1">誰ももう耳を傾けない</content>
+  <content contentuid="hc3e6b94fg7a25g4d18g8794gae5f123c6b89" version="1">&lt;b&gt;呪い&lt;/b&gt;を帯びている間、あなたは&lt;LSTag Type="Status" Tooltip="ENLARGE"&gt;巨大化&lt;/LSTag&gt;する</content>
+
+</contentList>

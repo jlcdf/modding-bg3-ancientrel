@@ -1,0 +1,39 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+// Main trigger: Detect when someone attempts to cast Knock spell on our chest
+IF
+UsingSpellOnTarget((CHARACTER)_Character, (ITEM)_Target, "Target_Knock", _, _, _)
+AND
+IsTagged(_Target, (TAG)ASTRAL_CHEST_KNOCK_d5d006a2-613a-4c2e-87b4-a529c2ce9816, 1)
+AND
+GetPosition(_Target, _X, _Y, _Z)
+THEN
+// Visual effect at the chest position
+PlayEffectAtPosition(VFX_Script_IronFlask_Poof_01_e770f08f-38d7-a1a7-91ca-380b3444f834, _X, _Y, _Z, 2.0);
+PlaySound(_Target, "Spell_Impact_Damage_Disintegrate");
+// Close the chest if it's open
+Close(_Target);
+// Set a flag to kill all players
+DB_PAB_KillAllPlayers(1);
+
+// Direct approach - kill all players using DB_Players
+IF
+DB_PAB_KillAllPlayers(1)
+AND
+DB_Players((CHARACTER)_Player)
+THEN
+PlayEffect(_Player, VFX_Script_IronFlask_Poof_01_e770f08f-38d7-a1a7-91ca-380b3444f834, "", 1.0);
+Die(_Player, DEATHTYPE.Disintegrate, NULL_00000000-0000-0000-0000-000000000000, 0, 1);
+
+// After all players are killed, show game over menu
+IF
+DB_PAB_KillAllPlayers(1)
+THEN
+NOT DB_PAB_KillAllPlayers(1);
+ShowGameOverMenu();
+EXITSECTION
+
+ENDEXITSECTION

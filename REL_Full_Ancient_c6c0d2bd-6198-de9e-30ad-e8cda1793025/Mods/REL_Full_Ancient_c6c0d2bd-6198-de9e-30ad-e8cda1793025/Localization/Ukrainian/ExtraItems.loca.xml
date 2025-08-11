@@ -1,0 +1,123 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h37514dc8g973ag4156g8383g5bf7ba44054d" version="1">Волшебные капли</content>
+  <content contentuid="hbdc2841dga7aeg4e6dgb7c0g333297ab6155" version="1">Ваш &lt;LSTag Tooltip="ArmourClass"&gt;класс брони&lt;/LSTag&gt; уменьшается на &lt;b&gt;[1]&lt;/b&gt;, пока вы не &lt;LSTag Type="Status" Tooltip="WET"&gt;мокрый&lt;/LSTag&gt;. &lt;LSTag Tooltip="ArmourClass"&gt;Класс брони&lt;/LSTag&gt; увеличивается на &lt;b&gt;[2]&lt;/b&gt;, пока вы &lt;LSTag Type="Status" Tooltip="WET"&gt;мокрый&lt;/LSTag&gt;.</content>
+  <content contentuid="hcc5598b8geadbg4decgaebfgf1fe04d628c1" version="1">Насыщенные льдистые шипы</content>
+  <content contentuid="h56591518gf664g4d79gab69g7bc5265d253c" version="1">Пока вы находитесь под действием &lt;LSTag Type="Spell" Tooltip="Target_MageArmor"&gt;Магического доспеха&lt;/LSTag&gt;, ваши заклинания и фокусы, наносящие&lt;b&gt;[1]&lt;/b&gt;, &lt;b&gt;могут&lt;/b&gt; наложить на цель &lt;LSTag Type="Status" Tooltip="WEAPON34"&gt;магическое кровотечение&lt;/LSTag&gt; &lt;i&gt;(даже если цель иммуна к кровотечению)&lt;/i&gt;.</content>
+  <content contentuid="hbe6dd597g22a1g4c89ga03dg11391febb782" version="1">Малый водяной элементаль</content>
+  <content contentuid="h65d4cdb3g6e1dg4f54ga4a2g9180c89e6fd3" version="1">Призвать малого водяного элементаля, отлично наносящего&lt;b&gt;[1]&lt;/b&gt; на любой дистанции.</content>
+  <content contentuid="h7a13b994gd956g466bga0b3ga3aed7adf2ab" version="1">Подчинение слабых</content>
+  <content contentuid="hae929212g0cc9g4dfag9912gf08c7625daa5" version="1">Когда вы используете &lt;LSTag Type="Spell" Tooltip="Shout_Champion_Challenge"&gt;Вызов воителя&lt;/LSTag&gt;, затронутые враги также &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;пугаются&lt;/LSTag&gt; на &lt;b&gt;[1]&lt;/b&gt; хода.</content>
+  <content contentuid="h24d5e050gcce9g492dg897fge25bf9aaa1a2" version="1">Слепящее наказание</content>
+  <content contentuid="h14531d06gf79ag4e97ga5a5g546171c8311f" version="1">Ответить &lt;b&gt;промахнувшемуся&lt;/b&gt; по вам в &lt;b&gt;ближнем бою&lt;/b&gt; врагу, мгновенно используя против него &lt;LSTag Type="Spell" Tooltip="Target_AMP_Smite_Blinding"&gt;Слепящую кару&lt;/LSTag&gt; — потратив при этом &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;заряд клятвы&lt;/LSTag&gt;.</content>
+  <content contentuid="h9d837f60g6ce8g42d4gb096geb1846dbc495" version="1">Великий водяной элементаль</content>
+  <content contentuid="hcf966e8bgd552g4771gba12gec6a11d16cda" version="1">Призвать великого водяного элементаля, отлично наносящего&lt;b&gt;[1]&lt;/b&gt; на любой дистанции.</content>
+  <content contentuid="h12d43b61ga14bg43bfgbb10gb531f0802b2f" version="1">Дыхание зимы</content>
+  <content contentuid="h5a723dacga48cg4d7bgbbbagdf51a0ed7c83" version="1">Ваши заклинания или фокусы, наносящие&lt;b&gt;[1]&lt;/b&gt;, &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h9936810fg8df2g4d1bgbb30g2bb7f0d0fe6f" version="1">Когда вы получаете&lt;b&gt;[1]&lt;/b&gt;, нанесите атакующему &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h4025396eg68d8g4a7ag9641gb6bf4c2b3225" version="1">Ваши атаки &lt;b&gt;ближнего боя&lt;/b&gt;, наносящие&lt;b&gt;[1]&lt;/b&gt;, &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h692c2cd0g9edbg499bga2d2g96f625dd7aef" version="1">Ваши атаки &lt;b&gt;уровневыми заклинаниями&lt;/b&gt;, наносящие&lt;b&gt;[1]&lt;/b&gt;, &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="h501bc9dfg0522g4637g8248g6d42fe601b4f" version="1">Ваши &lt;b&gt;безоружные&lt;/b&gt; атаки &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h23940932g0662g4cf7g8cbfg916744cb573a" version="1">Ваши &lt;b&gt;метательные&lt;/b&gt; атаки &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h15525d08g9756g4167g9ef8gd66c6bd81b40" version="1">Ваши атаки &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[1]&lt;/b&gt;, пока у вас меньше &lt;b&gt;[2]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="h1d8ae7a2g1786g4663gb20ag06857f653ce1" version="1">Ваши атаки &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[1]&lt;/b&gt;, пока у вас больше &lt;b&gt;[2]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="hc06f2fd6ge748g4b6aga6a7g7b810fd7435f" version="1">Ваши заклинания или фокусы, наносящие&lt;b&gt;[1]&lt;/b&gt;, &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[2]&lt;/b&gt;, пока у вас меньше &lt;b&gt;[3]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="h2310f382gbcb3g43b3g912ag928aba4882e4" version="1">Ваши заклинания или фокусы, наносящие&lt;b&gt;[1]&lt;/b&gt;, &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[2]&lt;/b&gt;, пока у вас больше &lt;b&gt;[3]%&lt;/b&gt; &lt;LSTag Tooltip="HitPoints"&gt;ОЗ&lt;/LSTag&gt;.</content>
+  <content contentuid="h2915d88cgb7b6g4678g88eagb90d2cbbd37a" version="1">&lt;b&gt;Промахиваясь&lt;/b&gt; атакой по врагу, вы все равно наносите ему &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h7fe43e4dgffcfg4f9bg8b46g2db1f25339ca" version="1">&lt;b&gt;Критически промахиваясь&lt;/b&gt; атакой по врагу, вы все равно наносите ему &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="hc6ad8785g5cc6g4ec8g987fg13f3d53576ed" version="1">Пока вы находитесь под воздействием &lt;LSTag Type="Status" Tooltip="STATUS"&gt;СТАТУСА&lt;/LSTag&gt;, ваши атаки &lt;b&gt;также&lt;/b&gt; наносят &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="hbad50d1dge5d8g4a0eg9d08g450db15b9930" version="1">Стойкость чемпиона</content>
+  <content contentuid="h762875c1g8871g4575g921cgeb13ee10dcd1" version="1">Пока вы носите &lt;LSTag Tooltip="ArmourProficiency"&gt;тяжелую броню&lt;/LSTag&gt; и &lt;b&gt;щит&lt;/b&gt;, весь получаемый урон снижается на &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="h6b59a3dbgf4d1g4172gb3acg6ad0ea28316a" version="1">Небесный оплот</content>
+  <content contentuid="h107efa4cgd728g45f1gbd3ag1878ac725b5b" version="1">Ментальный захват</content>
+  <content contentuid="h16873f45g95a5g4f84g941dg3ab7d371492e" version="1">Псионические силы телепортируют к носителю все предметы в &lt;b&gt;[1]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Особенность можно переключить во вкладке пассивных эффектов.</content>
+  <content contentuid="hf5f03431g6f2fg45b7ga888g38bff853b057" version="1">Псионический шлем</content>
+  <content contentuid="he5638188g909dg4eb9g963fg301ff4c5b9bf" version="1">Незнакомое чувство охватило вас, когда дрожащими руками этот с виду стабильный, пурпурно-черный шлем был водружен на голову. Чувство это можно было бы сравнить с таянием морских льдов, или же покорением Астрального Плана на ритуальной лодке. Вы внезапно почувствовали, как кончики пальцев промерзли до костей, а некое потустороннее существо в шлеме начало плести хитровыдуманную псионическую паутину. Посмотрим, какую силу нам подарит эта находка.</content>
+  <content contentuid="hef6f326aga252g48d7g912cg233e24efbb34" version="1">Записка от Парамонова</content>
+  <content contentuid="h91e8ed28gc9ffg422dgbe6cgf607e0b272de" version="1">Обязательно к прочтению!</content>
+  <content contentuid="h7f99e6edga2ecg433dga40ag03afa3182b4e" version="1">Привет! Здесь собрана новая экипировка, созданная в рамках финальной экспансии — БОГАТЫХ БИЛДОВ. Расскажу вкратце, зачем я ее создаю.&lt;br&gt;&lt;br&gt;&lt;b&gt;Баланс прогрессии&lt;/b&gt;&lt;br&gt;Многие игроки часто жаловались мне в комментариях на странице мода на mod.io(куда вы тоже можете написать), что даже для случайной природы мода, они собирали годные сборки слишком редко. Это обьяснимо - ведь синергии в общем пуле недостаточно конденсированы. Представьте: 1200 предметов, и почти каждый обладает уникальной механикой. Это влияет на баланс прогрессии, то как вы усиливаетесь со временем и поэтому очень важно сделать синергии более плотными, более насыщенными. В связи с этим, я решил плотно заняться именно экипировкой, добить все-таки общее количество новых артефактов до +1000 шт, и сделать это в максимально сжатые сроки, экономя временные ресурсы.&lt;br&gt;&lt;br&gt;&lt;b&gt;Временные ресурсы&lt;/b&gt;&lt;br&gt;Не секрет, что я занимаюсь модом один, никто мне не помогает. Соответственно, для ускорения выпуска контента, мне требуется сжимать какие-то задачи, оставляя их на потом. Например, я все никак не могу привести иконки плащей к новому формату или допилить пару крутых спецэффектов к старым артефактам. Точно также я собираюсь поступить и здесь: убрать из рабочего процесса слишком затратные операции, оставив самое важное.&lt;br&gt;&lt;br&gt;&lt;b&gt;Самое важное&lt;/b&gt;&lt;br&gt;Самым важным все еще остается геймплей. Вы хотите увидеть много новых хороших вещей для своих любимых синергий, хотели бы увидеть новые; и много. Поэтому в рамках финальной экспансии, я постараюсь обойтись минимумом новых ассетов: таких как иконки, уникальные названия или лор-текст. Это наиболее времязатратная часть, так как требует глубокого творческого процесса. Упор сделан только на геймплейной составляющей, том, что будет делать предмет — по настоящему полезным магическим артефактом. Я скажем, был бы совершенно не против добавить много новых вещей в коллекцию. Но пока это все будет создавать только Я - процесс не окажется быстрым, а значит не имеет смысла в таком формате.&lt;br&gt;&lt;br&gt;&lt;b&gt;Помочь&lt;/b&gt;&lt;br&gt;Я все еще собираю голоса игроков(ссылка на гугл формы есть в описании мода), какие синергии мне стоит развить перед тем, как полностью закончить работу над коллекцией. В основном это то, что я готов добавить, таково мое авторское видение, но разумеется, рассмотрю иные синергии для добавления в опрос. Вы могли бы помочь этим, выбрать несколько понравившихся вариантов, дать мне знать, как вы себя ощущаете в игре. Спасибо. И спасибо за то, что пользуетесь революцией BG3.</content>
+  <content contentuid="h6ea5de53g647fg4d09ga4b0g904ca4db08f7" version="1">Увидеть новинки</content>
+  <content contentuid="h5a8533c8g0d6fg4d79gb623g6851770d7c93" version="1">Призвать свежие артефакты из нового дополнения. Новые предметы используют ассеты существующих артефактов.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Если вы увидите эти предметы, то больше не встретите их случайно в мире!&lt;/b&gt;</content>
+  <content contentuid="h4d38d22bgc59ag42a7g9fa2gf2befae05187" version="1">Морозный оплот Реллавара</content>
+  <content contentuid="h4ce464fdgcc68g4de2ga705g168e6356070f" version="1">Призвать к помощи могущественного покровителя зимних народов, став неузвимым до первого нанесенного урона другому.</content>
+  <content contentuid="h281e8278g9315g4deeg8ee7gb02091295a5f" version="1">Существо не может стать целью вражеских атак, но может получать урон от заклинаний, поражающих целые площади. Это состояние заканчивается, если существо атакует или наносит урон другому существу, после чего оно на &lt;b&gt;[1]&lt;/b&gt; ходов получает эффект &lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY_BLOCK"&gt;Морозный оплот недоступен&lt;/LSTag&gt;.</content>
+  <content contentuid="h68b3c4bfg2df0g4f55gab6ag69b56c4f8183" version="1">Морозный оплот недоступен</content>
+  <content contentuid="hff18f573ga14ag4b8bga224g37e05283d001" version="1">Существо не может воспользоваться эффектом &lt;LSTag Type="Status" Tooltip="AMP_SANCTUARY"&gt;Морозного оплота&lt;/LSTag&gt;.</content>
+  <content contentuid="hb2ab5877g9c6fg4bbeg8fc8gc4fd1b1a0040" version="1">Покров королевы</content>
+  <content contentuid="h2d803397gb43eg4629g87d5gc1583985a4b9" version="1">Пока в &lt;b&gt;[1]&lt;/b&gt; от вас нет &lt;b&gt;союзников&lt;/b&gt;, вы становитесь &lt;LSTag Tooltip="Immune"&gt;неуязвимы&lt;/LSTag&gt; к&lt;b&gt;[2]&lt;/b&gt;, эффектам &lt;b&gt;ледяной поверхности&lt;/b&gt; и &lt;LSTag Type="Status" Tooltip="WET"&gt;намоченности&lt;/LSTag&gt;.</content>
+  <content contentuid="hf0f32c46g1d71g4652g98bag217acbbb1888" version="1">Вы &lt;LSTag Tooltip="Immune"&gt;неуязвимы&lt;/LSTag&gt; к&lt;b&gt;[1]&lt;/b&gt;, не можете подскользнуться на &lt;b&gt;льду&lt;/b&gt; и не можете быть &lt;LSTag Type="Status" Tooltip="WET"&gt;намочены&lt;/LSTag&gt;.</content>
+  <content contentuid="hd379c44fg4257g488bgb380gf1679a4446cd" version="1">Морозное насыщение</content>
+  <content contentuid="h76de04e2g319cg49e0g9428ga8f8ff6d9333" version="1">Пока вы стоите на &lt;b&gt;ледяной поверхности&lt;/b&gt;, восстанавливайте &lt;b&gt;[1]&lt;/b&gt; в конце каждого хода.</content>
+  <content contentuid="hafa4f12dg1189g498agb32ega6f9bf023ab7" version="1">Стоя на &lt;b&gt;ледяной поверхности&lt;/b&gt;, восстанавливает &lt;b&gt;[1]&lt;/b&gt;.</content>
+  <content contentuid="hbf45a25ag1bfbg4880g8cb9g3934a11c66ca" version="1">Пришествие жнеца</content>
+  <content contentuid="h3f5e42begf7a8g4bbcga7b7gd6602cdf89db" version="1">Зачарованное метание</content>
+  <content contentuid="hbb01a358gce46g4cd6g9c70gd66813a425a2" version="1">Нестабильное перемещение</content>
+  <content contentuid="h396fb289g6d31g4171g997bge73718490885" version="1">Используя &lt;LSTag Type="Spell" Tooltip="Throw_Telekinesis"&gt;Телекинез&lt;/LSTag&gt;, вы можете потратить &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;очко реакции&lt;/LSTag&gt;, чтобы спровоцировать всплеск &lt;LSTag Tooltip="WildMagic"&gt;дикой магии&lt;/LSTag&gt; на себя.</content>
+  <content contentuid="h9115f109ge56ag4f65g838eg9e38b3538d1c" version="1">Спровоцировать всплеск &lt;LSTag Tooltip="WildMagic"&gt;дикой магии&lt;/LSTag&gt; после перемещения цели.</content>
+  <content contentuid="hf0a98364g780cg449ag8670gc419e56d95a0" version="1">%%% CHOOSE A CULTURALLY APPROPRIATE NAME, JACK BONES STRICTLY FOR USA AUDIENCE %%%</content>
+  <content contentuid="h2e8ffb67gd5afg4e07gbc2fg28389a02ac78" version="1">Мистер Костян</content>
+  <content contentuid="h96111e77g7211g4448gb5c9gf693444b14b0" version="1">Призвать Костяна</content>
+  <content contentuid="h0dc18304gacdfg4795ga2b7g5d27e263e0ef" version="1">Создать жаждущего овации скелета-дуэлянта из трупа поблизости.</content>
+  <content contentuid="h66c93f54g0e96g473eg8daeg20104cfab6a8" version="1">Платье последнего поклона</content>
+  <content contentuid="h341afd5eg336ag4786gb0eeg3b18ce70c3cd" version="1">Костян сшил эту робу некроманта из театральных занавесей после смерти, привязав душу к вечным поискам оваций. Наденьте её рядом с трупом - и он выйдет на поклон ещё раз.</content>
+  <content contentuid="hbb333835g9ef0g4f11gb74agd27e158dcaaf" version="1">Слишком много конкурентов</content>
+  <content contentuid="h79a94c73gcc0ag4cf5g9c67g484afd279a93" version="1">Каждый раз, когда в &lt;b&gt;[1]&lt;/b&gt; от вас погибает &lt;b&gt;нежить&lt;/b&gt;, она вызывает волну &lt;LSTag Type="Status" Tooltip="CONFUSION"&gt;замешательства&lt;/LSTag&gt; в &lt;b&gt;[2]&lt;/b&gt;.</content>
+  <content contentuid="hfab0bd82g8cfbg45dfgb965g66504d36aaca" version="1">Ослепительный оптимизм</content>
+  <content contentuid="h39f5db86g96afg4c48g9ff3ge5feac49d5a2" version="1">Свет во тьме</content>
+  <content contentuid="h28e86fc9g99fbg4e8dg91f6gd5dc8f855b98" version="1">Сосредоточенная гроза</content>
+  <content contentuid="h6f6658f7gdf22g4952ga5c7g3a03c09a4d84" version="1">Медальон сосредоточенной грозы</content>
+  <content contentuid="h64af2da9g175cg4b84ga7d9gae42f2cc6555" version="1">Молодой шаман из клана Громовержцев месяцами наблюдал за грозами в горном перевале, записывая каждую вспышку, каждый удар — пока однажды молния не ударила прямо в него, оставив лишь оплавленный медальон в центре выжженной земли. Товарищи нашли его три дня спустя, блуждающим по склонам и бормочущим что-то о "танце между ударами". Внутри амулета до сих пор бьется пойманная им гроза — та самая, последняя.</content>
+  <content contentuid="hf8261620gaa82g4dd4ga179gb1de6425d25a" version="1"></content>
+  <content contentuid="h4b6dff61gdd68g4826gbb00g99af04ba576f" version="1"></content>
+  <content contentuid="h4da9dcd4gc58dg49d9gb6cagefbfd5b7a2e6" version="1"></content>
+  <content contentuid="h745f0ee6g2bb9g45b0gbd54g600b7253dc3b" version="1"></content>
+  <content contentuid="h54f68c4cgd309g4761gac91ga0d888e90af7" version="1">Искусные сапоги Валериана</content>
+  <content contentuid="h32994387ga95ag4f98g94cbg911d6ded6b2d" version="1"></content>
+  <content contentuid="hc2685098gae65g4834g8dbeg2f049cc405e6" version="1">Мастерство Револиэтти</content>
+  <content contentuid="hc63bd2ffg8a4cg4699g9f1dgbb2d9656cc77" version="1">Вы не можете упасть плашмя и не замедляетесь на сложной поверхности. Вы не провоцируете внеочередные атаки, пока носите лук.</content>
+  <content contentuid="h2fea3bbag1bb5g436ag8fdfgb29362ed0483" version="1">Корона "багбера" Владбера</content>
+  <content contentuid="h5108686egdeebg4c36gb8a7g29bff87d0a74" version="1">Владбер, единственный полурослик, ставший почетным вождем племени багберов Хребта Мира, обладал уникальным даром подстраивать свои шутки под любую аудиторию, будь то дворянское собрание или логово троллей. Багберы до сих пор исполняют его 'Танец хохочущего великана' во время важных церемоний, хотя ни один не достиг мастерства оригинала.</content>
+  <content contentuid="hc23f2ccfgc308g42d5g80f4g48c85c2a99d0" version="1">Потрясающие шутки</content>
+  <content contentuid="h9173ac24ga40cg4cf3ga6ceg4672e12ee9c2" version="1">Когда вы используете действия, все враги в 5м вокруг вас должны проходить испытание Интеллекта (4) или закатятся жутким смехом на 2 хода. [Харизма +1(22)]</content>
+  <content contentuid="hff70d244g19abg4ec9ga7c3g9795648f2cfc" version="1">Кольцо усатого гитзерая</content>
+  <content contentuid="hf6dce18fg9714g44d6ga50ag043c6fd3c390" version="1"></content>
+  <content contentuid="h7ed93ec7gd75bg4117g9b2fgdfe9477f7041" version="1">Гитзерайское насыщение</content>
+  <content contentuid="h29caaa06g9240g4720gb533g63e710348334" version="1">Если вы гитьянки или замаскированы под них, каждый ход в бою накапливайте Астральную неутомимость. Накопив 10 зарядов, вы можете потратить их на восстановление заряда ярости. [Сила +1(22)]</content>
+  <content contentuid="hac7ef674ge1a3g4e65gb205g63dec159e17b" version="1">Астральная неутомимость</content>
+  <content contentuid="ha3da4117g6fa7g416bg9269g887d40d74533" version="1">Если вы не носите броню и щит, получите +2 к Классу брони.</content>
+  <content contentuid="hee85e200gc7c6g4a90gb2beg745ee6f59f92" version="1">Шляпа дипломата Трюанта</content>
+  <content contentuid="h760d6e29g7aafg4704g9630g0bf3a10383e4" version="1">Эта элегантная шляпа с пером принадлежала знаменитому северному дипломату, чьи мирные переговоры спасли больше жизней, чем мечи величайших героев. Завсегдатаи таверн Невервинтера помнят, как посетители забывали о своих изначальных целях, проводя часы в беседах с человеком, который ценил каждое мнение, независимо от происхождения говорящего.</content>
+  <content contentuid="h73ecc0efg64ebg4145g9263gb4a8e266093f" version="1">Быстрая акробатика</content>
+  <content contentuid="ha10fc6cbg8068g43dcg99d1g4d842a159963" version="1">-1 к урону. [Прыжок без траты ресурсов]</content>
+  <content contentuid="h7b267c00gc67ag4d96g8005g1de7cbf3e6ca" version="1">Кольцо лорда Жеанива</content>
+  <content contentuid="h124cb44agb175g4321ga9edg4b1c405598c1" version="1"></content>
+  <content contentuid="h8a9cf0e6gd739g4319ga407gbfcf73a71adf" version="1">Дуновение тени</content>
+  <content contentuid="hf6cb4b8dgcf4bg4463gab0ag0e0ac393875e" version="1">Все горящие объекты в 15м от вас мгновенно затухают. Выносливость растет за каждый ход нахождения в тени в бою, вплоть до +3.</content>
+  <content contentuid="h147b4a91g438eg42f2gb959g93dd54916f62" version="1">[1] колющего урона</content>
+  <content contentuid="h1710e205gc60ag4df1g8336g4702454ae2fc" version="1">[1] урона кислотой</content>
+  <content contentuid="h1b787b09g3d12g40e4g971ag2f0b7bfddb5b" version="1">[1] некротического урона</content>
+  <content contentuid="h1e57cd3bg3c3eg44a5ga6fbgd0c681fbae9f" version="1">[1] некротического урона</content>
+  <content contentuid="h1fd9afc3g5995g4d94ga86eg106056dfa938" version="1">[1] силового урона</content>
+  <content contentuid="h33ccd52cg0764g47d9g97e8g70f6e5b851c2" version="1">[1] урона кислотой</content>
+  <content contentuid="h353c37ffgbe53g433bgb6f7gbe09f63c93f3" version="1">[1] психического урона</content>
+  <content contentuid="h36853db0g3a71g4bacgafb9g74a26ff4e7f9" version="1">[1] дробящего урона</content>
+  <content contentuid="h6ded2fc6g51f0g49ffg96cfg6f09866deeab" version="1">[1] дробящего урона</content>
+  <content contentuid="h3b2709cdgad15g47b3gaab8g56317d8afd6b" version="1">[1] психического урона</content>
+  <content contentuid="h51a3e5a7g4e52g41b7ga181g47514242cbda" version="1">[1] урона громом</content>
+  <content contentuid="h53b5886bg452cg416cgbf0agf6fc94a14e4e" version="1">[1] лучистого урона</content>
+  <content contentuid="h56aa22d3g5d90g4bddg954eg178596ce8230" version="1">[1] режущего урона</content>
+  <content contentuid="h6a236b95g8c37g4a0cg942ag869faf1d412a" version="1">[1] урона ядом</content>
+  <content contentuid="h784f42a9g95e6g4a55gb2b5g3ef52f6bbee6" version="1">[1] урона</content>
+  <content contentuid="h79450c33g283cg4664gb349gff068d1ed546" version="1">[1] урона огнем</content>
+  <content contentuid="h7c2d15afg7583g4e8agb6ffgb06a0d6b6992" version="1">[1] урона</content>
+  <content contentuid="h817dc1f4g10f2g4864g913dgd071ed6a91fc" version="1">[1] урона ядом</content>
+  <content contentuid="h93274007gd97bg4e20g8111g1e76d05914ef" version="1">[1] урона холодом</content>
+  <content contentuid="ha64d9e2ag9280g4640g8454ga196806d1eb9" version="1">[1] урона молнией</content>
+  <content contentuid="haa665313gdc44g40a2g9bfbgafef8741c41f" version="1">[1] урона холодом</content>
+  <content contentuid="hccaa2627g3e01g48e0ga092g1b959251854b" version="1">[1] урона громом</content>
+  <content contentuid="hd026ff7fg589eg4d58ga25cg41a728a72d3c" version="1">[1] силового урона</content>
+  <content contentuid="hd30d58a7g3376g4b01ga18fg20590e2a9158" version="1">[1] урона огнем</content>
+  <content contentuid="he1d3aa1dg41ddg45bcga121gd2e936962fdb" version="1">[1] урона молнией</content>
+  <content contentuid="he58a3731gdf91g42f6g9f4fgf54af7bd2844" version="1">[1] режущего урона</content>
+  <content contentuid="heff40ddag9e78g4057ga853g945d9eb9ba77" version="1">[1] лучистого урона</content>
+  <content contentuid="hf4eabc6dg879bg4e75gaf9ag277d4afae3e5" version="1">[1] колющего урона</content>
+</contentList>

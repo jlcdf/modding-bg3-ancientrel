@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="3" revision="0" build="302" lslib_meta="v1,bswap_guids" />
+	<region id="TranslatedStringKeys">
+		<node id="TranslatedStringKeys">
+			<children>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="hd6591663g38d8g4434g835ag944157dde742" version="1" />
+					<attribute id="UUID" type="FixedString" value="905ff09c-17d9-407d-aeb2-aac64b6f60ad" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h18689acdg9138g4f76gb180g55d18df885e9" version="1" />
+					<attribute id="UUID" type="FixedString" value="b874c21a-bd79-4143-8c55-439cf4f8c0aa" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h7f99e6edga2ecg433dga40ag03afa3182b4e" version="1" />
+					<attribute id="UUID" type="FixedString" value="d7bc91f4-b7a1-4896-8683-979d0bf96ee9" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

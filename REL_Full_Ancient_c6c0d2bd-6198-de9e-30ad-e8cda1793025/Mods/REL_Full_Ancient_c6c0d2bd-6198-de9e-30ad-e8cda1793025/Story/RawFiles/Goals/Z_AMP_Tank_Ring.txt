@@ -1,0 +1,37 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_CHAMPION_FEAR_RING((ITEMROOT)MAG_Ring36_bd0f4f6b-23e3-4e8d-947e-90659eb47909);
+KBSECTION
+IF
+StatusApplied(_Target, "CHAMPION_CHALLENGE", _Source, _)
+AND
+IsCharacter(_Target, 1)
+AND
+IsCharacter(_Source, 1)
+AND
+GetEquippedItem((CHARACTER)_Source, "Ring", _Item)
+AND
+GetTemplate(_Item, _Template)
+AND
+DB_CHAMPION_FEAR_RING((ITEMROOT)_Template)
+THEN
+ApplyStatus(_Target, "FRIGHTENED", 3.0, 1, _Source);
+
+IF
+StatusApplied(_Target, "CHAMPION_CHALLENGE", _Source, _)
+AND
+IsCharacter(_Target, 1)
+AND
+IsCharacter(_Source, 1)
+AND
+GetEquippedItem((CHARACTER)_Source, "Ring2", _Item)
+AND
+GetTemplate(_Item, _Template)
+AND
+DB_CHAMPION_FEAR_RING((ITEMROOT)_Template)
+THEN
+ApplyStatus(_Target, "FRIGHTENED", 3.0, 1, _Source);
+EXITSECTION
+
+ENDEXITSECTION

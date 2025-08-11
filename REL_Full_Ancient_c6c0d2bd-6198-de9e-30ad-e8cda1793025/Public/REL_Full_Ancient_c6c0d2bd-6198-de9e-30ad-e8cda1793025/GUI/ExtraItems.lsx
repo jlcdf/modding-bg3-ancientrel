@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost01"/>
+                    <attribute id="U1" type="float" value="0.00024414062"/>
+                    <attribute id="U2" type="float" value="0.070068359"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost02"/>
+                    <attribute id="U1" type="float" value="0.070556641"/>
+                    <attribute id="U2" type="float" value="0.14038086"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost03"/>
+                    <attribute id="U1" type="float" value="0.14086914"/>
+                    <attribute id="U2" type="float" value="0.21069336"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost04"/>
+                    <attribute id="U1" type="float" value="0.21118164"/>
+                    <attribute id="U2" type="float" value="0.28100586"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost05"/>
+                    <attribute id="U1" type="float" value="0.28149414"/>
+                    <attribute id="U2" type="float" value="0.35131836"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost06"/>
+                    <attribute id="U1" type="float" value="0.35180664"/>
+                    <attribute id="U2" type="float" value="0.42163086"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost07"/>
+                    <attribute id="U1" type="float" value="0.42211914"/>
+                    <attribute id="U2" type="float" value="0.49194336"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost08"/>
+                    <attribute id="U1" type="float" value="0.49243164"/>
+                    <attribute id="U2" type="float" value="0.56225586"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost09"/>
+                    <attribute id="U1" type="float" value="0.56274414"/>
+                    <attribute id="U2" type="float" value="0.63256836"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost10"/>
+                    <attribute id="U1" type="float" value="0.63305664"/>
+                    <attribute id="U2" type="float" value="0.70288086"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost11"/>
+                    <attribute id="U1" type="float" value="0.70336914"/>
+                    <attribute id="U2" type="float" value="0.77319336"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost12"/>
+                    <attribute id="U1" type="float" value="0.77368164"/>
+                    <attribute id="U2" type="float" value="0.84350586"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost13"/>
+                    <attribute id="U1" type="float" value="0.84399414"/>
+                    <attribute id="U2" type="float" value="0.91381836"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost14"/>
+                    <attribute id="U1" type="float" value="0.91430664"/>
+                    <attribute id="U2" type="float" value="0.98413086"/>
+                    <attribute id="V1" type="float" value="0.00024414062"/>
+                    <attribute id="V2" type="float" value="0.070068359"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost15"/>
+                    <attribute id="U1" type="float" value="0.00024414062"/>
+                    <attribute id="U2" type="float" value="0.070068359"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost16"/>
+                    <attribute id="U1" type="float" value="0.070556641"/>
+                    <attribute id="U2" type="float" value="0.14038086"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost17"/>
+                    <attribute id="U1" type="float" value="0.14086914"/>
+                    <attribute id="U2" type="float" value="0.21069336"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost18"/>
+                    <attribute id="U1" type="float" value="0.21118164"/>
+                    <attribute id="U2" type="float" value="0.28100586"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost19"/>
+                    <attribute id="U1" type="float" value="0.28149414"/>
+                    <attribute id="U2" type="float" value="0.35131836"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost20"/>
+                    <attribute id="U1" type="float" value="0.35180664"/>
+                    <attribute id="U2" type="float" value="0.42163086"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost21"/>
+                    <attribute id="U1" type="float" value="0.42211914"/>
+                    <attribute id="U2" type="float" value="0.49194336"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Artificers_Boost22"/>
+                    <attribute id="U1" type="float" value="0.49243164"/>
+                    <attribute id="U2" type="float" value="0.56225586"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="AMP_Cursed_EnlargementCloak"/>
+                    <attribute id="U1" type="float" value="0.56274414"/>
+                    <attribute id="U2" type="float" value="0.63256836"/>
+                    <attribute id="V1" type="float" value="0.070556641"/>
+                    <attribute id="V2" type="float" value="0.14038086"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="144"/>
+                    <attribute id="Width" type="int32" value="144"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/ExtraItems.dds"/>
+                    <attribute id="UUID" type="FixedString" value="076b2435-3982-b82b-af9b-fc8ea654c55d"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="2048"/>
+                    <attribute id="Width" type="int32" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

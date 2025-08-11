@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3fc3f2f3-3b16-489d-8849-cae3d00c369b" />
+					<attribute id="Name" type="LSString" value="AMP_Camp_Lootbox_001" />
+					<attribute id="LevelName" type="FixedString" value="END_Main" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="TemplateName" type="FixedString" value="59bd6dc0-373f-41a4-8ad3-e923f89e2bc5" />
+					<attribute id="Flag" type="uint8" value="1" />
+					<children>
+						<node id="Transform">
+							<attribute id="Scale" type="float" value="1" />
+							<attribute id="Position" type="fvec3" value="235.44382 17.998386 61.776455" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.006232689 0 0.99998057" />
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="END_Main" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="38d51491-1883-d6d3-3f74-54cf2d758f54" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

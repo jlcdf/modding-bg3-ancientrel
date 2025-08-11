@@ -1,0 +1,697 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// AMP Trading Fix v2.0 - Fixed approach based on working v1.0
+// Purpose: Prevent unique items from respawning at traders after restock
+// Method: Track visited tables and replace with "None" versions after rest/levelup
+
+// Table mappings: regular tables to their "no uniques" versions
+DB_REL_TableMapping("DEN_Entrance_Trade", "DEN_Entrance_Trade_None");
+DB_REL_TableMapping("MOO_BugBearvendor_Trade", "MOO_BugBearvendor_Trade_None");
+DB_REL_TableMapping("PLA_Tollhouse_SuppliesTrader", "PLA_Tollhouse_SuppliesTrader_None");
+DB_REL_TableMapping("DEN_Volo_Trade", "DEN_Volo_Trade_None");
+DB_REL_TableMapping("LOW_Guildhall_Bartender", "LOW_Guildhall_Bartender_None");
+DB_REL_TableMapping("WYR_Danthelon_Trader", "WYR_Danthelon_Trader_None");
+DB_REL_TableMapping("HAV_HarperQuarterMaster", "HAV_HarperQuarterMaster_None");
+DB_REL_TableMapping("MOO_InfernalTrader_Trade", "MOO_InfernalTrader_Trade_None");
+DB_REL_TableMapping("CRE_Expeditioner_Trade", "CRE_Expeditioner_Trade_None");
+DB_REL_TableMapping("DEN_Ethel", "DEN_Ethel_None");
+DB_REL_TableMapping("DEN_Weaponsmith_Trade", "DEN_Weaponsmith_Trade_None");
+DB_REL_TableMapping("GOB_Festivities_Trader", "GOB_Festivities_Trader_None");
+DB_REL_TableMapping("GOB_Quartermaster", "GOB_Quartermaster_None");
+DB_REL_TableMapping("PLA_ZhentarimTrader", "PLA_ZhentarimTrader_None");
+DB_REL_TableMapping("CRE_GithQuartermistress_Trade", "CRE_GithQuartermistress_Trade_None");
+DB_REL_TableMapping("UND_SocietyOfBrilliance_Hobgoblin", "UND_SocietyOfBrilliance_Hobgoblin_None");
+DB_REL_TableMapping("UND_SocietyOfBrilliance_Mindflayer", "UND_SocietyOfBrilliance_Mindflayer_None");
+DB_REL_TableMapping("UND_MycoVillage_AlchemistDwarf_Trade", "UND_MycoVillage_AlchemistDwarf_Trade_None");
+DB_REL_TableMapping("UND_MycoVillage_AlchemistDwarf_Trade_Magic", "UND_MycoVillage_AlchemistDwarf_Trade_Magic_None");
+DB_REL_TableMapping("UND_KC_Trader_Weapons", "UND_KC_Trader_Weapons_None");
+DB_REL_TableMapping("WYR_Ironhand_Magic_Merchant", "WYR_Ironhand_Magic_Merchant_None");
+DB_REL_TableMapping("WYR_OrinsImpersonation_Smith", "WYR_OrinsImpersonation_Smith_None");
+DB_REL_TableMapping("WYR_SharranInformer_Basic", "WYR_SharranInformer_Basic_None");
+DB_REL_TableMapping("WYR_Circus_KoboldMerchant_Magic", "WYR_Circus_KoboldMerchant_Magic_None");
+DB_REL_TableMapping("LOW_VoicelessPenitent", "LOW_VoicelessPenitent_None");
+DB_REL_TableMapping("LOW_Guildhall_FetchersBrat_Trade", "LOW_Guildhall_FetchersBrat_Trade_None");
+DB_REL_TableMapping("LOW_MurderTribunal_Merchant", "LOW_MurderTribunal_Merchant_None");
+DB_REL_TableMapping("LOW_MysticCarrion_Trade", "LOW_MysticCarrion_Trade_None");
+DB_REL_TableMapping("LOW_SorcerousSundries_Trade", "LOW_SorcerousSundries_Trade_None");
+DB_REL_TableMapping("LOW_SteepsTrader_Armor", "LOW_SteepsTrader_Armor_None");
+DB_REL_TableMapping("LOW_SteepsTrader_Weapons", "LOW_SteepsTrader_Weapons_None");
+DB_REL_TableMapping("LOW_StormshoreTabernacle_Guardian", "LOW_StormshoreTabernacle_Guardian_None");
+DB_REL_TableMapping("LOW_InfernalTrade", "LOW_InfernalTrade_None");
+
+// Special table mappings (quest-unlocked inventories)
+DB_REL_SpecialTableMapping("MOO_BugBearVendor_PrivateStash", "MOO_BugBearVendor_PrivateStash_None");
+DB_REL_SpecialTableMapping("MOO_InfernalTrader_SpecialStock", "MOO_InfernalTrader_SpecialStock_None");
+DB_REL_SpecialTableMapping("WYR_SharranInformer_Extended", "WYR_SharranInformer_Extended_None");
+DB_REL_SpecialTableMapping("WYR_SharessCaress_Bartender_Trade_Potent", "WYR_SharessCaress_Bartender_Trade_Potent_None");
+DB_REL_SpecialTableMapping("LOW_DevilsFee_Diabolist_Trade_Magic", "LOW_DevilsFee_Diabolist_Trade_Magic_None");
+DB_REL_SpecialTableMapping("LOW_Weaponsmith_Trade", "LOW_Weaponsmith_Trade_None");
+DB_REL_SpecialTableMapping("HAV_Weaponsmith_Trade", "HAV_Weaponsmith_Trade_None");
+DB_REL_SpecialTableMapping("HAV_Thiefling_Trade", "HAV_Thiefling_Trade_None");
+DB_REL_SpecialTableMapping("WYR_Thiefling_Trade", "WYR_Thiefling_Trade_None");
+DB_REL_SpecialTableMapping("HAV_UnfortunateGnome_Trade", "HAV_UnfortunateGnome_Trade_None");
+DB_REL_SpecialTableMapping("WYR_UnfortunateGnome", "WYR_UnfortunateGnome_None");
+DB_REL_SpecialTableMapping("MOO_ZhentQuartermaster", "MOO_ZhentQuartermaster_None");
+DB_REL_SpecialTableMapping("WYR_SharessCaress_Bartender_Trade", "WYR_SharessCaress_Bartender_Trade_None");
+
+// List of traders to monitor
+DB_REL_TrackedTraders((CHARACTER)S_DEN_ServantPlight_005_13db744d-8a48-4131-8801-fd5fc289fdf6);
+DB_REL_TrackedTraders((CHARACTER)S_MOO_BugBearVendor_8cb1cace-ef98-4387-8b76-2e8efc5cfe89);
+DB_REL_TrackedTraders((CHARACTER)S_HAG_Hag_c457d064-83fb-4ec6-b74d-1f30dfafd12d);
+DB_REL_TrackedTraders((CHARACTER)S_PLA_ZhentDungeon_Zhent03_8f63a70b-93e1-4841-8dea-b1f1542fd3c1);
+DB_REL_TrackedTraders((CHARACTER)S_PLA_Refugee_003_bf6a657e-091c-43e5-b18a-a2ca7ca7e511);
+DB_REL_TrackedTraders((CHARACTER)S_DEN_Weaponsmith_e2ad06ec-8034-479a-9f69-b86faea6dc79);
+DB_REL_TrackedTraders((CHARACTER)S_DEN_PickpocketTrader_e1fda08b-45d4-41db-84b5-20e9931ba5af);
+DB_REL_TrackedTraders((CHARACTER)S_GOB_Festivities_Trader_3c9f9d17-835c-46bf-929d-240e3b4adb55);
+DB_REL_TrackedTraders((CHARACTER)S_GOB_Quartermaster_646936f3-8d8d-484e-9361-cd1ed484c615);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_Volo_2af25a85-5b9a-4794-85d3-0bd4c4d262fa);
+DB_REL_TrackedTraders((CHARACTER)S_CRE_Quartermistress_ffb0ec61-5739-4b34-8d27-e61b1f4500ad);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_Expeditioner_5f4048ba-72ef-43c2-9528-1c9a12f3f82f);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_SocietyOfBrilliance_Hobgoblin_db424bf6-81ad-463d-8974-f73f1df5af09);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_Derryth_2b537d2a-14c8-43b3-ab71-d537c925a2a7);
+DB_REL_TrackedTraders((CHARACTER)S_UND_DuergarRaftCaptain_473ae3b0-d8e9-428d-9129-bbffe449b8ec);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_SocietyOfBrilliance_MindFlayer_1f9937ef-9207-4db6-a833-e4083d571f53);
+DB_REL_TrackedTraders((CHARACTER)S_IRN_Omeluum_df88c3a5-9ee1-4a23-a7b6-34c07cef8a33);
+DB_REL_TrackedTraders((CHARACTER)S_MOO_InfernalVendor_511c9413-25fe-449c-a81d-4b09bc20745a);
+DB_REL_TrackedTraders((CHARACTER)S_FOR_UnfortunateGnome_6e45a00b-bad2-40bb-9403-147b9e92d976);
+DB_REL_TrackedTraders((CHARACTER)WYR_UnfortunateGnome_febf6225-9355-45a9-84ff-40ee4e927fb3);
+DB_REL_TrackedTraders((CHARACTER)S_HAV_HavenOutcasts_HarperQuartermaster_f769815c-d437-4a45-9ae4-aebd53ec8f7c);
+DB_REL_TrackedTraders((CHARACTER)S_WYR_Ironhand_Merchant_6fbabd70-2f22-47aa-8def-78459e662ca6);
+DB_REL_TrackedTraders((CHARACTER)S_WYR_Rivington_ArmoryShopkeeper_b0caa965-537c-4d10-a672-4943825b73ea);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_SharranInformer_b2cf2efe-ec06-48cd-8fb7-ad596d61164f);
+DB_REL_TrackedTraders((CHARACTER)S_WYR_Circus_Merchant_60e4431d-dee5-4af4-a05e-65896ec64f2f);
+DB_REL_TrackedTraders((CHARACTER)S_WYR_Danthelon_3570c049-effb-4839-aaae-c628b5d01456);
+DB_REL_TrackedTraders((CHARACTER)S_WYR_SharessCaress_Bartender_ab24945c-268d-4f90-b8ea-bbb11cd50157);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_SteepsTrader_Weapons_3c4ebba4-d2ba-4f07-98ed-bc523845ce3b);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_SteepsTrader_Armor_dc7d1866-a206-4029-81a4-ad18ffbcf3ea);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_DevilsFee_Helsik_299a1c00-ff53-415e-ad8e-9bcbbae55597);
+DB_REL_TrackedTraders((CHARACTER)S_GLO_Prodigy_b6a3a9e9-b6eb-4c19-ab3f-4c431178fe1b);
+DB_REL_TrackedTraders((CHARACTER)S_HAV_RolanHologramSpeaker_1fb677fe-8937-4aba-aab1-3811f239e7d5);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_LorroakanProjection_7929fdf5-73f4-43e4-9375-13c965685af2);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_RolanProjection_c6a47d05-5051-42de-86b0-776fe0285cd1);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_FatherCarrion_b003409c-364f-4065-94bf-7436001d890e);
+DB_REL_TrackedTraders((CHARACTER)LOW_Undead_Mummy_FatherCarrion_cfe6ad05-98cc-47ac-b524-f48333cae046);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_Thrumbo_c20c1d4e-eea9-473b-b26e-abe5973ba0eb);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_TempleGuardian_32ec6ad3-c085-4fc5-943b-e2e3a05d9f2b);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_VoicelessPenitent_f4039bb7-7456-4c35-a45a-20aa2f23ccf5);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_MurderTribunal_MurderMerchant_68a568cd-1e5e-46f1-9c5f-53d3eed23bd5);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_Bartender_00c74e3b-5880-4525-9558-860e4f7c77e2);
+DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_FetchersBrat_002_3352a47c-4259-464d-8047-65bc8a2adff9);
+
+KBSECTION
+//REGION Initialization System
+
+// Initialize tracking on first trade request
+IF
+RequestTrade((CHARACTER)_Player, (CHARACTER)_Trader, _, _)
+AND
+DB_REL_TrackedTraders(_Trader)
+AND
+NOT DB_REL_TraderInitialized(_Trader)
+THEN
+DB_REL_TraderInitialized(_Trader);
+PROC_REL_InitializeTrader(_Trader);
+
+// Initialize tracking on pickpocket (for party member traders)
+IF
+RequestPickpocket((CHARACTER)_Player, (CHARACTER)_Trader)
+AND
+DB_REL_TrackedTraders(_Trader)
+AND
+IsPartyMember(_Trader, 1, 0)
+AND
+NOT DB_REL_TraderInitialized(_Trader)
+THEN
+DB_REL_TraderInitialized(_Trader);
+PROC_REL_InitializeTrader(_Trader);
+
+// Common initialization procedure
+PROC
+PROC_REL_InitializeTrader((CHARACTER)_Trader)
+THEN
+PROC_REL_DetermineInitialTable(_Trader);
+
+// Determine initial table for each trader
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_DEN_ServantPlight_005_13db744d-8a48-4131-8801-fd5fc289fdf6
+THEN
+DB_REL_TraderCurrentTable(_Trader, "DEN_Entrance_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_MOO_BugBearVendor_8cb1cace-ef98-4387-8b76-2e8efc5cfe89
+THEN
+DB_REL_TraderCurrentTable(_Trader, "MOO_BugBearvendor_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_HAG_Hag_c457d064-83fb-4ec6-b74d-1f30dfafd12d
+THEN
+DB_REL_TraderCurrentTable(_Trader, "DEN_Ethel");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_PLA_ZhentDungeon_Zhent03_8f63a70b-93e1-4841-8dea-b1f1542fd3c1
+THEN
+DB_REL_TraderCurrentTable(_Trader, "PLA_ZhentarimTrader");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_PLA_Refugee_003_bf6a657e-091c-43e5-b18a-a2ca7ca7e511
+THEN
+DB_REL_TraderCurrentTable(_Trader, "PLA_Tollhouse_SuppliesTrader");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_DEN_Weaponsmith_e2ad06ec-8034-479a-9f69-b86faea6dc79
+THEN
+DB_REL_TraderCurrentTable(_Trader, "DEN_Weaponsmith_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_DEN_PickpocketTrader_e1fda08b-45d4-41db-84b5-20e9931ba5af
+THEN
+DB_REL_TraderCurrentTable(_Trader, "HAV_Thiefling_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GOB_Festivities_Trader_3c9f9d17-835c-46bf-929d-240e3b4adb55
+THEN
+DB_REL_TraderCurrentTable(_Trader, "GOB_Festivities_Trader");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GOB_Quartermaster_646936f3-8d8d-484e-9361-cd1ed484c615
+THEN
+DB_REL_TraderCurrentTable(_Trader, "GOB_Quartermaster");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_Volo_2af25a85-5b9a-4794-85d3-0bd4c4d262fa
+THEN
+DB_REL_TraderCurrentTable(_Trader, "DEN_Volo_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_CRE_Quartermistress_ffb0ec61-5739-4b34-8d27-e61b1f4500ad
+THEN
+DB_REL_TraderCurrentTable(_Trader, "CRE_GithQuartermistress_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_Expeditioner_5f4048ba-72ef-43c2-9528-1c9a12f3f82f
+THEN
+DB_REL_TraderCurrentTable(_Trader, "CRE_Expeditioner_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_SocietyOfBrilliance_Hobgoblin_db424bf6-81ad-463d-8974-f73f1df5af09
+THEN
+DB_REL_TraderCurrentTable(_Trader, "UND_SocietyOfBrilliance_Hobgoblin");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_Derryth_2b537d2a-14c8-43b3-ab71-d537c925a2a7
+THEN
+DB_REL_TraderCurrentTable(_Trader, "UND_MycoVillage_AlchemistDwarf_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_UND_DuergarRaftCaptain_473ae3b0-d8e9-428d-9129-bbffe449b8ec
+THEN
+DB_REL_TraderCurrentTable(_Trader, "UND_KC_Trader_Weapons");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_SocietyOfBrilliance_MindFlayer_1f9937ef-9207-4db6-a833-e4083d571f53
+THEN
+DB_REL_TraderCurrentTable(_Trader, "UND_SocietyOfBrilliance_Mindflayer");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_IRN_Omeluum_df88c3a5-9ee1-4a23-a7b6-34c07cef8a33
+THEN
+DB_REL_TraderCurrentTable(_Trader, "UND_SocietyOfBrilliance_Mindflayer");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_MOO_InfernalVendor_511c9413-25fe-449c-a81d-4b09bc20745a
+THEN
+DB_REL_TraderCurrentTable(_Trader, "MOO_InfernalTrader_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_FOR_UnfortunateGnome_6e45a00b-bad2-40bb-9403-147b9e92d976
+THEN
+DB_REL_TraderCurrentTable(_Trader, "HAV_UnfortunateGnome_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_HAV_HavenOutcasts_HarperQuartermaster_f769815c-d437-4a45-9ae4-aebd53ec8f7c
+THEN
+DB_REL_TraderCurrentTable(_Trader, "HAV_HarperQuarterMaster");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == WYR_UnfortunateGnome_febf6225-9355-45a9-84ff-40ee4e927fb3
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_UnfortunateGnome");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_WYR_Ironhand_Merchant_6fbabd70-2f22-47aa-8def-78459e662ca6
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_Ironhand_Magic_Merchant");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_WYR_Rivington_ArmoryShopkeeper_b0caa965-537c-4d10-a672-4943825b73ea
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_OrinsImpersonation_Smith");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_SharranInformer_b2cf2efe-ec06-48cd-8fb7-ad596d61164f
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_SharranInformer_Basic");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_WYR_Circus_Merchant_60e4431d-dee5-4af4-a05e-65896ec64f2f
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_Circus_KoboldMerchant_Magic");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_WYR_Danthelon_3570c049-effb-4839-aaae-c628b5d01456
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_Danthelon_Trader");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_WYR_SharessCaress_Bartender_ab24945c-268d-4f90-b8ea-bbb11cd50157
+THEN
+DB_REL_TraderCurrentTable(_Trader, "WYR_SharessCaress_Bartender_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_SteepsTrader_Weapons_3c4ebba4-d2ba-4f07-98ed-bc523845ce3b
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_SteepsTrader_Weapons");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_SteepsTrader_Armor_dc7d1866-a206-4029-81a4-ad18ffbcf3ea
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_SteepsTrader_Armor");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_DevilsFee_Helsik_299a1c00-ff53-415e-ad8e-9bcbbae55597
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_InfernalTrade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_GLO_Prodigy_b6a3a9e9-b6eb-4c19-ab3f-4c431178fe1b
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_SorcerousSundries_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_HAV_RolanHologramSpeaker_1fb677fe-8937-4aba-aab1-3811f239e7d5
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_SorcerousSundries_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_LorroakanProjection_7929fdf5-73f4-43e4-9375-13c965685af2
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_SorcerousSundries_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_RolanProjection_c6a47d05-5051-42de-86b0-776fe0285cd1
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_SorcerousSundries_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_FatherCarrion_b003409c-364f-4065-94bf-7436001d890e
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_MysticCarrion_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == LOW_Undead_Mummy_FatherCarrion_cfe6ad05-98cc-47ac-b524-f48333cae046
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_MysticCarrion_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_Thrumbo_c20c1d4e-eea9-473b-b26e-abe5973ba0eb
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_MysticCarrion_Trade");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_TempleGuardian_32ec6ad3-c085-4fc5-943b-e2e3a05d9f2b
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_StormshoreTabernacle_Guardian");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_VoicelessPenitent_f4039bb7-7456-4c35-a45a-20aa2f23ccf5
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_VoicelessPenitent");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_MurderTribunal_MurderMerchant_68a568cd-1e5e-46f1-9c5f-53d3eed23bd5
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_MurderTribunal_Merchant");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_Guildhall_Bartender_00c74e3b-5880-4525-9558-860e4f7c77e2
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_Guildhall_Bartender");
+
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+_Trader == S_LOW_Guildhall_FetchersBrat_002_3352a47c-4259-464d-8047-65bc8a2adff9
+THEN
+DB_REL_TraderCurrentTable(_Trader, "LOW_Guildhall_FetchersBrat_Trade");
+
+// Default case for unknown traders
+PROC
+PROC_REL_DetermineInitialTable((CHARACTER)_Trader)
+AND
+NOT DB_REL_TraderCurrentTable(_Trader, _)
+THEN
+DB_REL_TraderCurrentTable(_Trader, "UNKNOWN");
+
+//END_REGION
+
+//REGION Table Change Tracking
+
+// React to SetCustomTradeTreasure calls (vanilla will handle the actual call)
+PROC
+PROC_SetCustomTradeTreasure((CHARACTER)_Trader, (STRING)_NewTable)
+AND
+DB_REL_TrackedTraders(_Trader)
+THEN
+PROC_REL_OnTableChange(_Trader, _NewTable);
+
+// Handle table changes
+PROC
+PROC_REL_OnTableChange((CHARACTER)_Trader, (STRING)_NewTable)
+AND
+DB_REL_TraderCurrentTable(_Trader, _OldTable)
+AND
+_OldTable != _NewTable
+THEN
+// Update current table
+NOT DB_REL_TraderCurrentTable(_Trader, _OldTable);
+DB_REL_TraderCurrentTable(_Trader, _NewTable);
+// If vanilla changed table and we already applied None version, reset flag
+// so new table can be processed on next rest
+PROC_REL_HandleVanillaTableChange(_Trader, _NewTable);
+
+// Handle first table assignment
+PROC
+PROC_REL_OnTableChange((CHARACTER)_Trader, (STRING)_NewTable)
+AND
+NOT DB_REL_TraderCurrentTable(_Trader, _)
+THEN
+DB_REL_TraderCurrentTable(_Trader, _NewTable);
+// Note: No immediate replacement - wait for rest/levelup
+
+// Handle vanilla table changes (like BugBear's private stash)
+// Case 1: Standard table mapping
+PROC
+PROC_REL_HandleVanillaTableChange((CHARACTER)_Trader, (STRING)_NewTable)
+AND
+DB_REL_NoneVersionApplied(_Trader)
+AND
+DB_REL_TableMapping(_NewTable, _)
+THEN
+// Vanilla changed to a table with None version, reset our applied flag
+// so it can be converted again on next rest
+NOT DB_REL_NoneVersionApplied(_Trader);
+
+// Case 2: Special table mapping
+PROC
+PROC_REL_HandleVanillaTableChange((CHARACTER)_Trader, (STRING)_NewTable)
+AND
+DB_REL_NoneVersionApplied(_Trader)
+AND
+DB_REL_SpecialTableMapping(_NewTable, _)
+THEN
+// Vanilla changed to a table with None version, reset our applied flag
+// so it can be converted again on next rest
+NOT DB_REL_NoneVersionApplied(_Trader);
+
+//END_REGION
+
+//REGION Trade End Processing
+
+// Mark table as visited when trade ends (but don't replace immediately)
+IF
+TradeEnds((CHARACTER)_Player, (CHARACTER)_Trader)
+AND
+DB_Players(_Player)
+AND
+DB_REL_TrackedTraders(_Trader)
+AND
+DB_REL_TraderCurrentTable(_Trader, _CurrentTable)
+AND
+NOT DB_REL_VisitedTable(_Trader, _CurrentTable)
+THEN
+// Mark table as visited
+DB_REL_VisitedTable(_Trader, _CurrentTable);
+
+// Process table replacement after long rest
+PROC
+PROC_LongRest()
+THEN
+PROC_REL_ProcessAllVisitedTables();
+
+// Process table replacement after level up
+IF
+LeveledUp(_Player)
+AND
+DB_Players(_Player)
+THEN
+PROC_REL_ProcessAllVisitedTables();
+
+// Process all visited tables for replacement
+PROC
+PROC_REL_ProcessAllVisitedTables()
+AND
+DB_REL_TrackedTraders(_Trader)
+AND
+DB_REL_TraderCurrentTable(_Trader, _CurrentTable)
+AND
+DB_REL_VisitedTable(_Trader, _CurrentTable)
+AND
+NOT DB_REL_NoneVersionApplied(_Trader)
+THEN
+PROC_REL_ProcessTableReplacement(_Trader, _CurrentTable);
+
+// Replace standard tables with None versions
+PROC
+PROC_REL_ProcessTableReplacement((CHARACTER)_Trader, (STRING)_Table)
+AND
+DB_REL_TableMapping(_Table, _NoUniquesTable)
+AND
+NOT DB_REL_ProcessingReplacement(_Trader)
+THEN
+DB_REL_ProcessingReplacement(_Trader);
+SetCustomTradeTreasure(_Trader, _NoUniquesTable);
+// Update tracking
+NOT DB_REL_TraderCurrentTable(_Trader, _Table);
+DB_REL_TraderCurrentTable(_Trader, _NoUniquesTable);
+DB_REL_NoneVersionApplied(_Trader);
+NOT DB_REL_ProcessingReplacement(_Trader);
+
+// Replace special tables with None versions
+PROC
+PROC_REL_ProcessTableReplacement((CHARACTER)_Trader, (STRING)_Table)
+AND
+DB_REL_SpecialTableMapping(_Table, _NoUniquesTable)
+AND
+NOT DB_REL_ProcessingReplacement(_Trader)
+THEN
+DB_REL_ProcessingReplacement(_Trader);
+SetCustomTradeTreasure(_Trader, _NoUniquesTable);
+// Update tracking
+NOT DB_REL_TraderCurrentTable(_Trader, _Table);
+DB_REL_TraderCurrentTable(_Trader, _NoUniquesTable);
+DB_REL_NoneVersionApplied(_Trader);
+NOT DB_REL_ProcessingReplacement(_Trader);
+
+//END_REGION
+
+//REGION Debug Support
+
+// Debug: Show current table
+PROC
+PROC_REL_DebugShowCurrentTable((CHARACTER)_Trader)
+AND
+DB_REL_TraderCurrentTable(_Trader, _Table)
+AND
+Concatenate("Current table: ", _Table, _Msg)
+THEN
+DebugText(_Trader, _Msg);
+
+// Debug: Show visited tables
+PROC
+PROC_REL_DebugShowVisitedTables((CHARACTER)_Trader)
+AND
+DB_REL_VisitedTable(_Trader, _Table)
+AND
+Concatenate("Visited: ", _Table, _Msg)
+THEN
+DebugText(_Trader, _Msg);
+
+//END_REGION
+
+EXITSECTION
+// Clean up all databases when goal completes
+NOT DB_REL_TableMapping("DEN_Entrance_Trade", "DEN_Entrance_Trade_None");
+NOT DB_REL_TableMapping("MOO_BugBearvendor_Trade", "MOO_BugBearvendor_Trade_None");
+NOT DB_REL_TableMapping("PLA_Tollhouse_SuppliesTrader", "PLA_Tollhouse_SuppliesTrader_None");
+NOT DB_REL_TableMapping("DEN_Volo_Trade", "DEN_Volo_Trade_None");
+NOT DB_REL_TableMapping("LOW_Guildhall_Bartender", "LOW_Guildhall_Bartender_None");
+NOT DB_REL_TableMapping("WYR_Danthelon_Trader", "WYR_Danthelon_Trader_None");
+NOT DB_REL_TableMapping("HAV_HarperQuarterMaster", "HAV_HarperQuarterMaster_None");
+NOT DB_REL_TableMapping("MOO_InfernalTrader_Trade", "MOO_InfernalTrader_Trade_None");
+NOT DB_REL_TableMapping("CRE_Expeditioner_Trade", "CRE_Expeditioner_Trade_None");
+NOT DB_REL_TableMapping("DEN_Ethel", "DEN_Ethel_None");
+NOT DB_REL_TableMapping("DEN_Weaponsmith_Trade", "DEN_Weaponsmith_Trade_None");
+NOT DB_REL_TableMapping("GOB_Festivities_Trader", "GOB_Festivities_Trader_None");
+NOT DB_REL_TableMapping("GOB_Quartermaster", "GOB_Quartermaster_None");
+NOT DB_REL_TableMapping("PLA_ZhentarimTrader", "PLA_ZhentarimTrader_None");
+NOT DB_REL_TableMapping("CRE_GithQuartermistress_Trade", "CRE_GithQuartermistress_Trade_None");
+NOT DB_REL_TableMapping("UND_SocietyOfBrilliance_Hobgoblin", "UND_SocietyOfBrilliance_Hobgoblin_None");
+NOT DB_REL_TableMapping("UND_SocietyOfBrilliance_Mindflayer", "UND_SocietyOfBrilliance_Mindflayer_None");
+NOT DB_REL_TableMapping("UND_MycoVillage_AlchemistDwarf_Trade", "UND_MycoVillage_AlchemistDwarf_Trade_None");
+NOT DB_REL_TableMapping("UND_MycoVillage_AlchemistDwarf_Trade_Magic", "UND_MycoVillage_AlchemistDwarf_Trade_Magic_None");
+NOT DB_REL_TableMapping("UND_KC_Trader_Weapons", "UND_KC_Trader_Weapons_None");
+NOT DB_REL_TableMapping("WYR_Ironhand_Magic_Merchant", "WYR_Ironhand_Magic_Merchant_None");
+NOT DB_REL_TableMapping("WYR_OrinsImpersonation_Smith", "WYR_OrinsImpersonation_Smith_None");
+NOT DB_REL_TableMapping("WYR_SharranInformer_Basic", "WYR_SharranInformer_Basic_None");
+NOT DB_REL_TableMapping("WYR_Circus_KoboldMerchant_Magic", "WYR_Circus_KoboldMerchant_Magic_None");
+NOT DB_REL_TableMapping("LOW_VoicelessPenitent", "LOW_VoicelessPenitent_None");
+NOT DB_REL_TableMapping("LOW_Guildhall_FetchersBrat_Trade", "LOW_Guildhall_FetchersBrat_Trade_None");
+NOT DB_REL_TableMapping("LOW_MurderTribunal_Merchant", "LOW_MurderTribunal_Merchant_None");
+NOT DB_REL_TableMapping("LOW_MysticCarrion_Trade", "LOW_MysticCarrion_Trade_None");
+NOT DB_REL_TableMapping("LOW_SorcerousSundries_Trade", "LOW_SorcerousSundries_Trade_None");
+NOT DB_REL_TableMapping("LOW_SteepsTrader_Armor", "LOW_SteepsTrader_Armor_None");
+NOT DB_REL_TableMapping("LOW_SteepsTrader_Weapons", "LOW_SteepsTrader_Weapons_None");
+NOT DB_REL_TableMapping("LOW_StormshoreTabernacle_Guardian", "LOW_StormshoreTabernacle_Guardian_None");
+NOT DB_REL_TableMapping("LOW_InfernalTrade", "LOW_InfernalTrade_None");
+
+NOT DB_REL_SpecialTableMapping("MOO_BugBearVendor_PrivateStash", "MOO_BugBearVendor_PrivateStash_None");
+NOT DB_REL_SpecialTableMapping("MOO_InfernalTrader_SpecialStock", "MOO_InfernalTrader_SpecialStock_None");
+NOT DB_REL_SpecialTableMapping("WYR_SharranInformer_Extended", "WYR_SharranInformer_Extended_None");
+NOT DB_REL_SpecialTableMapping("WYR_SharessCaress_Bartender_Trade_Potent", "WYR_SharessCaress_Bartender_Trade_Potent_None");
+NOT DB_REL_SpecialTableMapping("LOW_DevilsFee_Diabolist_Trade_Magic", "LOW_DevilsFee_Diabolist_Trade_Magic_None");
+NOT DB_REL_SpecialTableMapping("LOW_Weaponsmith_Trade", "LOW_Weaponsmith_Trade_None");
+NOT DB_REL_SpecialTableMapping("HAV_Weaponsmith_Trade", "HAV_Weaponsmith_Trade_None");
+NOT DB_REL_SpecialTableMapping("HAV_Thiefling_Trade", "HAV_Thiefling_Trade_None");
+NOT DB_REL_SpecialTableMapping("WYR_Thiefling_Trade", "WYR_Thiefling_Trade_None");
+NOT DB_REL_SpecialTableMapping("HAV_UnfortunateGnome_Trade", "HAV_UnfortunateGnome_Trade_None");
+NOT DB_REL_SpecialTableMapping("WYR_UnfortunateGnome", "WYR_UnfortunateGnome_None");
+NOT DB_REL_SpecialTableMapping("MOO_ZhentQuartermaster", "MOO_ZhentQuartermaster_None");
+NOT DB_REL_SpecialTableMapping("WYR_SharessCaress_Bartender_Trade", "WYR_SharessCaress_Bartender_Trade_None");
+
+NOT DB_REL_TrackedTraders((CHARACTER)S_DEN_ServantPlight_005_13db744d-8a48-4131-8801-fd5fc289fdf6);
+NOT DB_REL_TrackedTraders((CHARACTER)S_MOO_BugBearVendor_8cb1cace-ef98-4387-8b76-2e8efc5cfe89);
+NOT DB_REL_TrackedTraders((CHARACTER)S_HAG_Hag_c457d064-83fb-4ec6-b74d-1f30dfafd12d);
+NOT DB_REL_TrackedTraders((CHARACTER)S_PLA_ZhentDungeon_Zhent03_8f63a70b-93e1-4841-8dea-b1f1542fd3c1);
+NOT DB_REL_TrackedTraders((CHARACTER)S_PLA_Refugee_003_bf6a657e-091c-43e5-b18a-a2ca7ca7e511);
+NOT DB_REL_TrackedTraders((CHARACTER)S_DEN_Weaponsmith_e2ad06ec-8034-479a-9f69-b86faea6dc79);
+NOT DB_REL_TrackedTraders((CHARACTER)S_DEN_PickpocketTrader_e1fda08b-45d4-41db-84b5-20e9931ba5af);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GOB_Festivities_Trader_3c9f9d17-835c-46bf-929d-240e3b4adb55);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GOB_Quartermaster_646936f3-8d8d-484e-9361-cd1ed484c615);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_Volo_2af25a85-5b9a-4794-85d3-0bd4c4d262fa);
+NOT DB_REL_TrackedTraders((CHARACTER)S_CRE_Quartermistress_ffb0ec61-5739-4b34-8d27-e61b1f4500ad);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_Expeditioner_5f4048ba-72ef-43c2-9528-1c9a12f3f82f);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_SocietyOfBrilliance_Hobgoblin_db424bf6-81ad-463d-8974-f73f1df5af09);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_Derryth_2b537d2a-14c8-43b3-ab71-d537c925a2a7);
+NOT DB_REL_TrackedTraders((CHARACTER)S_UND_DuergarRaftCaptain_473ae3b0-d8e9-428d-9129-bbffe449b8ec);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_SocietyOfBrilliance_MindFlayer_1f9937ef-9207-4db6-a833-e4083d571f53);
+NOT DB_REL_TrackedTraders((CHARACTER)S_IRN_Omeluum_df88c3a5-9ee1-4a23-a7b6-34c07cef8a33);
+NOT DB_REL_TrackedTraders((CHARACTER)S_MOO_InfernalVendor_511c9413-25fe-449c-a81d-4b09bc20745a);
+NOT DB_REL_TrackedTraders((CHARACTER)S_FOR_UnfortunateGnome_6e45a00b-bad2-40bb-9403-147b9e92d976);
+NOT DB_REL_TrackedTraders((CHARACTER)WYR_UnfortunateGnome_febf6225-9355-45a9-84ff-40ee4e927fb3);
+NOT DB_REL_TrackedTraders((CHARACTER)S_HAV_HavenOutcasts_HarperQuartermaster_f769815c-d437-4a45-9ae4-aebd53ec8f7c);
+NOT DB_REL_TrackedTraders((CHARACTER)S_WYR_Ironhand_Merchant_6fbabd70-2f22-47aa-8def-78459e662ca6);
+NOT DB_REL_TrackedTraders((CHARACTER)S_WYR_Rivington_ArmoryShopkeeper_b0caa965-537c-4d10-a672-4943825b73ea);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_SharranInformer_b2cf2efe-ec06-48cd-8fb7-ad596d61164f);
+NOT DB_REL_TrackedTraders((CHARACTER)S_WYR_Circus_Merchant_60e4431d-dee5-4af4-a05e-65896ec64f2f);
+NOT DB_REL_TrackedTraders((CHARACTER)S_WYR_Danthelon_3570c049-effb-4839-aaae-c628b5d01456);
+NOT DB_REL_TrackedTraders((CHARACTER)S_WYR_SharessCaress_Bartender_ab24945c-268d-4f90-b8ea-bbb11cd50157);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_SteepsTrader_Weapons_3c4ebba4-d2ba-4f07-98ed-bc523845ce3b);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_SteepsTrader_Armor_dc7d1866-a206-4029-81a4-ad18ffbcf3ea);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_DevilsFee_Helsik_299a1c00-ff53-415e-ad8e-9bcbbae55597);
+NOT DB_REL_TrackedTraders((CHARACTER)S_GLO_Prodigy_b6a3a9e9-b6eb-4c19-ab3f-4c431178fe1b);
+NOT DB_REL_TrackedTraders((CHARACTER)S_HAV_RolanHologramSpeaker_1fb677fe-8937-4aba-aab1-3811f239e7d5);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_LorroakanProjection_7929fdf5-73f4-43e4-9375-13c965685af2);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_RolanProjection_c6a47d05-5051-42de-86b0-776fe0285cd1);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_FatherCarrion_b003409c-364f-4065-94bf-7436001d890e);
+NOT DB_REL_TrackedTraders((CHARACTER)LOW_Undead_Mummy_FatherCarrion_cfe6ad05-98cc-47ac-b524-f48333cae046);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_Thrumbo_c20c1d4e-eea9-473b-b26e-abe5973ba0eb);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_TempleGuardian_32ec6ad3-c085-4fc5-943b-e2e3a05d9f2b);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_VoicelessPenitent_f4039bb7-7456-4c35-a45a-20aa2f23ccf5);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_MurderTribunal_MurderMerchant_68a568cd-1e5e-46f1-9c5f-53d3eed23bd5);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_Bartender_00c74e3b-5880-4525-9558-860e4f7c77e2);
+NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_FetchersBrat_002_3352a47c-4259-464d-8047-65bc8a2adff9);
+
+ENDEXITSECTION

@@ -1,0 +1,112 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+// ==================================
+// TUTORIAL CHEST SPELL SYSTEM
+// ==================================
+// Summons Tutorial Chest to player and handles auto-deletion when dropped
+
+// Tutorial Chest template reference
+DB_AMP_TutorialChest_Template((ITEMROOT)AMP_Tutorial_Chest_6258293a-ddcc-4710-8e0b-7e80b1f105d8);
+
+// Spell identification
+DB_AMP_TutorialChest_SpellID("Shout_AMP_Tutorial_Chest");
+
+// Track summoned chests for cleanup
+// DB_AMP_TutorialChest_Summoned((ITEM)_Chest, (CHARACTER)_Summoner);
+KBSECTION
+// ==================================
+// SPELL CASTING DETECTION
+// ==================================
+
+// Detect when Tutorial Chest spell is cast
+IF
+UsingSpell((CHARACTER)_Caster, (STRING)_SpellID, _, _, _)
+AND
+DB_AMP_TutorialChest_SpellID(_SpellID)
+AND
+IsPlayer(_Caster, 1)
+THEN
+PROC_AMP_TutorialChest_SummonChest(_Caster);
+
+// Summon Tutorial Chest directly to caster's inventory
+PROC
+PROC_AMP_TutorialChest_SummonChest((CHARACTER)_Caster)
+AND
+DB_AMP_TutorialChest_Template(_ChestTemplate)
+THEN
+// Add chest directly to player's inventory
+TemplateAddTo(_ChestTemplate, _Caster, 1, 1);
+// Play summoning effect
+PlayEffect(_Caster, VFX_Script_Djinni_Teleport_7c79ada5-e179-5d0b-0557-29fca6201742, "", 1.0);
+
+// Track newly added Tutorial Chest
+IF
+TemplateAddedTo((ITEMROOT)_ChestTemplate, (ITEM)_CreatedChest, (CHARACTER)_Caster, _)
+AND
+DB_AMP_TutorialChest_Template(_ChestTemplate)
+THEN
+DB_AMP_TutorialChest_Summoned(_CreatedChest, _Caster);
+
+// ==================================
+// AUTO-DELETION SYSTEM
+// ==================================
+
+// Detect when Tutorial Chest is removed from any inventory
+IF
+RemovedFrom((ITEM)_Chest, (GUIDSTRING)_Container)
+AND
+DB_AMP_TutorialChest_Summoned(_Chest, _)
+THEN
+PROC_AMP_TutorialChest_CheckAndDelete(_Chest);
+
+// Check if chest should be deleted (not in any player inventory)
+PROC
+PROC_AMP_TutorialChest_CheckAndDelete((ITEM)_Chest)
+AND
+NOT QRY_AMP_TutorialChest_IsInAnyPlayerInventory(_Chest)
+AND
+GetPosition(_Chest, _X, _Y, _Z)
+THEN
+// Play deletion effect before removing
+PlayEffectAtPosition(VFX_Script_IronFlask_Poof_01_e770f08f-38d7-a1a7-91ca-380b3444f834, _X, _Y, _Z, 1.0);
+// Launch timer for delayed deletion
+ObjectTimerLaunch(_Chest, "AMP_TutorialChest_Delete", 500, 0);
+
+// Query to check if chest is in any player inventory
+QRY
+QRY_AMP_TutorialChest_IsInAnyPlayerInventory((ITEM)_Chest)
+AND
+DB_Players(_Player)
+AND
+IsInInventoryOf(_Chest, _Player, 1)
+THEN
+DB_NOOP(1);
+
+// Handle deletion timer completion
+IF
+ObjectTimerFinished((ITEM)_Chest, "AMP_TutorialChest_Delete")
+AND
+DB_AMP_TutorialChest_Summoned(_Chest, _Summoner)
+AND
+Exists(_Chest, 1)
+THEN
+// Clean up tracking database
+NOT DB_AMP_TutorialChest_Summoned(_Chest, _Summoner);
+// Delete the chest
+RequestDelete(_Chest);
+
+// ==================================
+// CLEANUP ON ITEM DESTRUCTION
+// ==================================
+
+// Clean up tracking if chest is destroyed by other means
+IF
+DestroyedBy((ITEM)_Chest, _, _, _)
+AND
+DB_AMP_TutorialChest_Summoned(_Chest, _Summoner)
+THEN
+NOT DB_AMP_TutorialChest_Summoned(_Chest, _Summoner);
+EXITSECTION
+
+ENDEXITSECTION

@@ -1,0 +1,311 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+/*
+// ==================================
+// AUTO-EJECTION SYSTEM - OPTIMIZED MODULAR DESIGN
+// ==================================
+
+// Core system state
+DB_AMP_AutoEject_System_Active(1);        // Is system active globally (1=active)
+DB_AMP_AutoEject_Delay(500);              // Visual delay before ejection (ms)
+
+// Processing state - tracks current item
+DB_AMP_AutoEject_Processing((ITEM)NULL_00000000-0000-0000-0000-000000000000);
+
+DB_AMP_AutoEject_SystemState(0);
+*/
+KBSECTION
+/*
+// ==================================
+// MAIN EVENT HANDLER
+// ==================================
+
+// Main event handler for items added to Arcanizer
+// Integrates with any item addition to the container
+IF
+AddedTo((ITEM)_Item, (ITEM)_Container, _)
+AND
+DB_AMP_Arcanizer_Tag((TAG)_ArcanTag)
+AND
+IsTagged(_Container, _ArcanTag, 1)
+AND
+DB_AMP_Arcanizer_Owner((CHARACTER)_Owner)
+AND
+// Only process if other systems are not active
+DB_AMP_Disenchant_IsProcessing(0)
+AND
+DB_AMP_Crafting_Active(0)
+AND
+DB_AMP_AutoEject_System_Active(1)
+AND
+NOT DB_AMP_AutoEject_Processing(_)
+THEN
+// Start evaluation process
+PROC_AMP_AutoEject_ProcessItem(_Item, _Owner, _Container);
+
+// ==================================
+// OPTIMIZED PROCESSING CHAIN
+// ==================================
+
+// Central processing function - everything starts here
+PROC
+PROC_AMP_AutoEject_ProcessItem((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+Exists(_Item, 1)
+AND
+_Owner != NULL_00000000-0000-0000-0000-000000000000
+THEN
+// First mark we're processing this item
+DB_AMP_AutoEject_Processing(_Item);
+// Initial check - eliminate story items early
+PROC_AMP_AutoEject_CheckStoryItem(_Item, _Owner, _Container);
+
+// First check - eliminate story items immediately
+PROC
+PROC_AMP_AutoEject_CheckStoryItem((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+IsStoryItem(_Item, 1)
+THEN
+// Always keep story items - don't eject
+DebugText(_Item, "Auto-Ejection: Keeping story item");
+PROC_AMP_AutoEject_FinishProcessing(_Item, 0); // 0 = don't eject
+
+// If not a story item, proceed with other checks
+PROC
+PROC_AMP_AutoEject_CheckStoryItem((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+NOT IsStoryItem(_Item, 1)
+THEN
+// Proceed to crafting resource check
+PROC_AMP_AutoEject_CheckCraftingResource(_Item, _Owner, _Container);
+
+// Second check - is it a crafting resource?
+PROC
+PROC_AMP_AutoEject_CheckCraftingResource((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+QRY_AMP_AutoEject_IsCraftingResource(_Item)
+THEN
+// Keep crafting resources
+DebugText(_Item, "Auto-Ejection: Keeping crafting resource");
+PROC_AMP_AutoEject_FinishProcessing(_Item, 0); // 0 = don't eject
+
+// Not a crafting resource, continue to next check
+PROC
+PROC_AMP_AutoEject_CheckCraftingResource((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+NOT QRY_AMP_AutoEject_IsCraftingResource(_Item)
+THEN
+// Check if it's a valid base item
+PROC_AMP_AutoEject_CheckBaseItem(_Item, _Owner, _Container);
+
+// Third check - is it a valid base item for crafting?
+PROC
+PROC_AMP_AutoEject_CheckBaseItem((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+QRY_AMP_AutoEject_IsValidBaseItem(_Item)
+THEN
+// Keep valid base items
+DebugText(_Item, "Auto-Ejection: Keeping valid crafting base item");
+PROC_AMP_AutoEject_FinishProcessing(_Item, 0); // 0 = don't eject
+
+// Not a valid base item, continue to next check
+PROC
+PROC_AMP_AutoEject_CheckBaseItem((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+NOT QRY_AMP_AutoEject_IsValidBaseItem(_Item)
+THEN
+// Check if item is valid for disenchantment
+PROC_AMP_AutoEject_CheckDisenchant(_Item, _Owner, _Container);
+
+// Fourth check - is it valid for disenchantment?
+PROC
+PROC_AMP_AutoEject_CheckDisenchant((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+QRY_AMP_AutoEject_IsValidForDisenchant(_Item)
+THEN
+// Keep valid disenchant items
+DebugText(_Item, "Auto-Ejection: Keeping item valid for disenchantment");
+PROC_AMP_AutoEject_FinishProcessing(_Item, 0); // 0 = don't eject
+
+// Final decision - item failed all checks, eject it
+PROC
+PROC_AMP_AutoEject_CheckDisenchant((ITEM)_Item, (CHARACTER)_Owner, (ITEM)_Container)
+AND
+NOT QRY_AMP_AutoEject_IsValidForDisenchant(_Item)
+THEN
+// Item failed all checks, eject it
+DebugText(_Item, "Auto-Ejection: Ejecting non-compatible item");
+PROC_AMP_AutoEject_FinishProcessing(_Item, 1); // 1 = eject
+
+// ==================================
+// MODULAR QUERY FUNCTIONS
+// ==================================
+// These can be replaced or extended in future scripts
+
+// Check if item is a crafting resource
+QRY
+QRY_AMP_AutoEject_IsCraftingResource((ITEM)_Item)
+AND
+GetTemplate(_Item, (ITEMROOT)_Template)
+AND
+DB_AMP_Arcanizer_Resource_Map(_, _Template, _)
+THEN
+DB_NOOP(1);
+
+// Alternative resource check using tag
+QRY
+QRY_AMP_AutoEject_IsCraftingResource((ITEM)_Item)
+AND
+IsTagged(_Item, (TAG)AMP_CRAFTING_INGREDIENT_bd349698-3353-46bf-90cd-345d9930d12b, 1)
+THEN
+DB_NOOP(1);
+
+// Check if item is a valid base item for crafting
+// Equipment slots version
+QRY
+QRY_AMP_AutoEject_IsValidBaseItem((ITEM)_Item)
+AND
+IsEquipable(_Item, 1)
+AND
+GetEquipmentSlotForItem(_Item, (EQUIPMENTSLOT)_Slot)
+AND
+DB_AMP_Arcanizer_BaseItemSlot(_Slot, _)
+THEN
+DB_NOOP(1);
+
+// Weapon version
+QRY
+QRY_AMP_AutoEject_IsValidBaseItem((ITEM)_Item)
+AND
+IsWeapon(_Item, 1)
+AND
+DB_AMP_Arcanizer_WeaponTag((TAG)_Tag, _)
+AND
+IsTagged(_Item, _Tag, 1)
+THEN
+DB_NOOP(1);
+
+// Check if item is valid for disenchantment
+QRY
+QRY_AMP_AutoEject_IsValidForDisenchant((ITEM)_Item)
+AND
+IsEquipable(_Item, 1)
+AND
+GetEquipmentSlotForItem(_Item, (EQUIPMENTSLOT)_Slot)
+AND
+DB_AMP_Arcanizer_AllowedSlot(_, _Slot)
+AND
+NOT DB_AMP_Arcanizer_SlotBlacklist(_, _Slot)
+AND
+ItemGetGoldValue(_Item, (INTEGER)_Value)
+AND
+DB_AMP_Arcanizer_RarityValueRange("Uncommon", _MinValue, _)
+AND
+_Value >= _MinValue
+THEN
+DB_NOOP(1);
+
+// ==================================
+// PROCESSING COMPLETION
+// ==================================
+
+// Finish processing an item (keep or eject)
+PROC
+PROC_AMP_AutoEject_FinishProcessing((ITEM)_Item, (INTEGER)_ShouldEject)
+AND
+DB_AMP_AutoEject_Processing(_ProcessingItem)
+AND
+_ProcessingItem == _Item
+AND
+_ShouldEject == 1
+AND
+DB_AMP_Arcanizer_Owner((CHARACTER)_Owner)
+AND
+DB_AMP_AutoEject_Delay(_Delay)
+THEN
+// Clear processing state first
+NOT DB_AMP_AutoEject_Processing(_ProcessingItem);
+DB_AMP_AutoEject_Processing((ITEM)NULL_00000000-0000-0000-0000-000000000000);
+// Start ejection timer
+ObjectTimerLaunch(_Item, "AMP_AutoEject_DelayedEject", _Delay, 0);
+
+// Just finish processing without ejection
+PROC
+PROC_AMP_AutoEject_FinishProcessing((ITEM)_Item, (INTEGER)_ShouldEject)
+AND
+DB_AMP_AutoEject_Processing(_ProcessingItem)
+AND
+_ProcessingItem == _Item
+AND
+_ShouldEject == 0
+THEN
+// Just clear processing state
+NOT DB_AMP_AutoEject_Processing(_ProcessingItem);
+DB_AMP_AutoEject_Processing((ITEM)NULL_00000000-0000-0000-0000-000000000000);
+
+// Handle delayed ejection after timer
+IF
+ObjectTimerFinished((ITEM)_Item, "AMP_AutoEject_DelayedEject")
+AND
+Exists(_Item, 1)
+AND
+DB_AMP_Arcanizer_Owner((CHARACTER)_Owner)
+THEN
+// Return item to owner's inventory
+ToInventory(_Item, _Owner, 1, 1, 0);
+DebugText(_Item, "Auto-Ejection: Item returned to owner's inventory");
+
+// ==================================
+// SYSTEM CONTROL INTERFACE
+// ==================================
+
+// Enable the auto-ejection system
+PROC
+PROC_AMP_AutoEject_Enable()
+AND
+DB_AMP_AutoEject_System_Active(0)
+THEN
+NOT DB_AMP_AutoEject_System_Active(0);
+DB_AMP_AutoEject_System_Active(1);
+DebugText(NULL_00000000-0000-0000-0000-000000000000, "Auto-Ejection: System enabled");
+
+// Disable the auto-ejection system
+PROC
+PROC_AMP_AutoEject_Disable()
+AND
+DB_AMP_AutoEject_System_Active(1)
+THEN
+NOT DB_AMP_AutoEject_System_Active(1);
+DB_AMP_AutoEject_System_Active(0);
+DebugText(NULL_00000000-0000-0000-0000-000000000000, "Auto-Ejection: System disabled");
+
+// Safety reset on game start
+IF
+LevelGameplayStarted(_, _)
+THEN
+PROC_AMP_AutoEject_Reset();
+
+// Reset the auto-ejection system
+INIT
+DB_AMP_AutoEject_SystemState(0);
+
+KB
+// Reset the auto-ejection system - fixed version
+PROC
+PROC_AMP_AutoEject_Reset()
+AND
+DB_AMP_AutoEject_Processing(_Item)
+AND
+DB_AMP_AutoEject_SystemState(_State)
+THEN
+NOT DB_AMP_AutoEject_Processing(_Item);
+DB_AMP_AutoEject_Processing((ITEM)NULL_00000000-0000-0000-0000-000000000000);
+NOT DB_AMP_AutoEject_SystemState(_State);
+DB_AMP_AutoEject_SystemState(0);
+DB_AMP_AutoEject_System_Active(1);
+DebugText(NULL_00000000-0000-0000-0000-000000000000, "Auto-Ejection: System reset");
+*/
+EXITSECTION
+
+ENDEXITSECTION

@@ -1,0 +1,682 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h0cecf1b8g8c84g4ac5g8d99g00fb917bb881" version="1">요정의 에메랄드 가루</content>
+  <content contentuid="h32fc1b96g7faeg4144gbe0dgbc79418a0670" version="1">에메랄드 빛을 빛나고 있는 특이한 마력 성질을 지닌 작은 가루 더미입니다. &lt;b&gt;영계의 수정에 두 개의 가루를 넣고 조합하여 일반 무기에 마법을 부여하거나, 상위 단계의 가루더미로 합성할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="h195c8dd8g7ad0g4206gbdf4g150119a1f9ef" version="1">네더릴의 청금석 가루</content>
+  <content contentuid="h25317bacg6cc6g428egb70dg330e6d15e63c" version="1">밤하늘처럼 깊고 푸른빛을 띄고 있는 별처럼 반짝이는 가루 더미입니다. 잃어버린 네더릴 제국의 고대의 마법처럼 그 잔향이 금방이라도 울려퍼질 듯한 기분이 듭니다. &lt;b&gt;영계의 수정에 두 개의 가루를 넣고 조합하여 일반 무기에 마법을 부여하거나, 상위 단계의 가루더미로 합성할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="h2d5f3e92ge39fg4fc8gaa0egd1402a390a5a" version="1">엘드리치의 자수정 가루</content>
+  <content contentuid="haec88aecg4d48g4e05gb00dgb1500c336679" version="1">불길할 정도로 강렬한 자주빛의 먼지 더미는 보고 있는 사람조차 불안하게 만들 정도입니다. 주변 현실을 왜곡시키며 금제된 비밀을 속삭이는 환상에 현혹되어 가루에 손을 대는 순간, 모든 금기된 지식들을 깨닫게 된다고 전해집니다. &lt;b&gt;영계의 수정에 두 개의 가루를 넣고 조합하여 일반 무기에 마법을 부여하거나, 상위 단계의 가루더미로 합성할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="h6440f827gb7e7g435cga502g06a34f651a4c" version="1">천상의 황금 가루</content>
+  <content contentuid="h684340e8g41d1g479fgaffbg783a8382a595" version="1">성스러운 빛을 내뿜고 있는 황금빛 가루 더미로, 천상의 축복을 받은 입자들은 빛과 희망, 그리고 따스한 온기를 선사해준다고 합니다. &lt;b&gt;영계의 수정에 두 개의 가루를 넣고 조합하여 일반 무기에 마법을 부여하거나, 상위 단계의 가루더미로 합성할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="h32bbc418g6995g47e0g9c43g0c5260033b85" version="1">영계의 분쇄기</content>
+  <content contentuid="h11798298g9d74g4426g8709g4dd546ff1205" version="1">격동하는 마력의 폭발로 만들어낸 투명한 망치로, 중량이 전혀 없는 것처럼 보이며 손을 태우는 듯한 격통이 느껴집니다. &lt;b&gt;두 개의 유물을 분해하여 가루로 제작할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="hafac576eg1a49g482cg9511gda6124ead6a8" version="1">영계의 수정</content>
+  <content contentuid="h4b72bbbfg8d7ag4a67ga41dg91f34a0552cd" version="1">분명 거대한 수정이었으나, 손에 쥐니 물주머니만한 크기로 줄어들어버린 기묘한 물건입니다. 거칠고 불규칙한 표면의 이 수정 내부에는 영계의 불꽃이 조용히 타오르고 있으며, 빛을 빨아들이는 보랏빛 소용돌이가 보이는 듯 합니다. 이 범차원적인 유물은 뛰어난 연금술사들이 굉장히 탐내하는 물건이라고 합니다. &lt;b&gt;두 개의 비전 가루와 함께 조합하면 일반 무기에 마법을 부여할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="h8c99561bg7e8cg4018g82f9gb13045252ac1" version="1">영계의 원석</content>
+  <content contentuid="h839fce68g4e72g4cb7gbb76g5f1314bb45ac" version="1">이 영계의 원석덩이는 돌 내부에서 차원의 섬광이 계속해서 터져나와, 너무 오래 쳐다보고 있으면 눈이 타버릴 듯한 격통이 느껴진다고 합니다. 크기에 비해서 이상할 정도로 묵직한 중량감이 느껴집니다. &lt;b&gt;원석 4개를 모아 조합하면 영계의 수정으로 만들 수 있을 것 같습니다.&lt;/b&gt;</content>
+  <content contentuid="h2a680ae4gdb3ag4391g94ccg75fa3039aa44" version="1">적절한 길이</content>
+  <content contentuid="h7f466f46g9708g47ebgac8cg2f194f3c12da" version="1">이 무기로 &lt;b&gt;대형&lt;/b&gt; 크리처를 공격시, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]~[2]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h2155573cg3cfcg487dg969ag46f271aa626a" version="1">꿰뚫는 일격</content>
+  <content contentuid="h7a0cc878g479ag4377g9682g2feee2efcfb1" version="1">이 무기로 공격할 때,&lt;b&gt;[1]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;을 무시하며, 대상을 &lt;b&gt;[2]&lt;/b&gt;만큼 뒤로 밀쳐냅니다.</content>
+  <content contentuid="h2155573cg3cfcg487dg969ag46f271aa626a" version="1">파멸적 관통</content>
+  <content contentuid="h451ce9eag3d15g45b0g829ag3e169c1e51a9" version="1">이 무기로 공격할 때,&lt;b&gt;[1]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;과 &lt;LSTag Tooltip="Immune"&gt;면역&lt;/LSTag&gt;을 무시하며, 대상을 &lt;b&gt;[2]&lt;/b&gt;만큼 뒤로 밀쳐냅니다.</content>
+  <content contentuid="h0697898bga947g4723g8a45g12e1e3017a38" version="1">우위</content>
+  <content contentuid="h2f56bf86g04c3g41abg84a9g30dc19388550" version="1">&lt;b&gt;선제권 굴림&lt;/b&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h2da09a18g5fc9g47b7g949egef3ebc8b92c4" version="1">강력한 일격</content>
+  <content contentuid="h979fea1fg6f38g48e4gb5e3gb4f60675561a" version="1">이 무기로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하면, 추가로 &lt;b&gt;+[1]~[2] 피해&lt;/b&gt;를 줍니다.</content>
+  <content contentuid="h80c1fe1eg76a4g44a4gb44fge8f414298374" version="1">공격시 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하기 위해 필요한 &lt;LSTag Tooltip="AttackRoll"&gt;굴림&lt;/LSTag&gt;값이 &lt;b&gt;[1]&lt;/b&gt; 감소합니다. 이 효과는 중첩됩니다.</content>
+  <content contentuid="h4998acebgd884g4ff1g93a2g2e60a5cde950" version="1">유연한 사슬</content>
+  <content contentuid="hc1a689d7ga859g43a9g8dccg22d5a59c1392" version="1">이 무기로 &lt;b&gt;방패&lt;/b&gt;를 장착한 대상을 공격하면, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h69e6089cgc849g4c73gb5cbge7c9ade6d3f6" version="1">분쇄</content>
+  <content contentuid="hf3ce542bgeb80g483bga3e8gb40bb6554718" version="1">이 무기로 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;넘어진&lt;/LSTag&gt; 대상을 공격하면, &lt;b&gt;피해량&lt;/b&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h7b5dfb1bg1f1bg4272ga624g9c2b9f8d6b6f" version="1">연속 타격</content>
+  <content contentuid="h71e01970g221eg4184gb738g3be2bca770c3" version="1">이 무기로 적에게 &lt;b&gt;성공적으로&lt;/b&gt; 공격을 적중시킬 때마다, 추가로 &lt;b&gt;+[1]&lt;/b&gt;의 피해를&lt;i&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;)&lt;/i&gt; 더 입힙니다.</content>
+  <content contentuid="h047f29a6gbc10g45b7g8418gf7919d7f0be8" version="1">이 무기로 적에게 &lt;b&gt;성공적으로&lt;/b&gt; 공격을 적중시킬 때마다, 추가로 &lt;b&gt;+[1]&lt;/b&gt;의 피해를&lt;i&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;)&lt;/i&gt; 더 입힙니다. &lt;br&gt;&lt;br&gt;공격이 빗나갈 경우, 초기화됩니다.</content>
+  <content contentuid="hd7133ccdg7f16g4b78gb788g9169967d1fe4" version="1">갈고리</content>
+  <content contentuid="hd8636e57g278ag4aa7g9488g6e29a67b8398" version="1">이 무기로 적을 공격하면, 대상을 자신의 쪽으로 끌어당깁니다.</content>
+  <content contentuid="hba3dde45g718cg49afga680g4df9580c15c2" version="1">신속의 칼날</content>
+  <content contentuid="hbbb54a79g7b08g4384g9a4dge2abee5c7beb" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;달리기&lt;/LSTag&gt;를 사용하면, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]~[2]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h92919dd7gf770g4a08gbc24gbb09cdd8f3cc" version="1">마법이 부여된 시미터의 &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;에 &lt;b&gt;+[1]~[2]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h82940c6ag9033g4b8eg81c3g35e37fee635f" version="1">눈을 노리는 창날</content>
+  <content contentuid="h18bf24c6g8c4eg442fg9cacg9afc7884b40c" version="1">&lt;b&gt;속박&lt;/b&gt; 상태인 적에게 추가로 &lt;b&gt;+[1]~[2]&lt;/b&gt;의 피해를 입힙니다.</content>
+  <content contentuid="hca1d509bg8583g4a26g83a5g880c51fb4790" version="1">비상의 노래</content>
+  <content contentuid="h387122b3g1505g4dd1gb228gceff887f6538" version="1">&lt;b&gt;소검&lt;/b&gt; 공격이 빗나갈 경우, 공중으로 도약하여 도약 혹은 그와 비슷한 행동 기술이 &lt;b&gt;[1]&lt;/b&gt;턴 동안 향상됩니다.</content>
+  <content contentuid="h8d69b2f8g63bdg4fb7gabf4g35e5799d3849" version="1">도약 혹은 그와 비슷한 행동 기술이 &lt;b&gt;[1]&lt;/b&gt;만큼 증가합니다.</content>
+  <content contentuid="h840f4c01g8a37g46dbg999bgb84401bcb4d6" version="1">심장을 꿰뚫는 일격</content>
+  <content contentuid="h54957561g336cg4654g92f8gf8b7ec3d691f" version="1">이 무기로 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 가득찬 대상을 공격하면, 추가로 &lt;b&gt;+[1]~[2]&lt;/b&gt;피해를 입힙니다.</content>
+  <content contentuid="hb950f0degb806g4a9egab78ge19bf49ba772" version="1">붕괴</content>
+  <content contentuid="hba82f0dfg753eg4612g9860g042f8d566c1b" version="1">이 무기로 &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;기절&lt;/LSTag&gt; 상태의 대상을 공격하면, 추가로 &lt;b&gt;+[1]~[2]&lt;/b&gt;피해를 입힙니다.</content>
+  <content contentuid="h04aa5c5bg6d7dg4529ga993g7dd30d4e8b01" version="1">강력한 한방</content>
+  <content contentuid="hb176da68g5e1cg4255ga95cg63e79226187d" version="1">이 무기로 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 가득찬 대상을 공격하면, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]~[2]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="hcacf98feg8a5bg4dc1gace8ged19448e032b" version="1">위협적인 날카로움</content>
+  <content contentuid="h485f59f6g5209g4718g98c6gf3fb6d215dd2" version="1">이 철퇴로 직접 타격당한 대상은 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)에 성공해야하며, 실패할 시, &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 상태에 걸리게 됩니다.</content>
+  <content contentuid="hb461627bg0f5dg4217gbb3ag34412da7f9b1" version="1">기절의 일격</content>
+  <content contentuid="hb359fa6fgfa74g4c25g938cgf9be59023298" version="1">이 곤봉으로 피해를 입은 대상이 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)에 실패할 경우 &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;기절&lt;/LSTag&gt; 상태에 빠지게 됩니다.</content>
+  <content contentuid="hb72f4397gd05ag4598g8de9g0df6302527b9" version="1">신속한 돌진</content>
+  <content contentuid="h97769da6gdbb2g4e6egb0c2gcfc6bcde6519" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;달리기&lt;/LSTag&gt;를 사용한 후 이 무기로 공격하면, 추가로 &lt;b&gt;+[1]~[2]&lt;/b&gt;피해를 입힙니다.</content>
+  <content contentuid="hbcf9dae9gac2fg4f00g839dg6b1ef771de86" version="1">마법이 부여된 창이 추가로 &lt;b&gt;+[1]~[2]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="hc67fea6fgf666g4b6ega642g4fdc0cbc21bd" version="1">전설에 따르면, 조국을 지키는 가장 용맹한 수호자에게만 나타나는 강력한 방패가 있었다고 합니다. 이 유물을 실제화 시키기 위해선 여러가지 방법이 있었으나 대부분의 기록들은 소실되었고, 지금 보이는 이 방패는 영계의 힘을 사용하여 구현해낸 것으로 보입니다.</content>
+  <content contentuid="hbcf87a69ge5c0g41c2ga563gc2b43d253370" version="1">창, 혹은 창이었던 것으로 보이는 이 무기는 무언가 빛나는 점액으로 뒤덮여있으며, 썩은 감자와 탄내나는 커민이 섞인 듯한 끔찍한 악취를 풍기고 있습니다. 사용 후엔 반드시 손을 씻는 것이 좋을 것입니다.</content>
+  <content contentuid="hb1b346efg2cd5g4de2g9a2bg56a1d45e74a8" version="1">밝게 빛나는 여명의 빛이 마법 유물에서 끊임없이 발산하고 있습니다. 망치에 닿으면 강렬한 빛을 내뿜으며 기분 좋은 따스함과 함께 타오릅니다.</content>
+  <content contentuid="ha22c93f7g692dg4c85ga946g90f82ccf943e" version="1">고대 유물 합본팩(Ancient Mega Pack) 저술서</content>
+  <content contentuid="ha755e610g913eg4cf2g9a32g0bc96b5476f5" version="1">낡고 해진 가죽에 제본되어있는 책으로, 정교한 황금 문양으로 장식되어 있습니다. 그 중심에는 생명의 꽃을 연상시키는 복잡하고도 기하학적인 문양이 새겨져있으며, 책 내부에서는 신비로운 에너지가 맥동하며 고대의 지식을 추구하며 갈망하는 자들을 불러모으는 듯 합니다. 책의 페이지 속에는 페이룬 전역에 흩어져있는 고대 유물들의 비밀과 그 유물을 복원시키는 금기된 기술에 대해 서술되어있으며, 일부 페이지에 기름기 묻은 손자국들이 이곳저곳 남아있는 것으로 보아, 오랜 기간 여러 사람들의 손을 거쳐온 듯 합니다.</content>
+  <content contentuid="hd6591663g38d8g4434g835ag944157dde742" version="1">&lt;b&gt;소개&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Ancient Mega Pack&lt;/b&gt; 모드를 설치해주셔서 감사합니다! 해당 가이드에서는 다음과 같은 내용들을 다룰 예정입니다:&lt;br&gt;&lt;br&gt;• &lt;b&gt;마법부여(인챈트) 시스템 및 모드의 숨겨진 매커니즘&lt;/b&gt;&lt;br&gt;• &lt;b&gt;무작위 전리품들의 생성 방식&lt;/b&gt;&lt;br&gt;• &lt;b&gt;제작 방법 및 제작 재료&lt;/b&gt;&lt;br&gt;• &lt;b&gt;밸런스 조정 및 게임 플레이 개선 사항&lt;/b&gt;&lt;br&gt;&lt;br&gt;천천히 읽어보셔도 상관없지만, 그렇다고 게임 하시는 것까지 잊어버리지 말도록 해요!&lt;br&gt;&lt;br&gt;&lt;b&gt;목차&lt;/b&gt;&lt;br&gt;&lt;br&gt;1. &lt;b&gt;마법부여(인챈트) 시스템에 대하여&lt;/b&gt;&lt;br&gt;    1. &lt;b&gt;자원&lt;/b&gt;&lt;br&gt;    2. &lt;b&gt;도구 준비&lt;/b&gt;&lt;br&gt;    3. &lt;b&gt;제작법&lt;/b&gt;&lt;br&gt;    4. &lt;b&gt;마법부여(인챈트) 방법&lt;/b&gt;&lt;br&gt;&lt;br&gt;2. &lt;b&gt;무작위 전리품에 대하여&lt;/b&gt;&lt;br&gt;    1. &lt;b&gt;퀘스트 보상&lt;/b&gt;&lt;br&gt;    2. &lt;b&gt;상인&lt;/b&gt;&lt;br&gt;    3. &lt;b&gt;보스형 적&lt;/b&gt;&lt;br&gt;    4. &lt;b&gt;상자&lt;/b&gt;&lt;br&gt;    5. &lt;b&gt;전리품 생성&lt;/b&gt;&lt;br&gt;    6. &lt;b&gt;REL(랜덤 루팅) 시스템에 대한 개요&lt;/b&gt;&lt;br&gt;    7. &lt;b&gt;진행 밸런스&lt;/b&gt;&lt;br&gt;&lt;br&gt;3. &lt;b&gt;게임 플레이 밸런스 조정&lt;/b&gt;&lt;br&gt;    1. &lt;b&gt;경제 시스템&lt;/b&gt;&lt;br&gt;    2. &lt;b&gt;AI 개선&lt;/b&gt;&lt;br&gt;    3. &lt;b&gt;장비 변경 사항&lt;/b&gt;&lt;br&gt;&lt;br&gt;4. &lt;b&gt;커뮤니티를 통한 기여 방법&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1. 마법부여(인챈트) 시스템&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 범차원적인 자원들을 이용하여 강력한 유물을 제작해보세요! &lt;b&gt;244개 이상의 새로운 아이템&lt;/b&gt;들이 추가되었습니다!&lt;br&gt;• &lt;b&gt;61개 이상의&lt;/b&gt; 분기를 가진 마법부여 시스템에 대해 알아보세요: 모든 무기 유형, 횃불, 방패, 목걸이, 반지 그리고 몽크 전용 붕대 아이템 등이 포함되어있습니다. 방어구 종류는 곧 추가될 예정입니다!&lt;br&gt;• 필요없는 장비들을 분해하여 비전 가루로 만들어보세요.&lt;br&gt;• 장비를 업그레이드하기 위해 필요한 자원인 &lt;b&gt;영계의 결정체&lt;/b&gt;를 모아보세요.&lt;br&gt;&lt;br&gt;해당 시스템은 흔히 아시는 MMO RPG에서 주로 쓰이는 전문 기술 제작 방식과 비슷하다고 보시면 됩니다. 마법 아이템들을 분해하여 비전 가루를 얻고, 그 가루를 통해 기본 장비들을 업그레이드 해나가는 방식이지요. &lt;b&gt;중요한 참고 사항:&lt;/b&gt; 게임 엔진 자체가 무작위 인챈트 시스템을 지원하지 않고 있기 때문에, 모든 제작법과 인챈트 분기를 정해놓을 수 밖에 없었습니다. 이것이 일반적인 제작 시스템과 다른 점은, 마법부여를 위하여 게임 곳곳에 흩어져있는 인챈트 재료인 영계의 결정체들을 찾아야한다는 것이지요. 또한, 장비 아이템의 분해를 위해서는 범차원적인 특성을 지닌 특별한 망치가 필요하게 될 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;첫번째 단계 — 자원 탐색 &lt;/b&gt;&lt;br&gt;&lt;br&gt;모든 전문 기술에는 도구가 필요하듯이, 마법부여를 위해서는 &lt;b&gt;영계의 분쇄기&lt;/b&gt;라는 투명한 형체의 보랏빛 망치가 필요합니다. &lt;b&gt;비전 가루&lt;/b&gt;를 얻기 위해서는 이 망치 도구를 사용하여 &lt;b&gt;마법 장비&lt;/b&gt;들을 분해해야하며, 이것만이 비전 가루를 얻을 수 있는 유일한 방법이니 참고바랍니다. 이 특별한 망치는 다음 세 가지 방법들을 통해 획득할 수 있습니다:&lt;br&gt;&lt;br&gt;1. 노틸로이드 탈출 직후 시작 전용 보상으로 획득&lt;br&gt;2. 티플링 난민인 다몬에게 구매&lt;br&gt;3. 오우거 럼프로부터 획득 &lt;i&gt;(매우 희귀한 확률로 등장)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;영계의 분쇄기&lt;/b&gt;를 획득했다면, 망치를 클릭하세요. 그럼, 두개의 비어있는 슬롯창이 뜨게 될텐데 그 슬롯 안에 &lt;b&gt;마법 장비*&lt;/b&gt; 2개를 넣고 조합하면 비전 가루를 획득할 수 있게 됩니다!&lt;br&gt;&lt;br&gt;&lt;b&gt;*잠깐, 마법 장비라는 게 어떤 걸 말하는 건가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 반드시 &lt;b&gt;고유한&lt;/b&gt; 속성의 유물 아이템이여야 합니다. &lt;i&gt;(예를들어, 장검 +1 이런 건 안돼요!)&lt;/i&gt;&lt;br&gt;• 아이템의 등급은 고급(초록색) 이상이여야 하며, &lt;b&gt;분해하려는 두 아이템의 등급이 동일해야합니다.&lt;/b&gt;&lt;br&gt;• 반드시 &lt;b&gt;특별 태그&lt;/b&gt;가 존재하는 아이템이여야 합니다. (타 모드의 아이템일 경우, 모드 제작자가 해당 태그를 설정해두지 않았다면 제대로 분해되지 않을 수도 있습니다!!)&lt;br&gt;&lt;br&gt;&lt;b&gt;비전 가루&lt;/b&gt; 총 4개의 종류가 존재하며, 분해한 아이템 등급에 따라 그 색깔이 달라지게 됩니다. 가루 4개를 넣고 조합하면(가루를 클릭하면 조합창이 뜸) 상위 등급 가루 1개로 변환할 수 있습니다.&lt;b&gt;중요한 참고 사항:&lt;/b&gt; 마법부여 아이템을 다음 단계로 업그레이드하기 위해서는 같은 등급의 가루를 필요로 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;영계의 결정체&lt;/b&gt; 또한 총 4개의 종류로 나뉘게 되며, 그 종류는 다음과 같습니다: &lt;b&gt;영계의 비전석&lt;/b&gt; (고급), &lt;b&gt;영계의 원석&lt;/b&gt; (희귀), &lt;b&gt;영계의 수정&lt;/b&gt; (진귀), &lt;b&gt;불멸의 결정체&lt;/b&gt; (전설). 이것들은 소모성 아이템으로, 게임 곳곳에서 발견할 수 있을 것입니다. 영계의 수정들은 매우 희귀한 자원들이기 때문에 보이는대로 챙겨두는 편이 좋습니다! 이 특별하고도 범차원적인 수정들을 얻을 수 있는 방법은 다음과 같습니다:&lt;br&gt;&lt;br&gt;• &lt;b&gt;영계 차원의 크리처들&lt;/b&gt;: 마인드 플레이어, 기스양키, 베르발랑, 비홀더(스펙테이터)&lt;br&gt;• 전설 행동을 지니고 있는 보스급으로 강력한 적들&lt;br&gt;• 위저드나 소서러들이 숨겨놓은 보관함&lt;br&gt;• 같은 등급의 수정, 원석이나 비전석을 4개 조합하여 획득&lt;br&gt;&lt;br&gt;&lt;b&gt;영계의 결정체&lt;/b&gt;들은 마법부여 제작의 원천이며, 모든 제작법에 이 결정체들을 필요로하게 될 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;천상의 조각&lt;/b&gt;은 게임 곳곳에서 발견되는 희귀하고도 특별한 자원 아이템입니다. 이 조각을 이용하여, &lt;b&gt;보석&lt;/b&gt;과 &lt;b&gt;주괴&lt;/b&gt;들을 강력한 마법 자원으로 변환시킬 수 있으며, 특별한 장신구나 무기를 만들기위해 반드시 필요한 재료입니다.&lt;b&gt;천상의 조각&lt;/b&gt;은 보물 더미나 가치가 있는 상자 근처에서 주로 발견할 수 있으며, &lt;b&gt;원소의 보옥&lt;/b&gt;과 &lt;b&gt;천상의 주괴&lt;/b&gt;를 만들기 위해선 반드시 필요한 자원입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;두번째 단계 — 준비를 위한 요령&lt;/b&gt;&lt;br&gt;&lt;br&gt;새로운 &lt;b&gt;비전 제작&lt;/b&gt; 시스템이 도입되기 전까지는&lt;i&gt;(튜토리얼 상자 안에 들어있던 큐브 모양의 아이템입니다. 이는 나중에 더 자세히 설명하겠습니다.)&lt;/i&gt;, 기존 바닐라 게임의 제작 인터페이스를 사용하게 될 것입니다. 다만, 바닐라 UI의 경우, 100여개 이상의 유물을 분해하고자 할 땐 조금 불편할 수도 있겠죠. 다음 방법들을 이용하시면 작업 속도를 그나마 더 빠르게 늘릴 수 있을 것입니다:&lt;br&gt;&lt;br&gt;1. Shift키를 누른 채로 재료를 선택한 후, 슬롯으로 드래그하면 자동으로 나머지 슬롯에도 아이템이 등록됩니다.&lt;br&gt;2. &lt;b&gt;영계의 분쇄기&lt;/b&gt;를 단축키 창에 등록하여 사용해보세요.&lt;br&gt;3. X키를 직접 누르지말고 ESC키를 누르면 창을 보다 빠르게 닫을 수 있습니다.&lt;br&gt;4. 인벤토리 창을 고정 위치로 옮기면 제작 창을 매번 번거롭게 이동할 필요가 없어집니다.&lt;br&gt;5. Mod.io 사이트(인게임 모드 매니저)에도 등록되어있는 염색을 즉시 적용시킬 수 있는 모드를 사용하면 제작 UI창의 애니메이션도 빨라지기 때문에 제작 속도를 올릴 수 있게 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;세번째 단계 — 제작법&lt;/b&gt;&lt;br&gt;&lt;br&gt;이제 마법부여용 재료들도 다 모았는데, 어떻게 어떤 아이템을 제작해야할까요?&lt;br&gt;&lt;br&gt;&lt;b&gt;61가지의 마법부여 분기&lt;/b&gt;들 중에서 뭘 골라야할지 잘 모르시겠다고요? 글쎄요, 일단 &lt;b&gt;훈련용 반지&lt;/b&gt;(너트처럼 생긴 아이템입니다)를 착용하시고 &lt;b&gt;튜토리얼 상자&lt;/b&gt;부터 소환해보세요! 상자 안에는 타 모드 아이템들과 함께 &lt;b&gt;디버그 상자&lt;/b&gt; 또한 들어가있을텐데, 이 상자 안에서 모든 마법부여(인챈트) 분기들을 미리 확인하고 체험해보실 수 있답니다. &lt;b&gt;참고로 모든 마법부여 분기는 미리 정해져있습니다!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;요정(고급) 장비 제작법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 일반 등급 아이템 + 영계의 비전석 + 에메랄드 가루 2개 = &lt;b&gt;고유 인챈트가 부여된 고급 등급의 요정 무기&lt;/b&gt;&lt;br&gt;• 미완성된 반지 + 영계의 비전석 + 요정의 에메랄드 가루 2개 = &lt;b&gt;해당 속성의 인챈트가 부여된 고급 등급의 요정 반지&lt;/b&gt;&lt;br&gt;• 미완성된 목걸이 + 영계의 비전석 + 요정의 에메랄드 가루 2개 = &lt;b&gt;해당 속성의 인챈트가 부여된 고급 등급의 요정 목걸이&lt;/b&gt;&lt;br&gt;• 고급 등급의 몽크용 손목 보호대 + 영계의 비전석 + 요정의 에메랄드 가루 2개 = &lt;b&gt;정신 피해를 입히는 몽크용 요정 손목 보호대&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;네더릴(희귀) 장비 제작법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 요정 마법부여 장비 + 영계의 원석 + 네더릴의 청금석 가루 2개 = &lt;b&gt;희귀 등급의 네더릴 무기&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 요정 반지 + 영계의 원석 + 네더릴의 청금석 가루 2개 = &lt;b&gt;인챈트가 부여된 네더릴 반지&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 요정 목걸이 + 영계의 원석 + 네더릴의 청금석 가루 2개 = &lt;b&gt;인챈트가 부여된 네더릴 목걸이&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 요정 손목 보호대 + 영계의 원석 + 네더릴의 청금석 가루 2개 = &lt;b&gt;인챈트가 부여된 네더릴 손목 보호대&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;엘드리치(진귀) 장비 제작법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 네더릴 마법부여 장비 + 영계의 수정 + 엘드리치의 자수정 가루 2개 = &lt;b&gt;진귀 등급의 엘드리치 무기&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 네더릴 반지 + 영계의 수정 + 엘드리치의 자수정 가루 2개 = &lt;b&gt;인챈트가 부여된 엘드리치 반지&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 네더릴 목걸이 + 영계의 수정 + 엘드리치의 자수정 가루 2개 = &lt;b&gt;인챈트가 부여된 엘드리치 목걸이&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 네더릴 손목 보호대 + 영계의 수정 + 엘드리치의 자수정 가루 2개 = &lt;b&gt;인챈트가 부여된 엘드리치 손목 보호대&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;천상(전설) 장비 제작법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 엘드리치 마법부여 장비 + 불멸의 결정체 + 천상의 황금 가루 2개 = &lt;b&gt;전설 등급의 천상 무기&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 엘드리치 반지 + 불멸의 결정체 + 천상의 황금 가루 2개 = &lt;b&gt;인챈트가 부여된 천상 반지&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 엘드리치 목걸이 + 불멸의 결정체 + 천상의 황금 가루 2개 = &lt;b&gt;인챈트가 부여된 천상 목걸이&lt;/b&gt;&lt;br&gt;• 인챈트가 부여된 엘드리치 손목 보호대 + 불멸의 결정체 + 천상의 황금 가루 2개 = &lt;b&gt;인챈트가 부여된 천상 손목 보호대&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;원소의 보옥과 천상의 주괴 제작법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 천상의 조각 + 진주 3개 = &lt;b&gt;빛의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 루비 3개 = &lt;b&gt;파괴의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 사파이어 3개 = &lt;b&gt;번개의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 지르콘 3개 = &lt;b&gt;불의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 토파즈 3개 = &lt;b&gt;냉기의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 공작석 3개 = &lt;b&gt;죽음의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 마노 3개 = &lt;b&gt;전쟁의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 페리도트 3개 = &lt;b&gt;부패의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 보라색 형석 조각 3개 = &lt;b&gt;천둥의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 자수정 3개 = &lt;b&gt;자각의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 혈석 3개 = &lt;b&gt;피의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 오닉스 3개 = &lt;b&gt;그림자의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 옥 3개 = &lt;b&gt;독의 보옥&lt;/b&gt;&lt;br&gt;• 천상의 조각 + 다이아몬드 3개 = &lt;b&gt;찬란함의 보옥&lt;/b&gt;&lt;br&gt;• (아직 업데이트 되지 않았습니다!!) 천상의 조각 + 주괴 3개 = &lt;b&gt;천상의 주괴&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;미완성 장비 제작법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 1+1 빛의 보옥 + 아무 반지 = &lt;b&gt;미완성된 광휘의 반지&lt;/b&gt;&lt;br&gt;• 1+1 파괴의 보옥 + 아무 반지 = &lt;b&gt;미완성된 파괴의 반지&lt;/b&gt;&lt;br&gt;• 1+1 번개의 보옥 + 아무 반지 = &lt;b&gt;미완성된 전류의 반지&lt;/b&gt;&lt;br&gt;• 1+1 불의 보옥 + 아무 반지 = &lt;b&gt;미완성된 발화의 반지&lt;/b&gt;&lt;br&gt;• 1+1 냉기의 보옥 + 아무 반지 = &lt;b&gt;미완성된 서리의 반지&lt;/b&gt;&lt;br&gt;• 1+1 죽음의 보옥 + 아무 반지 = &lt;b&gt;미완성된 부식성의 반지&lt;/b&gt;&lt;br&gt;• 1+1 전쟁의 보옥 + 아무 반지 = &lt;b&gt;미완성된 녹슨 반지&lt;/b&gt;&lt;br&gt;• 1+1 부패의 보옥 + 아무 반지 = &lt;b&gt;미완성된 독성의 반지&lt;/b&gt;&lt;br&gt;• 1+1 천둥의 보옥 + 아무 반지 = &lt;b&gt;미완성된 울부짖는 반지&lt;/b&gt;&lt;br&gt;• 1+1 자각의 보옥 + 아무 반지 = &lt;b&gt;미완성된 정신의 반지&lt;/b&gt;&lt;br&gt;• 1+1 피의 보옥 + 아무 반지 = &lt;b&gt;미완성된 선홍빛 반지&lt;/b&gt;&lt;br&gt;• 1+1 그림자의 보옥 + 아무 반지 = &lt;b&gt;미완성된 그림자 반지&lt;/b&gt;&lt;br&gt;• 1+1 독의 보옥 + 아무 반지 = &lt;b&gt;미완성된 저주의 반지&lt;/b&gt;&lt;br&gt;• 1+1 찬란함의 보옥 + 아무 반지 = &lt;b&gt;미완성된 찬란한 반지&lt;/b&gt;&lt;br&gt;• 1+1 빛의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 광휘의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 파괴의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 파괴의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 번개의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 전류의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 불의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 발화의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 냉기의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 서리의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 죽음의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 부식성의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 전쟁의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 녹슨 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 부패의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 독성의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 천둥의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 울부짖는 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 자각의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 정신의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 피의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 선홍빛 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 그림자의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 그림자 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 독의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 저주의 애뮬릿&lt;/b&gt;&lt;br&gt;• 1+1 찬란함의 보옥 + 아무 목걸이 = &lt;b&gt;미완성된 찬란한 애뮬릿&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;재료 조합법:&lt;/b&gt;&lt;br&gt;&lt;br&gt;• 1+1+1+1 영계의 비전석 = &lt;b&gt;영계의 원석&lt;/b&gt;&lt;br&gt;• 1+1+1+1 영계의 원석 = &lt;b&gt;영계의 수정&lt;/b&gt;&lt;br&gt;• 1+1+1+1 영계의 수정 = &lt;b&gt;불멸의 결정체&lt;/b&gt;&lt;br&gt;• 1+1+1+1 요정의 에메랄드 가루 = &lt;b&gt;네더릴의 청금석 가루&lt;/b&gt;&lt;br&gt;• 1+1+1+1 네더릴의 청금석 가루 = &lt;b&gt;엘드리치의 자수정 가루&lt;/b&gt;&lt;br&gt;• 1+1+1+1 엘드리치의 자수정 가루 = &lt;b&gt;천상의 황금 가루&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;네번째 단계 — 마법부여 과정&lt;/b&gt;&lt;br&gt;&lt;br&gt;재료도 준비되고 제작법도 잘 숙지했나요? 좋아요! 이제 본격적인 마법부여를 해볼 시간이겠군요. 장신구에 마법부여를 하기 위해서는, 먼저 &lt;b&gt;원소의 보옥&lt;/b&gt;과 &lt;b&gt;미완성된 장신구&lt;/b&gt;가 필요합니다.&lt;br&gt;&lt;br&gt;1. 먼저, &lt;b&gt;영계의 비전석&lt;/b&gt;을 눌러 빈 슬롯에 &lt;b&gt;요정의 에메랄드 가루&lt;/b&gt;와 일반 무기, 혹은 방패와 장갑을 넣으세요.&lt;br&gt;2. &lt;b&gt;조합 버튼을 클릭하세요.&lt;/b&gt; 제작법에 맞게 조합해서 넣었다면 마법부여가 된 장비를 획득할 수 있게 됩니다!&lt;br&gt;3. 그럼, 이제 다음 등급으로 장비를 업그레이드 해볼까요? &lt;b&gt;영계의 원석&lt;/b&gt;을 클릭하고 &lt;b&gt;네더릴의 청금석 가루&lt;/b&gt;와 &lt;b&gt;고급(초록색) 등급의 아이템&lt;/b&gt;을 넣으세요.&lt;br&gt;4. 동일한 방법으로, &lt;b&gt;영계의 수정&lt;/b&gt;과 &lt;b&gt;엘드리치의 자수정 가루&lt;/b&gt;를 넣어 진귀 등급으로 업그레이드 할 수 있습니다.&lt;br&gt;5. 마지막으로, &lt;b&gt;불멸의 결정체&lt;/b&gt;와 &lt;b&gt;천상의 황금 가루&lt;/b&gt;를 넣으면 전설 등급의 아이템으로 업그레이드 할 수 있습니다.&lt;br&gt;&lt;br&gt;생각보다 정말 간단하지요? 여러분도 최고의 비전 제작자가 되어보세요!&lt;br&gt;&lt;br&gt;&lt;b&gt;수상쩍은 영계의 상자(큐브)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;디버그 상자&lt;/b&gt;를 확인하셨나요? 그럼 이미 수상한 은화 모양의 아이템과 신기해보이는 큐브를 보셨겠군요. 이것들은 현재 테스트 단계 중인 신규 마법부여(인챈트) 시스템의 일부로써, 지금 당장은... 네, 보는 것 같이 전-혀 쓸모가 없답니다. 아, 물론 완전 쓸모 없는 것은 아닙니다. 큐브에 &lt;b&gt;유물 아이템&lt;/b&gt;을 넣으면 &lt;b&gt;일정 자원&lt;/b&gt;으로 변환하여 되돌려주는 기능이 탑재되어있긴 하기 때문이지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;2. 무작위 전리품 시스템&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;퀘스트 보상&lt;/b&gt;&lt;br&gt;&lt;br&gt;제가 제일 좋아하는 기능이자, 모드에서 가장 신경써서 만든 부분이기도 합니다. 진짜 로그라이크 장르처럼 까다로운 선택이 요구되는 보상말이에요! 여러분들은 이제 스토리를 진행하시다가 특정 퀘스트를 완료할 때마다 무작위 보상이 주어지게 되며, 그것들 중 하나를 선택하는 권한을 받게 될 것입니다. 단, 보상 목록들 중에서 선택하지 않은 아이템은 랜덤풀에서도 영영 사라지게 되니(*그 회차에서는 더이상 등장하지 않음) 신중하게 고르셔야할 거에요! 또한, 보상 아이템을 정하는 로직은 현실적으로 구성되어있습니다. 즉, 지금 이 상황에서 정말로 보상이 받는게 맞는 걸까? 를 기준으로 결정된다는 것이지요. 예를 들자면, 섀도하트는 부모님을 "살해"하는 대가로 그녀의 여신으로부터 전설급 아이템을 하사받게 될 것이고, 윌은 웜을 처치하고 변경의 검임을 증명하게 되면, 도시의 귀족으로부터 아주 훌륭한 보상을 받게 되었다. 그리고... 노틸로이드에서 추락한 이후에는 해안가에 난파된 배에서 우연찮게 귀중한 장비들이 흩어져있는 것들을 발견하게 되었다, 라는 식으로 말이지요. 중요한 퀘스트 라인을 진행하다보면 액트를 넘어갈 때마다 값어치 있는 보상들을 받게 될 것입니다. 그 과정에서 때때로 여러가지 아이템들을 선택할 수 있는 기회가 생기기도 하겠지만, 보통은 선성향 플레이에만 해당될 것입니다. 게임 후반부에 이르러서는 보상이 하나만 뜨거나 아예 뜨지 않는 경우도 종종 발생할 수 있는데, 이는 아래에서도 설명할 게임 엔진 자체의 한계 때문입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;상인&lt;/b&gt;&lt;br&gt;&lt;br&gt;상인들의 기존 바닐라 아이템 또한 랜덤으로 발생하게 되며, 그 과정에서 유용한 아이템을 구입할 수도 있겠지만, 되려 쓰레기만 건지는 경우도 생기게 될 것입니다. 일부 상인들은 특정 퀘스트 조건을 만족해야만 거래 인벤토리가 열리게 되며(ex: 브렘), 그 안에서 아주 강력한 무작위 전리품을 얻게 될지도 모릅니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;보스&lt;/b&gt;&lt;br&gt;&lt;br&gt;에텔 할머니, 니어, 말러스 토름, 거기에 핸썸영맨까지- 이들의 공통점은 무엇일까요? 바로 전리품을 잔뜩 지닌 황금 고블린(원문은 piñatas)들이라는 것입니다! 보스 사냥은 파티의 강함을 한층 끌어올릴 수 있는 기회입니다. 전투는 버겁고 어렵겠지만, 적들을 사냥하는데 성공하기만 한다면, &lt;b&gt;영계의 결정체들&lt;/b&gt;부터 아주아주 희귀한 유물들까지! 유용한 아이템들을 얻을 수 있을 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;상자&lt;/b&gt;&lt;br&gt;&lt;br&gt;그럴리가요, 1막 해안가 나무통을 뒤적인다고 전설급 장비를 얻을 수도, 평범한 지하실 나무 상자를 뒤진다고해서 삐까번쩍한 아이템이 나오거나 하진 않을 겁니다. 마법 유물들은 기본적으로 바닐라와 동일한 방식으로, &lt;b&gt;접근하기 어려운 은닉처나 자물쇠로 잠겨있는 상자, 보스 처지후 보상&lt;/b&gt; 등에서만 등장하게 됩니다. 상자가 비어있다고해서 문제될 건 없으며, 지극히 평범하고 정상적인 현상입니다. 이는 레벨에 진입할 때, 상자들의 내용물을 생성하는 기존 바닐라 게임 시스템의 방식 때문입니다. 또한, 이러한 바닐라 게임 시스템의 결함 때문에 아이템이 중복으로 생성되기도 하는데, 유물들은 "고유" 아이템이기 때문에 중복 생성이 되지 않으며 이러한 이유 때문에 상자들이 비어있는 경우가 생기게 되는 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;"노력에 대한 대가"&lt;/b&gt;&lt;br&gt;&lt;br&gt;모든 야영지와 숨겨진 장소마다 반짝반짝 빛을 발하고 있는 이 마법 상자들의 정체는 대체 뭘까요? 거기다 굉장히 견고하고 복잡하게 잠겨져있어서 잘 열리지도 않는 것 같군요? 그렇습니다. 이 상자를 열기 위해서는 &lt;b&gt;20&lt;/b&gt;, 즉 자물쇠 해제 판정에서 대성공이 떠야한다는 것이지요. 이는 &lt;b&gt;5%의 확률&lt;/b&gt;입니다. 수학적으로 계산하여본다면, 이 특별한 상자를 열기 위해서는 평균 &lt;b&gt;20여개의 도둑 도구&lt;/b&gt;가 필요하다고도 볼 수 있겠습니다. 그렇담, 이 상자에 과연 그럴 가치가 있는 것일까요? 무작위 유물 아이템들과, &lt;b&gt;영계의 결정체&lt;/b&gt;들, 그리고 다량의 &lt;b&gt;보석들&lt;/b&gt;까지... 하지만 이 상자의 핵심은 그깟 보상에 있지 않습니다. 진짜 재미는 자물쇠를 열 수 있을까하는 그 아슬아슬 불확실한 줄타기에 있는 것입니다. 운빨좆망겜이 싫으신 신사분들을 위해 &lt;b&gt;1막 어딘가에 숨겨져있는 비밀 열쇠&lt;/b&gt;도 존재하니 한 번 찾아보시길 바랍니다! 해당 상자는 처음 노틸로이드 탈출 지역에서도 등장하며, 그 때는 오롯이 한 번의 기회로 &lt;b&gt;5% 확률&lt;/b&gt;에 도전해야한답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;전리품 생성에 대한 세부 사항&lt;/b&gt;&lt;br&gt;&lt;br&gt;전리품이 생성되는 규칙 같은 경우, 제가 짜놓은 규칙이 아닌, 오롯이 게임 엔진에의해 돌아가는 규칙을 따르게 됩니다, 예를 들어:&lt;br&gt;&lt;br&gt;1. 희귀도 등급에 따른 방대한 랜덤 아이템 목록(Pool)이 존재합니다. 예를 들어 고급(Uncommon) 등급 목록에는 435여개의 유물이 포함되어 있지요. &lt;br&gt;2. 게임  어딘가에서 랜덤으로 고급 등급의 아이템을 스폰해야할 때가 오면,&lt;br&gt;3. 시스템은 해당 랜덤 목록에서 무작위로 하나를 꼽아, 지정된 위치에 배치하게 됩니다.&lt;br&gt;4. 그렇담, 이미 생성되어버린 아이템이 선택된다면 어떻게 될까요? 해당 아이템은 "고유" 아이템이기 때문에 한 번 밖에 등장할 수 없습니다. 따라서 이 경우에는 아무것도 생성하지 않게 되는 것입니다. 이 때문에 아이템 목록을 늘려야하는 이유기도 하지요.&lt;br&gt;5. 상자에 들어가 있는 전리품의 경우, 해당 레벨에 처음 진입할 시 생성됩니다. &lt;br&gt;6. 크리처와 퀘스트 보상으로 얻게 되는 전리품의 경우, 보상을 받게 되는 순간 생성됩니다. 그 말은 즉슨, 보스를 미리 처치하거나 퀘스트를 완료하기 전에 얼마든지 저장-불러오기 노가다를 통해 원하는 아이템을 뽑아먹을 수 있다는 뜻이에요.&lt;i&gt;(...하지만, 그럴 거면 차라리 치트를 쓰는게 더 낫지 않을까요??)&lt;/i&gt;&lt;br&gt;7. 상인이 판매하는 전리품의 경우에는, 상인과의 거래를 처음 시작하거나 상인을 죽여버릴 때 생성됩니다. 상인들의 비밀 거래 인벤토리가 열리거나하게 된다면 그 때도 전리품 테이블이 새롭게 재생성됩니다. 또한, 기존 판매하던 품목에서 새로운 유물들이 추가될 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;REL(랜덤 루팅) 시스템에 대한 개요&lt;/b&gt;&lt;br&gt;&lt;br&gt;잠깐, 배경 설명부터 하고 넘어가도록 하죠. &lt;b&gt;REL&lt;/b&gt;(랜덤 장비 루팅 시스템)은 이 게임 모드의 핵심 요소이며, 언젠가 &lt;b&gt;WotC(돈법사)&lt;/b&gt;가 이것을 &lt;b&gt;발더스 게이트 3&lt;/b&gt;의 공식 게임 모드로 추가할지도 모르는 일이지만, 현재로선 저 혼자 이것들을 작업하고 있습니다.&lt;b&gt;REL&lt;/b&gt;은 유연한 시스템 구조의 모드로, 전리품 목록들을 간단명료하게 관리하고 조정할 수 있게 해줍니다. 이는 게임이 출시될 시절부터 개발되어왔던 것으로, 일부는 여전히 &lt;i&gt;(&lt;b&gt;REL Generator Tool&lt;/b&gt;)&lt;/i&gt;라는 이름의 서드파티 모드를 통해 지원하고 있는 기능입니다. 이 도구를 이용하여 다른 모드들의 장비도 손쉽게 무작위 전리품 목록에 통합시킬 수 있는 것이지요. 여러분들께서 약간의 노력만 기울인다면, 드랍 확률을 조정할 수도 있는 지원 모드들도 찾아볼 수 있을 것입니다. 여러분들도 얼마든지 &lt;b&gt;REL&lt;/b&gt;에 기여하실 수 있습니다. 이것은 어디까지나 &lt;b&gt;커뮤니티 차원의 프로젝트&lt;/b&gt;니까 말이지요. 그게 누구든, 어떤 유저든 간에 다회차 플레이 경험을 200% 끌어올리는 것이 저의 목표이자 바람입니다. 저는 어느정도 저의 몫을 다 한 것 같습니다. 그렇다면 &lt;b&gt;여러분&lt;/b&gt;들은 과연 이 커뮤니티에 무엇을 더해줄 수 있을까요! 아주 작은 유물 하나라도 만들어보내주신다면 제게 아주 큰 도움이 될 것입니다. 제게 &lt;b&gt;디코&lt;/b&gt;를 보내주세요. &lt;b&gt;paramonov2023&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;REL(무작위 루팅 시스템)&lt;/b&gt;은 제 디자인 철학을 반영한 물건으로써, 이러한 무작위 전리품들에 관해 제가 확고하게 고수하는 방침들이 더러 존재합니다. 솔직히 말씀드리자면... 커뮤니티 차원의 프로젝트와는 전혀 동떨어져있는 방식이기도 하지요. 저 역시 여러분들의 모든 불평과 불만과 피드백 등을 모두 들어드리고 싶지만, 현실적으로 제가 대응할 시간이 너무나도 부족한 것이 현실이었습니다. 제 작업물들을 바탕으로 여러분들만의 &lt;b&gt;REL&lt;/b&gt; 모드를 만들어 배포하고 싶다해도 괜찮습니다. 그게 본 모드와는 전혀 다른 방식이여도 상관없어요. 크레딧 란에 &lt;b&gt;제 이름과 출처만 남겨주신다면 말이지요&lt;/b&gt;. 또한 본 모드를 바탕으로, 특정 요소만 변경하는 식으로 바꾸어 다양한 &lt;b&gt;AMP&lt;/b&gt; 개조 모드들을 제작할 수도 있을 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;REL&lt;/b&gt;은 오롯이 "고유" 마법 유물 아이템에만 작동됩니다. 소모품들 같은 경우에는 라리안 측에서 이미 무작위 목록을 만들어 무작위로 생성 및 획득할 수 있게 해두었지만, 유물 아이템 같은 경우에는 그렇지 못했죠. 때문에, 바닐라 게임 같은 경우 1회차만 하면 끝! 이런 구조가 되버렸고 막상 개성있는 RP의 캐릭터를 만들어도 다회차를 할 명분 같은 것이 생기지 못했었지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;진행 밸런스&lt;/b&gt;&lt;br&gt;&lt;br&gt;저는 일전에, &lt;b&gt;AMP&lt;/b&gt; 모드에 대한 퀄리티에 대해 &lt;b&gt;구글 설문지&lt;/b&gt;를 통한 설문 조사를 진행하였습니다. 그 때 평균 진행 밸런스에 대해서는 &lt;b&gt;3.89&lt;/b&gt;점이 나왔지요. 이는 즉, 이 부분에 개선이 필요하다는 뜻이기도 합니다. 기본적으로는 바닐라의 진행 밸런스를 따르되, 유저 여러분들의 피드백들이 반영되어 차츰차츰 여러 부분들이 변경되고 또 수정되었습니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;1막: 주로 "고급" 등급이나 "희귀" 등급의 장비들&lt;/b&gt;&lt;br&gt;• &lt;b&gt;2막: "희귀" 등급과 "진귀" 등급의 장비들&lt;/b&gt;&lt;br&gt;• &lt;b&gt;3막: "진귀" 등급 및 "전설" 등급 장비들&lt;/b&gt;&lt;br&gt;&lt;br&gt;아이템의 갯수가 너무 투머치로 많은 거 아니냐라고 하실 수도 있겠지만, 실플레이에서 대부분의 장비들은 아이템 빌드로도 써먹지 못한 애매모호한 것들이 대부분이며, 대다수는 분해 재료로 전락하는 신세일 것입니다. 난이도가 되려 낮아지는 것처럼 느껴지는 것도 그만큼 캐릭터를 개성있게 구성할 여지가 충분해서 그렇습니다. 때문에, 대부분의 유저 여러분들께서는 이러한 아이템 갯수에서 오는 난이도 완화를 보완하고자, 전투 이벤트를 추가하는 등의 난이도 모드를 사용할 것입니다.&lt;i&gt;(특히, 고정 위치에 템이 드랍되는 모드와 함께 AMP 모드를 사용하시면 밸런스가 무너져버리기 쉽상이거든요.)&lt;/i&gt; 저의 지극히 개인적인 사견이지만, &lt;b&gt;적에게 +1 행동 추가, D20 주사위 모드, 언덕 거인 영약 너프 모드&lt;/b&gt; 외에 다른 난이도 모드는 그다지 필요없는 수준이라 생각합니다. (*역주: 이거 ㄹㅇ인게 D20 주사위랑 행동 추가만 써도 4인 파티로도 AMP 쓴다고 쉬워지는 거 잘 막아짐 ㅋㅋ 특히 행동 추가 모드가 매우 Goat라 추천함) 별다른 난이도 상승 모드 없이 풀 파티(4인)로 &lt;b&gt;AMP&lt;/b&gt;모드를 적용한다면, &lt;b&gt;명예 난이도&lt;/b&gt;일지라도 너무 쉽게 느껴질 수도 있답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 게임 플레이 및 밸런스&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Ancient Mega Pack&lt;/b&gt;은 단순히 전리품 아이템만을 추가시켜주는 모드가 아닙니다. 본 모드는 전반적인 난이도와 파티 성장 구조에 맞춰 다양한 요소들을 조정하는 모드로써, 랜덤 전리품 외에도 &lt;b&gt;경제 시스템 조정&lt;/b&gt;, &lt;b&gt;AI&lt;/b&gt;, &lt;b&gt;바닐라 아이템 밸런스 조정&lt;/b&gt; 등 다양한 개발들이 이루어지고 있습니다. &lt;br&gt;&lt;br&gt;• &lt;b&gt;경제 시스템 조정 첫번째:&lt;/b&gt; 특정 물약과 영약의 값어치가 조정됩니다. 아무래도 기존 바닐라 게임에서는 이것들이 너무나도 넘쳐나는 탓에 물약의 소중함을 알지 못하는 유저들이 태반이었거든요. 기존의 가격들은 그 가치에 전혀 맞지 않은 금액들이었고, 주류 메타 빌드에서 최상급 성능을 뽐내는 아이템들에까지 영향을 미치는 문제가 있었습니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;경제 시스템 조정 두번째:&lt;/b&gt; 일반(Common) 등급의 장비들의 가치가 약 &lt;b&gt;~35%&lt;/b&gt;정도 감소하였습니다. 면밀히 관찰한 바에 따르면, 대부분의 유저 분들께서는 일반 장비들을 줏어다 상점에 파는 "폐지 줍기"를 통해 골드를 수급하기 때문에 이는 게임 경제를 다시 건강하게 만들기 위한 "정상화" 조치였습니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;경제 시스템 조정 세번째:&lt;/b&gt; 아다만틴 제작을 위한 몰드(거푸집) 또한 무작위화 되었습니다. 이는 전반적인 무작위 루팅을 보다 체계화하여 통합하기 위한 과정으로, 게임 내에서 상위 티어에 속하는 아다만틴 유물을 제작할 수 있는 요소이기 때문에 &lt;b&gt;AMP&lt;/b&gt; 모드 내에서는 &lt;b&gt;100%&lt;/b&gt; 확정적으로 얻을 수 없게 해야합니다. 이로인해 미스랄 광석 역시 보다 자주 등장하게 될 것이며, 플레이 회차마다 색다른 경험을 할 수 있게 될 것입니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;경제 시스템 조정 네번째:&lt;/b&gt; &lt;b&gt;AMP&lt;/b&gt; 모드에서는 모든 보석 종류의 아이템이 동일한 확률로 드랍되도록 재조정되었기 때문에, 보석의 가치 역시 동일하게 표준화시켰습니다. 보석들의 가치를 평균적으로 낮게 측정하여 따로 마법부여 시스템을 사용하지 않는 유저라 할지라도, 보석류 아이템으로인해 게임 경제 시스템의 밸런스가 무너지지 않도록 조정하였습니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;AI 조정 첫번째:&lt;/b&gt; &lt;b&gt;어둠&lt;/b&gt; 주문에 대한 적의 AI 문제를 조정하였습니다. 게임 엔진 자체가 &lt;b&gt;어둠&lt;/b&gt; 주문을 "까다로운" 지형으로 인식하기 때문에, NPC들의 행동을 완전히 멈추어버리는 문제가 있었습니다. 이는 &lt;b&gt;어둠&lt;/b&gt; 주문의 전략적인 가치를 완전히 없애버리는 중대한 문제로써, 사실상 하나의 합법 치트키나 다름없었습니다. 때문에 이러한 변경으로, 적 AI는 평소라면 하지 않았을 근접 전투를 위해 자체적으로 &lt;b&gt;어둠&lt;/b&gt; 주문을 뚫고 들어가려할 것이며, 이를 통해 전장의 형평성 또한 맞출 수 있을 것입니다. 이러한 변경점은 &lt;b&gt;어둠&lt;/b&gt; 주문에 중점을 둔 마법 부여의 존재가 있기 때문에 가능했던 것이며, 바닐라에서의 조악한 구현 상태를 도저히 참아줄 수 없었던 저의 문제도 있었습니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;AI 조정 두번째:&lt;/b&gt; 게임 전반에 걸쳐 등장하는 크리처들의 행동을 소폭 수정하였습니다. 여기에는 잘 알려지지 않은 비밀이 하나 숨겨져있는데, &lt;b&gt;라리안&lt;/b&gt; 측에서는 AI 행동 보정치에 &lt;b&gt;"바보같은 행동"&lt;/b&gt;라는 이름의 수치를 의도적으로 포함시켜두었는데, 대부분 적으로 만나는 대상들에 그 수치가 의도적으로 높게 설정되어있었습니다. 왜 그래야만 했는지 이해가 아주 가지 않는 것은 아닙니다. 만일 게임에서 AI가 플레이어의 &lt;b&gt;"실수"&lt;/b&gt;를 가차없이 캐치하면서 상대했다면 이 게임이 그렇게 대중적으로 큰 인기를 받을 수 없었을테지요. 허나, &lt;b&gt;AMP&lt;/b&gt; 모드는 밥먹듯이 명예클을 하는 숙련된 플레이어이자, 자신이 사랑해 마지않는 &lt;b&gt;전술 RPG&lt;/b&gt;에서 새로운 도전을 찾는 유저들을 타겟으로 만들어진 모드입니다. 따라서, 이 모드를 주로 이용하는 유저들을 생각해본다면, 끝없이 반복되는 다회차 플레이에 질려 보다 로그라이크적인 요소가 가미된 게임을 원하는, 다소 혼란스럽고, 다소 가혹할 정도로 어려워도, 조금은 독특한 게임을 바라는 그런 유저층일 것입니다. &lt;b&gt;AMP&lt;/b&gt; 모드는 바로 그러한 타겟층을 겨냥하여 만들어졌습니다. &lt;b&gt;로그라이크 장르의 본질&lt;/b&gt;이란 바로, "혼돈"을 길들이는 것입니다: 당신은 주어진 카드를 불만없이 받아들여야하며&lt;i&gt;(우리네 인생처럼)&lt;/i&gt;, 가능한 오래 살아남을 수 있도록 최고의 조합을 만들어야만 하고&lt;i&gt;(이또한 인생처럼)&lt;/i&gt;, 평소보다 더 많은 방해 요소들을 뚫으면서도 견뎌내야합니다.&lt;i&gt;(맞아요, 이또한 인생처럼요)&lt;/i&gt;. 대부분의 변경 사항들은 콘솔에도 호환되는 대형 단일 파일 모드 수준을 넘어, 적과의 전투에 약간의 재미를 더하는 요소들이 포함되어있습니다.&lt;i&gt;(특히나 콘솔 환경에서 중요한 부분입니다)&lt;/i&gt;. 무작위 전리품 시스템과 더불어, 플레이어를 놀라게 만들며 또 그것에 저항할 궁리를 더해주는 AI야말로 재미의 큰 요소를 포함하는 부분이라 할 수 있겠습니다. 예를들어:&lt;br&gt;&lt;br&gt;    • &lt;b&gt;원거리 공격을 하는 적&lt;/b&gt;들은 &lt;b&gt;라리안&lt;/b&gt; 측에서 고의로 적으로부터 &lt;b&gt;10m&lt;/b&gt; 이상 움직이지 않도록 설정해두었는데, 이는 조금 말이 안되는 부분이지요. 전사란 자고로 자신의 장비의 우위를 최대한으로 활용하는 것이 맞으니까요. 이러한 설정은 &lt;b&gt;AMP&lt;/b&gt; 모드 진행 밸런스에도 지대한 영향을 미치게 되었고, 결과적으로 적대적 궁수들은 근접 마샬이 이리저리 뛰어다니며 사냥할 수 있는 움직이는 먹잇감으로 전락하고야 말았습니다.&lt;br&gt;&lt;br&gt;    • 거의 모든 유형에 설정되어있던 &lt;b&gt;바보같은 행동 및 공격&lt;/b&gt; 수치를 조정하였습니다. 이 수치들은 여전히 높게 설정할 수 밖에 없었는데, 그렇지 않으면 AI가 높은 방어도를 지녔거나 반격 대미지를 가지고 있는 캐릭터를 절대 공격하지 않게되어, 전략적으로 어딘가 말이 되지 않게 되어버렸기 때문입니다. 이제 AI들은 자신이 입히는 피해 유형에 취약한 대상을 제대로 인지하고, 최대한 그 취약한 대상을 우선적으로 공격하려할 것입니다.&lt;i&gt;(기존 바닐라 게임에서는 이러한 행동이 설정되어있지 않았었습니다!)&lt;/i&gt;.&lt;br&gt;&lt;br&gt;    • &lt;b&gt;고저차 인식&lt;/b&gt;이 가능해집니다. 이제 크리처들이 고저차를 보다 활발히 활용하여, 전장에서 완벽한 전술적 위치를 선점하려 들 것입니다. 기존 바닐라 게임에서는, 오직 궁수 캐릭터만이 이 기능을 활용하였었죠.&lt;i&gt;(그마저도 플레이어가 불쾌하지 않도록 아주 조심스럽게 설정되어 있었답니다.)&lt;/i&gt;.&lt;br&gt;&lt;br&gt;    • 이제 대부분의 크리처들이 &lt;b&gt;교묘한 전략&lt;/b&gt;을 보다 활발히 활용하게 됩니다. 예를들면, 절벽에서 밀어버린다던가, 폭약이나 투척물들을 던진다던가, 힐링 포션을 던져 다수의 아군을 치유하는 것부터, 상호작용이 가능한 오브젝트가 가까이 있다면 최대한 활용하는 방향으로 가게 될 것입니다. 또한, 위험 지형은 바로 회피하려 들 것이고, 아군의 광역기에 대비하여 뭉치지 않을 것이며, 적을 포위하여 퇴로를 차단하기, 연속 공격 회피하기 등등의 전투에서의 다양한 전략들을 이용하게 될 것입니다.&lt;br&gt;&lt;br&gt;    • ㅇ게임 내에서 오직 오린만이 가지고 있던 &lt;b&gt;무자비함&lt;/b&gt;을 이제 모든 전투 AI들이 공유하게 됩니다. 적들이 이제 위험한 집중부터 끊으려 들 것이며, 쓰러진 캐릭터가 있다면 무조건적으로 끝장내어 어떻게든 승리를 쟁취하려들 것입니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;장비 조정 첫번째:&lt;/b&gt; 기존 바닐라 장비 아이템의 파워 밸런스는 &lt;b&gt;라리안&lt;/b&gt;측에서 파티의 대략적인 전투력과 그 레벨대에 등장하는 적들의 강함을 고려하여 특정 시점에서 특정 아이템들이 등장하도록 배치되는 구조였습니다. 허나, 장비 획득이 완전 랜덤화 되어버린다면, 기존 바닐라의 규칙들을 사용할 수 없게 되겠지요. 그리하여, &lt;b&gt;AMP&lt;/b&gt; 모드는 이러한 바닐라 장비 아이템들에 대해 희귀도 조정 및 매커니즘에 대한 전면 개편을 포함한 조정이 이루어지게 되었습니다. 가장 눈에 띄는 개편 사항으로는, "상태이상 부여"에 대한 매커니즘의 변화인데, 기존에는 기술로인한 상태 효과까지도 "상태이상"으로 간주한다는 문제점이 있었습니다. 또한 여러 모드들에서 이 기술적 상태 효과를 조건으로 발동되는 경우가 많아, 이런 매커니즘을 지닌 아이템들은 전투에서 사실상 무조건 발동될 수 밖에 없었지요. &lt;b&gt;AMP&lt;/b&gt; 모드에서는 이러한 매커니즘의 아이템들이 오로지 "진짜 상태이상"에서만 발동되도록 변경하여 이러한 문제를 해결하였습니다. 한 편, 기존 바닐라 아이템들은 템 고유의 희귀도와 실성능이 제대로 맞지 않는 경우가 많았습니다. 고정된 전리품 체계 특성상 희귀도 자체가 큰 의미를 지니지 않기 때문이죠. 때문에, 기존 바닐라 아이템들의 희귀도들을 대폭 조정하게 되었습니다. 특히나 1막 초반부터 쉽게 얻을 수 있어 밸런스를 망가뜨릴 정도의 성능을 뽐내던 밸붕급 유물들의 희귀도를 대폭 상향하여 보다 더 늦은 시기에 템이 등장할 수 있도록 하였습니다.&lt;br&gt;&lt;br&gt;• &lt;b&gt;장비 조정 두번째:&lt;/b&gt; 무기 전용 스킬의 사용 제한 역시 재조정되었습니다. 이것 자체가 합리적인 조치였는지에 대해서는 아직 의견이 분분할 수 있겠으나, &lt;b&gt;AMP&lt;/b&gt; 모드에서는 대부분의 장비 고유 기술들이 짧휴/긴휴 제한에 상관없이 &lt;b&gt;전투당 1회씩&lt;/b&gt; 충전되도록 변경됩니다. 이러한 변경점 덕분에 기술 하나만 보고 써야했던 애매한 무기들의 가치가 대폭 상승하게 되었지요. 이런 무기들 덕택에 전투는 보다 역동적이게 변화할 것이며, 긴휴를 기피하던 파티도 더이상 무기 기술 몇 개 회복하자고 긴휴식을 할 필요가 없어지게 될테지요. 고작 2d8 대미지 입히는 기술 하나 회복하겠다고 긴휴식하는 것만큼 낭비도 없잖아요?&lt;br&gt;&lt;br&gt;&lt;b&gt;4. 커뮤니티에 기여해주세요!&lt;/b&gt;&lt;br&gt;&lt;br&gt;아시다시피, 현재 이 모드는 저 혼자서 개발 중입니다. 아이콘 제작이나 유물들의 설정, 게임 밸런싱까지 전부 말이지요. 유저 여러분께 신선하고 재밌는 컨텐츠를 제공하는 것만큼 중요한 것도 더 없다 생각하기 때문에, 업데이트 또한 자주 이루어지고 있는 편입니다. 이 과정에서 굉장히 사소해보이지만, 실플레이에까지 영향을 미치는 여러 버그와 누락된 사항들이 발생하게 됩니다.&lt;br&gt;&lt;br&gt;때문에 버그로 작동하지 않는 고작 몇 개의 아이템 때문에 &lt;b&gt;AMP&lt;/b&gt; 모드를 지우면서 모더 시발 병신이냐? 라고 저를 모욕하는 것은... 그렇게 원만한 처사가 아닙니다. 양해를 부탁드립니다. 제가 일부러 버그를 방치하거나 만드는 것은 결코 아니며, 단순한 실수 때문에 생겨날 수 있다는 것을 알아주셨으면 합니다. 또한 특정 매커니즘 같은 경우, 디버깅 모드에서 아예 확인 자체가 되지 않는 경우도 있습니다. 이는 아예 회차를 시작해야 발견할 수 있는 것들이라, 매번 테스트하기도 쉽지 않지요. 그러니... 부탁컨데, 버그는 그저 웃으며 원만하게 넘겨주셨으면 합니다. 그리고 여러분들이 미래의 유저들을 돕고 싶으시다면, 부디 여러분들의 소중한 "5분"만 투자해주셔서, Mod.io의 모드 페이지에 의견란에 발견한 버그 내용과 모드에 관한 수정 제안 등을 남겨주시길 바랍니다. 이는 정말로 정말로 제게 &lt;b&gt;도움이 많이되며&lt;/b&gt;, 제 하루를 기쁘게 만들어주는 원동력이 되어준답니다. :)&lt;br&gt;&lt;br&gt;그보다 더 멋진 일이 있다면 그것은, 오직 여러분만이 상상할 수 있는 독창적인 창작물을 직접 만들어 제게 보내는 것입니다. 그러니까 여러분만의 DnD 설정을 지닌 유물들을 말이지요! 전체적인 리밸런싱을 거쳐 그 유물을 메가팩의 랜덤 전리품 목록에 추가하게 된다면, 전 세계 유저분들이 여러분들이 직접 만든 유물을 만나게 될 것입니다. 예를 들어, 한 유저로부터 대상에게 참격 취약을 거는 전설 반지를 받게 되었고, 그 분께서 제게 그 유물의 전체적인 코드를 제공해주셨습니다. 그리고 전 그것을 그대로 무작위 전리품 목록에 추가하였습니다. 이게 바로, 여러분들이 BG3의 랜덤 전리품 커뮤니티에 기여할 수 있는 최고로 가치있는 기여랍니다.&lt;br&gt;&lt;br&gt;또한 지금 이 문장들을 번역하고 있는 번역가 여러분들이나, 제게 암호 화폐 등으로도 후원해주실 수도 있습니다.&lt;i&gt;(제 지갑 주소는 원본 모드 페이지에 씌여있습니다.)&lt;/i&gt; 번역가 여러분께는 모드 페이지에 있는 프로필 링크를 통해 소통하실 수 있을 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;글을 끝마치며&lt;/b&gt;&lt;br&gt;&lt;br&gt;제가 어떤 성향의 플레이어인지, 또 제가 중점으로 두는 아이디어가 궁금하실 분들을 위해 제게 영감을 준 게임을 짧게 소개해주도록 하겠습니다: &lt;b&gt;워크3, 와우, 히어로즈 3, 스페이스 레인저, 팀포2, 마크, 히트맨, 스토커, 돌겜, 사이코너츠, 문명 3, 5, 6(겜잘알 ㅎㄷㄷ), 크킹2, 유로파 4, 빅토리아2, 카스 1.6, 워해머 40K, 파트리시안 3, 노이타, 하데스&lt;/b&gt;. 보시다시피, 저는 주로 슈팅 게임과 전략 게임, 그리고 로그라이크 장르를 즐겨하는 유저입니다. &lt;b&gt;Ancient Mega Pack&lt;/b&gt;은 제 게임 디자이너 포트폴리오 용도로 구축한 모드이기도 하며&lt;i&gt;(채용 제안은 언제든 기다리고 있습니다!)&lt;/i&gt;, 진심으로 여러분들이 제 프로젝트를 즐겁게 플레이해주시길 바라고 있습니다. 감사합니다! (*역주: 매끄러운 문장 연결을 위해 다소 의역된 부분이 많습니다. 모더분이 버그 수집과 모드 개선 제안에 굉장히 적극적이시니, 버그를 발견했다거나 했다면 원본 모드 페이지에다 써주십셔 ㅎㅎ)</content>
+  <content contentuid="h18689acdg9138g4f76gb180g55d18df885e9" version="1">%%% 만약을 위해서 %%%</content>
+  <content contentuid="hd41639dbg11eeg4d64g89c8g3509d7143af7" version="1">희미한 마력이 칼날을 감싸고 있습니다. 분명 영계의 영향을 받은 장비임이 틀림없습니다.</content>
+  <content contentuid="h71d7092eg8c56g441agb087g95ac8d56a5b3" version="1">희미한 마력이 활시위를 감싸고 있습니다. 분명 영계의 영향을 받은 장비임이 틀림없습니다.</content>
+  <content contentuid="h819a49bege3c2g43a0gbd28gdd981cd3ef0a" version="1">희미한 마력이 자루를 감싸고 있습니다. 분명 영계의 영향을 받은 장비임이 틀림없습니다.</content>
+  <content contentuid="hf354975eg13ceg4007ga836ge3ddfacedea3" version="1">희미한 마력이 방패의 표면을 감싸고 있습니다. 분명 영계의 영향을 받은 장비임이 틀림없습니다.</content>
+  <content contentuid="h6a2d72f6ge2bag4a86gbc67gac77d9e8210e" version="1">차가운 냉기가 할버드 표면을 뒤덮고 있으며, 마치 어떤 신호라도 보내려는 듯 주기적으로 불규칙한 빛을 내며 타오르고 있습니다. 칼날에선 가끔씩 위협스런 얼음의 불꽃이 튀어나와 불꽃을 직접 눈으로 본 자에게 지워지지 않을 강한 화상을 남긴다고 합니다.</content>
+  <content contentuid="hade9b7c1g7ae9g436cg8983g67f1e7c56d70" version="1">요정의 마력이 서린 대형 도끼</content>
+  <content contentuid="h58fabe15gf2ccg439cg9a96g48db4fb4649b" version="1">네더릴의 마력이 서린 대형 도끼</content>
+  <content contentuid="hf6d78aa8g9cafg4d85gb9fcgdaeb3a2e94f3" version="1">엘드리치의 마력이 서린 대형 도끼</content>
+  <content contentuid="hc6aec403g0c9eg4cd6gbdfegf38b96471038" version="1">천상의 마력이 서린 대형 도끼</content>
+  <content contentuid="he67d3342g56ddg4495g819egac7c1b17ce64" version="1">요정의 마력이 서린 대검</content>
+  <content contentuid="h02522ed2g4d32g4387g9ae7g362229c0590a" version="1">네더릴의 마력이 서린 대검</content>
+  <content contentuid="h1e75096fg9477g436agaee8g92f733e5ddb7" version="1">엘드리치의 마력이 서린 대검</content>
+  <content contentuid="hed06ab55gb58eg4dbcga3cbg07bee021d4d2" version="1">천상의 마력이 서린 대검</content>
+  <content contentuid="h1452003fg7db0g4ba5g99f9g40efd7a60b8b" version="1">요정의 마력이 서린 미늘창</content>
+  <content contentuid="haed26332gced1g44b0g94bbgb510c2c81456" version="1">네더릴의 마력이 서린 미늘창</content>
+  <content contentuid="h458c4102ge7cbg416dgb5f0g89dfb8f86709" version="1">서리의 미늘창</content>
+  <content contentuid="he436468dg697dg4961gb804g0020fe0eb4f6" version="1">천상의 마력이 서린 미늘창</content>
+  <content contentuid="hb5a11b00g75bdg4d05g8535gdb24d803841a" version="1">요정의 마력이 서린 협도</content>
+  <content contentuid="hcfbe61cdg5ed9g449cg8d00g3898ab34bd32" version="1">네더릴의 마력이 서린 협도</content>
+  <content contentuid="h63bd1fc7g23e4g4b09g9020gb3b59cb9020e" version="1">엘드리치의 마력이 서린 협도</content>
+  <content contentuid="h2af68d16g7529g49c2gb353g34d1c5a3566b" version="1">천상의 마력이 서린 협도</content>
+  <content contentuid="hef8c7134ga299g4a1egaefcga10e34d3a381" version="1">요정의 마력이 서린 중쇠뇌</content>
+  <content contentuid="h5fe787ecg861dg4e4dgb1a7g75059bc7f529" version="1">네더릴의 마력이 서린 중쇠뇌</content>
+  <content contentuid="hd4e9e193g6081g492cg94f6g756f0e97f348" version="1">엘드리치의 마력이 서린 중쇠뇌</content>
+  <content contentuid="h0eeab009g705dg42bdg9450g000fb519c640" version="1">천상의 마력이 서린 중쇠뇌</content>
+  <content contentuid="hc02de05dg8559g4d1fg9e72gc531410a64f8" version="1">요정의 마력이 서린 레이피어</content>
+  <content contentuid="h404bf7bcg0f41g4a0fg9f6eg1c75482c0423" version="1">네더릴의 마력이 서린 레이피어</content>
+  <content contentuid="h20ea6311g293cg4d35gabd5g8ac2cb9d7641" version="1">엘드리치의 마력이 서린 레이피어</content>
+  <content contentuid="h02f994ebg7617g40d8gba09g9a4d762fbdbb" version="1">불타오르는 레이피어</content>
+  <content contentuid="he8943771ga42ag428ag8a04g2ea17aa2e101" version="1">요정의 마력이 서린 전투 도끼</content>
+  <content contentuid="h3713dbd0g3395g4d14g918bg4a4e1158d5e1" version="1">네더릴의 마력이 서린 전투 도끼</content>
+  <content contentuid="he535c3bag6495g4770g9a77g3656bb4fdb15" version="1">엘드리치의 마력이 서린 전투 도끼</content>
+  <content contentuid="h98e3b3f7ge14dg4a83g83cdg3f3616234421" version="1">천상의 마력이 서린 전투 도끼</content>
+  <content contentuid="h4faaae17g51e9g4d23g8c78g68eabe22e06b" version="1">요정의 마력이 서린 전쟁 곡괭이</content>
+  <content contentuid="h188d6717gf7e6g4d39gbd61gaea4fe3d358b" version="1">네더릴의 마력이 서린 전쟁 곡괭이</content>
+  <content contentuid="h890533a0gc831g4793g9eb6g656724d2548a" version="1">엘드리치의 마력이 서린 전쟁 곡괭이</content>
+  <content contentuid="h5ea8b4d3ga378g49eeg919dgddf5ebef9d41" version="1">천상의 마력이 서린 전쟁 곡괭이</content>
+  <content contentuid="h77cf3d82gc3d3g4d11ga1d0g1eb29a7b005b" version="1">요정의 마력이 서린 도리깨</content>
+  <content contentuid="h7aeef029g51c9g47fega057g983228cb76bd" version="1">네더릴의 마력이 서린 도리깨</content>
+  <content contentuid="h47b15f2fgde83g4df8ga208ge963a77c3fc8" version="1">엘드리치의 마력이 서린 도리깨</content>
+  <content contentuid="he1bc3df0g6019g4adaga6d0ge1dadbe591ff" version="1">천상의 마력이 서린 도리깨</content>
+  <content contentuid="hffb3881agbb71g4bf9gbac8gb5fbb2591ff4" version="1">요정의 마력이 서린 손 쇠뇌</content>
+  <content contentuid="h5c33b2f4g6aeeg42b6gb5dage51b3aa6642c" version="1">네더릴의 마력이 서린 손 쇠뇌</content>
+  <content contentuid="h20ec47abgae91g469bgaac3g224a763bbfcd" version="1">엘드리치의 마력이 서린 손 쇠뇌</content>
+  <content contentuid="h112bd209g095eg4a2fg91d2g63d268a6de3c" version="1">천상의 마력이 서린 손 쇠뇌</content>
+  <content contentuid="h73aec475g3614g4295g9293g99130d871a76" version="1">요정의 마력이 서린 장궁</content>
+  <content contentuid="h5dd0fdd3gde6dg4750g8624g9b9925c71f68" version="1">네더릴의 마력이 서린 장궁</content>
+  <content contentuid="h337809c7g6799g4bf8gaad2g618c767e88bf" version="1">엘드리치의 마력이 서린 장궁</content>
+  <content contentuid="h5c2a4cadg9661g4b7bg8704g15d7c91cae69" version="1">천상의 마력이 서린 장궁</content>
+  <content contentuid="h976b68beg024bg4e87ga477g000859833dad" version="1">요정의 마력이 서린 모닝스타</content>
+  <content contentuid="h07db4b3dg9eecg40fbg98e0g0cc0850d4848" version="1">네더릴의 마력이 서린 모닝스타</content>
+  <content contentuid="hc22fe437g7a18g4ec6g9579g144d80de2a87" version="1">엘드리치의 마력이 서린 모닝스타</content>
+  <content contentuid="ha994e046g54b1g4fb3gb03cgac6392c610dd" version="1">천상의 마력이 서린 모닝스타</content>
+  <content contentuid="h3a2f7386gb0a9g4750g99c2g0dbb40ec67ba" version="1">요정의 마력이 서린 전쟁 망치</content>
+  <content contentuid="h3cbc1c0bg0f7eg4f09gaf9dgd3e424e91dd2" version="1">네더릴의 마력이 서린 전쟁 망치</content>
+  <content contentuid="h43037c0eg1ac3g47acgae52g2d81c163a737" version="1">엘드리치의 마력이 서린 전쟁 망치</content>
+  <content contentuid="hfbe8462fg23d2g4c69gb93ag6e66f5f2ef0d" version="1">천상의 마력이 서린 전쟁 망치</content>
+  <content contentuid="h3173d17dg2770g4c05gb59egacf240a57bea" version="1">요정의 마력이 서린 장검</content>
+  <content contentuid="h77c7247dg85a7g4132g81a1g6ac75edbec3a" version="1">네더릴의 마력이 서린 장검</content>
+  <content contentuid="h1bd43a96g351eg4a78gb632g740b4325fd6a" version="1">엘드리치의 마력이 서린 장검</content>
+  <content contentuid="he6fe142ag8177g48e5gafcagc2f1a0e45f5c" version="1">천상의 마력이 서린 장검</content>
+  <content contentuid="hfab70aceg6c27g406eg87afg0160701dfbb2" version="1">요정의 마력이 서린 삼지창</content>
+  <content contentuid="h902cc9degd757g4fb7gb431ga7aa06d34b18" version="1">네더릴의 마력이 서린 삼지창</content>
+  <content contentuid="h8443ad70g6163g46cfg9298g0ec4d94e2cf7" version="1">엘드리치의 마력이 서린 삼지창</content>
+  <content contentuid="hf919d654g1ad4g441cgb85fg93b23f583a7a" version="1">천상의 마력이 서린 삼지창</content>
+  <content contentuid="h447a2bc1g577ag480dga1fbg3f9325763cf6" version="1">요정의 마력이 서린 언월도</content>
+  <content contentuid="h6058dd23g1bb7g47e0gb5b9g40f6cb72646b" version="1">네더릴의 마력이 서린 언월도</content>
+  <content contentuid="h38184b41g1859g4423gbefag7637e4ca02ef" version="1">엘드리치의 마력이 서린 언월도</content>
+  <content contentuid="he3311c31g33ceg46b8gb901g2cd91243f5ff" version="1">천상의 마력이 서린 언월도</content>
+  <content contentuid="ha80bb481gc223g40bag94b1g42833d5d912e" version="1">요정의 마력이 서린 장창</content>
+  <content contentuid="he78bf1c8ga050g4633gb7cdgec72a2dce15f" version="1">네더릴의 마력이 서린 장창</content>
+  <content contentuid="hbfaff620g27bcg4959gacd2gfb32048de0b4" version="1">엘드리치의 마력이 서린 장창</content>
+  <content contentuid="h8a88237fgb24eg4542gb182g7110404ac6ed" version="1">천상의 마력이 서린 장창</content>
+  <content contentuid="hf5c3aabegcab9g4cf9ga27bg8604ec19b831" version="1">요정의 마력이 서린 소검</content>
+  <content contentuid="h083af980g8297g4396gb3fag7c4291641297" version="1">네더릴의 마력이 서린 소검</content>
+  <content contentuid="h3342c06eg9abbg425fgad69g20c6e32f6a86" version="1">엘드리치의 마력이 서린 소검</content>
+  <content contentuid="hb48ca184gabe5g420cgba06g7cb7f7ac694a" version="1">천상의 마력이 서린 소검</content>
+  <content contentuid="h7862f8d0g4664g4d31gb92fgab736e0e4aea" version="1">요정의 마력이 서린 광휘의 망치</content>
+  <content contentuid="hf9dafc42g0ddag4173g93f9g18b9a6dad7fd" version="1">네더릴의 마력이 서린 광휘의 망치</content>
+  <content contentuid="h0425de99g624dg4aa9gb6begb0b011b02a2b" version="1">엘드리치의 마력이 서린 광휘의 망치</content>
+  <content contentuid="hf3ac5644g32a5g4ff2gb2e4g65281438d247" version="1">천상의 마력이 서린 광휘의 망치</content>
+  <content contentuid="h8e62b1c8gaf7dg45b8gbf09g48644ee5087c" version="1">요정의 마력이 서린 경쇠뇌</content>
+  <content contentuid="hde18e586ga29bg418dg82fdg6d4c89580dd3" version="1">네더릴의 마력이 서린 경쇠뇌</content>
+  <content contentuid="h994238f4g3888g4030gb18bg0f0838077682" version="1">엘드리치의 마력이 서린 경쇠뇌</content>
+  <content contentuid="hf7f9217dg0beeg4ac5g88beg92c3255fb2bb" version="1">천상의 마력이 서린 경쇠뇌</content>
+  <content contentuid="hb1d88fe9g4577g4362ga83cg5726d2cba778" version="1">요정의 마력이 서린 철퇴</content>
+  <content contentuid="h80d9519dg731dg44ecg9635g481657f74e50" version="1">네더릴의 마력이 서린 철퇴</content>
+  <content contentuid="hd7b48d45g8ca4g4447g87dcg533011901537" version="1">엘드리치의 마력이 서린 철퇴</content>
+  <content contentuid="hcf1fb43bg6bafg48bagb413g07a36315e0ce" version="1">천상의 마력이 서린 철퇴</content>
+  <content contentuid="hf601ad32g5026g4b74g988fg3133155c141f" version="1">요정의 마력이 서린 단검</content>
+  <content contentuid="h5aa436b5g7f85g469fg941ag85ee83be5316" version="1">네더릴의 마력이 서린 단검</content>
+  <content contentuid="h65c1f85bg3fc4g4ebag9ef6g10b8bf04a5f0" version="1">엘드리치의 마력이 서린 단검</content>
+  <content contentuid="hdebd37fbg3852g4dd8g9f5fgea7defcdfd50" version="1">천상의 마력이 서린 단검</content>
+  <content contentuid="h028d2cf2gdf91g4df7g883fg030f85d552fd" version="1">요정의 마력이 서린 대형 곤봉</content>
+  <content contentuid="hd6f2de36gc62bg401bg8d92gea7c9e4a48de" version="1">네더릴의 마력이 서린 대형 곤봉</content>
+  <content contentuid="h23fbb3f2g5618g4981ga295g1ff81b634508" version="1">엘드리치의 마력이 서린 대형 곤봉</content>
+  <content contentuid="h0da9d4b7ga62ag4f1eg895bgc469c87b3f31" version="1">천상의 마력이 서린 대형 곤봉</content>
+  <content contentuid="hced45339gb9d1g4b10gb53fgbc231bdf55c6" version="1">요정의 마력이 서린 손도끼</content>
+  <content contentuid="h95895a62gd65dg4c94g8ca8g948ff24de538" version="1">네더릴의 마력이 서린 손도끼</content>
+  <content contentuid="h6e691692g86dbg4f42g8899g5b6c38c1d753" version="1">엘드리치의 마력이 서린 손도끼</content>
+  <content contentuid="h9a5d02d3g0ae7g4426ga25bg7cd1d86978ad" version="1">천상의 마력이 서린 손도끼</content>
+  <content contentuid="hc7b24584g49f4g4f5fg85b1g9d044eb57061" version="1">요정의 마력이 서린 단궁</content>
+  <content contentuid="h96dc9bfbgbe26g40abga8a8g02848d38f5d2" version="1">네더릴의 마력이 서린 단궁</content>
+  <content contentuid="h7d0d6fe7gaf49g4c6aga060ga18c0e7af038" version="1">엘드리치의 마력이 서린 단궁</content>
+  <content contentuid="h98f64b52gad46g4221gbb9dgb872b76c6de5" version="1">천상의 마력이 서린 단궁</content>
+  <content contentuid="ha544d4c5g75a3g4cafg9342g5eea350d64fa" version="1">요정의 마력이 서린 곤봉</content>
+  <content contentuid="h16d4be9bg3fedg4635g8fd8gd8f4958ddd45" version="1">네더릴의 마력이 서린 곤봉</content>
+  <content contentuid="hd10bf277gea4dg425fgb337g137891f53061" version="1">엘드리치의 마력이 서린 곤봉</content>
+  <content contentuid="h4d071f0dg3d91g464cgad03g5bd2e6e58537" version="1">천상의 마력이 서린 곤봉</content>
+  <content contentuid="h40040f6dgfdbcg47d5g97cag26854be4fcf6" version="1">요정의 마력이 서린 횃불</content>
+  <content contentuid="hb6ed17dag4f2cg449ega042g10c11fafbd1d" version="1">네더릴의 마력이 서린 횃불</content>
+  <content contentuid="haff8f3c7gba04g4a19g8ce6gfe583a47b3d4" version="1">엘드리치의 마력이 서린 횃불</content>
+  <content contentuid="h207f4c56gc831g4197g8885g7d4a05abe966" version="1">천상의 마력이 서린 횃불</content>
+  <content contentuid="hbb459391g9d55g4514ga6c8ga9e2baf821b3" version="1">요정의 마력이 서린 독창</content>
+  <content contentuid="h0e717989gea8ag450ega32ag44f02ebd0261" version="1">네더릴의 마력이 서린 독창</content>
+  <content contentuid="hbb55f72eg37ccg40a8g8228g7a2bfe8a4c93" version="1">엘드리치의 마력이 서린 독창</content>
+  <content contentuid="ha5e08454g6a05g4448g93c6g1fd4d0e65563" version="1">천상의 마력이 서린 독창</content>
+  <content contentuid="hacb67660g0524g4516ga447g2efba64ec4ec" version="1">요정의 마력이 서린 육척봉</content>
+  <content contentuid="h5946cc5fgd07dg4992gbe85g0367d6003562" version="1">네더릴의 마력이 서린 육척봉</content>
+  <content contentuid="h09056cedg6a21g4117gbb5bgaa62e06e60d9" version="1">엘드리치의 마력이 서린 육척봉</content>
+  <content contentuid="h70db2244g17d6g4adfgb182g87a604654d45" version="1">천상의 마력이 서린 육척봉</content>
+  <content contentuid="h0a608068g15e4g4492g8d37gd2eb5e6cbe55" version="1">요정의 마력이 서린 창</content>
+  <content contentuid="h395c67f3g754eg44edgbb51g497352a8e098" version="1">네더릴의 마력이 서린 창</content>
+  <content contentuid="h2f080755gb515g4709ga930gbeb75df12be3" version="1">엘드리치의 마력이 서린 창</content>
+  <content contentuid="h8c7acd00ge0b7g4252g92f4g7dfcb71e1aff" version="1">천상의 마력이 서린 창</content>
+  <content contentuid="h3e88d7c1g7bf5g4c29gb325g33706691f086" version="1">요정의 마력이 서린 낫</content>
+  <content contentuid="h0552f0b1g6d36g4a7eg918agf294c9b389e3" version="1">네더릴의 마력이 서린 낫</content>
+  <content contentuid="hca75dcf3gf8d8g46bbg9774g59a73dbce55d" version="1">엘드리치의 마력이 서린 낫</content>
+  <content contentuid="he62e84acgbbefg4af4g8562g162db2740251" version="1">천상의 마력이 서린 낫</content>
+  <content contentuid="h7c58b444g37c5g42c9ga5f7g6ac91be267de" version="1">요정의 마력이 서린 챔피언의 방패</content>
+  <content contentuid="h79ee23fcge2d6g490eg9170gc1c9bbbe49da" version="1">네더릴의 마력이 서린 해골 방패</content>
+  <content contentuid="h70081283g22b1g40efg9926gdbbe4d5840e9" version="1">엘드리치의 마력이 서린 셀루네의 방패</content>
+  <content contentuid="ha6726ca0g0c73g4104g9916ga70b8ec0f116" version="1">천상의 마력이 서린 장엄한 방패</content>
+  <content contentuid="h41952c3dg72c6g4b9cg85a3geb218bc8438e" version="1">요정의 마력이 서린 대형 망치</content>
+  <content contentuid="h247ec97dgb12fg488cg9847g96ac79fffee4" version="1">네더릴의 마력이 서린 대형 망치</content>
+  <content contentuid="h6fc1a7eagb520g4e59ga3a2ga749a567e758" version="1">엘드리치의 마력이 서린 대형 망치</content>
+  <content contentuid="hb42a2119g3cfdg46bdga1c2g362c50636f3d" version="1">천상의 마력이 서린 대형 망치</content>
+  <content contentuid="hec302224g8204g4afcg90fbg6c60570243b5" version="1">마력 해제</content>
+  <content contentuid="h11841403gcb85g43d4g9ad2g5c5e400222a6" version="1">훈련용 반지</content>
+  <content contentuid="h9f802f2bgbe73g4302gb80cg3c6c181a70ca" version="1">디버그 전용 유물로 불사의 적대적인 인간형 개체 더미를 소환하여 다양한 공격 등을 테스트해볼 수 있습니다.</content>
+  <content contentuid="hed1a73b4g7469g4e11gad28g5460172f387c" version="1">채드 소환</content>
+  <content contentuid="h3424628bgf79bg45c1gb08cgb41b75d64082" version="1">적대 상태이지만 무해하고 안전한 채드 씨를 소환합니다. 공격 테스트가 가능합니다.</content>
+  <content contentuid="h079c9038ga425g402cgbd6dg3c37acefcf1f" version="1">채드 죽이기</content>
+  <content contentuid="h09e5d658g367fg4f3bg95fbgb7628783a0e7" version="1">채드를 즉시 죽여버립니다. 더이상 방해되지 않을 거에요.</content>
+  <content contentuid="hf32583beg6d65g455bgac45g4456d01ba5fc" version="1">훈련의 오라</content>
+  <content contentuid="h87d3717dg7dcbg4d9egb2a0g17bcbceb566b" version="1">채드가 훈련 중인 인물을 도와 줍니다. 테스트 성능이 [1] 증가합니다.</content>
+  <content contentuid="h975de34ag8b3ag436ega633ge32f7e3a9436" version="1">훈련의 불꽃</content>
+  <content contentuid="hc758a768gcb60g405fgb3aageec347d0ba45" version="1">채드의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있을 경우, 행동과 보조행동이 각각 &lt;b&gt;+[1]&lt;/b&gt;씩 증가합니다.</content>
+  <content contentuid="hab7dfcf8gc9a6g4c57g9057g671588057c18" version="1">관통의 돌진</content>
+  <content contentuid="h360dda8bg1b26g45ffgbb55g95f8697c8f27" version="1">전방으로 돌진하여 첫번째의 공격 합니다. 대상에게 확률적으로 &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;깊은 상처&lt;/LSTag&gt;를 남깁니다.</content>
+  <content contentuid="h055237b1g49b2g4212g83d5gaacfcebf280a" version="1">냉기의 강타</content>
+  <content contentuid="h1e4bbc41g483ag4f77ga9b3gf00b14b41334" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히고 &lt;LSTag Type="Status" Tooltip="WEAPON112"&gt;서리의 표식&lt;/LSTag&gt;을 남깁니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt;레벨의 &lt;LSTag Tooltip="SpellSlot"&gt;주문 슬롯&lt;/LSTag&gt;이 필요합니다.&lt;br&gt;&lt;br&gt;공격이 빗나가면 &lt;b&gt;주문 슬롯&lt;/b&gt;이 소모되지 않습니다.</content>
+  <content contentuid="h2c328849ga464g49bbg9ecbg701308b13c7f" version="1">&lt;b&gt;[1]&lt;/b&gt;의 &lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;를 소모합니다. 다음 근접 공격에 대한 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 받습니다.</content>
+  <content contentuid="h9ba177b7geabbg4a48g9594g7d3541df4128" version="1">저격</content>
+  <content contentuid="hdf1dd155gf421g41fcg9337g85c06d37218a" version="1">신중하게 조준 후 장거리 사격을 날립니다. 대상을 확률적으로 &lt;b&gt;[1]&lt;/b&gt; 뒤로 밀어냅니다.</content>
+  <content contentuid="h89eecf07g7695g4fb8gbb79g2e516a1782c5" version="1">&lt;b&gt;중형&lt;/b&gt; 이하의 크리처에게만 적용됩니다.</content>
+  <content contentuid="h073b8e2egc54fg4acdgb77ag6b9c570e005c" version="1">은신은 공격이나 주문 시전, 아이템 사용, 그리고 은신 &lt;LSTag Tooltip="AbilityCheck"&gt;판정&lt;/LSTag&gt;에 실패할 경우 해제됩니다. &lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 비전투 상황에서는 사용할 수 없습니다!</content>
+  <content contentuid="hbd75aa55g057eg4be7g95e4g1eb2bc2d858c" version="1">진동 베기</content>
+  <content contentuid="h0af7d42cg3ce3g4130gaf89gcb7f8375683e" version="1">대상을 일반 공격으로 공격하면 &lt;b&gt;[1]&lt;/b&gt; 반경의 충격파를 일으킵니다. 주변 &lt;b&gt;모든 크리처&lt;/b&gt;에게 &lt;b&gt;[2]&lt;/b&gt;를 입히며, &lt;b&gt;물체&lt;/b&gt;에는 &lt;b&gt;[3]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="ha5c89df0g713dg483fga774g3930d7da41b7" version="1">사냥꾼의 사격</content>
+  <content contentuid="h1007a73eg662eg442dgada7g07d65ba89418" version="1">활에 깃들어있는 영계의 힘으로 공격합니다. 공격 시, 대상에게 &lt;LSTag Type="Status" Tooltip="WEAPON112"&gt;서리의 낙인&lt;/LSTag&gt;을 부여합니다.</content>
+  <content contentuid="hb638aa43ge6feg419fg85f1g72f13c610a97" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; &lt;b&gt;보조 무기로 사용할 때만 적용됩니다!&lt;/b&gt;</content>
+
+  <content contentuid="h2ea9a6ecge53fg4821g834dg5480d897b07f" version="1">영계의 폭풍</content>
+  <content contentuid="h6d8846c4ga23dg4301g85b6g3ca67fbd9569" version="1">영계 에너지 폭풍을 일으켜, 범위 내에 있는 모든 크리처들에게 피해를 입힙니다.</content>
+  
+  <content contentuid="h6e3d3daagdd2ag4627gbfb7gc30e9d7ffb48" version="1">천상의 조각</content>
+  <content contentuid="h34ee96b8g7c00g4e39g8dc4g4318446d4689" version="1">중량감은 거의 느껴지지 않으며, 결정 안에서 황금색 빛이 소용돌이 치고 있는 기묘한 원석입니다. 조각을 바닥에 내려놓자 조각이 살짝 떠오르며, 원석에서 흘러나온 옅은 빛의 입자들이 짧게 춤을 추듯 맴돌다 이내 사라져버립니다. 이 초월적인 힘을 가진 이계의 파편들이 페이룬 전역으로 퍼지게된 경위에 대해서는 아직 알려진 바가 없으며- 부서진 천상 보관소의 잔재라던가, 차원의 경계가 약해진 틈을 타 세상에 나타난 결과물이라는 의견도 존재합니다.&lt;b&gt;3개의 보석과 함께 조합하면 원소의 보옥으로 합성할 수 있습니다.&lt;/b&gt; </content>
+  
+  <content contentuid="h0f12538eg654fg48bfgb2a7g65edcf54351c" version="1">불멸의 결정체</content>
+  <content contentuid="h7329f19cgc841g48c7g89b5g0fec80eb4031" version="1">보라색 빛이 섞인 황금빛 광채를 발산하고 있는 기묘한 팔면체 형태의 결정으로, 결정체 내부에서 지금은 잊혀져 알 수 없는 언어로 읊조리는 듯한 기이한 속삭임이 흘러나오고 있습니다. 결정의 겉면에 손을 대면 상상조차 할 수 없을 정도로 차가운 동시에 뜨거운 기운이 느껴지며, 이러한 감각들은 살갗에 실제하는 화상 자국을 남기진 않으나 동시에 알 수 없는 차원 너머에 존재하는 낯선 존재들이 당신을 주시하고 있는 듯한 이질적인 감각을 떨쳐버릴 수 없습니다...&lt;b&gt;천상의 황금 가루 2개와 함께 조합하면 전설 등급의 장비로 합성할 수 있습니다.&lt;/b&gt;</content>
+  
+  <content contentuid="ha0403683ga563g45cbg81f8g4249fa8ad9c7" version="1">빛의 보옥</content>
+  <content contentuid="h6e9ccb53g7a3dg4f9eg9d1cg9bee371fc5b9" version="1">수정 내부에는 굉장히 드문 확률로 관측되는 현상인 천체의 정렬 도중 포획된 것으로 보이는 순수한 천상의 빛 결정이 작게 맥동하고 있으며, 결코 바라지 않을 황금빛의 고혹적인 광채는 고대의 연금술을 이용하여 보존한 새벽의 파편이라 전해집니다. 그리고 그 찬란한 빛은 필멸의 세계를 잠식하려 스며드는 어둠 아래에서도 결코 꺼지지 않은 채로 그 강렬한 빛을 발하고 있습니다.&lt;b&gt;빛의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h38a03c23gbeb4g4002g9efdg8d187def4e4e" version="1">파괴의 보옥</content>
+  <content contentuid="h776d0288g1d40g4be4gb74fg1fda95de5d44" version="1">전사의 끊임없이 맥박하는 붉은 심장처럼 안에 진홍빛 에너지가 요동치고 있는 수정으로, 표면에는 뛰고 있는 핏줄처럼 날카롭게 뒤틀려있는 힘의 파편들이 여기저기 선명하게 새겨져있습니다. 천상의 기술자들은 태고의 혼돈을 루비 결정 안에 봉인하여 무기를 쥐는 자에게 파멸을 속삭이게끔 할 수 있는 무시무시한 힘을 가진 장비를 만들어냈다 전해집니다.&lt;b&gt;파괴의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h63f5dfa1ge965g4107gb216gd3eabb025cf0" version="1">번개의 보옥</content>
+  <content contentuid="hf9eb6c9bgcda3g45a5gac96gb94dd7f5cde9" version="1">푸른빛 결정 안에 벼락의 정수가 춤을 추듯 흘러넘치고 있으며, 이는 옛 신들의 속삭임이라 알려져온 천상의 폭풍들 속에서도 가장 꼭대기 층에서 채집된 힘의 정수라고 합니다. 보옥은 창공에서의 자유를 여전히 간직한 채로, 자신의 힘을 해방시켜줄 매개체만을 기다리며 속박되어있는 구체 안에서 끊임없이 맥동하고 있습니다.&lt;b&gt;번개의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="hdeaad3d9gf5a8g479fg9fa1g18570a8424b7" version="1">불의 보옥</content>
+  <content contentuid="hc5cff84dg7a36g408eg91ebg5f85bddc0a76" version="1">이 타오르는 불의 수정 안에는 그 어떤 것도 태우지 않으며 그 불꽃이 사그라들지도 않는 갓 태어난 불사조의 숨결에서 탄생된 힘의 파편이 담겨져있다고 하며, 파괴와 재생이 완벽히 하나로 조화롭게 이루어진 모순적인 형체의 정화의 불길이 그 안에서 강렬한 빛을 뿜어내고 있습니다.&lt;b&gt;불의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="ha84347b2ga17fg4970ga070gb54f1c210585" version="1">냉기의 보옥</content>
+  <content contentuid="h65c2bbfdgb998g4bf4g9841gc6a2a1120502" version="1">겨울의 심장이 완벽하게 깎여진 푸른 사파이어 안에서 맥동하고 있으며, 이 아름다운 보석은 천상의 기술자들이 죽어가는 별을 정제하여 만들어낸 물건이라 전해집니다. 이 구체는 결코 얼어붙지 않으며 되려 주변의 모든 온기와 열들을 흡수하여 지워내는 성질을 지니고 있어, 그 혹한의 냉기는 마치 창조의 첫 불꽃이 점화되기 이전에 존재했던 차가운 "공허"를 연상케 한다고 합니다.&lt;b&gt;냉기의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h2d6a5a13gf1f2g4b39gbd14g5e736cc53c44" version="1">죽음의 보옥</content>
+  <content contentuid="h1661f626gcf52g4d27g8d9agabb128c89bd4" version="1">새까만 흑요석 아래에 불멸의 마지막 숨결처럼 공허한 어둠의 정수가 흐르고 있으며, 그 안에는 강렬한 녹색빛의 격류가 살아있는 것도, 죽은 것도 아닌 채로 꿈틀거리고 있습니다. 천상의 강령술사들은 존재와 허무의 경계가 사라져 공존하는 불가능한 이중성을 창조해냈으며, 그것이 사라지는 "끝"의 순간을 영구히 봉인하여 이 구체 안에 담아낸 것이라 전해집니다.&lt;b&gt;죽음의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="hbd903adcgffb6g497agb346g94b56430aa0d" version="1">전쟁의 보옥</content>
+  <content contentuid="hdb65b16dg0317g47b5g9238g6ea43102bfca" version="1">청동빛을 띄고 있는 이 투박한 형태의 구체는 지금은 잊혀진 천상의 모루에서 연마된 물건으로, 그 안에는 전장의 지혜가 울려퍼지고 있습니다. 구체 내부에는 신성한 장군들의 전술들과 불멸의 용사들이 내질렀던 최후의 저항까지 모두 담겨져있으며, 구체는 진정한 정복이란 마음에서 시작되는 것이란 진리를 깨우친 자에게만 승리의 단편을 엿볼 수 있게 비추어준다 전해집니다.&lt;b&gt;전쟁의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h4d533932g4174g4b32gac27g9a7872fcd01a" version="1">부패의 보옥</content>
+  <content contentuid="hf68a3328g4129g4bb5g87edg8ced632be505" version="1">구체 안에서 독성을 띄고 있는 강한 부식성 액체가 꿈틀거리며 이질적인 광휘를 내뿜고 있습니다. 이는 천상의 기술자들이 부패의 정수를 에메랄드 안에 담아내었을 때 탄생되었다 전해지는 경이로운 파편으로, 돌을 침식시키고 쇠를 부식시키는 힘 그 자체가 봉인되어있다고 합니다. 구체의 표면은 그저 매끄럽고 차가울 뿐이지만 어떤 존재든 간에 먼지로 만들어버릴 수 있는 구체의 숨겨진 진정한 힘은 오직 비전 마법을 통해서만 구현해낼 수 있을 것입니다.&lt;b&gt;부패의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h720f813bg587ag4cbcg8ca0g059c89b46d6a" version="1">천둥의 보옥</content>
+  <content contentuid="h6233010ag702bg4caegb49eg8f5edc3b96c8" version="1">천천히 진동하는 구체 안에는 영원의 침묵을 처음으로 깨뜨렸다 전해진 메아리가 담겨져있으며, 폭풍의 정수가 갇혀 있는 내부에는 빛나는 섬광이 춤을 추듯 꿈틀거리고 있습니다. 마치 언어의 기원 자체가 형태를 구축한 것과 같이, 섬세한 음의 진동이 착용자와 무언의 사고로 공명하게 된다고 합니다. &lt;b&gt;천둥의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h42dca4b2g6ec7g49fdg993cg11ff3c0a7ced" version="1">자각의 보옥</content>
+  <content contentuid="h12f87cfdgc170g4042ga40fg9c97c9cc7069" version="1">자수정 안에는 결정화된 의식이 깃들어있으며, 천상의 명상에서 수확되었다고 하는 꿈의 정수가 들어있습니다. 구체의 절반은 현실, 그 절반은 순수한 사고의 영역이며, 고요한 물 위에 치는 파동처럼 주변의 정신과 공명한다 전해집니다. 이 구체를 깊이 들여다보는 이는 물질과 개념 사이에 얽혀있는 섬세한 경계선을 엿볼 수 있을 것입니다. &lt;b&gt;자각의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="had65f5bag4b5fg4de0gbf37ga1faa7e6cfae" version="1">피의 보옥</content>
+  <content contentuid="h165dd751gb829g4df3g941dg19022f22cd96" version="1">천체의 정렬이 이루어졌을 때, 천상의 수호자들로부터 하사받은 생명의 정수가 석류석 안에서 맥동하고 있습니다. 맥박과 함께 뛰고 있는 생명의 정수는 존재란 끊임없는 재생이며, 모든 창조물들이 흐르는 피처럼 순환하는 영원의 흐름이라는 진리를 담고 있다 전해집니다. &lt;b&gt;피의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="hd7727c32gca31g4c13g88a2g78db691c8bba" version="1">그림자의 보옥</content>
+  <content contentuid="h0eeab76ag2c3fg4aa0g8d10g1b8c45a3a9e0" version="1">공허한 수정 안에는 황혼이 봉인되어있으며, 빛도 어둠도 아닌 그 사이에 존재한 신성한 경계선이라 할 수 있습니다. 보랏빛 입자들은 완전한 밤 속을 부유하고 있으며, 차원 간 경계가 옅어지는 곳에서 채집된 파편이라고 합니다. 그 존재는 현실조차 그 앞에서 숨을 죽이는 듯이, 지금은 잊혀진 언어들을 속삭이고 있으며, 주위의 모든 소리들을 빨아들이고 있습니다. &lt;b&gt;그림자의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h3c46e9a0g1e4bg40dagb825g7d7a65666b58" version="1">독의 보옥</content>
+  <content contentuid="h133e5653ge1fdg4839g8cf1g00a7ff00f694" version="1">완벽하게 세공된 에메랄드 안에서 아름답고도 치명적인 독액이 소용돌이치고 있으며 변형이라는 이중성을 구현해낸 것으로, 천상의 연금술사들이 ‘파괴가 곧 재생으로 이어진다’는 신성한 원리에 착안하여 탄생시킨 유물이며 그 원리를 이용하여 치유와 독 사이의 완벽한 균형을 품은 구체를 창조해내었다 전해집니다. &lt;b&gt;독의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h029c4007g7483g479bga966gbb7c0dc5c480" version="1">찬란함의 보옥</content>
+  <content contentuid="hfaf90deag9388g4390gaf90g18bc86f78f7a" version="1">투명한 다이아몬드의 빛 속에 수학적으로 완벽함이 반짝이고 있으며, 우주 창조의 근본적인 구조를 드러내고 있는 듯 합니다. 천상의 조화로움을 통해 순수한 질서의 패턴들이 결정 속에 담아낸 것으로, 아름다움과 법칙이 같은 신성한 원리의 다른 표현임을 이해하는 자만이 그 안에 담긴 우주의 진실을 엿볼 수 있다 전해집니다. &lt;b&gt;찬란함의 보옥과 일반 등급의 장신구를 넣고 조합하면 마법 부여용 장신구로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h164330a8g067cg466egbb84g015511c94561" version="1">평범한 애뮬릿과 원소의 보옥을 결합하여 만들어낸 마법 부여를 위한 애뮬릿입니다. &lt;b&gt;영계의 수정과 비전의 가루를 넣고 조합하면 마법 부여가 된 유물로 합성할 수 있습니다.&lt;/b&gt;</content>
+  <content contentuid="h8eb311b8g141eg4e32g9762g8856fc1e91ff" version="1">평범한 반지와 원소의 보옥을 결합하여 만들어낸 마법 부여를 위한 반지입니다. &lt;b&gt;영계의 수정과 비전의 가루를 넣고 조합하면 마법 부여가 된 유물로 합성할 수 있습니다.&lt;/b&gt;</content>
+
+  <content contentuid="h48699f7bgd74cg472eg901dge9d2b3c5e651" version="1">미완성된 광휘의 반지</content>
+  <content contentuid="h44923919ga85fg4267g8607gadb238af52e1" version="1">미완성된 파괴의 반지</content>
+  <content contentuid="h7a0e37f6g31cbg4d46g8c1ag530673496f8e" version="1">미완성된 전류의 반지</content>
+  <content contentuid="h414ba853g5d59g47f2g9981g55222e04c4c1" version="1">미완성된 발화의 반지</content>
+  <content contentuid="h965471cdg892ag4ee4g96f5g54c39fe49d02" version="1">미완성된 서리의 반지</content>
+  <content contentuid="hf929136eg1f9eg4e95ga310gda1420e580d5" version="1">미완성된 부식성 반지</content>
+  <content contentuid="h7242d75bga4c2g4c92g99feg59b70b6bc99c" version="1">미완성된 녹슨 반지</content>
+  <content contentuid="he65d9280g711cg42f1g9350g9618c1f61721" version="1">미완성된 독성의 반지</content>
+  <content contentuid="ha34f9a95ga482g4575g97d9g61ccd726ce04" version="1">미완성된 울부짖는 반지</content>
+  <content contentuid="h95b00fc0gfecdg4a48g87f2g09807a120cc4" version="1">미완성된 정신의 반지</content>
+  <content contentuid="hd9953215g5c2fg4680gbd0eg09103893cb8d" version="1">미완성된 선홍빛 반지</content>
+  <content contentuid="hd95d2231g5dc4g4435g9117g79076d451715" version="1">미완성된 그림자 반지</content>
+  <content contentuid="h85aec984g0f3cg4735g9aaagfa74e397755b" version="1">미완성된 저주의 반지</content>
+  <content contentuid="h163cb226g4a09g40ffg9dc9g32b3c4edf777" version="1">미완성된 찬란한 반지</content>
+  <content contentuid="h720fe3e2g8254g4fb1g9f7cg32247bf3c1ba" version="1">미완성된 광휘의 애뮬릿</content>
+  <content contentuid="h1520568eg0be8g4cbbg9ef6gf67b95f4de65" version="1">미완성된 진동의 애뮬릿</content>
+  <content contentuid="h7d7be2degf513g43a1g9dcagf042de4a7428" version="1">미완성된 전류의 애뮬릿</content>
+  <content contentuid="hdbf72d51g4236g448fg99ddg5fe85dff2f6e" version="1">미완성된 발화의 애뮬릿</content>
+  <content contentuid="h8d981225g9875g4b0bgb5f0g83b33e466c45" version="1">미완성된 서리의 애뮬릿</content>
+  <content contentuid="hccc6ac09g5f10g4d6eg81ddga38250874387" version="1">미완성된 부식성 애뮬릿</content>
+  <content contentuid="h34a45346g86b2g46c7gb737g2803834513a8" version="1">미완성된 녹슨 애뮬릿</content>
+  <content contentuid="ha657d177g0babg4a92ga08eg0a8c3f36fa63" version="1">미완성된 독성의 애뮬릿</content>
+  <content contentuid="h4f3a577bgf8ccg4790gb9b0g633345d2e5e5" version="1">미완성된 울부짖는 애뮬릿</content>
+  <content contentuid="hae8dadbdgd784g4ca4ga3fag6274558a19b1" version="1">미완성된 정신의 애뮬릿</content>
+  <content contentuid="h7f67169bg5295g4cfbg9178g68ea2b336346" version="1">미완성된 선홍빛 애뮬릿</content>
+  <content contentuid="h2d5b5d94g9482g49ecgbc86gcd2ac6a34b9a" version="1">미완성된 그림자 애뮬릿</content>
+  <content contentuid="h0ada5803g2a69g43aaga5a2gbbd7304f9477" version="1">미완성된 저주의 애뮬릿</content>
+  <content contentuid="hdf09d282gb8a9g45a3gb1feg2ac41381c02c" version="1">미완성된 찬란한 애뮬릿</content>
+
+  <content contentuid="h225bca71g003ag49afg9866g8ebf7eacf7e7" version="1">소박해보이는 애뮬릿이지만 펜던트 위로 희미한 마법의 광채가 감돌고 있으며, 영계의 힘이 느껴집니다.</content>
+  <content contentuid="hccc53bd0g79f0g405fgbc3fgdf90f6d826f2" version="1">소박해보이는 반지이지만 고리 위로 희미한 마법의 광채가 감돌고 있으며, 영계의 힘이 느껴집니다.</content>
+
+  <content contentuid="h25cfb347gba21g4975ga355gc48fbd55eba7" version="1">광휘의 요정 애뮬릿</content>
+  <content contentuid="h94c276f9g97f2g4388gb7f7ga1bc31dccdde" version="1">광휘의 방벽</content>
+  <content contentuid="h79764768g7182g4fbcg82d9g2a496da65897" version="1">대상을 작열하는 천상의 빛으로 감싸, &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;를 증가시키고, 대상이 공격 당할 시 즉시&lt;b&gt;[1]&lt;/b&gt;로 반격합니다.</content>
+  <content contentuid="hac678301gabcbg4966g933ag38c88d7f9eba" version="1">대상은 &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;에  &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻고 &lt;b&gt;또한&lt;/b&gt; 공격한 대상에게 &lt;b&gt;[2]&lt;/b&gt;로 즉시 반격합니다.</content>
+  <content contentuid="h86ca10c6g82e9g4fedgb6c8g533787420413" version="1">광휘의 네더릴 애뮬릿</content>
+  <content contentuid="h27706833g44f1g474cgb51ag03fd3c2603c3" version="1">광휘의 엘드리치 애뮬릿</content>
+  <content contentuid="hc4cfecabge393g4cebgbf61g01d839ed97bb" version="1">광휘의 천상 애뮬릿</content>
+
+  <content contentuid="h2ee8cc59g88d0g427cgb976g66aa4eabcad4" version="1">파괴의 요정 애뮬릿</content>
+  <content contentuid="h34d05a69ga960g46cbg9abdg36e05518359c" version="1">충격파</content>
+  <content contentuid="h29be273eg9a02g4c88g9bcag75207bbee903" version="1">파괴의 네더릴 애뮬릿</content>
+  <content contentuid="h36e0559bga965g45d9ga853g01846d2e5072" version="1">파괴의 엘드리치 애뮬릿</content>
+  <content contentuid="hec631506g6f14g4d1bg81c2g46555e78b129" version="1">모든 적과 사물을 &lt;b&gt;[1]&lt;/b&gt; 뒤로 &lt;b&gt;밀어내며,&lt;/b&gt; 영향을 받은 대상들을 &lt;LSTag Type="Status" Tooltip="SLOW"&gt;둔화&lt;/LSTag&gt; 상태로 만듭니다.</content>
+  <content contentuid="h776433ecg5cb0g417cgad30g1098b7f4b9b3" version="1">파괴의 천상 애뮬릿</content>
+  <content contentuid="h5fccb5d7g34efg41bbgb341g8def0173eb82" version="1">소멸의 파동</content>
+  <content contentuid="h2de1aea9gb4a2g4c6dg9f89g29fc3046f8bf" version="1">&lt;LSTag Type="Status" Tooltip="SLOW"&gt;둔화&lt;/LSTag&gt; 상태인 대상을 공격할 때, &lt;b&gt;[1]%&lt;/b&gt;확률로 대상에게 &lt;LSTag Type="Spell" Tooltip="Projectile_N_Force1"&gt;분해&lt;/LSTag&gt; 주문을 가합니다.</content>
+
+  <content contentuid="h6dc85ab8g104cg4ca1ga081g8fb7e2fccfbe" version="1">전류의 요정 애뮬릿</content>
+  <content contentuid="h6f705fa1gfba4g4df6g8dc3g7418455e564b" version="1">붕괴장</content>
+  <content contentuid="h5302d996g17adg428bgbae4ga597e37f14ff" version="1">&lt;b&gt;전류가 흐르는 표면&lt;/b&gt; 위에 있는 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 적들은 자신의 턴이 시작될 때마다 &lt;b&gt;[2]%&lt;/b&gt; 확률로 &lt;LSTag Tooltip="Action"&gt;행동&lt;/LSTag&gt; 자원을 잃게 됩니다.</content>
+  <content contentuid="h1ad9b371g4b81g45adgbb0cgc0ffef24f955" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; &lt;b&gt;이 효과는 전투 중에만 발동됩니다!&lt;/b&gt;</content>
+  <content contentuid="hf58649d7g868cg48begb8b8gc5c2a0b3efdb" version="1">전류의 네더릴 애뮬릿</content>
+  <content contentuid="h7532c8a6g59c7g4a6bg8bb6g39f0a531dd80" version="1">전류의 엘드리치 애뮬릿</content>
+  <content contentuid="h11893475g12bdg4d5dg9a22g2b9fb3c20397" version="1">전류의 천상 애뮬릿</content>
+
+  <content contentuid="ha827ed86ge5dag4466g8942g914b4fc9c6a1" version="1">발화의 요정 애뮬릿</content>
+  <content contentuid="h8d9a25cagfd6cg45fbg9090gb64bfa1e3524" version="1">불꽃 제어</content>
+  <content contentuid="h95632c02gfd51g4a98gb142g81bd090286a7" version="1">&lt;b&gt;레벨이 있는 화염 속성 주문&lt;/b&gt;으로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중 시킬 경우, &lt;b&gt;턴이 끝날 때까지&lt;/b&gt; &lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire1"&gt;작열 광선&lt;/LSTag&gt;을 자원 소모없이 사용할 수 있게 됩니다.</content>
+  <content contentuid="hc4e1b7ffg4a0cg4411gbcb7g9de28a98e413" version="1">발화의 네더릴 애뮬릿</content>
+  <content contentuid="h96d0680cg9a4dg46e5g82ceg20818fcbb480" version="1">&lt;b&gt;레벨이 있는 화염 속성 주문&lt;/b&gt;으로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중 시킬 경우, &lt;b&gt;턴이 끝날 때까지&lt;/b&gt; &lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire2"&gt;작열 광선&lt;/LSTag&gt;을 자원 소모없이 사용할 수 있게 됩니다.</content>
+  <content contentuid="hcf53681eg371eg4e04gae42g338daeb44c42" version="1">발화의 엘드리치 애뮬릿</content>
+  <content contentuid="h494f9e33g7d8fg4a54ga79bgb8b855d3821f" version="1">&lt;b&gt;화염 주문이나 소마법&lt;/b&gt;으로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중 시킬 경우, &lt;b&gt;턴이 끝날 때까지&lt;/b&gt; &lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire2"&gt;작열 광선&lt;/LSTag&gt;을 자원 소모없이 사용할 수 있게 됩니다.</content>
+  <content contentuid="h30db224dg4432g4387gb39dg7d618274295e" version="1">발화의 천상 애뮬릿</content>
+  <content contentuid="h018ef77bg938fg413bg8d8dga7077aa59f6f" version="1">&lt;b&gt;화염 주문이나 소마법&lt;/b&gt;으로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중 시킬 경우, &lt;b&gt;두 턴 연속으로&lt;/b&gt; &lt;LSTag Type="Spell" Tooltip="Projectile_N_Fire2"&gt;작열 광선&lt;/LSTag&gt;을 자원 소모없이 사용할 수 있게 됩니다.</content>
+
+  <content contentuid="heb8ecda2g8dafg441fgbd70ged835b848abf" version="1">서리의 요정 애뮬릿</content>
+  <content contentuid="hc782b7c1gf5eeg4aa8g9da6gb43582f9e3f4" version="1">파열성 냉기</content>
+  <content contentuid="hc5ee9054gf437g41c4ga73agd17fea72f486" version="1">&lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;서리 범벅&lt;/LSTag&gt; 상태인 대상에게 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하기 위한 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt; 값이 &lt;b&gt;[1]&lt;/b&gt; 감소합니다. 이 효과는 동일한 효과와 중첩됩니다.</content>
+  <content contentuid="h24c911b9g85bbg4950g81f6g85e093da3ca0" version="1">서리 포화</content>
+  <content contentuid="h8c1f955ag5451g445bg9149gcad91419a862" version="1">주문 혹은 소마법으로 가하는 원거리 &lt;LSTag Tooltip="CriticalHit"&gt;치명타 공격&lt;/LSTag&gt;에 &lt;b&gt;피해량 주사위 [1]&lt;/b&gt;개를 더합니다.</content>
+  <content contentuid="haf81d6c6g8a25g49afgb2a2g42da8385b493" version="1">서리의 네더릴 애뮬릿</content>
+  <content contentuid="hdf437dc3g8f42g4525g99cfg8bfa0a3e3c34" version="1">서리의 엘드리치 애뮬릿</content>
+  <content contentuid="hdd9665a4gaa69g4ba9g82a1g3d2b3416c6de" version="1">서리의 천상 애뮬릿</content>
+
+  <content contentuid="hc6ac737eg24c2g43b9g8195ge5b9e7cf4faa" version="1">죽음의 요정 애뮬릿</content>
+  <content contentuid="h61be638bg0861g4204ga26bg1a6c79b2bc77" version="1">하급 망령</content>
+  <content contentuid="haec245f0g0ecag4c03g9225gefedfaf9e00a" version="1">영혼 강령술</content>
+  <content contentuid="hc8e9ee71g2308g4c9eg937ag9b5ac5dbed67" version="1">&lt;b&gt;살아있는&lt;/b&gt; 상태의 크리처를 처치하면,  &lt;b&gt;[1]%&lt;/b&gt; 확률로 하급 망령으로 되살려 &lt;b&gt;[2]&lt;/b&gt;턴 동안 아군으로 소환합니다.</content>
+  <content contentuid="h6b4989c2g764eg4057g9de9gcca2cb3642f0" version="1">죽음의 네더릴 애뮬릿</content>
+  <content contentuid="hd60451b3g48a0g44e9gbe87geaf9dca86a06" version="1">죽음의 엘드리치 애뮬릿</content>
+  <content contentuid="heeac2417gc0d2g4676gaff4gdb4f2ab8985d" version="1">죽음의 천상 애뮬릿</content>
+  <content contentuid="h2a5fd87cgfd82g444agb81fga4415b9aef86" version="1">최상급 망령</content>
+  <content contentuid="h951e5b32g4ef5g4be6gaf8dg0e8a980d8abf" version="1">&lt;b&gt;살아있는&lt;/b&gt; 상태의 크리처를 처치하면, &lt;b&gt;[1]%&lt;/b&gt; 확률로 최상급 망령으로 되살려 &lt;b&gt;[2]&lt;/b&gt;턴 동안 아군으로 소환합니다.</content>
+
+  <content contentuid="hd7e3aedcg1a7eg418fg8c6bg3f60122241a0" version="1">전쟁의 요정 애뮬릿</content>
+  <content contentuid="hbe833794g8e1cg449egbd21g23974989b743" version="1">대응 훈련</content>
+  <content contentuid="he2fd2e48gbeadg4f4dgaa95ga55fdf56b488" version="1">전투 기술과 적의 약점을 파악하여, &lt;b&gt;전투가 끝날 때까지&lt;/b&gt; &lt;b&gt;무기&lt;/b&gt;와 &lt;b&gt;비무장&lt;/b&gt; 공격의 명중률을 드높입니다.</content>
+  <content contentuid="hb4d57d89gb531g4219g8c67g11c2fff39b6d" version="1">효과가 중첩된 갯수 당, &lt;b&gt;무기&lt;/b&gt;와 &lt;b&gt;비무장&lt;/b&gt; 공격에 대한 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다. 최대 &lt;b&gt;[2]&lt;/b&gt;까지 중첩됩니다.</content>
+  <content contentuid="h7110cd19g0211g409bg80bfg283e9f1ccd7a" version="1">몰아치는 광분</content>
+  <content contentuid="h0a1be8bcg6348g4323g859fgdcb63782ac08" version="1">&lt;LSTag Type="Spell" Tooltip="Shout_Rage"&gt;격노&lt;/LSTag&gt; 혹은 &lt;LSTag Type="Spell" Tooltip="Shout_ActionSurge"&gt;행동 폭증&lt;/LSTag&gt;을 사용하면, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="MAG_VIOLENCE"&gt;광분&lt;/LSTag&gt; 상태를 얻습니다.</content>
+  <content contentuid="hbdd5d196g9fafg439dgb0cdg902331b57c17" version="1">전쟁의 네더릴 애뮬릿</content>
+  <content contentuid="he972b437ge620g419fg979cg4331f27c9616" version="1">전쟁의 엘드리치 애뮬릿</content>
+  <content contentuid="hc8c18478ge41fg49daga2c8gf24b184448cb" version="1">전투 기술과 적의 약점을 파악하여, &lt;b&gt;전투가 끝날 때까지&lt;/b&gt; &lt;b&gt;무기&lt;/b&gt;와 &lt;b&gt;비무장&lt;/b&gt; 공격의 명중률과 피해량을 드높입니다.</content>
+  <content contentuid="h3d23be92g413ag460fga957g13ef66dea617" version="1">효과가 중첩된 갯수 당, &lt;b&gt;무기&lt;/b&gt;와 &lt;b&gt;비무장&lt;/b&gt; 공격에 대한 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;과 피해량에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다. 최대 &lt;b&gt;[2]&lt;/b&gt;까지 중첩됩니다.</content>
+  <content contentuid="hc0c01a19ga9bdg4b14gaaa0g6e0e9f69fbce" version="1">전쟁의 천상 애뮬릿</content>
+
+  <content contentuid="h9eec7d5bg5389g4085gb781gdbef77df930a" version="1">침식의 요정 애뮬릿</content>
+  <content contentuid="hdb554524g94beg4df4g84b6g705b4b0530e5" version="1">침식의 근원</content>
+  <content contentuid="h7b843fbdgcd14g490eg80d4gce5dc3bef2ee" version="1">당신의 주변 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 &lt;LSTag Type="Status" Tooltip="ACID"&gt;산성&lt;/LSTag&gt; 상태의 적들은&lt;b&gt;[2]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Vulnerable"&gt;취약성&lt;/LSTag&gt;을 얻게 됩니다.</content>
+  <content contentuid="h7e991745g0e66g4795gb886g517657deb649" version="1">이 크리처는 &lt;LSTag Type="Status" Tooltip="ACID"&gt;산성&lt;/LSTag&gt; 상태에서 &lt;b&gt;근원의 부패&lt;/b&gt; 효과를 받게 되면&lt;b&gt;[1]&lt;/b&gt;에 &lt;LSTag Tooltip="Vulnerable"&gt;취약성&lt;/LSTag&gt;을 얻게 됩니다.</content>
+  <content contentuid="h09555094gdd6fg4c18g9e18g164be2882ac8" version="1">침식의 네더릴 애뮬릿</content>
+  <content contentuid="hb7614b69gfe45g45a6g9313g314b56645d34" version="1">침식의 엘드리치 애뮬릿</content>
+  <content contentuid="ha3f73509g5106g4ab9ga0ecg59246b033c7f" version="1">이차원 침식</content>
+  <content contentuid="h5bdf5424gca3cg43acga5c0g402c5fdee616" version="1">대상의&lt;b&gt;[1]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Resistance"&gt;저항&lt;/LSTag&gt;을 무시합니다.</content>
+  <content contentuid="hfc7fea6dg8e4fg4c79ga10bg3a2093eb3e3f" version="1">침식의 천상 애뮬릿</content>
+
+  <content contentuid="he858ec3fgfa58g4c76g98c6g3b47cfaa96a1" version="1">천둥의 요정 애뮬릿</content>
+  <content contentuid="h5cfebe2fg7614g4cc6gad77g86a576b89ab1" version="1">분쇄의 파동</content>
+  <content contentuid="h7604c9ddgb7a5g4b21gb1a1ge7f156feef89" version="1">&lt;b&gt;인공물&lt;/b&gt;과 &lt;b&gt;사물&lt;/b&gt;에 추가로 &lt;b&gt;[1]%의[2]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="h20c2a3c8g10fbg4269gb908g4ca088099741" version="1">천둥의 네더릴 애뮬릿</content>
+  <content contentuid="h28906b79gf72dg4811g936fg6d90d1986f51" version="1">천둥의 엘드리치 애뮬릿</content>
+  <content contentuid="h2fe10857gfd21g4719gb7dbg5771b17072cc" version="1">천둥의 천상 애뮬릿</content>
+
+  <content contentuid="h0b9eb454gdbebg4428g940cgf955f8384807" version="1">정신의 요정 애뮬릿</content>
+  <content contentuid="h5e3d5210g0f28g4effg825bgb12cf8ab67a4" version="1">최면파</content>
+  <content contentuid="hc5edaa34g6579g48c3g9937g7b1351140380" version="1">당신의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 가득 차 있는 적들은 지혜 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)에 성공해야 하며, 실패한 대상은 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;최면&lt;/LSTag&gt; 상태에 빠지게 됩니다.</content>
+  <content contentuid="hf19415b6gadcag4cc8gadfdg84b6f23b65ea" version="1">최면파</content>
+  <content contentuid="h9d8b9e65gb43cg4306gb80ag722a12cb1fef" version="1">지혜 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[1]&lt;/b&gt;)에 실패한 대상을 &lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;최면&lt;/LSTag&gt; 상태에 빠지게 만듭니다.</content>
+  <content contentuid="hddaf8f49ga22eg49c9g8387g31b5e813fe87" version="1">정신의 네더릴 애뮬릿</content>
+  <content contentuid="h051e99e1gacf7g4d5dgb75cgc61a91d44eb9" version="1">정신의 엘드리치 애뮬릿</content>
+  <content contentuid="h4e22d2b1g03fdg43a8g9fedg4acc04657a18" version="1">정신의 천상 애뮬릿</content>
+  <content contentuid="h533927d3gf755g42b5gb60dgaf176c7b7b6c" version="1">주인의 의지</content>
+  <content contentuid="had3a1c56gd8d3g433cg9724gcad8d04de66e" version="1">&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;최면&lt;/LSTag&gt; 상태인 대상에게는 무조건 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중시킬 수 있게 됩니다.</content>
+
+  <content contentuid="h7217ba2cg7f34g4b09gbc7ag103c40125d78" version="1">피의 요정 애뮬릿</content>
+  <content contentuid="h683d43edg1dcdg41begb878g970cd83f20bc" version="1">피의 희생</content>
+  <content contentuid="h73b0c6fcgf055g42e3gb45egcfe069295df5" version="1">즉시 &lt;b&gt;[1]&lt;/b&gt;을 소모하여 다음 공격 피해량에 &lt;b&gt;+[2]~[3]&lt;/b&gt;를 추가로 입힙니다.</content>
+  <content contentuid="hccad5294g5b8cg4d1bg984dgfc368d643b00" version="1">다음 공격이 추가로 &lt;b&gt;+[1]~[2]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="h18d254b7g9291g4613gbb11g6af5b0ebb49e" version="1">바알의 낙인</content>
+  <content contentuid="h106f4d6cg6fd1g4e6dgb5fdg968c86a93653" version="1">전투 도중 &lt;b&gt;[1]&lt;/b&gt;만큼의 피해를 한 번에 받게되면, &lt;LSTag Type="Status" Tooltip="DEATHSHEAD_UNSTOPPABLE_1"&gt;저지 불가&lt;/LSTag&gt; 효과를 &lt;b&gt;[2]&lt;/b&gt;만큼 충전합니다.</content>
+  <content contentuid="h7ae932c9g4abfg4233g93eagd1793cf9826b" version="1">피의 네더릴 애뮬릿</content>
+  <content contentuid="h0641a072g1908g4123gbde8gfc0433e16f61" version="1">피의 엘드리치 애뮬릿</content>
+  <content contentuid="h8fd534c1g1b3cg4306ga78bgce7c27e3493d" version="1">피의 천상 애뮬릿</content>
+
+  <content contentuid="h74005df8g6b81g48ecg93ecgb6a86598ad6e" version="1">그림자의 요정 애뮬릿</content>
+  <content contentuid="h3ede506cgde97g4d4aga61bg698479f96c01" version="1">끈질긴 그림자</content>
+  <content contentuid="h0c9771b5g6a2fg434bga742g56a696e70e85" version="1">&lt;b&gt;어둠&lt;/b&gt; 안에 있는 모든 적들은 자신의 턴이 될 때마다 &lt;b&gt;[1]&lt;/b&gt;를 입게 됩니다.</content>
+  <content contentuid="h13f3747bgcbd4g4d75ga1d2g3ca306a90ce7" version="1">그림자의 네더릴 애뮬릿</content>
+  <content contentuid="h96ef2df0g9250g4558g9ef8ge4fb4889a2f9" version="1">그림자의 엘드리치 애뮬릿</content>
+  <content contentuid="h662d497dg6cdbg4aa9gbd08g43c77c31c523" version="1">그림자의 천상 애뮬릿</content>
+
+  <content contentuid="h7bf32085gf4c8g47a9gb2bfg908fa4959543" version="1">독의 요정 애뮬릿</content>
+  <content contentuid="hd516e3cdgc8ceg4e32g8829g36f8e51d1d34" version="1">요정의 부패</content>
+  <content contentuid="h45bbd84bg8784g4ab0ga1c1g17150ffe79b9" version="1">착용자의&lt;b&gt;[2]&lt;/b&gt; 굴림 주사위가 모두 &lt;b&gt;[3]&lt;/b&gt; 이하의 값이 나오면 주사위를 &lt;b&gt;[1]&lt;/b&gt;번 더 굴려 더 &lt;b&gt;높은 값&lt;/b&gt;을 사용합니다.</content>
+  <content contentuid="h9172c2cege73eg405cgb954g38c862dd2d1d" version="1">독의 네더릴 애뮬릿</content>
+  <content contentuid="h9b604f9eg719fg46ecgbbfbg7e68934bd1cd" version="1">맹독술사의 통달</content>
+  <content contentuid="h31342d6bgc868g4bd0g8948g4c4fe12f245a" version="1">&lt;LSTag Type="Status" Tooltip="POISONED"&gt;중독&lt;/LSTag&gt; 상태의 대상에게 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h39b9c200g300cg45faga393gad25a41ed5ea" version="1">독의 엘드리치 애뮬릿</content>
+  <content contentuid="hd03e8ed6g7d40g42bbga4c3g6d7dd744585c" version="1">독의 천상 애뮬릿</content>
+
+  <content contentuid="ha64cb7d9g9887g4391gbd8bg7c921b436433" version="1">요정의 찬란한 애뮬릿</content>
+  <content contentuid="h52421ebagaa41g486cg8366ge8a02ce2ece4" version="1">주문 통달</content>
+  <content contentuid="hd64a4b21gd5b4g4976gad04g23094aeae5f3" version="1">전투를 시작하기 전, 여러 보조 소마법을 사용하여 주문을 강화할 수 있습니다.</content>
+  <content contentuid="h9cc4d9adg3c47g495dg91f1g40b1fbef65b3" version="1">&lt;LSTag Tooltip="SpellDifficultyClass"&gt;주문 내성 난이도&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h1c920b6agbfb3g45b6g824fg001f5bf2a912" version="1">네더릴의 찬란한 애뮬릿</content>
+  <content contentuid="h19826b54gc499g4cfag903eg56fc17c82c07" version="1">위브의 파동</content>
+  <content contentuid="h11572ea8g1351g4b7agb237g183e29eb056e" version="1">&lt;LSTag Type="Status" Tooltip="MAGE_ARMOR"&gt;마법사의 갑옷&lt;/LSTag&gt; 효과를 받고 있는 동안, &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="hf2cad1efg8b89g441fgb219g7283f5fc110f" version="1">엘드리치의 찬란한 애뮬릿</content>
+  <content contentuid="h3e5ff993gd336g4fc8gb7c7gadd49c83a9bd" version="1">천상의 찬란한 애뮬릿</content>
+
+  <content contentuid="h42dfe32egbfc9g4dfcgaab6gf0b9775609d5" version="1">광휘의 요정 반지</content>
+  <content contentuid="h01fe1b5dg544dg4c3dg9f61g4165a4b5e73a" version="1">광휘의 네더릴 반지</content>
+  <content contentuid="hf6a7c450g8c80g4b51g8e12gd773c65edbe3" version="1">광휘의 엘드리치 반지</content>
+  <content contentuid="h91a0b713g3032g4c12g876dg1b0b3a58b94e" version="1">광휘의 천상 반지</content>
+  <content contentuid="h9b4fe3e6g971eg42bdgb557g6d02166b3ed3" version="1">광휘 마법 부여</content>
+  <content contentuid="hdea618cdg3a54g4c28g9905g2233ed003174" version="1">주문과 소마법으로 공격시, 추가로 &lt;b&gt;[1]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="h133d3d2dg3b72g4532gbfabg9f711d917404" version="1">최상급 광휘 마법</content>
+  <content contentuid="hade24f13gd477g4aeag938fgca5176849358" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히면, 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[2]&lt;/b&gt;)에 실패한 대상을 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;실명&lt;/LSTag&gt; 상태로 만듭니다.</content>
+
+  <content contentuid="hd7725bf1ge415g4d5eg9421g184c2351da56" version="1">파괴의 요정 반지</content>
+  <content contentuid="heb34f198g1f45g4cd3gadf8gd879aa059f0f" version="1">착용자의 공격이 &lt;b&gt;추가로&lt;/b&gt; &lt;b&gt;[1]&lt;/b&gt;를 입히게 되지만,&lt;b&gt;[2]&lt;/b&gt;를 입힐 때마다 &lt;b&gt;[3]&lt;/b&gt;도 같이 입게 됩니다.</content>
+  <content contentuid="h0655af18g5ae7g4144gb57fgd78453f94582" version="1">파괴의 네더릴 반지</content>
+  <content contentuid="h38a83561gc0ccg46e6gbbeag9a16725057f1" version="1">파괴의 엘드리치 반지</content>
+  <content contentuid="h2fc7d7begf489g4c60g8499g0d3a8b3cfe05" version="1">파괴의 천상 반지</content>
+  <content contentuid="h0128c5c4g739fg4e87gbb7bg7d1b369d7e08" version="1">역장 마법 부여</content>
+  <content contentuid="h8dda6ab1g98ccg4480gb1a4g2b1715b774d0" version="1">최상급 역장 마법</content>
+  <content contentuid="hac1874a7ga309g4bb9gbd73g10a3a1c5d160" version="1">&lt;br&gt;&lt;b&gt;[2]&lt;/b&gt;의 피해량이 &lt;b&gt;[1]%&lt;/b&gt; 증가합니다.</content>
+
+  <content contentuid="hf3723999g23f7g48c4ga9cfgf025b4baab94" version="1">전류의 요정 반지</content>
+  <content contentuid="h30cbb172gbf27g4fe5gaf10g3e16b3f76efb" version="1">전류의 네더릴 반지</content>
+  <content contentuid="h1ba7474cg7d23g4463g886cg6fed0426e921" version="1">전류의 엘드리치 반지</content>
+  <content contentuid="h338b4e0bg8c64g42bfg87dagaaa4fa645b5e" version="1">전류의 천상 반지</content>
+  <content contentuid="h14649fc6gfabag4fd7g92d8g1aed1934f558" version="1">번개 마법 부여</content>
+  <content contentuid="h9b0cb109g4fa0g4385g9f33g133832720f31" version="1">최상급 전격 마법</content>
+  <content contentuid="h6aba354ag1b9bg4ff8gacb3gd6e5d449983b" version="1">착용자가 어떤 공격을 가하든 상관없이, &lt;b&gt;[1]%&lt;/b&gt;의 확률로 &lt;b&gt;[2]&lt;/b&gt;턴동안 &lt;b&gt;전류가 흐르는 표면&lt;/b&gt;을 생성하게 됩니다.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 전류 효과가 끝나면, 바닥에 &lt;b&gt;물 웅덩이&lt;/b&gt; 표면이 남게 됩니다.</content>
+
+  <content contentuid="h59f4da8egde47g4528gb6eeg8a9abd8c18c2" version="1">발화의 요정 반지</content>
+  <content contentuid="h95332c58gc2c2g4e34g946egfb476030bda2" version="1">발화의 네더릴 반지</content>
+  <content contentuid="he0d90acbgdda9g47ecg80b6gea90de51c591" version="1">발화의 엘드리치 반지</content>
+  <content contentuid="h02f8fc76g39cdg441aga003g09c02ac23c64" version="1">발화의 천상 반지</content>
+  <content contentuid="h6ee486d2g96a4g4a6eg8203g89a21c354053" version="1">화염 마법 부여</content>
+  <content contentuid="h765a7d04g2419g43d8g9ab2gc4accf421017" version="1">최상급 화염 마법</content>
+  <content contentuid="haac6ba33ged6fg413bgbbedgfa61bde18e43" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히면, 민첩 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[2]&lt;/b&gt;)에 실패한 대상을 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태로 만듭니다.</content>
+
+  <content contentuid="h9e460c16gd146g4e41g8a74ge3837eedd6bd" version="1">서리의 요정 반지</content>
+  <content contentuid="h210d5bf2ge6adg487bg8084gf0482afddb1f" version="1">서리의 네더릴 반지</content>
+  <content contentuid="h44b54ae8g3c93g4e8agacf7g4ee0b574c263" version="1">서리의 엘드리치 반지</content>
+  <content contentuid="h938517e7gb809g45dega4aegad9bffe19aa6" version="1">서리의 천상 반지</content>
+  <content contentuid="hc96de498g6fbbg4fb8g8642g5bb7d971d1c1" version="1">냉기 마법 부여</content>
+  <content contentuid="h038b03fag69d3g4b57g8675gb78474b799b0" version="1">최상급 냉기 마법</content>
+  <content contentuid="hb5f30c6bgab6bg418fgbc0fgc6d784ff70e5" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히면, 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[2]&lt;/b&gt;) 에 실패한 대상을 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;서리 범벅&lt;/LSTag&gt; 상태로 만듭니다.&lt;i&gt;(지속 시간은 중첩됩니다.)&lt;/i&gt;</content>
+
+  <content contentuid="h99c1c2d5gca54g4a56g91fbg7a00d047253c" version="1">죽음의 요정 반지</content>
+  <content contentuid="h5fc84b02gd6d6g43aegb4d0g1fca127cea9d" version="1">죽음의 네더릴 반지</content>
+  <content contentuid="hb9446025g6caeg4466g8a9cg91818e845a6c" version="1">죽음의 엘드리치 반지</content>
+  <content contentuid="h2ba54580gcf1fg4187gbc15gf72589f1228d" version="1">죽음의 천상 반지</content>
+  <content contentuid="h1f63ba3cg6baeg4b0dgbe2bg0e5f99af2e39" version="1">죽음 마법 부여</content>
+  <content contentuid="hdc7562a6g906fg4692gab7fg718450d4219b" version="1">최상급 영혼 마법</content>
+  <content contentuid="h2b68522dg23ebg4761g84d2g072ee3f36554" version="1">&lt;b&gt;살아있는 생명체&lt;/b&gt;에게&lt;b&gt;[1]&lt;/b&gt;를 가할 때마다 &lt;b&gt;[2]&lt;/b&gt;를 회복합니다 &lt;i&gt;(착용자가 &lt;b&gt;언데드&lt;/b&gt;여도 회복 가능)&lt;/i&gt;.</content>
+  <content contentuid="h33621443g2115g412eg9e23g3b90f794e72d" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 단, 피해를 받은 대상이 물체가 아니여야 합니다.</content>
+
+  <content contentuid="hf9552a8bg2aaag49edgba1dgb70ad19d45e0" version="1">전쟁의 요정 반지</content>
+  <content contentuid="hb0f88551g02d9g49c9g815dg0f051fe16908" version="1">전쟁의 네더릴 반지</content>
+  <content contentuid="h5f65dd78g6448g4a84g947ag6bf6d29ca01b" version="1">전쟁의 엘드리치 반지</content>
+  <content contentuid="h109a57b8g0a27g4298ga1bdgd3ee02da19b7" version="1">전쟁의 천상 반지</content>
+  <content contentuid="h371806fegd051g470bg9258g3d0fe5ed1940" version="1">전쟁 마법 부여</content>
+  <content contentuid="hf5403eebg8b79g49e7g88e3g7e5d01480c7c" version="1">&lt;b&gt;무기&lt;/b&gt;와 &lt;b&gt;투척&lt;/b&gt;, &lt;b&gt;비무장&lt;/b&gt; 공격이 추가로 &lt;b&gt;[1]&lt;/b&gt;를 입힙니다. &lt;i&gt;(무기 피해 유형에 따라 달라집니다.)&lt;/i&gt;</content>
+
+  <content contentuid="h20ab8196g3094g472fg8af8ge00312249db0" version="1">침식의 요정 반지</content>
+  <content contentuid="h99405224gb8a8g4adag885dg8da93352d92c" version="1">침식의 네더릴 반지</content>
+  <content contentuid="hcdbc3f2bga6e6g4783g8964g11a298cb57c8" version="1">침식의 엘드리치 반지</content>
+  <content contentuid="hfbf461d6g8c70g42bbg993fg638e5be2549f" version="1">침식의 천상 반지</content>
+  <content contentuid="hc9d27be0g1a3eg4a12g9777g7fed235c959b" version="1">산성 마법 부여</content>
+  <content contentuid="h0dd0096bg5321g45fbg8614g438432136cbe" version="1">최상급 부패 마법</content>
+  <content contentuid="h93faaebag0d5ag47d8g89c8g6a9065de2f1a" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히면, 민첩 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[2]&lt;/b&gt;)에 실패한 대상을 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="ACID"&gt;산성&lt;/LSTag&gt; 상태로 만듭니다.</content>
+
+  <content contentuid="hec43b14fgd260g4ac2g9e1fg66e2b55a59f5" version="1">천둥의 요정 반지</content>
+  <content contentuid="ha2f3f4ccg32acg42e8g9043g8cf809745060" version="1">천둥의 네더릴 반지</content>
+  <content contentuid="h4d191669gb331g4601gb2b5ga037a48df9fe" version="1">천둥의 엘드리치 반지</content>
+  <content contentuid="h6cfeb949gd60eg4ae5ga899gd99f6fd08975" version="1">천둥의 천상 반지</content>
+  <content contentuid="h16116d85g06ddg4b20g86c1gbb9d6d6a1a25" version="1">천둥 마법 부여</content>
+  <content contentuid="h1e6e7c06g9885g4ea6gbc88g5c37cb8b0b62" version="1">최상급 진동 마법</content>
+  <content contentuid="hbf17e905g78bbg4219ga0eag1dc0cbf6f29c" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히면, 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[2]&lt;/b&gt;)에 실패한 대상을 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;기절&lt;/LSTag&gt; 상태로 만듭니다.</content>
+
+  <content contentuid="h4614eef4gbe4fg4839gb711gcc050515e8ff" version="1">정신의 요정 반지</content>
+  <content contentuid="h6a31be46gbdc0g4f4dg82c8g446b18cc36a8" version="1">정신의 네더릴 반지</content>
+  <content contentuid="hb5f1ec03g812fg47begbd16gb5d6633484a4" version="1">정신의 엘드리치 반지</content>
+  <content contentuid="h2b99cab1gc1e0g4b88gbc73gbc49351f1488" version="1">정신의 천상 반지</content>
+  <content contentuid="h56b2b4daga086g443cg9c10g309c2b794c6c" version="1">정신 마법 부여</content>
+  <content contentuid="h6259d335gabe0g4d45gadc8g50025ec483bc" version="1">최상급 정신 마법</content>
+  <content contentuid="hf8399ff9gce13g4b63ga17agb986c0075203" version="1">&lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 적들은&lt;b&gt;[2]&lt;/b&gt;에 &lt;LSTag Tooltip="Vulnerable"&gt;취약&lt;/LSTag&gt; 해집니다.</content>
+
+  <content contentuid="hc0b07a7eg238bg4841gbda7g8c8d446a71e3" version="1">피의 요정 반지</content>
+  <content contentuid="h89e91b2ag7a39g4af1g8467g6c9a2950f5f3" version="1">피의 네더릴 반지</content>
+  <content contentuid="h22fa0079gc36cg457bgb7c6gc428ee8414bb" version="1">피의 엘드리치 반지</content>
+  <content contentuid="h946972a2g3bceg42f6g9a3eg8387ea7f5b59" version="1">피의 천상 반지</content>
+  <content contentuid="hf184bf49g7e06g4dc7g9488gee15755bebad" version="1">피의 마법 부여</content>
+  <content contentuid="h4ef712b6g43adg47e9gae8eg92b63276de72" version="1">&lt;b&gt;공격&lt;/b&gt; 시, &lt;b&gt;[1]%&lt;/b&gt; 확률로 공격이 적중당한 크리처의 건강&lt;i&gt;(최대 &lt;b&gt;-[3]&lt;/b&gt;)&lt;/i&gt;을 &lt;b&gt;[2]&lt;/b&gt;만큼 감소시킵니다.</content>
+  <content contentuid="h1fb432a9ge5ceg47aegbfe7gbed60bdb189f" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 대상이 &lt;b&gt;언데드&lt;/b&gt; 혹은 &lt;b&gt;인공물&lt;/b&gt;일 경우 적용되지 않습니다.</content>
+  <content contentuid="h6497d2d4g06cag4e6agae86gd83a58092e2c" version="1">피의 약화</content>
+  <content contentuid="h4f79ff43gf96fg4294ga322g6fbdfe886569" version="1">이 효과가 남은 턴마다 건강이 &lt;b&gt;[1]&lt;/b&gt;씩 감소합니다.</content>
+
+  <content contentuid="hf316a0b7gf19bg43aeg8619g3d575dcd2bda" version="1">그림자의 요정 반지</content>
+  <content contentuid="h1e05052dgbd2dg4f2bgb7b2g438fb3fb4983" version="1">그림자의 네더릴 반지</content>
+  <content contentuid="h06ba3070g22feg4f88gafd4g07da2d006ea2" version="1">그림자의 엘드리치 반지</content>
+  <content contentuid="h001c478dgf637g43cag8326ga19893234687" version="1">그림자의 천상 반지</content>
+  <content contentuid="hc9dc510dga985g46f8gab66g8c76fa8ec6fe" version="1">그림자 마법 부여</content>
+  <content contentuid="hc935ddc8g4319g4442g8253g00dc75da276f" version="1">&lt;b&gt;[1]&lt;/b&gt;를 덜 받게 됩니다.</content>
+  <content contentuid="h44d93124g4b40g4948ga257g1b794f0deae1" version="1">최상급 그림자 마법</content>
+  <content contentuid="h01860cb6gd114g42fbga44cgafa2483bc519" version="1">대상의&lt;b&gt;[1]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항력&lt;/LSTag&gt;을 무시합니다.</content>
+  <content contentuid="h4c1ea2f5g13afg4656ga392g68331c552ac9" version="1">대상의&lt;b&gt;[1]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Immune"&gt;면역&lt;/LSTag&gt;을 무시합니다.</content>
+
+  <content contentuid="hdf7d933egfc53g420agb3f4gafb607ae4f49" version="1">독의 요정 반지</content>
+  <content contentuid="h706e512egce2ag4930g9fa6g218e77e46bc9" version="1">독의 네더릴 반지</content>
+  <content contentuid="h82ece258g76a3g4d97g9f86g22bd1011c585" version="1">독의 엘드리치 반지</content>
+  <content contentuid="h02a0c633gd8cag4626gb404g12ec6b46d0ef" version="1">독의 천상 반지</content>
+  <content contentuid="h57211a6aga625g4fe0ga4a6gc9c396841a44" version="1">독성 마법 부여</content>
+  <content contentuid="h5e481723g4b37g4248ga1c4gc914f2bf21e5" version="1">공격 시 추가로 &lt;b&gt;[1]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="h61940393g81dbg407bgafe7g0fdbf33d6fa2" version="1">착용자의 모든 공격이 &lt;b&gt;추가로&lt;/b&gt; &lt;b&gt;[1]&lt;/b&gt;를 입히게 됩니다.</content>
+  <content contentuid="h0d5cb6d4g7548g44e9ga8b3g2f6e2abc78f5" version="1">최상급 독성 마법</content>
+  <content contentuid="he25a00b0gd191g4712g99bfg010e597e075d" version="1">대상에게&lt;b&gt;[1]&lt;/b&gt;를 입히면, 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[2]&lt;/b&gt;)에 실패한 대상을 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="POISONED"&gt;중독&lt;/LSTag&gt; 상태로 만듭니다.</content>
+  <content contentuid="h6ac89dcbgefb0g40f5gba53gb2e5c96c05d3" version="1">마법으로 정제된 맹독</content>
+  <content contentuid="h592100fcg7861g41edg9cd5g8537ab8c49ba" version="1">대상의&lt;b&gt;[1]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;과 &lt;LSTag Tooltip="Immune"&gt;면역&lt;/LSTag&gt;을 무시합니다.</content>
+
+  <content contentuid="hfaea4571g18a5g429cgbbafg470f7abaabdf" version="1">요정의 찬란한 반지</content>
+  <content contentuid="h117450f8gbbcag45aaga82ag3ff987f86a02" version="1">네더릴의 찬란한 반지</content>
+  <content contentuid="h4ae85567gd0d5g41c2ga62fg30b2f0b47ac3" version="1">찬란한 의지</content>
+  <content contentuid="hd3f0970bg0ad6g456dgbd80g9b14359a2599" version="1">&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;대응&lt;/LSTag&gt;을 소모하여 자신이나 아군을 공격으로부터 보호하는 동시에, 해당 공격에 대한 &lt;LSTag Tooltip="Disadvantage"&gt;불리 보정&lt;/LSTag&gt;을 부여합니다.</content>
+  <content contentuid="h78d2080ag04e6g46a8gabe6g8ae901903d4b" version="1">엘드리치의 찬란한 반지</content>
+  <content contentuid="h89f9a4ebg7087g4053g9570ge04481a11308" version="1">천상의 찬란한 반지</content>
+
+  <content contentuid="h82882fd2g0894g469fgae53gf355e7c05118" version="1">요정의 힘이 깃든 손목 보호대</content>
+  <content contentuid="h93e8d280g44c4g49cegbdf9g04b5bc011f8e" version="1">네더릴의 힘이 깃든 손목 보호대</content>
+  <content contentuid="hbe585e98gccbcg41e5g9d97gd61b8346dfd8" version="1">엘드리치의 힘이 깃든 손목 보호대</content>
+  <content contentuid="hcd8c3bb6gcba9g40b5gbf1agfd9b6bf1ab3e" version="1">천상의 힘이 깃든 손목 보호대</content>
+  <content contentuid="h725fc0a6gd1eag46f8gb2eeg3dd764839d21" version="1">평범해보이지만 수상할 정도로 튼튼한 천으로, 손을 감싸고 있는 천 사이사이마다 희미한 마법의 광채가 감돌고 있으며, 영계의 힘이 느껴집니다. </content>
+  
+  <content contentuid="h516c70cag61d6g4a9aga004ga2fdad8ac981" version="1">영계의 표식</content>
+  <content contentuid="hbc9021cdg3c3eg4a5ag864dge7709fe02795" version="1">턴이 시작될 때, &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 적들은 &lt;b&gt;[2]%&lt;/b&gt; 확률로 &lt;LSTag Type="Status" Tooltip="G_MONK1"&gt;영계의 표식&lt;/LSTag&gt; 상태가 되며, 해당 표식이 있는 대상에게는 &lt;b&gt;비무장 공격&lt;/b&gt;이 추가로 &lt;b&gt;[3]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="h87500609g5e65g4113ga81eg70a98484e382" version="1">이 크리처는 &lt;b&gt;비무장 공격&lt;/b&gt; 뿐만 아니라, &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;기력&lt;/LSTag&gt; 자원을 소모하는 주문이나 소마법으로도 추가적으로 &lt;b&gt;[1]&lt;/b&gt;를 입힐 수 있습니다.</content>
+  
+  <content contentuid="hbad9f6beg0c96g4cc6gb6feg4403d02ec325" version="1">영계의 정밀함</content>
+  <content contentuid="he4c7c8b9gd9dbg40bbg878eg2ce01d152987" version="1">이 장궁으로 공격 시, 더이상 명중 굴림 값에 &lt;b&gt;치명적인 실패(1)&lt;/b&gt;가 뜨지 않게 됩니다.</content>
+  
+  <content contentuid="h2614ad89g1b0cg448ag81acgb906f748b7be" version="1">&lt;b&gt;저주&lt;/b&gt;에 걸리지 않게 됩니다.</content>
+  <content contentuid="h34da065dg67a2g4a64g90e6g40a3da484f82" version="3">적을 밀쳐낸 후, 착용자는 다음 턴이 올 때까지 &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;에 +1의 보너스를 얻습니다. &lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;주문으로 밀쳐내진 경우에도 효과는 발동됩니다.</content>
+  <content contentuid="h3b3d3734gd80fg489ega47dged57132d7c00" version="1">축적된 충격</content>
+  <content contentuid="ha7cc7ec5ge24ag4e2agbfd2g7e5e76c6196a" version="1">&lt;b&gt;[1]&lt;/b&gt;를 입히면, &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;번개 충전&lt;/LSTag&gt;을 얻습니다. 최대 &lt;b&gt;[2]&lt;/b&gt;회까지 중첩됩니다.</content>
+  <content contentuid="h475532cbg1c82g432aga91cg0ff9bd73eb58" version="5">주 무기만 들고 있는 경우, 근접 무기 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 +[1]의 보너스를 얻습니다. &lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;이 효과는 방패를 들고 있어도 발동됩니다.</content>
+  <content contentuid="h6a591f7bg9f2fg4463ga9a7gdaeebf0daf75" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;와 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻으며, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태에 면역이 되고, &lt;b&gt;[2]&lt;/b&gt;에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항력&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h9e1c0201g64b6g45fdgbbd3g7eb76ca8a261" version="1">민첩함</content>
+  <content contentuid="hf1dd2454gaa39g4299g8b32g8e21464c8bea" version="1">맞춤 설계</content>
+  <content contentuid="h24f2c3aag9b54g4a91g8da7ga31a47217460" version="1">착용자가 &lt;b&gt;드로우&lt;/b&gt;거나 &lt;b&gt;드로우로 변장한 상태&lt;/b&gt;일 경우, &lt;LSTag Tooltip="Dexterity"&gt;민첩&lt;/LSTag&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;)에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h5e7fdfd9g83eag4ee8gbf9cgfb05e9b964d5" version="1">그림자의 예술</content>
+  <content contentuid="h85e45291g3924g4571g9a04g362602d28595" version="1">더이상 &lt;LSTag Tooltip="OpportunityAttack"&gt;헛점 공격&lt;/LSTag&gt;을 유발하지 않게 됩니다.</content>
+  <content contentuid="h90cd440fg9f7ag4dfcgae14g8bada7820e53" version="3">그림자 속에 숨은 상태라면, &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 +[1]의 보너스를 얻게 됩니다.</content>
+  <content contentuid="he90c8fddg0939g4675g8bbcgc002bda3ddd6" version="1">역장의 손아귀</content>
+  <content contentuid="hf6b75c69g044fg4fa4g9e88gea5ee799b5ec" version="1">&lt;b&gt;[1]&lt;/b&gt;를 입히면, &lt;b&gt;턴 당 한 번씩&lt;/b&gt; &lt;b&gt;[2]&lt;/b&gt;의 &lt;LSTag Type="Status" Tooltip="MAG_ZOC_FORCE_CONDUIT"&gt;역장 도관&lt;/LSTag&gt;을 얻게 됩니다.</content>
+
+  <content contentuid="hfc51133cg789fg413eg8cd5g7273d346cf64" version="1">신속 파열</content>
+  <content contentuid="he671879fgbf11g4f96gb450gebf8328b164f" version="1">&lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중 시키면, &lt;b&gt;[1]%&lt;/b&gt; 확률로 &lt;LSTag Tooltip="Action"&gt;행동&lt;/LSTag&gt; 자원을 회복시킵니다.</content>
+
+  <content contentuid="h6be74855g59c6g4a23gae6aga6251a6c64b2" version="1">노력의 대가</content>
+  <content contentuid="hceccb762g0f70g462fga6c6gd4f8ab317523" version="1">영계의 빛으로 찬란히 빛나는 상자가 마치 자신을 열어달라는 듯 모험가를 유혹하고 있는 것만 같습니다.</content>
+
+  <content contentuid="hf2c25b94g32a1g42a0gae5bgd3b73ce5749c" version="1">위저드 대항 함정</content>
+  <content contentuid="h6d92a4cfg4ca0g4330gaed8gf8c04fc8cf65" version="1">상자 주변에 마법의 봉인이 위협적으로 휘감겨 있습니다. 이 치명적인 함정은 마법적 꼼수로 상자를 억지로 개방하려는 모험가의 생명을 끝내버릴 지도 모릅니다.</content>
+
+  <content contentuid="ha27f1e6fgd212g4b13ga256g3d02c1850179" version="1">향상된 행동 양식</content>
+  <content contentuid="h78ae8a48g3d88g451cgbcf9g007932413ba3" version="1">플레이어가 &lt;LSTag Type="Spell" Tooltip="Target_Darkness"&gt;어둠&lt;/LSTag&gt;안에 있을 경우, 대상이 위험 지형들을 자연스레 무시하게 됩니다. 바닐라 게임처럼 플레이어가 어둠 안에 있다해도 대상의 행동 로직이 망가지거나 하지 않게 됩니다.</content>
+  
+  <content contentuid="h4483c52fg5aacg4a07g88c2gc24da06028ea" version="1">궁수 소환</content>
+  <content contentuid="h7337ad1eg9a2ag43a9gb151gb82be659ebdd" version="1">당신과 적대 상태인 적당히 위험한 적 개체를 하나 소환합니다.</content>
+  
+  <content contentuid="h20046173g2ea5g472dga291g28dc864041e1" version="1">베르발랑 소환</content>
+  <content contentuid="h56af65f0gb3fbg4b23gbd65gc88ed0563002" version="1">영계 차원으로부터 아주 위험한 적 개체를 하나 소환합니다. 개체에게서 영계의 원석을 발견할 수도 있습니다!</content>
+
+  <content contentuid="h79a6c379g0061g401eg88abg8f3e25d8448b" version="1">영계의 상자</content>
+  <content contentuid="h0bc7ff86gf654g4c05g86dag626da8a21376" version="1">영계로부터 온 이 찬란히 빛나는 상자 주위에는 고대의 힘이 맥동하고 있는 것만 같습니다. 상자의 열쇠 구멍은 지금은 잊혀진 별자리들의 형상으로 가려져 있으며, 상자에 맞는 열쇠를 찾아 그 모든 운명을 받아들일 준비가 된 자들을 기다리고 있습니다.</content>
+  
+  <content contentuid="hb22dde3eg727cg460fgae42g24192fffd110" version="1">마법공학 장비 분해 장치</content>
+  <content contentuid="he90b08a0g431eg4190gb6c1ga816ce8cf471" version="1">분해 장치에 고급 등급 이상의 2개의 유물을 넣고 조합하면 신비로운 가루로 변환할 수 있습니다.</content>
+  
+  <content contentuid="h464c78e0gb11dg47e8g9ca6gea46b64692b6" version="1">비전 제작기</content>
+  <content contentuid="hbbe9ad39g2075g4a90g9c50gf39931895832" version="1">이 신비로운 비전 상자 안에 레시피에 맞는 아이템을 넣고 조합하면 마법이 부여된 유물 아이템으로 변환할 수 있습니다.</content>
+ 
+  <content contentuid="h2d242e16gaa65g407cg9cd6g0efb0f35e3f0" version="1">혼돈</content>
+  <content contentuid="hf0826aedga05bg4917g83d4ge4712495e542" version="1">비전 제작기를 통해 조합하는 모든 과정에서 적용되는 "혼돈" 수치입니다.</content>
+  
+  <content contentuid="h2e57fe2cg3bb3g4c0fg8a2bg234b1a5ab505" version="1">영계의 비전석</content>
+  <content contentuid="h7c6b60a7ga553g4c47g84adg30b3a1409987" version="1">이 소름끼칠 정도로 매끄럽게 연마된 작은 수정 조각에는 그 깊이를 가늠할 수 없는 에메랄드 빛이 반짝이고 있으며 그 안에는 마치 영계 차원의 결정체가 고스란히 응축되어있는 것만 같습니다. 이 영계의 파편 내부로부터 위브가 강하게 맥동하고 있으며, 그저 은빛 공허에서 흘러나온 정신과 꿈을 비출 뿐입니다. 이 결정체에는 마법적인 반작용 없이도 비전의 능력을 증폭시켜주는 힘이 있어, 위저드 사이에서도 귀이 여겨지는 물질이며, 평범한 사람들 사이에서도 이 파편에는 고대인들의 속삭임이 깃들어있다고 여겨져 신성한 의식 등에서 사용된다고 합니다. 허나, 이 결정의 진정한 잠재력을 꿰뚫어본 이들은 아티피서들이었습니다. 그들은 정밀한 분광 굴절 실험 등을 통해, 단순히 빛에 그치는 것이 아닌, 주문이 아닌 "의지"에 반응하는 힘 그 자체를 이 결정체로부터 끌어낼 수 있다는 사실을 알아내었고, 그 사실이 밝혀진 이후로는 페이룬의 마법 공방들에는 변화의 바람이 일기 시작했습니다.</content>
+  
+  <content contentuid="h227888d2ge09eg47ebg974bg491e3d0cfa5e" version="1">윤회의 결정</content>
+  <content contentuid="h16044f5dg6421g479bg9786g0dc22e6ade21" version="1">이 영계 차원으로부터 비롯된 동전의 깊은 곳으로부터 복잡하게 얽혀있는 성운의 형상들이 끊임없이 순환하고 있으며, 순은을 정교하게 세공하여 가공된 면은 받고 있는 빛보다도 더 강한 빛을 발산하고 있는 듯 합니다. 수 많은 이들이 이 동전을 탐하며 갈망했지만, 손에 넣은 자들은 극히 일부였다 전해집니다. 이 동전이야말로 윤회를 결정화한 파편, 그 자체이기 때문에 그 진가는 가히 헤아릴 수조차 없을 정도입니다.</content>
+  <content contentuid="he5574836g5a44g466bgb410g2c61d7fd2e87" version="1">영혼 연산</content>
+  <content contentuid="h1b40cd52g4979g4fdag8be9g913ecc6b0c97" version="1">비전 제작 시, &lt;b&gt;모든 등급의 영계의 결정체 혹은 비전 가루&lt;/b&gt;를 대체하여 사용할 수 있는 재료입니다. 또한, 분해 시 &lt;b&gt;모든 등급의 유물&lt;/b&gt;을 대신하여 재료로 소비할 수 있습니다.</content>
+  
+  <content contentuid="h01a04a2bg01b4g4467ga89eg42f1b57178a5" version="1">잦아드는 혼돈</content>
+  <content contentuid="h5f469f6cgb1dbg40e3ga5b9g77a9632a73df" version="1">혼돈을 다루는데 제법 능숙해졌습니다. 해당 상태가 지속되는 동안 혼돈 수치가 감소하게 됩니다.</content>
+  
+  <content contentuid="h586ae346g516dg4828ga7c8g0cdd8f497604" version="1">천상의 계시</content>
+  <content contentuid="h58237c08gf13dg434eg9402g175744eabc3f" version="1">&lt;LSTag Type="Status" Tooltip="MAG_RADIANT_RADIATING_ORB"&gt;광휘의 구체&lt;/LSTag&gt;에 영향을 받고 있는 대상에게 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하기 위한 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt; 값이 &lt;b&gt;[1]&lt;/b&gt;만큼 감소합니다. 이 효과는 비슷한 효과와 중첩되어 적용됩니다.</content>
+  
+  <content contentuid="hd55b581dg319cg4a8egbd85gd746e090c431" version="1">갑옷 꿰뚫개</content>
+  <content contentuid="h4f2c12f3g06c5g477eg896dge2df9e395020" version="1">이 모닝스타로 대상을 직접 타격 시, 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt; (&lt;b&gt;[3]&lt;/b&gt;)에 실패한 대상의 &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;를 &lt;b&gt;[1]&lt;/b&gt; &lt;i&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;)&lt;/i&gt;만큼 감소시킵니다.</content>
+  <content contentuid="hf49ae790g6e60g47d9g8fecg1b3363fbb59e" version="1">대장의 반격</content>
+  <content contentuid="h3715fd75g3da8g4fbegabdbg7280dfb787f5" version="1">적대적인 크리처의 근접 공격이 빗나갈 경우, 모닝스타로 즉시 반격할 수 있습니다.</content>
+  <content contentuid="h7889bed5gb51bg4a17g8796gfa22ab2ef74b" version="1">&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;대응&lt;/LSTag&gt; 자원을 소모하여 모닝스타로 대상에게 &lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_u"&gt;천둥 강타&lt;/LSTag&gt;를 시전합니다.</content>
+  <content contentuid="h5a8bac1ag8a19g4b08gb158g3bd4387e8ad0" version="1">&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;대응&lt;/LSTag&gt; 자원을 소모하여 모닝스타로 대상에게 &lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_u"&gt;천둥 강타&lt;/LSTag&gt;를 시전합니다.</content>
+  <content contentuid="h804bc00bgcc17g4fdbgbf89g58a931f59966" version="1">&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;대응&lt;/LSTag&gt; 자원을 소모하여 모닝스타로 대상에게 &lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_u"&gt;천둥 강타&lt;/LSTag&gt;를 시전합니다.</content>
+  <content contentuid="hcd36450ag428eg4c51ga55dg8c03833130fe" version="1">&lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;대응&lt;/LSTag&gt; 자원을 소모하여 모닝스타로 대상에게 &lt;LSTag Type="Spell" Tooltip="Target_Morningstar_Smite_u"&gt;천둥 강타&lt;/LSTag&gt;를 시전합니다.</content>
+  
+  <content contentuid="hafd9a5bdg528bg43f9g8581g023da5c9c8d3" version="1">고급 장비 마법부여</content>
+  <content contentuid="hc52997fdg6031g4ba0g9b6cg640025fbc2e4" version="1">결정체를 클릭한 후, 책에 나와있는 조합법에 따라 기본 장비와 요정의 에메랄드 가루 2개를 같이 넣어 요정 마법이 깃든 장비로 제작할 수 있습니다.</content>
+  
+  <content contentuid="h72dd5709gc6f6g4253ga85bg5db42668fa63" version="1">요정 장비 강화</content>
+  <content contentuid="hfd4d5c96g6acdg42c6gb2d3gb839ff89a65e" version="1">결정체를 클릭한 후, 요정 등급 장비와 네더릴의 청금석 가루 2개를 같이 넣어 보다 높은 등급의 장비로 강화할 수 있습니다.</content>
+  
+  <content contentuid="hb707804eg188eg430fg88c0g282709c3a433" version="1">네더릴 장비 강화</content>
+  <content contentuid="h817c5637g0ac8g4558gba5dgf35dc764c4ff" version="1">결정체를 클릭한 후, 네더릴 등급 장비와 엘드리치의 자수정 가루 2개를 같이 넣어 보다 높은 등급의 장비로 강화할 수 있습니다.</content>
+  
+  <content contentuid="h5d2d0e78g2142g48e9g98c1gf8c17ace7b07" version="1">엘드리치 장비 강화</content>
+  <content contentuid="h7c49a4d2gad2fg42a9gb597g318bb594b3ad" version="1">결정체를 클릭한 후, 엘드리치 등급 장비와 천상의 황금 가루 2개를 같이 넣어 보다 높은 등급의 장비로 강화할 수 있습니다.</content>
+  
+  <content contentuid="h8a753ebbg2e79g4d4cgb079g85b5dae9eee4" version="1">상위 등급 재료 아이템 변환</content>
+  <content contentuid="h0a065534g53eeg4e2dg90c2gd21d3aaec715" version="1">아이템을 클릭한 후, 동일한 아이템 3개를 같이 넣으면 더 높은 등급의 재료로 변환할 수 있습니다.</content>
+  
+  <content contentuid="hb11c2bb8g1782g4237g8783g6dba7926cf68" version="1">유물 장비 분해</content>
+  <content contentuid="h484ba02bg49d2g4ab7g81a5g6258d00dfb8b" version="1">영계의 분쇄기를 클릭한 후, 동일한 등급의 마법 유물 2개를 같이 넣으면 마법 가루로 변환할 수 있습니다.</content>
+  
+  <content contentuid="hee3122ccg5e9ag46f0g803dgf75cf78f2f9f" version="1">마법 가루를 클릭한 후, 책에 나와있는 조합법에 따라 동일한 등급의 가루와, 영계의 비전석, 그리고 기본 장비를 넣어 요정의 마법이 깃든 장비로 제작할 수 있습니다.</content>
+  <content contentuid="ha198dffcg79a8g42b7g970cg91c8989632bf" version="1">마법 가루를 클릭한 후, 책에 나와있는 조합법에 따라 동일한 등급의 가루와, 영계의 원석, 그리고 요정 장비를 넣어 네더릴의 마법이 깃든 장비로 제작할 수 있습니다.</content>
+  <content contentuid="he15c56aeg6080g4544g8bcdg03d477447694" version="1">마법 가루를 클릭한 후, 책에 나와있는 조합법에 따라 동일한 등급의 가루와, 영계의 수정, 그리고 네더릴 장비를 넣어 엘드리치의 마법이 깃든 장비로 제작할 수 있습니다.</content>
+  <content contentuid="h4cf7beffg4d45g4511gb1eega088856eea5e" version="1">마법 가루를 클릭한 후, 책에 나와있는 조합법에 따라 동일한 등급의 가루와, 불멸의 결정체, 그리고 엘드리치 장비를 넣어 최고 등급의 장비로 제작할 수 있습니다.</content>
+  
+  <content contentuid="hbeba98d6g39c3g4b9bg88d5g4ef67379839b" version="1">증폭하는 분노</content>
+  <content contentuid="h414efb5dg8784g4ffeg86f7g8e7a9937207e" version="1">이 무기로 적에게 피해를 입히게 되면, &lt;b&gt;[1]%&lt;/b&gt; 확률로 &lt;LSTag Tooltip="Rage"&gt;&lt;b&gt;격노&lt;/b&gt;&lt;/LSTag&gt; 횟수를 충전할 수 있게 됩니다.</content>
+  
+  <content contentuid="h95896c66gd5a2g4aa7gb3b6gbb21a9b62c65" version="1">핏빛 심판</content>
+  <content contentuid="h0c9701c0g5adfg46baga76dg8dbc3324dfd1" version="1">&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 상태의 적을 공격하면, 다음 공격이 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;가 됩니다.&lt;br&gt;&lt;br&gt;이 효과는 긴휴식 당 &lt;b&gt;한 번씩만&lt;/b&gt; 발동됩니다.</content>
+  <content contentuid="h9af98912gffc9g41cbg825bg120380df954b" version="1">&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 상태의 적을 공격하면, 다음 공격이 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;가 됩니다.&lt;br&gt;&lt;br&gt;이 효과는 짧은 휴식 당 &lt;b&gt;한 번씩만&lt;/b&gt; 발동됩니다.</content>
+  <content contentuid="hd26d22e1g420bg4ecbga3d1gd9d07c02aa73" version="1">&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 상태의 적을 공격하면, 다음 공격이 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;가 됩니다.&lt;br&gt;&lt;br&gt;이 효과는 전투 당 &lt;b&gt;한 번씩만&lt;/b&gt; 발동됩니다.</content>
+  <content contentuid="hc1482355g69b3g4089g8349g54745e3eddef" version="1">&lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;출혈&lt;/LSTag&gt; 상태의 적을 공격하면, 다음 공격이 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;가 됩니다.&lt;br&gt;&lt;br&gt;이 효과는 턴 당 &lt;b&gt;한 번씩만&lt;/b&gt; 발동됩니다.</content>
+
+  <content contentuid="h68576677g2639g433cgbbbbg9d10b2ffc6bb" version="1">우아한 참극</content>
+  <content contentuid="h628306b7g9c34g4ce5g9990g1725a8d4f7bc" version="1">대상의 눈에 날카로운 칼날을 찔러넣어 정신이 나가버릴 정도로 괴로운 고통을 선사해줍니다.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 두 눈이 모두 온전한 대상에게만 사용 가능합니다.</content>
+  
+  <content contentuid="h0d28b089g7815g4616gb9e1gd780db2413d8" version="1">천상의 불꽃</content>
+  <content contentuid="h8af0c52fg8b9dg4076ga123gf39e5bb3427c" version="1">받은&lt;b&gt;[2]&lt;/b&gt;의 &lt;b&gt;[1]%&lt;/b&gt;에 해당하는 피해를 적에게 반사시킵니다.</content>
+</contentList>

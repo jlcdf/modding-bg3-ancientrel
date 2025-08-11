@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<children>
+				<node id="Faction">
+					<attribute id="Faction" type="FixedString" value="AMP_Crabs" />
+					<attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="UUID" type="guid" value="0069e3ab-5cf1-4df8-9950-3266bb68dca8" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

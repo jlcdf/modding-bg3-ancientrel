@@ -1,0 +1,106 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+// Generate random disappearance limit for new trader (1-5 trades)
+IF
+TradeEnds((CHARACTER)_Player, (CHARACTER)_Trader)
+AND
+DB_Players(_Player)
+AND
+IsTagged(_Trader, (TAG)AMP_CAMBION_TRADER_98836f66-be23-4195-8601-71767084db0c, 1)
+AND
+NOT DB_AMP_CambionTrader_TradeLimit(_Trader, _)
+AND
+Random(5, _RandomValue)
+AND
+IntegerSum(_RandomValue, 1, _TradeLimit)
+THEN
+DB_AMP_CambionTrader_TradeLimit(_Trader, _TradeLimit);
+DB_AMP_CambionTrader_TradeCount(_Trader, 1);
+
+// Increment trade counter for existing traders
+IF
+TradeEnds((CHARACTER)_Player, (CHARACTER)_Trader)
+AND
+DB_Players(_Player)
+AND
+IsTagged(_Trader, (TAG)AMP_CAMBION_TRADER_98836f66-be23-4195-8601-71767084db0c, 1)
+AND
+DB_AMP_CambionTrader_TradeLimit(_Trader, _Limit)
+AND
+DB_AMP_CambionTrader_TradeCount(_Trader, _CurrentCount)
+AND
+IntegerSum(_CurrentCount, 1, _NewCount)
+THEN
+NOT DB_AMP_CambionTrader_TradeCount(_Trader, _CurrentCount);
+DB_AMP_CambionTrader_TradeCount(_Trader, _NewCount);
+
+// Check if trader should disappear (reached limit)
+IF
+DB_AMP_CambionTrader_TradeCount((CHARACTER)_Trader, _Count)
+AND
+DB_AMP_CambionTrader_TradeLimit(_Trader, _Limit)
+AND
+_Count >= _Limit
+THEN
+// Maniacal laughter before disappearing
+PlaySound(_Trader, "UniqueNPC_GLO_Nightsong_Gen_LaughterManiacal");
+// Mark trader for disappearance and start object-specific timer
+DB_AMP_CambionTrader_DisappearPending(_Trader, 1);
+ObjectTimerLaunch(_Trader, "AMP_CambionDisappear", 5000, 0);
+
+// Object timer finished - make trader disappear
+IF
+ObjectTimerFinished((CHARACTER)_Trader, "AMP_CambionDisappear")
+AND
+DB_AMP_CambionTrader_DisappearPending(_Trader, 1)
+AND
+DB_AMP_CambionTrader_TradeCount(_Trader, _Count)
+AND
+DB_AMP_CambionTrader_TradeLimit(_Trader, _Limit)
+THEN
+// Visual effect before disappearing
+PlayEffect(_Trader, (EFFECTRESOURCE)VFX_Script_Djinni_Teleport_7c79ada5-e179-5d0b-0557-29fca6201742, "", 1.0);
+// Remove trader from stage
+SetOnStage(_Trader, 0);
+// Clean up databases
+NOT DB_AMP_CambionTrader_TradeCount(_Trader, _Count);
+NOT DB_AMP_CambionTrader_TradeLimit(_Trader, _Limit);
+NOT DB_AMP_CambionTrader_DisappearPending(_Trader, 1);
+
+// Main trigger: Detect successful pickpocket from Cambion Trader
+IF
+CharacterPickpocketSuccess((CHARACTER)_Player, (CHARACTER)_NPC, _, _, _, _)
+AND
+DB_Players(_Player)
+AND
+IsTagged(_NPC, (TAG)AMP_CAMBION_TRADER_98836f66-be23-4195-8601-71767084db0c, 1)
+AND
+GetPosition(_NPC, _X, _Y, _Z)
+THEN
+// Visual effect at the trader position
+PlayEffectAtPosition(VFX_Script_IronFlask_Poof_01_e770f08f-38d7-a1a7-91ca-380b3444f834, _X, _Y, _Z, 2.0);
+PlaySound(_NPC, "Spell_Impact_Damage_Disintegrate");
+// Set a flag to kill all players
+DB_PAB_KillAllPlayers(1);
+
+// Direct approach - kill all players using DB_Players
+IF
+DB_PAB_KillAllPlayers(1)
+AND
+DB_Players((CHARACTER)_Player)
+THEN
+PlayEffect(_Player, VFX_Script_IronFlask_Poof_01_e770f08f-38d7-a1a7-91ca-380b3444f834, "", 1.0);
+Die(_Player, DEATHTYPE.Disintegrate, NULL_00000000-0000-0000-0000-000000000000, 0, 1);
+
+// After all players are killed, show game over menu
+IF
+DB_PAB_KillAllPlayers(1)
+THEN
+NOT DB_PAB_KillAllPlayers(1);
+ShowGameOverMenu();
+EXITSECTION
+
+ENDEXITSECTION

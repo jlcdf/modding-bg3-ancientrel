@@ -1,0 +1,599 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h5bb2726cg6840g4bc8g82c0g30bf483ee1b7" version="1">위대한 승리의 메달리온</content> 
+  <content contentuid="h52ca3670gf756g4fcfgbd43g04243b4a2268" version="1">메달리온 뒷면에는 이런 문구가 새겨져 있습니다. "가레크에게, 이 영광스런 승리를 기념하며 길이길이 오래도록 영생하며 행복하기를! - 토마릭" 중앙엔 커다란 루비가 조화롭게 박혀있으며, 부자연스러운 빛을 발산하고 있습니다. 이로 짐작컨데 분명 이 안에는 어떤 마력이 깃들어있음이 틀림없을 것입니다.</content>
+  <content contentuid="h09448023g71dcg4ee3g83c6g53cedadb2afe" version="1">건장한 신체</content> 
+  <content contentuid="h8bf4bcb6ge88eg4d8bg8333g556333f63140" version="1">&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="hb28fe971g1f07g4f2cga587g087023536f2e" version="1">마력이 깃든 루비 펜던트</content> 
+  <content contentuid="h3204f3f0g1558g4b03g835dga115b575886c" version="1">펜던트에 박혀있는 루비로부터 희미한 주홍빛 광채가 끊임없이 흘러나오고 있습니다. 이를 보아할 때 단순한 장신구가 아닌 이 안에 어떤 강대한 힘이 깃들어있음이 틀림없을 것입니다. 이토록 거칠고 순수한 힘은 본 적이 없기에, 당신은 이 펜던트를 가져가기로 결심했습니다.</content>
+  <content contentuid="h37748587gaa1cg4397gad7bg28b4e66d833e" version="1">증폭된 힘</content> 
+  <content contentuid="h804d2f2cgb17bg4634gba12gad00465554fd" version="1">&lt;br&gt;&lt;LSTag Tooltip="Strength"&gt;힘&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) 증가하며, 힘 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h3d009b5dg0889g40b5g8880gafd538763d4b" version="1">황소 교단의 애뮬릿</content> 
+  <content contentuid="hf9c45ab1g46a2g4a5eg96b2g59d22e927b22" version="1">굉장히 완벽한 형태로 보존되어있는 유물로써, 이는 황소 교단에게 있어 굉장한 가치를 지닌 보물이었을 것입니다. 어쩌면 그들의 지도자가 사용했던 물건일 수도 있겠지요. 애뮬릿을 손에 쥐자, 흔들림없는 결단력이 차오르는 듯한 기분과 함께 그 안에 깃들어있는 마력이 뿜어져나옵니다.</content>
+  <content contentuid="h856b4a41g861bg43beg9909g5a346dab365c" version="1">황소 교단의 권능</content> 
+  <content contentuid="hd99c524cgbc5eg4ee3g8599ge029687c7b0d" version="1">&lt;br&gt;&lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) 증가하며, 건강 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h30d65a20g3f28g4e71ga31egbb47b82ffab5" version="1">숲 레인저의 펜던트</content> 
+  <content contentuid="h5cffd9ecg84d6g4a10g895cgd87b767b517f" version="1">섬세한 엘프의 공예기술과 다 닳아 해져버린 흔적 등에서 유추해볼 때, 이전에 이것을 지녔던 자는 분명 숲을 수호하는 레인저였을 것입니다. 섬세한 세공과 함께 커다란 에메랄드가 중앙을 장식하고 있으며, 장신구에서는 이루 말할 수 없을 비범한 기운이 뿜어져 나오고 있습니다. 펜던트를 목에 걸자마자, 바람이 몸을 감싸며 움직임을 도와주는 듯한 기분이 들기 시작합니다.</content>
+  <content contentuid="h1b7f1e21gd4e8g4b9egaba4gee108568afae" version="1">바람의 축복</content> 
+  <content contentuid="h8e776e20g7b52g4f45gb750g644a3e51b15d" version="1">&lt;br&gt;&lt;LSTag Tooltip="Dexterity"&gt;민첩&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) 증가하며, 민첩 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="ha66890b6g0ea6g43beg81ecgdde11293b6f6" version="1">대마법사의 펜던트</content> 
+  <content contentuid="h8fe743d9g1bfcg4b56g9b20g6bfc07d42eff" version="1">작은 펜던트에서 뿜어져나오는 예사롭지 않은 강렬한 마력이 느껴집니다. 한 때, 강력한 마법사가 소유했던 것으로 보이며 동료 마법사들을 위해 이 펜던트에 마력을 부여했던 것으로 보입니다. 한가지 놀라운 점은, 펜던트를 장착하면 펜던트가 스스로 그 크기를 조정한다는 것입니다.</content>
+  <content contentuid="h651ad8deg1a5dg4c08ga8f7gac868fa05fac" version="1">날카로운 정신의 부적</content> 
+  <content contentuid="h0b8a8589gdc77g48f5ga283g840a924a9e40" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) 증가하며 지능 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h19770d4bgc011g4b8cg81b7g172f2d786d91" version="1">태고의 애뮬릿</content> 
+  <content contentuid="h534beba8ga1e5g415eg9361g6194e82db4f7" version="1">이 고대의 유산은 이미 오래 전 멸종되어버린 생명체의 뼈를 깎아 만든 것으로 보입니다. 보기에도 수천 년의 세월을 견뎌온 듯한 이 애뮬릿을 손에 쥐는 순간, 과거의 주인들의 기억들이 고스란히 전해져오는 것을 느낄 수 있습니다. 유물 안에 아직 그 영혼들이 남아있는 듯 합니다.</content>
+  <content contentuid="h8a68fb6dgfef6g41d1g8435g7dc354f97af5" version="1">태고의 지혜</content> 
+  <content contentuid="h5045aa0cgd6ddg487cgadbege7eeb80056b4" version="1">&lt;br&gt;&lt;LSTag Tooltip="Wisdom"&gt;지혜&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) 증가하며, 지혜 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h2b99a3e9g831ag47f8g9d25g8503aa57bdb0" version="1">대의회의 펜던트</content> 
+  <content contentuid="hba09c468ga9afg4f44g92ebgca7f629a2bfc" version="1">오래 전부터 최고위 대사들과 외교관들이 착용하고 다니던 이 펜던트는 여러 세대를 걸쳐 대대로 내려온 소중한 가보였습니다. 특유의 디자인은 고대 왕조들의 요청으로 정교하게 제작된 것이며, 펜던트에 닿자 강한 자신감과 권위가 솟구쳐오르는 것을 느낄 수 있습니다.</content>
+  <content contentuid="hd082a0b6g0395g4051gb348g8b28ca436b07" version="1">매력의 원천</content> 
+  <content contentuid="hcb57ff26g9497g442eg8edfg6a3eef9ff690" version="1">&lt;br&gt;&lt;LSTag Tooltip="Charisma"&gt;매력&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) 증가하며, 매력 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="hc4085879g5140g4dceg90a9g995a4b42586c" version="1">고대 강령술사의 애뮬릿</content> 
+  <content contentuid="h5410e55ag1891g4933g951dg518df3ed9601" version="1">목걸이 안에 장식되어 있는 투명한 보석 내부에서 끊임없이 흰색 모래가 흘러나오고 있습니다. 이를 보고 있자니 갑자기 애뮬릿의 뒷면에서 작은 마법이 깃든 문자가 떠오르기 시작합니다, "이 애뮬릿은 한 때 배신자이자 추방자였던 추잡한 녀석의 것이었음을 알린다, 애뮬릿의 주인이었던 사악한 강령술사는 자신의 힘의 일부를 이곳에 봉인했었고, 우린 결국 놈의 애뮬릿을 훔쳐 그 힘을 무력화한 뒤 처단할 수 밖에 없었다." 분명, 이 유물엔 엄청난 힘이 깃들어있을테지요.</content>
+  <content contentuid="h6cdd09c7g993dg47d8ga569g9beba11f6c23" version="1">사악한 마도사의 정수</content> 
+  <content contentuid="h16d1f1bag5502g40c1gb4dcgc0d403e12bd5" version="1">&lt;br&gt;착용자는[1]에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항력&lt;/LSTag&gt;를 얻게 되며, &lt;LSTag Type="Passive" Tooltip="DevilsSight"&gt;악마의 눈&lt;/LSTag&gt; 능력을 획득합니다.&lt;b&gt;전투 중, 한 턴에 한 번씩&lt;/b&gt; 공격이 빗나가더라도 &lt;b&gt;[2]&lt;/b&gt;를 입힐 수 있게 됩니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="h7a57cf3dgfc40g4463g9eafg2e7b37bc1ddf" version="1">드래곤 조련의 애뮬릿</content> 
+  <content contentuid="hcc6764fbg7ae8g480fga8e7g1e61a0480df8" version="1">고대 문명의 흔적이 고스란히 남아있는 물건으로, 정교하게 드래곤의 형상으로 조각되어있습니다. 강렬한 마법의 흔적이 느껴지며, 보석이 박힌 드래곤의 눈이 은은하게 빛을 내고 있습니다. 애뮬릿 표면에서 미약하게 느껴지는 온기는 이 애뮬릿이 드래곤들을 깃들이는데 사용되었음을 알려주는 것 같습니다. 역사학자라면 분명 이 엄청난 발견에 흥분과 경이로움을 감추지 못할테지요.</content>
+  <content contentuid="he757039fg3355g4605ga7f3g0def0abd637b" version="1">드래곤의 힘</content> 
+  <content contentuid="h729c22b0ga83cg467fgb52dgedc819c9ea67" version="1">&lt;br&gt;[1]에 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;을 얻으며, &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태가 되지 않습니다. 공격할 때 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 가하기 위해 필요한 굴림 값이 &lt;b&gt;[2]&lt;/b&gt; 감소합니다. (이 효과는 비슷한 효과들과 중첩됩니다)</content>
+  <content contentuid="h8fd244dcge9e2g4fa4g825fg90e06d148ab9" version="1">엄습하는 우주의 펜던트</content> 
+  <content contentuid="h80471772g14d8g4325gbaa2g9b51ceb168cf" version="1">이 아름다운 장신구에 시선을 뺏기지 않고는 베기지 못할 것입니다. 장신구 안의 보석을 들여다보는 순간, 과거와 현재, 그리고 미래가 한 순간 펼쳐지는 듯한 기묘한 감각이 엄습해오기 시작하며, 신들의 창조물들조차 범접할 수 없을 아득히 초월한 경외심 마저 느껴집니다.</content>
+  <content contentuid="heaa086d8gd9f5g4193gbea5g922f51c7007b" version="1">엄습해오는 우주</content> 
+  <content contentuid="h987c1424g337ag45f6ga097g6daa1cda6e36" version="1">&lt;br&gt;&lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 대해 모두 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 얻게 되지만, 모든 주사위 굴림 값이 &lt;b&gt;[1]&lt;/b&gt; 감소하게 됩니다.</content>
+  <content contentuid="h9364c363g0d06g4452g8d7aga9d999fda04a" version="1">고대 전사의 옥 구슬 염주</content>
+  <content contentuid="ha4168250g3582g4358gac0dg8e485eeeff05" version="1">이 작은 옥 구슬에서는 초자연적인 기운이 뿜어져나오고 있습니다. 염주를 손에 쥐는 순간, 마치 구슬이 자신의 힘을 전해주기라도 하려는 듯 활력이 솟구치기 시작합니다. 분명 고대에 이 염주를 착용했던 이는 상상조차 할 수 없을 많은 난관들을 뚫고 승리를 거머쥐었을 것입니다.</content>
+  <content contentuid="h45b26adeg2ec2g4565g9a63g2d21cf1b63f4" version="1">공명하는 옥 구슬</content>
+  <content contentuid="hcbf200ddg0df5g4a16gaefage52376b13884" version="1">전투 중 매 턴 마다 &lt;LSTag Type="Status" Tooltip="HASTE"&gt;가속&lt;/LSTag&gt; 상태를 얻습니다&lt;i&gt;(단, 가속 상태가 아니여야 합니다.)&lt;/i&gt;. &lt;br&gt;또한 &lt;b&gt;선제권&lt;/b&gt; 굴림에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻으며, 스스로에게 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;반향&lt;/LSTag&gt; 상태를 부여합니다.</content>
+  <content contentuid="hc7de8f7dg5ff7g45b7g8971gb8f5aaf16d27" version="1">구리 까마귀의 애뮬릿</content>
+  <content contentuid="h48a054adg44edg4243g8c3bg091e20a4d365" version="1">이 까마귀 형상의 구리 장신구에는 형용할 수 없는 비밀이 숨겨져있는 듯 합니다. 머릿속에서 울려퍼지는 강렬한 충동이 이 유물에 대해 더 깊이 탐구하라 명령을 내리는 듯 하며, 충동에 이기지 못해 까마귀의 눈을 바라보는 순간, 놀라운 변화가 일어나기 시작합니다. 손에 쥐어있는 초라했던 구리 장신구가 다이아몬드로 변해가며 까마귀의 시선은 당신의 영혼을 꿰뚫어보는 듯 합니다. 확실히 이 유물의 활성화되는 방식은... 이제껏 당신이 경험했던 다른 유물들과는 확연히 다른 것 같군요.</content>
+  <content contentuid="h28cd1a6eg465fg430bg9715ga73a73e4358f" version="1">고대 까마귀의 축복</content>
+  <content contentuid="h742a2577g2284g442fga2a5g18d8d3f8089c" version="1">&lt;br&gt;더이상 &lt;b&gt;추락 피해&lt;/b&gt;를 받지 않게 됩니다. 모든 &lt;b&gt;물리 공격&lt;/b&gt;에 &lt;LSTag Tooltip="Dexterity"&gt;민첩&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;보정치&lt;/LSTag&gt;를 더합니다.</content>
+  <content contentuid="h9aeb3128ge1b0g400dg802ag7e5a5f74815b" version="1">변덕스러운 왕자의 메달리온</content>
+  <content contentuid="hc3cecc9cgca0cg4c34gbe7cg40bafd0b6b1e" version="1">메달리온을 장식하고 있는 값비싼 보석들과 정교한 세공기술이 인상적인 장신구입니다. 어떤 왕자가 자신의 취향을 반영하여 만든 것으로 보이는 유물로, 이를 만족시키기 위한 많은 장인과 세공사들이 노력이 엿보이는 걸작품이기도 합니다. 그러나 막상 왕자 본인은 정치보단 이런 화려한 장신구 따위에 시간을 할애했던 모양입니다. 그렇지 않았더라면 유물은 왕실 보물창고에 엄중히 보관되어있었을테니까요. 하지만, 유물은 지금 당신 손에 쥐어져있군요.</content>
+  <content contentuid="h636c0782g9bc7g4536g9cc8g014f021e8505" version="1">빠른 통찰력</content>
+  <content contentuid="h205e3196g7a17g418bg893dgbccb9e819416" version="1">&lt;LSTag Tooltip="SpellDifficultyClass"&gt;주문 내성 난이도&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="hd7b8b016geeb1g4369ga47dgd1fcd19720d7" version="1">우아함의 부적</content>
+  <content contentuid="h6a113aefg7efag4815g8cb1g0e26e42446e6" version="1">&lt;br&gt;턴이 시작될 때마다 &lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;&lt;b&gt;([1])&lt;/b&gt;에 성공해야하며, 내성 굴림에 성공하면 &lt;LSTag Type="Status" Tooltip="NECK13"&gt;빠른 통찰력&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h21c69067g2ea5g416dgad9eg9d6ecbf3cde0" version="1">격렬한 파괴의 펜던트</content>
+  <content contentuid="heb0da8aagcbd8g4f08g8054g3dd2a5d14549" version="1">이 작은 장신구를 손에 쥐자, 상상치 못한 중압감이 느껴집니다. 마치 손에서 벗어나 땅 위에 고정되어 박히려는 듯 굉장한 무게감이 느껴집니다. 강제로 끌어당기는 힘을 억누르고 보석에 집중하자, 보석 밑에서 붉은 액체가 뒷면에서는 작은 눈보라가 일기 시작합니다. 두 개의 상반된 힘이 격렬히 충돌하자, 유례없을 에너지의 폭풍이 폭발하듯 방출되기 시작하는군요.</content>
+  <content contentuid="h273bfafbg1976g4626ga3f1g2f6cd1297d6d" version="1">격렬한 파괴의 파동</content>
+  <content contentuid="h88e2f215gfafbg4092g92e7gccaaefe312da" version="1">&lt;br&gt;공격 시, &lt;b&gt;[1]&lt;/b&gt;와 &lt;b&gt;[2]&lt;/b&gt;를 추가로 입히게 되지만, &lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;가 &lt;b&gt;[3]&lt;/b&gt; 감소합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동되며, &lt;br&gt;&lt;br&gt;레벨이 &lt;b&gt;오를 때마다&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="hdb6dbdf8g3dfcg4932gb31bgb683901b60a5" version="1">해져버린 마녀의 부적</content>
+  <content contentuid="h8cc5d5eeg4276g4f00ga02dg0ceb5dc261ca" version="1">이 고대의 장신구는 그 모습부터가 눈길을 끌기에 충분해보입니다. 독특한 구리의 주조와 세공 기법, 불길하게 빛나고 있는 창백한 녹색빛의 진주까지- 부적을 만지자, 본능적으로 익숙치 않은 공포가 온몸을 타고 흐르는 것을 느낍니다. 이 부적엔 강력한 어둠의 주술이 깃들어있음이 틀림없어보이며, 그 힘을 다루기 위해선 강한 의지를 필요로 할 것입니다.</content>
+  <content contentuid="h524c33b7g51a9g4e64g9993g54d1bde77885" version="1">마귀할멈의 저주</content>
+  <content contentuid="he009d45cge18fg4e67gb216gfbc54af58cca" version="1">&lt;br&gt;공격 시, 모든 속성 피해에 대한 &lt;LSTag Tooltip="Immune"&gt;면역&lt;/LSTag&gt;을 무시하여 공격할 수 있습니다. 하지만, 동시에 &lt;LSTag Tooltip="Ability"&gt;능력치&lt;/LSTag&gt;가 &lt;b&gt;1&lt;/b&gt; 감소합니다.</content>
+  <content contentuid="hfad32023g8e77g486aga0d3gc79fbcac9706" version="1">충전된 전류의 펜던트</content>
+  <content contentuid="h34e14e03gcd2bg42cbgae09gffe79da038ec" version="1">펜던트를 감싸쥐자 강렬한 전류가 온 몸을 타고 흐르는 듯한 기분이 듭니다! 확실히 보통 장신구가 아닌 것은 분명하군요. 하지만, 이 충격을 견뎌내야만 펜던트에 깃든 강력한 마법을 해방시킬 수 있을 것 같습니다. 고통을 견디며 관찰하고 있자니, 강력한 마력을 해방시킬 준비가 되었다는 듯 검푸른 바다의 물결과도 같은 신비로운 색상의 돌이 빛을 발하기 시작합니다.</content>
+  <content contentuid="hdac7d5b2g0afeg473dg95b6g91ccacfd24e4" version="1">폭풍의 공명</content>
+  <content contentuid="hae3fe701g5a33g4264gbed6gcab8826596da" version="1">&lt;br&gt;주문을 사용하여[2]를 주면 &lt;b&gt;추가로&lt;/b&gt; [1]를 입힙니다. &lt;br&gt;&lt;br&gt;이 효과는 시전자의 &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;주문 시전 능력 보정치&lt;/LSTag&gt;에 따라 달라지게 됩니다.</content>
+  <content contentuid="hc2bb1d49g4fddg4bfag9863ge01ccae5e48e" version="1">연금술사의 산성석</content>
+  <content contentuid="hf98bd199g2abeg4b6agb280ge54874fe3d00" version="1">이 기묘한 생김새의 돌은 끊임없이 옅은 빛과 기운을 발산하고 있습니다. 전승에 따르면 이것은 고대 연금술사의 것으로, 마법적인 방호 능력을 제공한다고 전해집니다. 일부 문헌에서는 거대한 빙산 마저도 막아낸 연금술사의 방호용 마법석의 이야기도 존재할 정도입니다. 한가지 문제라면, 돌에서는 자신을 제발 착용하지 말아달라고 애원하는 듯한 굉장한 악취가 풍겨져나오고 있다는 점입니다.</content>
+  <content contentuid="h0308d0c2g4c27g4be9g8aafg081dc84ab711" version="1">반사의 마법</content>
+  <content contentuid="h018ccd09g8095g4c9bg95acg7713b8ebc8c6" version="1">착용자가 &lt;br&gt;[1]에 &lt;LSTag Tooltip="Immune"&gt;면역&lt;/LSTag&gt; 상태가 되지만, 모든 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt; 값이 &lt;b&gt;[2]~[3]&lt;/b&gt; 감소합니다.</content>
+  <content contentuid="h5b01fcd6g5c36g4bcdgab45g4b092b365ffe" version="1">신비의 점액질</content>
+  <content contentuid="hc570c6aeg02bcg4e54gad4ega36336599ec0" version="1">&lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;을 할 때마다, 무작위 물약 &lt;b&gt;[1]~[2]&lt;/b&gt;개를 획득합니다.</content>
+  <content contentuid="h7c6b3b2fg3726g42d3g823eg5621d04a1aef" version="1">위저드의 자수정 펜던트</content>
+  <content contentuid="h8f178f18gb4c8g4450gb591g004f47cb58a9" version="1">이 아름다운 목걸이는 겉보기엔 단순한 장식구처럼 보이지만, 표면을 자세히 들여다보면 룬 문자가 새겨져있음을 알 수 있습니다. 룬은 때때로 마법적인 효과를 발산하기에, 이 장신구를 계속 지니고 다니다보면 분명 예상치 못한 능력과 효과를 발휘하게 될지도 모르는 일입니다.</content>
+  <content contentuid="hff05a292gb6ceg4968g97c8gfee876065e1b" version="1">정밀한 룬</content>
+  <content contentuid="hde9b74ecg78d0g4b1fg98b0g6b7c1a4d511b" version="1">&lt;br&gt;원거리 주문의 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt; 증가하지만, &lt;b&gt;[2]&lt;/b&gt;레벨 &lt;LSTag Tooltip="SpellSlot"&gt;주문 슬롯&lt;/LSTag&gt;이 &lt;b&gt;[3]&lt;/b&gt; 감소합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[4]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h6827629fga5e0g4b23gb600g6a6d4ee30313" version="1">엘프 여왕의 귀걸이</content>
+  <content contentuid="h268da6dfge4a7g46e4gacf8g28399ec584be" version="1">하이 엘프의 정교한 세공술이 엿보이는 장신구로, 그 세월 속에서도 마모된 곳 없이 온전히 보존된 것으로 보입니다. 귀걸이에 박혀있는 보석에서는 어떤 강력한 마력이 깃들어있는 듯이 희미한 광채로 빛나고 있습니다. 이 귀걸이를 착용하면 분명 정치적 계략이나 외교적 능력부터 많은 매력적인 능력들을 가지게 될 것입니다.</content>
+  <content contentuid="hd4ceb83eg6bbbg41e7g9d40g7e0fe3934b65" version="1">엘프의 지혜</content>
+  <content contentuid="hc73df27eg397eg4a89gb9c8g9aadc5bf76f8" version="1">모든 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;이 &lt;b&gt;[1]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="heaccf30bg66dag4e3fga6c2gd7f18873e7a5" version="1">말라의 늑대 애뮬릿</content>
+  <content contentuid="h69c94b0dga6d0g47fag8ee3gb201ff67f998" version="1">한 눈에 보기에도 강력한 신성이 깃든 유물처럼 보이는 이 목걸이는, 정확히 누구에 의해 제작된 것인지는 알 수 없으나 사냥의 신 "말라"를 숭배했음은 분명해보입니다. 애뮬릿을 착용하자, 야수의 힘이 깃드는 듯한 강한 활력이 느껴집니다. 하지만, 이런 강력한 신성이 깃든 부적을 함부로 다루는 것은 꽤나 위험을 동반할 수 있는 일일 수도 있으니 주의해야할 것입니다.</content>
+  <content contentuid="h1b6f5c2ag4211g4a26gb69agd32c311b7abb" version="1">강력한 늑대의 권능</content>
+  <content contentuid="h9bc35363g4848g4c98g8b0dg70cf6f3b058f" version="1">&lt;b&gt;&lt;LSTag Tooltip="Athletics"&gt;운동&lt;/LSTag&gt; 판정에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다. &lt;b&gt;인간형&lt;/b&gt; 유형의 적이 공격할 때, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Disadvantage"&gt;불리 보정&lt;/LSTag&gt;을 받게 됩니다. &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;험지&lt;/LSTag&gt;에서도 이동 속도가 감소하지 않게 됩니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="hff103d0ag2a83g4876g9af1g68877249b887" version="1">드워프 왕의 황금 애뮬릿</content>
+  <content contentuid="he7657a33g6417g4efbga5e5g62bb6f541dff" version="1">애뮬릿의 이 섬세한 세공 기술만 봐도, 고대 드워프 왕국에서 아주 중요한 유물이었음을 짐작할 수 있습니다. 열만 살짝 가해봐도 뛰어난 금 합금 기술에 감탄할 수 밖에 없게 되는데, 열을 가하면 애뮬릿 안에서 희미한 전기장이 퍼져나가는 듯한 기운이 느껴집니다. 오랜 연구 끝에 밝혀진 바에 따르면, 이 유물에는 착용자에게 다가오는 발사체의 속도를 늦추는 방호 마법이 부여되어 있다고 합니다. 이제, 이 힘과 능력을 어떻게 사용할지는 오롯이 착용자 본인에게 달려있을 것입니다.</content>
+  <content contentuid="h2011c7f0gbb6bg4f18gb0a0gcecec2e756db" version="1">감속의 전류 장치</content>
+  <content contentuid="hb9e56edeg7591g436dgb80cg64a404f3e9fb" version="1">&lt;br&gt;원거리 공격으로 받는 피해량이 &lt;LSTag Tooltip="Strength"&gt;힘&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;보정치&lt;/LSTag&gt;의 두배만큼 감소합니다. 모든 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;의 굴림 값이 &lt;b&gt;[1]&lt;/b&gt; 감소합니다.</content>
+  <content contentuid="hda4af7d0g7265g47a8g953eg745cf078e2fa" version="1">황혼의 기사단의 핀</content>
+  <content contentuid="he71b36edge8e7g4190gb7d7g9ae55f530c8f" version="1">핀을 손에 쥐는 순간, 살을 에는 듯이 날카로운 냉기가 온몸을 휘감기 시작합니다. 알 수 없는 마력이 작용하여 핀을 심장 근처에 착용하도록 유도하는 것만 같습니다. 핀을 달고나니, 엄습해오는 파멸에 대한 불안감과 압도감에 경외심마저 느껴지게 됩니다. 핀의 디자인으로 보아할 때, 이는 이 안에 고대 기사단의 사악한 마력이 깃들어있음이 분명해보입니다.</content>
+  <content contentuid="h45f02a60g2eb6g4335g971bg5f381ba77a99" version="1">생명 전이의 저주</content>
+  <content contentuid="hf8a638edgca40g4787g8f5cgd7c602e2b1e5" version="1">&lt;br&gt;&lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 &lt;b&gt;[2]%&lt;/b&gt;이하일 때, &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;근접 무기 공격&lt;/LSTag&gt;이 &lt;b&gt;[1]&lt;/b&gt;을 추가로 입힙니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[3]&lt;/b&gt; 레벨마다 증가합니다.</content>
+  <content contentuid="hc170f4f5g648ag4daag83d4g6f931213998f" version="1">서리 거미의 애뮬릿</content>
+  <content contentuid="hbecca459g82dbg48acg9f2cga2d79d09039b" version="1">애뮬릿을 바라보다보면, 눈 앞에 눈보라가 일고 있는 듯한 환각에 빠지게 됩니다. 그렇다고해서 호기심을 이기지 못하고 애뮬릿에 손을 대면, 살을 에는 듯한 냉기에 손바닥이 타들어가는 격통이 느껴지게 될 것입니다. 분명 유물 안에 엄청난 마력이 깃들어있는 것 같습니다.</content>
+  <content contentuid="h2a92a05bgfb1bg46f9g81c8g107984571ed1" version="1">서리 서린 공포</content>
+  <content contentuid="ha3408907g570cg4463g940bg7f071a209a4c" version="1">&lt;br&gt;&lt;LSTag Tooltip="Stealth"&gt;은신&lt;/LSTag&gt; 판정에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻으며, &lt;b&gt;숨기&lt;/b&gt; 상태에서 공격 시 &lt;b&gt;[2]&lt;/b&gt;를 추가로 입힙니다. &lt;br&gt;&lt;br&gt;이 효과는 착용자의 &lt;LSTag Tooltip="Dexterity"&gt;민첩&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;보정치&lt;/LSTag&gt;에 따라 달라집니다.</content>
+  <content contentuid="hb331c082g1662g4085g88fdg47f83f1208ee" version="1">얼음 여왕의 펜던트</content>
+  <content contentuid="h1d473aafgf378g41bfg865dgb71b180823a0" version="1">펜던트를 목에 걸자, 얼음을 찾고 싶은 강한 충동이 밀려오기 시작합니다. 서둘러 얼음 조각을 찾아 손에 대자, 강력한 마력의 흐름이 온 몸을 관통합니다. 이 펜던트가 어디에서 온 건지는 불분명하지만, 아무래도 고대의 강력한 마법사의 영혼이 펜던트 안에 깃든 것으로 보입니다. 분명 이 유물에는 강력한 마법의 힘이 숨겨져있을테지요.</content>
+  <content contentuid="h82f6de8bg134cg47d4g8109gd3c46282abd5" version="1">여왕의 영혼</content>
+  <content contentuid="hb5831730gd94fg46f0g878dg6099a010e474" version="1">주문 혹은 소마법 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;의 값이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="he8c34531gee72g47edgbc83g00a3b8224c0c" version="1">서리의 인도</content>
+  <content contentuid="h09308fdfg6bfag49acgaf2cge27f44065732" version="1">&lt;br&gt;&lt;b&gt;얼어붙은 표면&lt;/b&gt; 위에 서있으면 &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="FROZEN_EXTRACTION"&gt;여왕의 영혼&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="hf9248910gd1b7g4b90gb00fg87139152ce8a" version="1">눈부신 광휘의 펜던트</content>
+  <content contentuid="h225bca71g003ag49afg9866g8ebf7eacf7e7" version="1">황금빛 보석에서 뿜어내는 빛이 너무나도 강렬하여 눈을 뗄 수 없을 정도입니다. 빛을 견뎌내며 목걸이를 착용하자, 순간 여명의 광휘가 몸 속을 타고 흘러들어오는 듯한 기분이 듭니다. 과거, 이 펜던트를 착용했던 팔라딘은 과연 어떤 운명을 맞았던 걸까요? </content>
+  <content contentuid="hab9e38c7g5f5ag4a0bg8207g545262abb7f4" version="1">광휘의 정수</content>
+  <content contentuid="h5a7998c8g5667g4028gb42ag3c51562c979b" version="1">&lt;br&gt;[1]로 공격하면, &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 실패한 적을 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;실명&lt;/LSTag&gt; 상태로 만듭니다.[1]에 &lt;LSTag Tooltip="Vulnerable"&gt;취약성&lt;/LSTag&gt;을 얻습니다. &lt;br&gt;&lt;br&gt;실명 지속 시간은 &lt;b&gt;[3]&lt;/b&gt;레벨마다 증가합니다.</content>
+ <content contentuid="h334f24a9g42b0g462egb3bfg2ac564acce71" version="1">비전 제작사를 위한 장신구 상자</content>
+  <content contentuid="hf1e530c1gcc9ag4a78gae3dg3bffb1076854" version="1">비전 제작의 전문가들을 위한 제작 재료인 영계의 결정체, 마법 가루, 천상의 조각 등이 들어있습니다.&lt;b&gt;일반적인 플레이에서는 사용하지 말아주세요!!&lt;/b&gt;</content>
+  <content contentuid="h3edb8bccgad54g4ed5g8525g1378f74cc793" version="1">테이의 전투 부적</content>
+  <content contentuid="h6e7c8566g481dg46f5gae3ag4a1af50974fc" version="1">끔찍해보이는 외관과는 달리 아주 강력한 힘을 품고 있는 유물로, 붉은 마법사와는 거래로 얻어낸 것이거나, 아니면 이미 죽은 그들의 시체로부터 회수한 전리품으로 보입니다. 테이의 마력이 깃든 이 강력한 부적은 분명 전투에서 아주 유리한 고점을 점하게 해줄 것입니다.</content>
+  <content contentuid="h4aacfb15g85d8g4be2g9693g2fc25a35e76b" version="1">핏빛 부적의 미지의 권능</content>
+  <content contentuid="h33bba3f3geda8g4fc4gb42cg30b517b9c763" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intimidation"&gt;협박&lt;/LSTag&gt; 판정이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. 전투가 시작되면 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태가 됩니다. 또한, 적에게 가하는 &lt;b&gt;모든&lt;/b&gt; 공격이 &lt;b&gt;추가로&lt;/b&gt; [2]를 입힙니다.&lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[4]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="he0afcb53g23adg4573ga82bg198ba3faba3c" version="1">물의 술사의 애뮬릿</content>
+  <content contentuid="h46671495gc199g4c62g89c4gbdc041918e75" version="1">중앙에 커다란 진주만 박혀있는 소박해보이는 이 애뮬릿은 바다의 색으로 번뜩이며 금방이라도 파도가 흘러나올 것만 같은 기운이 느껴집니다. 물의 술사들의 것으로 보이며 그들의 의식에 사용되는 물건인 것 같습니다. 음, 분명 이거라면 어디서든 목욕물을 소환할 수 있지 않을까요?</content>
+  <content contentuid="hf0cbb66eg4abbg46f4g9188g9fe41129f614" version="1">보호의 물</content>
+  <content contentuid="h8da0b360g4104g4309g9977g4d65ad69034c" version="1">&lt;br&gt;피해를 받으면 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="WET"&gt;젖음&lt;/LSTag&gt; 상태가 되고, &lt;b&gt;물 웅덩이&lt;/b&gt;(&lt;b&gt;[1]&lt;/b&gt;)를 생성하며 모든 지형 효과를 제거합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동됩니다.</content>
+  <content contentuid="ha6a1e070gb7b4g4625gb0f4gce0e6600d01b" version="1">노움의 시계 장치</content>
+  <content contentuid="h97e3dab7gde03g4941g9fd0gb538e542d9e5" version="1">이토록 정밀한 기계장치는 본 적이 없습니다. 매끄러운 금속 표면하며, 복잡한 기계 바늘들, 이리저리 나있는 스위치, 거기에 희미하게 서려있는 어두운 마력까지- 노움 장인의 손에 만들어진 유물이 틀림없을 것입니다. 지나가는 노움들에게 자문을 구해보니, 이것의 정체는 "고급 시계 장치"이며, 시간을 멈추고 조종하며, 시간을 여행하는 기능까지 가지고 있었다고 합니다. 아쉽게도 이것은 이미 오래전에 고장이 난 상태인 것으로 보이지만 말이죠.</content>
+  <content contentuid="hefa418e9g64c3g480dgb73bgb1dc6aa34d0a" version="1">시간 마법의 잔재</content>
+  <content contentuid="h9d22bd79g4a4eg4b21g8e3egaf407c4e2391" version="1">&lt;br&gt;&lt;LSTag Tooltip="History"&gt;역사&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻으며, 이동 속도가 &lt;b&gt;[2]&lt;/b&gt;만큼 증가합니다.</content>
+  <content contentuid="h3f4e2d19g8a2dg417cg9a5fg043c943932df" version="1">바깥세계의 죽음</content>
+  <content contentuid="h8c6d0f25g4a91g434dgb136g3b1b0ddb98dc" version="1">처음 애뮬릿을 봤을때 특별한 건 없어보이는 일반적인 장신구와도 같았습니다. 그러나, 햇빛을 비추자, 금속이 빛을 전혀 반사하지 않는다는 사실과 함께 이질적인 창백한 녹색의 빛을 발산한다는 점을 알아냈습니다. 고대 문헌들을 면밀히 조사해본 결과, 이 유물에는 손을 대지 않는 것이 좋다는 결론에 다다르게 되었지요. 그러니, 이 애뮬릿은 그냥 팔아버리거나 어딘가에 버리는 편이 더 나을 것입니다.</content>
+  <content contentuid="h13c182a6gabf6g4301g966ag1092929dac75" version="1">죽음의 숨결</content>
+  <content contentuid="h9ab43e33ge3f5g4187g9f9bg0cd73c1ac0f3" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;가 &lt;br&gt;&lt;b&gt;[2]&lt;/b&gt;만큼 감소합니다. &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 &lt;b&gt;[1]%&lt;/b&gt;이하인 &lt;b&gt;인간형&lt;/b&gt; 유형의 적을 공격할 때, [3]를 추가로 입힙니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="hc3abaa56gc2e1g4ebdgb789g9fdc8c3e06ca" version="1">영계의 로켓</content>
+  <content contentuid="hc9447952g7da1g4d19g858fg775c9d25c1c4" version="1">반 쯤 부서진 골동품 목걸이를 보고 있자니, 끝없는 광채 속으로 빨려들어가는 듯한 기분이 듭니다. 아무래도 이 유물은 확실히 위험해보이는 느낌이 들어, 후에 동료들과 더 자세히 유물을 살펴보기로 했고 놀라운 사실을 발견하게 되었습니다. 이 보잘 것 없는 로켓이 한 때 엄청난 힘을 담고 있던 그릇이었다는 사실을 말이지요. 그 힘들의 대부분은 영계로 흩어져 사라져버렸고, 로켓에 남아있는 영계의 잔재만이 남아 미약한 기운을 뿜어내고 있습니다. </content>
+  <content contentuid="he791853fg5330g4e4cg9b1eg32bb72b8d068" version="1">부서진 차원문</content>
+  <content contentuid="h9e2cf5eeg9609g4969gb2e7g90a12cf8fdf7" version="1">&lt;br&gt;&lt;b&gt;[1]&lt;/b&gt; 이하의 피해에는 더이상 &lt;b&gt;피해를&lt;/b&gt; 입지 않게 됩니다. &lt;br&gt;행동 소모시 &lt;b&gt;확률적으로&lt;/b&gt; &lt;b&gt;영계&lt;/b&gt;로 잠시 추방될 수도 있습니다.</content>
+  <content contentuid="h201284a9g0a9eg4277g8789gc4cc7be901d0" version="1">주술사의 폭풍 펜던트</content>
+  <content contentuid="ha6335468gd3bcg4690gb34eg7baffb2d29b2" version="1">이것은 어느 부족에서 주술적인 목적으로 사용되었던 목걸이로 보입니다. 미약한 마력만을 품고 있는 다른 장신구들과는 달리 이것 안에는 자연의 정수가 깃들어있어, 마법사들에게 유용하게 쓰일 수 있을 것 같습니다.</content>
+  <content contentuid="hc945f9a1g80e3g4368gadefge455ccbf81db" version="1">주술사의 폭풍</content>
+  <content contentuid="h37126f54g5cc1g47bfg94e3g5101c8dc62f2" version="1">&lt;br&gt;주문을 빗맞출 경우, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="NECK31"&gt;폭풍의 지원&lt;/LSTag&gt;을 얻게 됩니다.</content>
+  <content contentuid="hade3c18age740g4574g899bga703f8b3216c" version="1">폭풍의 지원</content>
+  <content contentuid="h42a13461g82f7g44a6gb00dg2230d7fb7372" version="1">&lt;b&gt;주문&lt;/b&gt; &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]~[2]&lt;/b&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="h449e7889gd107g4267ga9eag57289dd4ee09" version="1">라샌더 신도의 펜던트</content>
+  <content contentuid="h0e8bd0b7g75dfg42f2gb2f0g7bca942488f7" version="1">펜던트에는 자체적인 정화의 힘이 있어 먼지 한 톨조차 내려앉지 않을 정도로 깨끗한 모습을 하고 있습니다. 심지어는 일부러 더럽히려 흙을 묻히거나해도 전혀 묻어 나오지 않을 정도였지요. 수정 구체 안에는 마치 빛이 살아 숨쉬는 것 같으며, 수정을 깨고 나오려는 듯 내부에서 찬란한 빛이 뿜어져나오고 있습니다. 이것은 단순 정화의 기능만을 하는 것이 아닌, 착용자에게 어떤 빛의 힘까지 부여해주는 강력한 유물 인 것 같습니다.</content>
+  <content contentuid="h4f822388gbfceg49a3g950dg4e07ea67b36a" version="1">소각의 빛</content>
+  <content contentuid="h43906867g4f59g4527gbbbfga518ef4e2a9b" version="1">중첩된 효과당 모든 공격이 &lt;b&gt;추가로&lt;/b&gt; [1]를 입힙니다. &lt;br&gt;&lt;br&gt;최대 &lt;b&gt;[2]&lt;/b&gt;까지 중첩이 가능하며, 시간이 지나면 효과가 사라집니다.</content>
+  <content contentuid="h3590b4bdg40f1g4fccgb6e7ga30ed75cc0fe" version="1">정화하는 여명</content>
+  <content contentuid="h58efea09g1d3ag43b0g9707ga54b33abcd6b" version="1">&lt;br&gt;전투 중 치유하면, &lt;b&gt;[2]%&lt;/b&gt;의 확률로 &lt;b&gt;[1]&lt;/b&gt;의 &lt;LSTag Type="Status" Tooltip="NECK32"&gt;소각의 빛&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="ha4cbfc80gb64cg4b0ega13bgaa706e45ac9c" version="1">잊혀진 숲의 펜던트</content>
+  <content contentuid="hd5f99e3eg5025g4524gbe1eg30b7a63adb5d" version="1">이 고대의 장신구는 한 때 드루이드 숲에서 사용되었던 것으로, 놀라울 정도로 잘 보존되어있는 모습으로 보아 오래전 잊혀진 드루이드 공동체들의 의식에서 아주 중요한 역할을 하던 유물이었을 것입니다. 나무껍질로 감싸져있는 펜던트의 녹색 수정은 태양빛을 받으며 따스한 온기를 발산하고 있으며, 손을 뻗어 수정에 닿는 순간, 자연 그 자체와 연결되는 듯한 공명이 느껴집니다. 하지만, 반대로 이 펜던트야말로 잊혀진 숲의 드루이드 공동체를 파멸로 이끌었던 유물인 건 아니었을지요?</content>
+  <content contentuid="h03741301g5271g4f62g8223g5abdc2a4f6f9" version="1">친근한 자연</content>
+  <content contentuid="h15898e29g0238g44b0g8e3ag016eca5928c5" version="1">&lt;br&gt;&lt;LSTag Tooltip="Nature"&gt;자연&lt;/LSTag&gt; 판정에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다. &lt;b&gt;식물과 덩굴&lt;/b&gt;이 뒤덮인 표면 위에서도 이동 속도가 감소되지 않습니다.</content>
+  <content contentuid="hea20b6f4g12e5g4851g82c7g4f9c4687f46a" version="1">수 많은 영혼이 깃든 호박석</content>
+  <content contentuid="h2bfe661fg0c51g4802gb488gb6e73db8ba18" version="1">여러 갈래의 균열이 나있는 이 호박석은 보기만해도 이상할 정도의 불안감이 느껴집니다. 평범한 보석이 아닌 것 같은 이것의 특성을 알아내기위해 몇 차례 실험과 연구를 거친 결과, 햇빛이 없는 곳에선 내부에서 옅은 선홍색 빛을 발산하는 사실을 발견할 수 있었고, 호박석에 깃든 마력의 잠재력을 활용하기 위해서는 돌을 머리 가까이 두어야한다는 것도 알아냈습니다. 그래서 급한대로 호박석을 은제 펜던트에 달아 목걸이로 만들게 되었습니다.</content>
+  <content contentuid="hb2dbb97eg6fb0g4abfga996g8aa229400a9f" version="1">선홍빛 영혼</content>
+  <content contentuid="h3e63b9b2g6ef0g454ag8825g062d73765f22" version="1">&lt;br&gt;&lt;b&gt;빛&lt;/b&gt;을 받고 있지 않은 상태에서 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 &lt;b&gt;[2]%&lt;/b&gt;이하일 경우, 턴이 &lt;b&gt;시작될 때마다&lt;/b&gt; &lt;b&gt;[1]&lt;/b&gt;을 회복시킵니다.</content>
+  <content contentuid="h3fc36c9fgd4abg4bffgba2agde1c05943227" version="1">최고위 성기사의 펜던트</content>
+  <content contentuid="h2c82442dgd0a4g492ag83ceg6a4eee39c46d" version="1">수 많은 필사본들에서 읽었던 한 전설이 떠오릅니다, "최고위 성기사의 유물들을 모두 모은자, 신의 권능을 얻고 승천에 오르리라." 바로 당신의 눈 앞에 그 유물들 중 하나가 있군요. 펜던트에서 뿜어져나오는 광휘가 온 몸을 감싸며 강력한 신성의 힘이 느껴지는 듯 합니다. 하지만 이내 곧 어째서 이제껏 잠잠했던 유물이 이제서야 깨어나게 된 것인가에 대한 의문이 들기 시작합니다. 왜 하필 당신이 손에 쥐었을 때 유물의 힘이 깨어나게 된 것인지를. 이것은 단순한 우연에 불과했던 걸까요, 아니면 필연인 것일까요?</content>
+  <content contentuid="h5cb847abgaf4dg4872g84d3g6d0557459fc8" version="1">신성한 임무</content>
+  <content contentuid="h2dc57631gf148g4e70g8131g1feddb41067b" version="1">&lt;br&gt;&lt;b&gt;부상&lt;/b&gt;을 입지 않은 상태의 적을 &lt;b&gt;공격&lt;/b&gt;하면 즉시 자신의 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;의 &lt;b&gt;1/3&lt;/b&gt;을 회복합니다. 또한,[1]의 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;을 얻습니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동됩니다.</content>
+  <content contentuid="h05307954g7b0ag48a5gba91g5c9ac924ef22" version="1">붉은 빛의 펜던트</content>
+  <content contentuid="ha5d9bd78g88ddg469dg9663g61555f110ac2" version="1">이 완벽하게 연마되어있는 아름다운 루비를 바라보다보면, 루비 내부에서 무언가 미세하게 움직이고 있는 듯 합니다. 자세히 들여다보니 그것들은 춤을 추고 있는 작은 붉은 빛의 요정들이었으며, 끊임없이 원을 그리며 움직이고 있습니다. 곧, 당신의 시선을 눈치 챈 요정들이 화가 난 듯 날카로운 소리를 울리기 시작하지만 이내 잠잠해지며 당신을 돕기위한 마법을 준비하는 것 같습니다. 하지만, 이 변덕스런 요정들이 무슨 도움을 줄지는... 두고봐야 알 문제겠지요.</content>
+  <content contentuid="h6645fe14g464ag4af5g9417g1b067865f093" version="1">붉은 요정의 마법</content>
+  <content contentuid="h6a7fd847gdc99g493bg8966g6bac288020a6" version="1">턴이 &lt;b&gt;시작&lt;/b&gt;될 때마다, [1]을 회복시킵니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="hb69e9599g7dc7g4128g91eagdb37b9597b6c" version="1">요정의 매혹적인 춤사위</content>
+  <content contentuid="h3603ae99ge3ceg41a2g817cg09e1341ed1f7" version="1">&lt;br&gt;&lt;LSTag Type="Status" Tooltip="RAGE"&gt;격노&lt;/LSTag&gt; 상태가 되면, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="NECK36"&gt;붉은 요정의 마법&lt;/LSTag&gt;을 얻습니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;전투 당&lt;/b&gt; 한 번씩만 발동됩니다.</content>
+  <content contentuid="h75be6665ga2c0g48efg8e7aga96b8cd1c011" version="1">평온한 밤의 펜던트</content>
+  <content contentuid="ha9e97090gb384g4aaag9400ga7913166368e" version="1">검게 그을린 자국이 여기저기 남아있는 펜던트의 뒷면에는 이런 글귀가 새겨져있습니다. "이 장신구를 착용한 자에게 평온이 깃들기를." 이런 유물로 평온함을 찾을 수 있었다니, 당신은 유물의 효능에 의구심을 품기 시작했습니다. 어쩌면 이전에 이 마법을 걸었던 마법사가 실수를 했거나... 다른 마법이 덧씌워진 것일지도 모르겠습니다.</content>
+  <content contentuid="h5149523eg4619g4be6g97c3g1f4f1a8bfba1" version="1">재로 뒤덮인 평온</content>
+  <content contentuid="hb54b7e68g2870g46d9g83a0g0dae6dd9e464" version="1">&lt;br&gt;&lt;b&gt;재&lt;/b&gt;로 뒤덮여있는 표면 위에 서있는 상태에선 &lt;LSTag Tooltip="Concentration"&gt;집중&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 대한 &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;을 받습니다.</content>
+  <content contentuid="hfc773b90g540cg4677gb307g4e4826b613be" version="1">몽크의 영혼이 깃든 펜던트</content>
+  <content contentuid="h5cf6cc78gcf63g4b4fga20ag0c5f1f670bc6" version="1">펜던트를 손에 쥐려해도 마치 기름이라도 발라놓은 것처럼 계속해서 손에서 미끄러져 떨어져버립니다. 펜던트에 박혀있는 정교하게 세공된 에메랄드는 펜던트를 어떻게든 붙잡으려는 당신의 움직임을 조롱하기라도 하려는 듯, 반짝이고 있을 뿐입니다. 혹시 이 펜던트의 마력을 다루기 위해서는 특별한 기술이 필요했던 것은 아니였을까요?</content>
+  <content contentuid="hb54fd8b9g4fdcg43efg9879g3dd0df2b1ae5" version="1">사악한 영혼의 도움</content>
+  <content contentuid="h9dbfbc41g5b20g4866g92a8ge31fb77e7c3c" version="1">착용자의 &lt;b&gt;비무장 공격&lt;/b&gt;이 빗나가면, &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;보조 행동&lt;/LSTag&gt;을 회복시킵니다.</content>
+  <content contentuid="hbb4268d0gfb4eg4b66g9f64g2b61bdf6fae0" version="1">마법의 청금석 펜던트</content>
+  <content contentuid="h49b81164g3b7ag440fga27fg4953111316ce" version="1">이 오래된 보석의 가치를 알아보는 건 그렇게 어려운 일이 아니었습니다. 이것은 고대의 마법이 깃들어있는 청금석으로, 보석을 부수려하면 보석에 내제되어있는 강력한 마법이 반응하는 성질을 가지고 있었습니다. 그러나 동시에 마법이 발동되면 주변 모든 사람들을 광기에 빠뜨리는 부작용도 갖고 있었으나, 다행인지 불행인지 이름 모를 누군가에 의해 개조된 덕에 보석의 광기 주문이 많이 미약해져 비로소 실용적으로 쓰일 수 있게 되었습니다.</content>
+  <content contentuid="h9bdd68efga20ag402cga6fbg17b809e0fed5" version="1">청금의 분노</content>
+  <content contentuid="h078f4a5dg3379g4c03g911egd38a5c21cf10" version="1">&lt;LSTag Tooltip="SpellDifficultyClass"&gt;주문 내성 난이도&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다. 턴이 끝날 때 &lt;b&gt;[2]&lt;/b&gt;를 입습니다.</content>
+  <content contentuid="h592ce013gb779g458bg8fc1ge173124ec13c" version="1">조율된 마법의 청금석</content>
+  <content contentuid="ha850c6e9gcc15g46f7gaac1g1178e0722887" version="1">&lt;br&gt;주문 피해를 받으면, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="NECK39"&gt;청금의 분노&lt;/LSTag&gt;를 얻습니다.</content>
+  <content contentuid="hc3ed30f7gbc3fg4f03g9835gb60f4a9e9853" version="1">생각을 훔치는 애뮬릿</content>
+  <content contentuid="h73392d7dgf1a7g485agaf9egb1f81be05609" version="1">애뮬릿 중앙에 박혀있는 아름다운 진주를 바라만 보기만해도 정신을 빼앗길 것만 같은 신비로운 기분이 듭니다. 그 기묘한 매혹을 이겨내고 정신을 차린 뒤 애뮬릿을 착용해보지만, 이미 당신의 생각의 일부는 애뮬릿에게 빼앗겼다는 사실을 깨닫게 되었습니다. 정말 사악한 마법이 아닐 수 없군요! 하지만, 역으로 이 마법을 당신의 힘으로 만들 수 있다면 어떨까요?</content>
+  <content contentuid="hdfcb6aa1gb62cg4482g8ad1g9c47c0420a1a" version="1">애뮬릿의 보호의 오라</content>
+  <content contentuid="h3f9935d9gdeb8g4a0bga5f5g3c13905daba4" version="1">&lt;br&gt;[1]에 &lt;LSTag Tooltip="Resistant"&gt;저항&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="hcb216f91g2f4dg4268gb25dg6588b2f90912" version="1">찬란한 다이아몬드 애뮬릿</content>
+  <content contentuid="h06c61283g9704g4127g970eg3a9ca39566dc" version="1">정교하게 세공된 이 아름다운 애뮬릿은 얼핏보면, 그저 치장을 위한 장신구 같이 보일 뿐입니다. 혹시나 하는 마음에 다이아몬드를 살짝 입으로 깨물어 보았지만, 치아만 깨질 듯 아플 뿐이군요. 별 다른 마법도 없어보이고, 모든 게 평범해보이는 애뮬릿이지만... 뭐, 예쁘면 그만 아니겠어요?</content>
+  <content contentuid="hb7d260b7g15b4g4e3fg9c27g8e5b6635f723" version="1">극한의 존재감</content>
+  <content contentuid="he5bef6fcgc5bbg43degafb2g0d36f4e4fb35" version="1">&lt;br&gt;&lt;LSTag Tooltip="Persuasion"&gt;설득&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;&lt;br&gt;&lt;LSTag Tooltip="Performance"&gt;공연&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;&lt;br&gt;&lt;b&gt;상인&lt;/b&gt;과의 거래 가격이 향상됩니다.</content>
+  <content contentuid="hde1952f4ga942g4fa9g8bd6g3e5875d408d9" version="1">노움의 기계식 반지</content>
+  <content contentuid="h1d5189f0gd78eg4339g821eg56be439c980e" version="1">정밀한 기술로 만들어진 것으로 보이는, 얼핏보면 그냥 기계 장치 같은 이 반지에는 기묘한 마력이 깃들어 있는 것 같아보입니다. 그러나 겉면만 봐서는 특별히 활성화하는 장치 같은 건 없는 것 같군요... 그러다 우연히 반지에 새겨져있는 미세한 홈을 발견한 당신은, 이 반지가 본래 두 개의 조각으로 이루어진 물건이란 걸 깨닫습니다. 그렇담 나머지 조각은 어디에 있는 걸까요?</content>
+  <content contentuid="hca22cca0g5a4bg4f56gab01gc3db1a3a2ad2" version="1">민첩의 부적</content>
+  <content contentuid="hd6f207ccg4b0fg4d31g9dc8gb7bc5d2bec86" version="1">&lt;br&gt;&lt;b&gt;두번째&lt;/b&gt; 기계 부품과 함께 착용하면, &lt;LSTag Tooltip="Acrobatics"&gt;곡예&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt; 증가하며, &lt;LSTag Tooltip="SleightOfHand"&gt;손재주&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. 또한 &lt;b&gt;크기&lt;/b&gt;도 함께 줄어듭니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h5e6cb4e8gf564g4489g9aeag757934bbf2b2" version="1">노움의 기계 장치</content>
+  <content contentuid="hdd69e646g98c4g4f2dgb6ccg3471695ad095" version="1">손에 쥐고 이리저리 돌려봤지만, 별다른 기능은 없어보입니다. 하지만 노움 장인의 솜씨로 만들어진 기계 장치인 만큼, 아직 발견하지 못한 숨겨진 기능이 있을지도 모른 일이지요.</content>
+  <content contentuid="h036699cag747ag41f8g9d01g7311074ff444" version="1">노움의 장난</content>
+  <content contentuid="h6223a767gb500g4261gb67ag4968e68d95af" version="1">&lt;br&gt;&lt;b&gt;크기&lt;/b&gt;가 줄어들고, 캐릭터의 &lt;b&gt;체격 등급&lt;/b&gt;도 &lt;b&gt;[1]&lt;/b&gt; 줄어듭니다.</content>
+  <content contentuid="h5841740cgebb8g4080g913fgca25e958f6ec" version="1">동료 살해자</content>
+  <content contentuid="h41c435b9ga326g4aedgb41bg3b5604f8fe61" version="1">겉보기엔 특별할 것 없이 평범해보이는 반지지만, 반지를 손에 쥐는 순간 기분 나쁜 전율이 온 몸을 감싸기 시작합니다. 아무래도 과거 이 반지를 지녔던 자들의 사악한 힘이 깃든 마력이 이 반지에도 남아있던 것으로 보입니다. 사악한 기운을 애써 누르며 반지를 착용한 순간, 극한의 위기 상황에서 동료를 희생시키면 자신만은 살아남을 수 있을 것 같은, 섬뜩할 정도로 생생한 확신감이 느껴지며 소름이 돋기 시작합니다. 실로 굉장히 무서운 유물이 아닐 수 없습니다.</content>
+  <content contentuid="h8a549642gf148g4d44gb0f1gcd3e7118dcba" version="1">악의 정수</content>
+  <content contentuid="h1b4aacc1gcd8ag4d7dgb703gef64616c0c67" version="1">&lt;br&gt;&lt;b&gt;아군&lt;/b&gt;을 대상으로 한 &lt;b&gt;모든&lt;/b&gt; 공격이 추가로 &lt;b&gt;[3]&lt;/b&gt;를 입힙니다. &lt;br&gt;&lt;br&gt;또한, 아군에게 피해를 입힐 경우, &lt;b&gt;[2]&lt;/b&gt;을 회복합니다. &lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동되며, &lt;br&gt;&lt;br&gt;레벨이 오를 때마다 &lt;b&gt;효과가&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h66d0ba40g5c3eg4812g977dg35faa548cece" version="1">기념 반지</content>
+  <content contentuid="hd1ddd911g7786g4413g8118g89f18c10e2d7" version="1">이리저리 시도하다 간신히 반지의 안 쪽을 들여다보니, 희미하게 새겨져있는 각인이 눈에 들어옵니다. "위저드에게서 직접 마법 부여를 받은 반지라네, 부디 좋은 일에 사용하도록 하게나! - O.E." 확실히 반지에는 건강을 증진 시키는 마력이 깃들어있는 듯 합니다.</content>
+  <content contentuid="h5b082f85gc1b5g4b7cg93d0ga7c17ea4e8f7" version="1">건강한 영혼을 위해</content>
+  <content contentuid="h31ebf751g35fag41b6ga940gd11612efcc0e" version="1">&lt;br&gt;&lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt;(최대 &lt;b&gt;[2]&lt;/b&gt;) &lt;b&gt;+[1]&lt;/b&gt;.</content>
+  <content contentuid="h5c0b811cgea25g4498g9648g04a4d048241d" version="1">버드나무 반지</content>
+  <content contentuid="h23d9d048gc6b9g4886gbc34ge968429072c3" version="1">놀라울 정도로 가벼운 동시에 놀라울 정도로 견고하게 제작된 반지입니다. 이 반지가 단순 장신구가 아님을 직감했을 때, 그 직감은 곧 현실이 되었습니다. 땅에 손을 대자 그곳에 야생 덩굴들이 자라나기 시작했기 때문이죠!</content>
+  <content contentuid="h9a73fedag36e4g4705g828fg5b200d3e1553" version="1">숲 은둔자의 마법</content>
+  <content contentuid="h8be97f15g9982g4af9g9324ge1e7e17be27a" version="1">&lt;br&gt;적에게 피해를 입히면 그 발 밑 아래에 &lt;b&gt;야생 덩굴&lt;/b&gt; 표면을 생성합니다.</content>
+  <content contentuid="hd1617d03g5a2fg4f55g89fdgb8f50e032c7c" version="1">공작석 반지</content>
+  <content contentuid="ha19ad787g1fa0g4c74g8466g6041795b082a" version="1">반지를 낀 순간, 당신은 온 몸 가득 평온함과 지혜들이 흘러들어오는 듯한 기분이 들기 시작합니다. 끝없이 이어지는 공작석의 무늬들이 새로운 명상으로 통하는 길을 이어주는 듯 하며, 마법이 생겨나고 창조되는 그 본질에 대한 깊은 통찰을 선사해주는 것만 같습니다. 이는 분명 이 반지가 단순한 장신구가 아닌 진정으로 가치있는 유물이라는 증거일 것입니다.</content>
+  <content contentuid="h8f410befg108ag4f41g9e13g6885991ffe20" version="1">공작석의 마력</content>
+  <content contentuid="h825a6231g1a77g4842gadf6gf65ccf96a92f" version="1">&lt;br&gt;&lt;LSTag Tooltip="SpellDifficultyClass"&gt;주문 내성 난이도&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;.</content>
+  <content contentuid="h2c7982b0g10a9g431dg924eg9e06d3976394" version="1">끓어오르는 바다의 심장</content>
+  <content contentuid="h6c3756e1gfc83g4b9eg83b8g5440c3f5a37f" version="1">당신은 이 신비로운 돌에 대해 어디선가 들어본 적이 있었습니다. "바다의 심장"이라고도 불리우는 이 원석은 심해 왕국에서 유래된 마법의 광물로 아주 극소량만 채굴되는 희귀한 물질이라지요. 지금 손에 쥐고 있는 이 원석은 기묘한 기포들이 이곳저곳에 나있으며, 손에 닿자마자 뜨거운 열기를 뿜어내는 특성을 지니고 있는 것 같습니다. 아무래도 다양한 형태들로 존재하는 광물인 듯 합니다.</content>
+  <content contentuid="h561fb6bcg6188g4777g887cg537ea03c2d30" version="1">끓어오르는 물의 시련</content>
+  <content contentuid="hefa90e4bgaed1g47f4g8134ge9024686e773" version="1">턴이 끝날 때마다, &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)을 시도하며, 성공 시 모든 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;을 회복시킵니다. &lt;br&gt;또한 내성 굴림 성공 여부와는 상관 없이 [2]을 입습니다.</content>
+  <content contentuid="h1482d1b6ge659g402dg95begc5b56a341079" version="1">끓어오르는 바다의 마법</content>
+  <content contentuid="h364dc1e2ga246g4b03g8087gadfac6f7171b" version="1">&lt;br&gt;[2]에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항력&lt;/LSTag&gt;을 얻습니다. &lt;b&gt;물 표면&lt;/b&gt; 위에 서게 되면 &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING07"&gt;끓어오르는 물의 시련&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h0f6683a9ga7dag4210gb9bfgc18e6a08eb79" version="1">통제할 수 없는 분노의 반지</content>
+  <content contentuid="h5105132egb391g4a18gad67g59a6d36c927c" version="1">반지를 손에 끼우자마자, 통제할 수 없을 분노가 요동치며 솟구치기 시작합니다. 이내 그 마력의 흐름에 조금 익숙해지니, 이 힘을 적들에게 향하게 할 수도 있을 것만 같습니다. 분명 이전에 이 반지를 소유 했던 이는 강력한 전투 마법사였을 것입니다.</content>
+  <content contentuid="he2868093g7c5bg4043gbe5eg6189805c2f99" version="1">통제된 분노</content>
+  <content contentuid="hd4569e51g264eg4d63ga4ccgf611ef4f9523" version="1">&lt;br&gt;적에게 피격을 당하면 공격을 반사하여 공격자에게 [1]로 보복합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동되며, 레벨이 &lt;b&gt;오를 때마다&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h29ccc0edga224g49afg8112g0b6bded31dcf" version="1">호박석 반지</content>
+  <content contentuid="h5f6c4846gc5bcg463cg872bg072ba0312e32" version="1">그저 오래된 먼지 쌓인 호박석에 불과한 초라해보이는 반지지만, 어딘가 점점 매료되어가는 듯한 기분이 듭니다. 분명 이 안에는 당신이 이해할 수 없을 어떤 힘이 깃들어 있을 것이며, 그 마력은 당신의 상상을 초월하고 있습니다. 반지를 착용하니, 몸의 체격이 엄청난 크기로 자라나기 시작합니다. 이제 무거운 바위 정도는 간단히 들어올릴 수 있지 않을까요?</content>
+  <content contentuid="h67df49d7g89f0g4134g917cgc54b404b45ca" version="1">확대의 보석</content>
+  <content contentuid="h1dd906aag59f1g49dag84a5gec7473a6be25" version="1">&lt;br&gt;&lt;b&gt;체격 등급&lt;/b&gt;과 &lt;b&gt;무게 중량&lt;/b&gt;이 &lt;b&gt;[1]&lt;/b&gt;만큼 증가합니다.</content>
+  <content contentuid="hdec9144fgd0feg4b6bgba1ag149428af2a04" version="1">궁정 서기관의 반지</content>
+  <content contentuid="h01a35719gdab0g4166g9db6gf0cef9d2e674" version="1">값비싼 금속들의 합금으로 만들어진 이 반지는, 이제는 사라진 고대 제국의 왕실 주조소에서 제작된 것으로 보입니다. 거기에 반지의 정밀한 세공 기술로 미루어보아, 이 반지가 상류층 중에서도 귀족 회의의 서기관들을 위한 것이었음을 짐작할 수 있습니다. 허나 다른 한 편으로는, 반지에 새겨진 마법 문양들은 이 반지가 단순한 장신구가 아닌, 어떤 숨겨진 능력을 가지고 있음을 암시하고 있는 듯 합니다.</content>
+  <content contentuid="h39219573g322ag4145gb1ffg16bbd3408d1f" version="1">서류 작성을 위한 보조 마법</content>
+  <content contentuid="h1126c1f4g09eeg4dc5g935fgebe0847a7145" version="1">&lt;br&gt;&lt;LSTag Tooltip="History"&gt;역사&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;&lt;br&gt;&lt;LSTag Tooltip="Religion"&gt;종교&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;</content>
+  <content contentuid="hf01c0fe1g8224g4dc1g811fg2d598a64d5b3" version="1">궁정 마법사의 반지</content>
+  <content contentuid="h7a619820g8710g4ea9g94ffg7fef74eb90ca" version="1">고대 왕실에서 사용되던 물건으로, 주석 합금 베이스에 금도금이 되어있는 반지에는 세월의 흔적이 고스란히 남아있는 듯 합니다. 반지에 남아있는 희미한 마력으로, 전 사용자가 마법과 관련된 이임을 짐작할 수 있으나, 반지에 새겨진 그 형상이 왕인지 마법사인지에 대한 의문은 여전히 풀리지 않은 채 남아있는 듯 합니다.</content>
+  <content contentuid="h7ec7d67bg3db5g44f8g8c54g86843f9823e7" version="1">고대의 마법의 유대</content>
+  <content contentuid="hcbfb45cfg14acg4741g9635ga8d80bd8ff69" version="1">&lt;br&gt;&lt;b&gt;[1]&lt;/b&gt;레벨의 &lt;LSTag Tooltip="SpellSlot"&gt;주문 슬롯&lt;/LSTag&gt;을 &lt;b&gt;+[1]&lt;/b&gt;만큼 회복시킵니다.</content>
+  <content contentuid="h869f7780g5507g4d93g9b57g71abfd7dbe59" version="1">태고의 룬 반지</content>
+  <content contentuid="h4855943eg06c7g4942g8b5dg012cfd40133e" version="1">역사 속으로 사라졌던 마법적 유물들 중 가장 오래된 기원의 반지를 발견한 것 같아 당신은 흥분에 들뜨기 시작합니다. 반지에 남아있는 마력은 미약할 지 모르나, 그 역사적인 가치만큼은 대단히 흥미롭지 않을 수 없습니다. 반지에 새겨져있는 고대의 룬의 문양들에는 착용자가 에너지를 치유의 파동으로 변환시킬 수 있게끔 돕는 마법이 깃들어져있는 것 같습니다.</content>
+  <content contentuid="h18c018e2gc0b6g4e64ga238gc4ee7c2ef05e" version="1">에너지 전환</content>
+  <content contentuid="hb31d233cg6b7fg4686gb51fg7a4a7fcea4c3" version="1">&lt;br&gt;&lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;번개 충전&lt;/LSTag&gt; 상태일 경우, 피격 시 [1]을 회복합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동되며, &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h5e6da66agf91eg4a60ga278g4c757c031172" version="1">언더다크의 붉은 반지</content>
+  <content contentuid="hc076eb3bgc781g457dgb14egc46e3c502c72" version="1">반지에서 느껴지는 섬뜩한 기운들이 당신에게 경고라도 내리는 것만 같습니다. 분명 이 반지는 사악한 자들에 의해 만들어진 물건인 것만은 확실해보입니다. 하지만 결국 유혹을 이기지 못하고 반지를 손에 낀 그 순간, 끔찍한 악몽과도 같은 환영 속으로 빠져들기 시작합니다. 그리고 그 악몽 속에서 검은 망토의 드로우가 당신 앞에 나타나 이마에 손가락을 짚고는 새로운 능력을 부여해주었습니다. 정신을 다시 차리자, 한층 더 강해짐을 느끼는 동시에, 기억이 모두 희미해져 뭐가뭔지 아무것도 기억이 나질 않습니다...</content>
+  <content contentuid="hfdd1e357ge33eg4513g9b65g4f840a8b652f" version="1">드로우 위저드의 정수</content>
+  <content contentuid="heababb28g3ec8g49eegb1c1gfa4a427e3446" version="1">&lt;br&gt;&lt;LSTag Tooltip="Strength"&gt;힘&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt; &lt;b&gt;-[1]&lt;/b&gt;</content>
+  <content contentuid="h9f141726gcc5bg4a61ga50dg6d781d379072" version="1">언더다크의 푸른 반지</content>
+  <content contentuid="h129a1908g78a4g4272gbd46g307db9a5e3f3" version="1">이 반지를 본 순간, 사악한 자들에 의해 만들어진 것임을 짐작할 수 있었지만, 망설임 끝에 반지를 손에 끼기로 결심합니다. 그리고 반지를 손에 낀 그 순간, 끔찍한 악몽과도 같은 환영이 펼쳐지기 시작합니다. 그리고 그 악몽 속에서 검은 망토의 드로우가 당신 앞에 나타나 이마에 손가락을 짚고는 새로운 능력을 부여해주었습니다. 정신을 차리자, 당신은 두 걸음 앞도 내다볼 수 있을 예지 능력을 얻게 되었지만, 이전처럼 무거운 물건을 자유자재로 들어올릴 수 있는 힘을 잃고 말았습니다.</content>
+  <content contentuid="ha5ec7dbfgdd1cg463cg9eb2ga4dc0e1d9348" version="1">드로우 위저드의 정수</content>
+  <content contentuid="hd99b92d7ga8d5g475ag88a8g83a719bdcec9" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt; &lt;br&gt;&lt;LSTag Tooltip="Strength"&gt;힘&lt;/LSTag&gt; &lt;b&gt;-[1]&lt;/b&gt;</content>
+  <content contentuid="h37418003g3f79g4f04g9444g44d4050ebba4" version="1">골동품 기념 반지</content>
+  <content contentuid="h2287ed89gc03eg4190ga133g902c47b11828" version="1">이 오래되어 보이는 청동 반지는 수 많은 세월들을 견뎌오며, 최소 수십 세대를 걸쳐 전해내려져온 물건인 것으로 보입니다. 반지에 새겨져있는 알 수 없는 기호들은 어떤 운동 종목과 연관이 되어있는 듯 하며, 반지를 손에 끼운 순간, 기호들에서 눈부신 흰색 빛이 나타났다가 사라집니다. 빛이 꺼지고 난 뒤, 당신은 알 수 없는 강한 힘이 몸 속 깊은 곳으로부터 솟구치는 것을 느낍니다.</content>
+  <content contentuid="he0274b4egc546g4ef8gb64bg35a3750ec806" version="1">위장자의 표식</content>
+  <content contentuid="he49a391fg87dbg4f8ag8f94g4020e22024de" version="1">&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;도약&lt;/LSTag&gt; 거리가 &lt;b&gt;[1]&lt;/b&gt;만큼 증가합니다.</content>
+  <content contentuid="hca3295a6g65cdg4786g8710g603904586bde" version="1">조산사의 반지</content>
+  <content contentuid="hdba5a550g090dg4801g929egfbd0f00cb05a" version="1">반지에 달려있는 비취 장식은 고대 어떤 여인을 묘사해놓은 것처럼 보입니다. 그녀의 머리 장식으로 미루어보아, 아마도 엘프의 고위 귀족 출신이였을 것이며 엘프들의 출산을 돕기 위해 사용했던 마법 반지인 것 같습니다. 물론 당신에게 그런 용도의 반지가 필요할 것 같아 보이진 않지만, 어쩌면 이 반지에 서려있는 마력을 다른 방식으로 이용해볼 수도 있을 것입니다.</content>
+  <content contentuid="hb69d118fgd011g4ceag9c63g8462e8336115" version="1">탄생의 보호</content>
+  <content contentuid="hf6c7af2fg3cfeg4501gabf9g25f7f6f6e224" version="1">매 턴이 종료될 때마다 [1]을 회복합니다. 피해를 받으면 효과가 사라집니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="hbaafea21g1a86g4e0agb9fag50f7e38866cb" version="1">수월한 출산을 위한 마법</content>
+  <content contentuid="h7657f8dfgdf0ag485fgbc93g28d14d9b765e" version="1">&lt;br&gt;&lt;b&gt;주문&lt;/b&gt;을 사용하여 치유할 경우, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING16"&gt;탄생의 보호&lt;/LSTag&gt;를 얻습니다.</content>
+  <content contentuid="h30e357bagea1fg4693ga1c4ga6a9eafa54d7" version="1">궁정 검성의 반지</content>
+  <content contentuid="h0e755bf6gf0afg4b68g960bg1810a1bb08a3" version="1">이 우아한 외형을 지닌 반지는, 착용자의 손가락에 맞춰 넓이가 자연스럽게 조정되는 놀랍도록 기능적인 면을 지니고 있습니다. 자세히 살펴보니 희미한 마법의 흔적이 남아있는 듯 하며, 한 때 고귀한 궁정에서 사용되던 유물인 것으로 추정됩니다. 반지를 손에 끼고 실험해보자, 마치 전설적인 검성의 영혼이 당신의 공격을 도와주는 듯한 느낌이 듭니다.</content>
+  <content contentuid="h8fc58bc8gc3c5g49f0gb982g7509b537c030" version="1">정밀한 검술 주문</content>
+  <content contentuid="he3ec9e29gceb2g4d67gbd51g04120164e884" version="1">효과의 중첩 수에 따라 근접 무기 공격이 추가로 [1]를 입힙니다. 이 효과는 공격이 빗나갈 경우 사라집니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h3d922c05g9ee8g4a5cg9a00g64ad56278c91" version="1">연격</content>
+  <content contentuid="hb84e0a72g469dg4764g9ae8g3dac924a0f41" version="1">&lt;br&gt;근접 공격으로 피해를 줄 때마다, &lt;b&gt;[1]&lt;/b&gt;의 &lt;LSTag Type="Status" Tooltip="RING17"&gt;정밀한 검술 주문&lt;/LSTag&gt;을 얻습니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동됩니다.</content>
+  <content contentuid="hdb51c4d2g401eg4d2bgb2fag6dd2f9c8a1f7" version="1">폭풍 소환사의 반지</content>
+  <content contentuid="hc26b6d60g282dg484cgb51bgf91bd381d38b" version="1">이 고대로부터 전해내려져온 듯한 반지는 눈길을 사로잡는 장엄한 광채를 내뿜고 있습니다. 반지의 중앙의 틈새로부터 뿜어져나오는 푸른 폭풍의 빛은 반지에 어떤 강한 마력이 깃들어있음을 암시하는 것만 같습니다. 몇 시간동안 반지를 면밀히 조사해본 결과, 이 유물은 폭풍의 정령과 강한 유대를 맺은 한 주술사에 의해 창조된 것으로, 보다 더 깊게 연구해볼 가치가 있을 물건입니다.</content>
+  <content contentuid="he6abd98fg659dg4526g880cg38f553b1c08e" version="1">폭풍의 정수</content>
+  <content contentuid="h81469e86gb098g4547g9d42gaa10b77a6659" version="1">&lt;br&gt;근접 공격으로[1]를 입히면, &lt;b&gt;소형 및 중형&lt;/b&gt;인 대상은 반지에서 뿜어져나오는 천둥의 힘에 의해 &lt;b&gt;[2]&lt;/b&gt;만큼 밀려나게 됩니다.</content>
+  <content contentuid="h45c01a40g0a09g4535gae84g8150db886704" version="1">롤스 신도의 반지</content>
+  <content contentuid="h4cb152e2gb5abg42b4gb2cbgaeb404181571" version="1">붉은 루벨라이트 원석 하나만을 깎아 만들어진 이 반지는, 그 외형 자체만으로도 언더다크의 느낌을 물씬 풍기고 있습니다. 그리고 반지 속에는 온갖 음모... 기만... 죽음... 등이 스며들어있는 듯 합니다. 현재까진 아무런 일도 일어나지 않았지만 내부에서 꿈틀거리고 있는 사악한 마력이 언제든 풀려날 준비를 하며 태동하고 있는 것이 느껴집니다. 어쩌면 이 반지에는 당신이 예상치 못했던 위험천만한 마력이 깃들어있을지도 모릅니다.</content>
+  <content contentuid="h3adbe3b0g4b00g49bagb444g1a6859f012c7" version="1">끝없는 음모</content>
+  <content contentuid="h0f564d20g06b4g4c88gb957g20dabd595072" version="1">&lt;br&gt;&lt;LSTag Tooltip="Deception"&gt;기만&lt;/LSTag&gt;이 &lt;b&gt;+[1]~[2]&lt;/b&gt;만큼 증가합니다. &lt;br&gt;&lt;b&gt;거미&lt;/b&gt;를 대상으로 한 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Disadvantage"&gt;불리 보정&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="hefb2108bg1bf8g4b5cgbeefg9991a9e99706" version="1">놀 대장의 반지</content>
+  <content contentuid="h17a46c52g9e22g40ccg8b19g893baf4bf3b5" version="1">거칠고 어딘가 섬뜩한 느낌이 특징인 묘한 반지로, 그 모습만으로도 착용자를 위협적으로 보이기엔 충분해 보입니다. 조심스럽게 반지를 끼웠을 땐 아무런 변화도 없었지만, 시간이 지나면 지날 수록 어딘가 신경이 날카로와지는 것이 느껴집니다. 결국 분노를 주체하지 못하고 폭주하여 당신이 아끼지 마지않던 소중한 병을 깨뜨리는 대형 사고가 터지고 말았습니다. 그 후 여러 번의 실험 끝에, 이 반지가 한 때 배척되었던 어느 마법사에 의해 만들어진 것이며 이후 이낙후의 하수인 중 하나가 손에 넣어 이를 살육을 위한 도구를 사용했던 것임을 알게 되었습니다.</content>
+  <content contentuid="h78b2b66bgd24bg411dg89a8g66ac3f6d812c" version="1">피에 굶주린 욕망</content>
+  <content contentuid="hd15a55fcg479fg4b86g8157ga08eae40c8b5" version="1">&lt;LSTag Tooltip="Action"&gt;행동&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. &lt;br&gt;&lt;br&gt;그 대가로 &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)에 성공해야 하며, &lt;b&gt;실패 시&lt;/b&gt; 심장이 터져 &lt;b&gt;즉사&lt;/b&gt;할 수도 있게 됩니다.</content>
+  <content contentuid="hd93cac55gd18ag42b4gb777g8b41e3b9565d" version="1">대장의 끈기력</content>
+  <content contentuid="h384950e0g6789g4e30gb936gd334178f3699" version="1">자원 소모 없이 스스로를 &lt;LSTag Type="Status" Tooltip="HASTE"&gt;가속&lt;/LSTag&gt; 상태로 만들 수 있게 됩니다.</content>
+  <content contentuid="h213b77bagab3dg4bc9gb832gff5c4bd36272" version="1">피에 굶주린 학살자</content>
+  <content contentuid="h57ee63c8g54cdg4b41ga459g8c863943f6c6" version="1">&lt;br&gt;적을 처치할 때마다, 턴이 끝날 때까지 &lt;LSTag Type="Status" Tooltip="RING20"&gt;피에 굶주린 욕망&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="hb379e12ege3a4g431dg9224gbeddf9c9d01a" version="1">독사의 오닉스 반지</content>
+  <content contentuid="h4f65f01ag2f72g41cfg98b7gb88655fa4f90" version="1">검은 광택이 흐르는 표면이 특징인 반지로, 반지의 표면에는 뱀의 비늘을 형상화한 듯한 정교한 문양들이 새겨져있습니다. 언뜻 보기엔 평범해보이는 장신구 같지만, 반지를 손에 쥐고 활성화 주문을 영창하는 순간 손바닥을 타고 흐르는 극심한 격통이 느껴집니다. 이 반지는 분명 저주받은 유물로, 그것을 제대로 다룰 수 있을 자에게만 힘을 빌려줄 것입니다. 이제 문제는 그럼 그 힘을 어떻게해야 자유자재로 다룰 수 있게 되느냐가 관건이겠지요.</content>
+  <content contentuid="hed1d5957g6085g424aga202g7d9cf0a3f906" version="1">복수의 맹독</content>
+  <content contentuid="h2218a9a2g49ebg4fb1g83aagfafed0c043ca" version="1">주인을 잃은 반지가 폭주하여 복수를 갈망합니다! 매 턴이 시작될 때마다, [1]를 입습니다.</content>
+  <content contentuid="h1e3e093cg69d1g42f5g9c6fg9384697588a1" version="1">복수의 맹독이 품은 저주</content>
+  <content contentuid="hcaf53c12g681dg4994g86b6g1c30737d0639" version="1">&lt;br&gt;&lt;LSTag Tooltip="Downed"&gt;쓰러지게&lt;/LSTag&gt; 되면, 공격자는 &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING21"&gt;복수의 맹독&lt;/LSTag&gt; 상태가 됩니다.</content>
+  <content contentuid="hfcdfa8e2g9c95g491egb31fgc33f418a3ca5" version="1">말라붙은 점액 반지</content>
+  <content contentuid="hb6696cedg1213g4feag9c54gbab03a58da6b" version="1">겉면이 두꺼운 녹색 점액으로 뒤덮여있어 보기에도 거부감이 들정도로 혐오스러운 반지입니다. 점액 아래 반지의 본래 모습이 어땠을지 상상조차 하기 두렵지만, 한 때는 강력한 마법의 힘을 지녔던 것처럼 보입니다. 그러다 어느 순간, 점액질의 생물이 반지의 마력을 흡수하면서 반지에 또 다른 새로운 마법적인 특성이 생겨난 것 같군요.</content>
+  <content contentuid="h6957b7f6gc00cg4f8bgae04g0c99922571c1" version="1">산성액 분출</content>
+  <content contentuid="h8d147bcbgcd2dg45e6gb15fgd0b6deb83d4d" version="1">착용자 주변 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 &lt;b&gt;아군이 아닌 모든 크리처&lt;/b&gt;들은 매 턴마다 [2]를 받습니다.</content>
+  <content contentuid="h3d523085ga75eg43fbgb5f5g4fc5110ce1a1" version="1">산성액</content>
+  <content contentuid="hda5b6097g909eg4715g96f8gcb9d32844742" version="1">반지 착용자의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 크리처들에게 산성액 피해를 입힙니다.</content>
+  <content contentuid="hf2ba4a14g9e92g436dg9b0eg9e5cf26b1588" version="1">산성 반응</content>
+  <content contentuid="h2cd5c4e3gcc8dg46acgb64bg38ad169bdaa3" version="1">&lt;br&gt;&lt;b&gt;산성액 표면&lt;/b&gt; 위에 있을 경우, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING22AURA"&gt;산성액 분출&lt;/LSTag&gt; 상태를 얻습니다.</content>
+  <content contentuid="h4e7862c4gf6fbg48edgbdd3g93835896dde4" version="1">수정 반지</content>
+  <content contentuid="h8bcb0140g163fg4b53gbce8gb3040b8f6039" version="1">반지는 마력이 깃든 수정을 끼워넣기 위해 조잡하게 제작된 것처럼 보입니다. 이전 소유자가 누구인지, 무엇을 위해 이 반지가 제작되었는지는 불명이나 반지에서 뿜어져나오는 불가사의한 마력은 느낄 수 있습니다. 그리고 그 힘은 이제껏 당신이 느껴보지 못했던 사악한 힘인 듯 합니다. 하지만, 그 힘에 오히려 매료되어버린 당신은 며칠 간 수정을 연구하며 더 많은 비밀들을 알아냈고, 마지막 질문만을 남겨놓고 있었습니다. 과연, 당신이 그 힘을 감당할 수 있는 것인지?</content>
+  <content contentuid="hd7ba78begcebcg4605g836dg86ff802063bc" version="1">순수한 마력의 속삭임</content>
+  <content contentuid="h4978f780g8766g43b6gbcfcg1c4bb306c8e8" version="1">&lt;br&gt;&lt;LSTag Tooltip="Arcana"&gt;비전&lt;/LSTag&gt; &lt;b&gt;+[1]&lt;/b&gt;. &lt;br&gt;&lt;b&gt;주문이나 소마법이 적에게 빗나갈 경우, 대상에게 &lt;b&gt;[2]&lt;/b&gt;를 입히며, 동시에 자신도 &lt;b&gt;[3]&lt;/b&gt;를 입습니다.</content>
+  <content contentuid="h81a95b59g4664g40bbga514g09865a76a5b9" version="1">호루스-라 사제의 반지</content>
+  <content contentuid="h54b18eebgd675g4cb8gb60fg1963e5c462ee" version="1">금빛 황수정이 박혀있는 반지로, 중량감을 거의 느낄 수 없을 정도로 가볍습니다. 동시에 어딘가 익숙하면서도 강력한 기운이 감도는 것만 같습니다. 그 어떤 무기로도 반지에 흠집을 낼 수 없으며, 반지를 부수려 내리치면 무기만 튕겨져나갈 뿐입니다. 시간이 지난 후, 반지의 황수정이 태양빛 아래에서 가장 밝게 빛이 난다는 사실을 깨달은 당신은 뜨거운 태양빛 아래에서 반지를 손에 끼워보았습니다. 그리고 그 순간, 태양의 힘이 정신 속으로 흘러들어오는 느낌이 들며 당신의 강인함을 칭송하는 미지의 존재가 짧은 침묵 끝에 당신에게 태양빛 보호막을 선사해주었습니다.</content>
+  <content contentuid="hb3d22c55gd710g4493gbde8gd9ca5c916317" version="1">태양의 보호막</content>
+  <content contentuid="hf2fb6bd8gba5eg49acgb6b7g27583ffe6dad" version="1">공격자는 &lt;b&gt;[2] 피해&lt;/b&gt;보다 높은 피해를 입혀야 피해를 줄 수 있게 됩니다. 동시에 당신은 매 턴이 시작될 때마다 [3]를 입습니다. &lt;br&gt;&lt;br&gt;이 효과는 착용자의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있을시 효과가 지속됩니다. 또한 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="h480db9a5g3f46g400fgba10g576602f0216a" version="1">태양의 전령을 듣는 자</content>
+  <content contentuid="hd075ca96gfe0cg4b4cgbee0g2bfb19d77040" version="1">&lt;br&gt;&lt;b&gt;햇빛&lt;/b&gt;을 받고 있는 상태라면, 착용자와 &lt;b&gt;[2]&lt;/b&gt; 반경 내에 있는 모든 아군에게 &lt;LSTag Type="Status" Tooltip="RING24"&gt;태양의 보호막&lt;/LSTag&gt;을 부여합니다.</content>
+  <content contentuid="hbfa58e44g1d71g4094g9fd0g7cc171ea9ed8" version="1">왕실 전령의 반지</content>
+  <content contentuid="h972bc391ga585g430eg84abg0360b6faf801" version="1">이 정교한 세공이 엿보이는 구리 반지에는, 어떤 남성의 전성기 시절의 모습이 새겨져있습니다. 단순한 구리로 만들어진 물건임에도 섬세하고 정교한 세공 기법에서 이 반지가 왕실에서 만들어진 물건임을 짐작할 수 있습니다. 과거, 중대한 국가 문서를 전달하는 전령이 착용했던 물건으로 보이며, 이 반지에 실질적인 마법 효과가 깃들어있는 지는 알 수가 없습니다.</content>
+  <content contentuid="h5f8cdd8fg4623g4279g86b8g84a5ec42ab78" version="1">경량화</content>
+  <content contentuid="hfea293efg1d80g4f45g8669g298f6317299c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. 중첩량에 따라 효과가 증가합니다.</content>
+  <content contentuid="h659a8dccgc46dg4148g8abag5f7ecf400fc8" version="1">가벼운 깃털과도 같이</content>
+  <content contentuid="h88d9b6c0gd628g4921gbbaage3d7d07ccb43" version="1">&lt;br&gt;착용자의 &lt;b&gt;무게&lt;/b&gt;가 &lt;b&gt;[2]&lt;/b&gt; 감소합니다. 적에게 피해를 입을 경우, &lt;b&gt;[1]&lt;/b&gt;만큼 &lt;LSTag Type="Status" Tooltip="RING25"&gt;경량화&lt;/LSTag&gt; 버프를 얻습니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;턴 당&lt;/b&gt; 한 번씩만 발동됩니다.</content>
+  <content contentuid="h67ee0e0cgac07g4f20gb14cg95da7b7f6fd8" version="1">피어오르는 연기의 반지</content>
+  <content contentuid="hc4caf867g47fdg442cga8d5g69069e375529" version="1">이 기묘한 반지는 입으로 내뿜은 연기 고리를 연상케 하는 형상을 띄고 있습니다. 빛을 비추어 자세히 살펴보면, 이 반지가 단순한 장신구가 아님을 알 수 있는데, 투명한 유리 같은 물질 내부에서 푸른빛을 띄고 있는 이계의 연기가 소용돌이치며 감각을 사로잡는 듯한 기분이 듭니다. 반지를 손가락에 끼우는 순간, 당신과 반지 안의 힘이 공명하여 솟구치는 것을 느낄 수 있습니다. 자, 그럼 이제- 어떻게 해야 이 반지 안에 내제되어있는 힘을 깨울 수 있는 걸까요?</content>
+  <content contentuid="hff4cea47gb5c6g4627g9333gf57bcba8f646" version="1">연기 정령의 정수</content>
+  <content contentuid="hcb9cc48bg8f40g40d5g8effg843ec4a8c7cf" version="1">&lt;br&gt;적에게 피해를 입을 경우, &lt;b&gt;[3]%&lt;/b&gt;확률로 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;투명화&lt;/LSTag&gt; 상태가 됩니다.</content>
+  <content contentuid="h3b834799g259eg4e34g9bcfg1d23868e3bcf" version="1">드웨가 고문용 반지</content>
+  <content contentuid="h2e1c7087g82a2g4826g887eg6864abc494f6" version="1">반지를 손에 쥔 순간, 반지가 강하게 진동하며 신체가 그 진동에 맞춰 동기화 되는 듯한 기분이 들기 시작합니다. 단순한 진동이라고 하기엔 상당히 격렬한 파동으로, 이 반지는 단순한 장신구가 아니였던 것 같습니다. 이는 드웨가들의 고문 도구로 쓰였던 반지일 가능성이 크며, 희생자들에게 극심한 고통을 안겨주기 위해 사용되었을 것입니다. 하지만, 역으로 이 반지에 깃든 마력을 실용적이게 조정할 수 있지 않을까요? 물론, 당신이 직접 고문을 할 생각이 아니라면 말이지요. </content>
+  <content contentuid="hd28ab6a2ga3ccg41cag8d26g1ef15fd4d052" version="1">변형된 드웨가 마법</content>
+  <content contentuid="h668dc7afg1412g4240ga373g6cc1c2d1021e" version="1">&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;도약&lt;/b&gt; 혹은 &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;비행&lt;/b&gt;을 사용하면, 공중에 떠있는 동안 주변 &lt;b&gt;[2]&lt;/b&gt; 반경 내에 있는 &lt;b&gt;모든&lt;/b&gt; 적과 물체들에게 [1]를 입히고, 확률적으로 적을 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;넘어지게&lt;/LSTag&gt; 만듭니다.</content>
+  <content contentuid="hdb86b3bbg7596g4455g88d9gd5b5ac481a1e" version="1">구울 숭배자의 반지</content>
+  <content contentuid="hcb5a33f1gda20g4b9cga01ag36c42e181610" version="1">반지는 썩은 살점 냄새를 풍기고 있으며, 아무리 씻어내도 그 냄새가 빠지지 않습니다. 강한 마력이 감도는 듯한 이 악취는 단순한 부패 때문이 아닌 어떤 어둠의 의식과 연관이 있을 가능성이 있는 듯 합니다. 면밀한 조사 끝에, 이 반지가 인육을 먹는 행위와 관련된 저주받은 의식용 유물임을 알아냈으며 이 반지에는 착용자에게 썩은 살점까지 소화시켜낼 수 있게 해주는 마법이 깃들어있는 것 같습니다...</content>
+  <content contentuid="h0ca15e4cg37d3g40f1gb1a5ge6dc3d2d3ef1" version="1">구울의 축복</content>
+  <content contentuid="h49c7cc3ag9dbfg478bg9c2fg1a946fc0440e" version="1">&lt;br&gt;&lt;b&gt;인간형&lt;/b&gt; 유형의 대상을 처치하거나 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;를 적중시킬 경우, [1]을 회복합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="h7091fdb1g0087g4557ga1b6g6256ae96f66e" version="1">영계의 꿈결 반지</content>
+  <content contentuid="h9e81313bgc5b9g429ag976fg8b3dbbddcf29" version="1">이 신비로운 기운의 자수정 반지는 마치 운명에라도 이끌린 듯 당신의 손에 들어오게 되었습니다. 직감적으로 손에 끼우고 싶은 욕망을 느낀 당신은 결국 유혹에 못 이겨 반지를 끼게 됩니다. 반지를 손에 끼자, 강렬한 보라빛 광채가 반짝이며 당신의 온 몸을 감쌌고, 그 다음 순간 반지의 마력이 유도하는 쏟아지는 졸음에 정신을 차리려 안간힘을 쓰게 됩니다. 끝끝내 반지의 마력을 이겨내고 정신을 차리자, 이번엔 활력의 마력이 온 몸을 타고 흐르는 듯한 기분이 느껴집니다.</content>
+  <content contentuid="h59719d10gbefeg4879g9c7cg905c0cb9eba9" version="1">영계의 활력</content>
+  <content contentuid="hf58ca832g6314g4d69g83f2gd42f763a4f00" version="1">&lt;br&gt;&lt;LSTag Tooltip="SpellDifficultyClass"&gt;주문 내성 난이도&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻습니다. 전투 중 &lt;LSTag Tooltip="Wisdom"&gt;지혜&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)에 실패하게 되면, &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;수면&lt;/LSTag&gt; 상태에 빠지게 됩니다.</content>
+  <content contentuid="h65734b41gf750g4ffag9cabg613cde378b99" version="1">무술의 대가, 왕의 반지</content>
+  <content contentuid="hcc367a51gfc45g4036gbcd4gcdd314cdf243" version="1">선명한 색상의 이 나무 반지는 수 많은 모험에도 불구하고 거의 손상되지 않은 상태로 유지하고 있습니다. 뭔가 석연치 않은 구석을 느낀 당신은 이 유물을 면밀히 조사해보기로 하였고, 고대 유물에 대한 문헌들을 연구한 끝에 이 반지가 어느 고대 무술의 대가의 것이란 사실을 알아낼 수 있었습니다. 그러나 그 대가가 누구였는지? 그리고 어떤 무술을 익히고 있었는지는 미지수였습니다. 그럼에도 당신은, 이 반지를 자신만의 방식으로 활용해보기로 결심했습니다.</content>
+  <content contentuid="ha200d5d8g9942g4e15gb60ag84171aa78b7e" version="1">은둔 고수의 비밀</content>
+  <content contentuid="h7a7d43b3gb7b7g4310gb60cgde93fb2214da" version="1">&lt;br&gt;모든 &lt;LSTag Tooltip="WeaponProficiency"&gt;일반 무기에 대한 숙련&lt;/LSTag&gt;을 얻고, &lt;LSTag Type="Spell" Tooltip="Ring30_Target_CompelledDuel"&gt;강제 결투&lt;/LSTag&gt; 주문을 사용할 수 있게 됩니다.</content>
+  <content contentuid="h7e95f74dgb845g4d62gb169g08e75eb0bb6c" version="1">부족의 탈리스만</content>
+  <content contentuid="h67725adag9983g49b5gb3c5g4358f6c2bb63" version="1">이 정교하게 조각된 반지는 신화 속에 등장하는 코뿔소의 형상을 띄고 있습니다. 처음 반지를 꼈을 때는, 특별한 변화가 없었지만, 반지를 끼고 달리자 반지에 갇혀있던 고대의 영혼들이 당신의 정신을 갉아먹기 시작하는 것을 느끼게 됩니다. 과거, 고통받던 영혼들이 몰려와 이성 전체가 흔들리는 것만 같은 기분이 듭니다. 본래 이 반지는 고대 부족에서 노예 사냥과 같은 끔찍하고 사악한 목적을 위해 이용되던 유물인 것으로 보이며, 당신은 어떻게든 이 강력한 힘을 다스릴 방법을 찾고자 합니다.</content>
+  <content contentuid="h4540e0f8g8d0dg4145g9c5fg0799354da007" version="1">영혼의 분노</content>
+  <content contentuid="h0e87a7f1gc80fg4428gb935g34e296d859fa" version="1">근접 무기로 공격할 때, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="ProficiencyBonus"&gt;숙련 보너스&lt;/LSTag&gt;를 더하지만, 턴이 끝날 때 [2]을 입게 됩니다.</content>
+  <content contentuid="hce90bf3bg57deg4ba1g9299gaa119de09734" version="1">고대 영혼의 힘</content>
+  <content contentuid="h7302c50egdcb4g4b34g8d31gcac818bb673b" version="1">&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;달리기&lt;/LSTag&gt;를 사용하면, 턴이 끝날 때까지 &lt;LSTag Type="Status" Tooltip="RING31"&gt;영혼의 분노&lt;/LSTag&gt;를 얻습니다.</content>
+  <content contentuid="hffc093fagf562g42d4g8f22g13fcf833c741" version="1">분노의 불꽃 반지</content>
+  <content contentuid="hc41b7675gec8fg4d27gad35g3d00a253909b" version="1">발견한 그 순간부터 강렬한 존재감을 발산하던 이 반지는, 마치 불길 그 자체가 응집되어 만들어진 듯한 형상을 띄고 있습니다. 반지의 표면으로부터 강렬한 기운이 뿜어져 나오며, 반지의 내부에는 지옥불의 회오리가 격렬한 춤을 추듯 휘몰아치고 있습니다. 하지만 당신은 이 고대 유물에 깃들어있는 힘을 망설임없이 해방시키려 하고자 합니다.</content>
+  <content contentuid="h016bcc8egfbb9g4361g99a4gfe655f47563b" version="1">내면의 불길</content>
+  <content contentuid="h2efec210g17a4g406bg8221g7f52032814ab" version="1">이 효과를 받고 있는 크리처의 발 밑에는 &lt;b&gt;불길&lt;/b&gt;이 깔리며 스스로를 &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태로 만듭니다. 대상이 &lt;b&gt;죽게&lt;/b&gt; 될 경우, &lt;b&gt;강력한 폭발&lt;/b&gt;이 일어나게 되어 &lt;b&gt;[2]&lt;/b&gt; 반경 내에 주변 모든 크리처들에게 [1]를 입힙니다.</content>
+  <content contentuid="h26691473g0a56g4119g88f1g1a14cef19e02" version="1">격렬한 불꽃</content>
+  <content contentuid="h201b6b96g4624g4146g9a2ag74b0285a5f0c" version="1">&lt;br&gt;당신이 사용하는 &lt;b&gt;레벨&lt;/b&gt;있는 주문으로 피해를 입은 적이 &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)에 실패하게 되면 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING32"&gt;지옥불&lt;/LSTag&gt; 상태가 됩니다.</content>
+  <content contentuid="h05a0d939gcf73g4329g91ecg94c052965df8" version="1">솔잎 반지</content>
+  <content contentuid="h4daa73a5gac38g4dd3g9d75g63028d33e553" version="1">언뜻 보기에는 솔잎을 섬세하게 엮어 만든 단순한 장신구처럼 같지만, 무언가 알 수 없는 힘이 당신을 끌어당겨 반지를 강제로 착용하게끔 만듭니다. 반지를 끼우고 나서도 며칠 간 아무런 효과도 없자, 실망한 당신은 반지를 버려버릴까 생각했지만 갑자기 반지에서 작은 드라이어드가 나타나 반지를 버려주지 말아달라고 간청하기 시작했습니다. 드라이어드는 당신에게 보호와 축복을 약속했지만...? 본래 나무에 묶여있어야할 존재인 드라이어드가 어째서 이런 작은 솔잎 안에서 살아갈 수 있던 걸까요?</content>
+  <content contentuid="h30a730d1g7e62g4b33gaab6g88407dbb369e" version="1">드라이어드의 행운</content>
+  <content contentuid="h32d6a2cfga57ag4b55g87c3g7fee5763b69d" version="1">&lt;br&gt;[2]에 &lt;LSTag Tooltip="Vulnerable"&gt;취약성&lt;/LSTag&gt;을 얻게 되지만, 원거리 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt;의 보너스를 얻게 됩니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[3]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h21f5abcegbf22g40f7gbe77ge75f7e8670c1" version="1">인간 대장의 반지</content>
+  <content contentuid="h8515548eg7c9ag441bgb02bg7a0e378c3032" version="1">정밀한 세공이 엿보이는 이 반지에는 특징적으로, 순은으로 만들어진 사자 머리가 장식되어 있습니다. 반지의 고급스런 세공 기술로 미루어보아, 이전 소유자는 평범한 사람이 아닌 고위 군인직에 있던 자의 것으로 추측됩니다. 당신의 직감이 맞다면, 이는 인간의 솜씨이며, 한 때 도시의 근위대장이었던 자나, 높은 계급의 군인이 착용했던 물건일 것입니다. 특이한 점으로는 이 반지를 착용한 이후로부턴 잠에 잘드는 것 같은 느낌과 함께 전반적으로 심신의 안정을 도모하게 되었다는 점입니다.</content>
+  <content contentuid="hba4ac421g1dc7g4979g9cd0gf469c6225e89" version="1">긍정적인 마음</content>
+  <content contentuid="hfea656b2g5d90g44d8gb9efgb20b2c42e53c" version="1">&lt;LSTag Tooltip="Charisma"&gt;매력&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h2579252dg554dg4df0g9e91gdc1f691e287d" version="1">인간의 아우라</content>
+  <content contentuid="he5b2a957ge3f1g4477g810bgb7d8ebc69e55" version="1">&lt;br&gt;&lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;을 하게 되면 &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING34"&gt;긍정적인 마음&lt;/LSTag&gt;을 얻습니다. &lt;br&gt;&lt;br&gt;착용자가 &lt;b&gt;인간&lt;/b&gt; (혹은 &lt;b&gt;인간으로 변장한 상태&lt;/b&gt;)이라면 &lt;LSTag Tooltip="Charisma"&gt;매력&lt;/LSTag&gt;에 &lt;b&gt;+[3]&lt;/b&gt;&lt;i&gt;(최대 &lt;b&gt;[4]&lt;/b&gt;)&lt;/i&gt;의 보너스를 얻습니다.</content>
+  <content contentuid="ha88d91aagd85dg4fb1ga822ge5e35b280386" version="1">장생의 반지</content>
+  <content contentuid="hc9e1dc3eg3936g4545g836ag8dc447d20623" version="1">뛰어난 학자가 아니더라도 이 반지가 엘프의 솜씨가 가미되어있는 물건임은 한 눈에 알아볼 수 있을 것입니다. 정교한 세공 기술과 미적 감각, 거기에 기능성까지 탑재한 완벽한 제련술은 엘프들만의 특징이기 때문입니다. 견고한 합금은 검으로 내리치는 충격마저 버틸 수 있을 정도이며, 잎의 심장 모양으로 세공된 황수정은 마치 자연의 흐름을 형상화한 것처럼 보입니다. 반지를 착용한 순간, 엄청난 활력이 온 몸을 타고 흐르는 것을 느낄 수 있지만, 아무래도 이 반지의 마력은 물과 가까이 있어야만 발동되는 듯 합니다.  </content>
+  <content contentuid="h5c55e4begaee6g4f87gb8afgd8b7441f92a8" version="1">생명 정수의 보관소</content>
+  <content contentuid="h4744c137g6482g418cgaf9cg025ba3dc43ee" version="1">&lt;br&gt;&lt;b&gt;아무 물&lt;/b&gt; 표면 위에 서있는 상태라면, 엘프 반지의 힘으로 매 턴마다 &lt;b&gt;[1]&lt;/b&gt;을 회복시킵니다.</content>
+  <content contentuid="hbfcf43bbg038bg4952g8b67gaa0d01cc6f2c" version="1">석화된 힘의 반지</content>
+  <content contentuid="h24b6e629g8da9g4c26gb9adge81a67107f96" version="1">이 반지는 한 눈에 봐도 언더다크에서 유래된 물건 같아보입니다. 거친 표면과 조잡하게 녹인 금속들만 봐도 딥 노움이나 드웨가, 혹은 드로우의 솜씨로 보이기 때문입니다. 허나 이 반지는 단순한 장신구가 아닌 어떤 사악한 목적을 위해 제작된 물건처럼 보이며, 그 안에는 위험한 마력이 깃들어있는 것 같습니다. 어쩌면 이를 함부로 사용하다간 큰 대가를 치뤄야할지도 모르겠습니다. </content>
+  <content contentuid="h59f917dfgace5g4912ga07ag052b5fefb483" version="1">석화의 힘</content>
+  <content contentuid="h60aedab5gc5f9g4130g8555gc96e04720982" version="1">&lt;br&gt;&lt;b&gt;빛&lt;/b&gt;을 받고 있지 않은 상태라면, &lt;LSTag Tooltip="Strength"&gt;힘&lt;/LSTag&gt;&lt;i&gt;(최대 &lt;b&gt;[3]&lt;/b&gt;)&lt;/i&gt;이 &lt;b&gt;+[2]&lt;/b&gt; 증가합니다. 하지만 전투 중 매 턴마다 &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[1]&lt;/b&gt;)에 성공해야하며 실패 시, &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;석화&lt;/LSTag&gt; 상태에 빠지게 됩니다.</content>
+  <content contentuid="he5fb9bc5g7b95g4bf8g8ceeg15b14aeec069" version="1">발더스 귀족의 반지</content>
+  <content contentuid="h2be4b93cg4170g4cedga392gcf6223ce4c3a" version="1">고급 은합금으로 만들어졌으며 중앙엔 커다란 보랏빛 보석이 박혀있는 이 고대의 유물은, 그 모습만큼이나 엄청난 가치를 지닌 물건일 것입니다. 발더스 게이트의 귀족들이 자랑하는 우아한 품격과 처세술을 보여주는 듯한 반지로, 반지를 손에 착용하면 거짓말을 설득력있게 하는 능력이 향상되는 것 같은 기분이 들기 시작합니다. 이만하면 당신의 컬렉션에 더할나위없이 어울리는 훌륭한 유물이겠군요.</content>
+  <content contentuid="h4121eb91gb735g496dg9906g2bbed8feef29" version="1">타고난 처세술</content>
+  <content contentuid="h91cc148bga3b5g4691gb04egd6f1580b1096" version="1">&lt;br&gt;&lt;LSTag Tooltip="Proficiency"&gt;기만&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Deception"&gt;숙련&lt;/LSTag&gt;을 얻고, &lt;LSTag Tooltip="Advantage"&gt;유리 보정&lt;/LSTag&gt;도 받게 됩니다.</content>
+  <content contentuid="haa485490g0252g44d7gb7d5ge0303a020289" version="1">샤란티르의 반지</content>
+  <content contentuid="h0ad3eb1fg7725g4cf8g8cccg55678b45e0a7" version="1">반지의 녹색 보석은 이미 오래 전 그 빛을 바래버렸지만, 여전히 강력한 힘이 깃들어있는 것처럼 보입니다. 반지에서 뿜어져나오는 마력을 탐지해보니, 이 반지에 관련된 흥미로운 과거를 밝혀낼 수 있었습니다. 반지는 한 때 샤란티르란 자가 소유했던 물건으로, 그녀의 공로를 인정받아 엘민스터로부터 받은 반지라 전해집니다.</content>
+  <content contentuid="hc26b0db2gfebdg41c4gafa9g330c1a7eeeb1" version="1">산산조각내는 매서운 일격</content>
+  <content contentuid="he5bab3e3ga968g4b97ga7efg1599253b321d" version="1">&lt;br&gt;캐릭터 레벨이 &lt;b&gt;[1]&lt;/b&gt;이상일 경우, &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt; 굴림 값이 &lt;b&gt;[2]&lt;/b&gt; 감소합니다.</content>
+  <content contentuid="hb4b9ee86g3a69g48a2ga102gc6f806c1cc3a" version="1">보이지 않는 사막의 반지</content>
+  <content contentuid="h31174792g70fag4602gb40cga1da35368d89" version="1">이 반지는 완전한 어둠 속에서도 그 빛을 잃지 않으며, 주변을 신비로운 힘을 감싸안습니다. 마치 태양이 이글거리는 사막과 청명하게 빛나는 푸른빛 하늘, 그리고 끝없는 대지를 품고 있는 듯한 착각에 빠지게 만드는 이 마법의 반지는 현 세계는 더이상 비추지 않는 듯 합니다. 반지의 섬세한 세공을 면밀히 관찰하는 동안, 어쩌면 이것은 아직 변색되지 않은 고대의 세계로 통하는 관문일지도 모른다는 생각이 들기 시작합니다. 그리고 후에 더 조사해본 결과, 이 반지의 능력을 활용하면 엄청난 힘을 이끌어낼 수 있다는 사실을 깨닫게 되었습니다.</content>
+  <content contentuid="h3907c229gaa54g44d8gb8ccgb3ca42ade46c" version="1">정화의 마법</content>
+  <content contentuid="h453b56dagc371g4e21g9ca8g60b83cbd9bfd" version="1">&lt;br&gt;착용자가 어떤 &lt;b&gt;표면&lt;/b&gt; 위에 서게 될 경우, 반지의 마법이 그 표면을 즉시 &lt;b&gt;지워&lt;/b&gt; 버립니다.</content>
+  <content contentuid="h6fede46ag6116g4a79ga5bbgbbba351d2d76" version="1">만능의 반지</content>
+  <content contentuid="ha6653cdag9717g48fcgbd6cg1dce47d780fe" version="1">이 작은 반지는 언뜻보면 아무런 힘도 없는 평범한 장신구처럼 보입니다. 하지만, 일반적인 반지라면 세월의 흔적이 남기 마련이지만, 어째서인지 이 반지는 그 오랜 세월에도 온전한 형상을 그대로 유지하고 있습니다. 혹시나하는 마음에 당신이 주문을 영창하자, 당신의 직감대로 반지에 잠재되어있던 마력이 풀려나기 시작합니다. 반지의 능력을 발현시킨다면 마법 능력을 더욱 크게 향상시킬 수 있을 것입니다.</content>
+  <content contentuid="h21aa0a3cg17f0g4ddbgaa8cg86c3be0a810a" version="1">전지전능</content>
+  <content contentuid="hce0879a2gb850g4e34gb1efg0f1b6cc2057c" version="1">&lt;br&gt;&lt;LSTag Tooltip="Cantrip"&gt;소마법&lt;/LSTag&gt;으로[2],[3],[4]의 피해를 입히면, &lt;b&gt;추가로&lt;/b&gt; &lt;b&gt;[1]의 피해&lt;/b&gt;를 입힙니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[5]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h69628c5fg8e87g48bfgaf6cg2f1932593c88" version="1">발더스 위저드의 반지</content>
+  <content contentuid="hb6e15eb3g9e56g471fg8f93gef845051a054" version="1">이 청명한 아쿠아마린 반지는, 눈부시게 아름다우며 강한 마력을 기운을 머금고 있습니다. 비교적 최근에 만들어진 물건으로 보이며, 발더스 게이트로부터 유래된 것 같습니다. 반지 안 쪽을 자세히 살펴보니 작게 "오베론이 만들고 마법 부여 하였음." 이란 문구가 남겨져 있으며, 누군지는 정확히 모르겠으나, 이 오베론이라는 자가 놀라운 장인 정신으로 찬사를 받을만한 인물이라는 점은 의문의 여지가 없을 것 같군요.</content>
+  <content contentuid="ha26a8779ged99g4e1agb998g37d2403aeadb" version="1">정신력 강화</content>
+  <content contentuid="h9ca10ce0g565eg4a34gb7f7g8b6739d77b89" version="1">착용자의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 크리처들은 &lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt;이 &lt;b&gt;+[2]&lt;/b&gt; 증가하며, &lt;LSTag Tooltip="SpellDifficultyClass"&gt;주문 내성 난이도&lt;/LSTag&gt;에 &lt;b&gt;+[3]&lt;/b&gt; 의 보너스를 얻습니다.</content>
+  <content contentuid="hbd3367b5g5354g4a5ag82ceg11cc4b21a156" version="1">정신 주문의 오라</content>
+  <content contentuid="ha86ba185gca7fg4a15gbaaagff6d23092648" version="1">&lt;br&gt;착용자의 &lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt;이 &lt;b&gt;[1]&lt;/b&gt;이상일 경우, &lt;b&gt;[2]&lt;/b&gt; 반경 내에 있는 모든 적대적이지 않은 크리처에게 &lt;LSTag Type="Status" Tooltip="RING41"&gt;정신력 강화&lt;/LSTag&gt;를 부여합니다.</content>
+  <content contentuid="h3ff1fad4g4f9cg4974ga250gf1c798b0f225" version="1">석류석 반지</content>
+  <content contentuid="hb8cd7508g7f65g44b9gabc0g69d53be13a17" version="1">반지를 자세히 살펴보면, 아주 정교한 세공 기술이 사용되었음을 알 수 있습니다. 왕실 명장의 손길에 의해 탄생된 물건일 가능성이 높으며, 반지를 손에 끼우자, 페이룬의 정치, 역사에 대한 관련 지식들이 머릿속을 가득 메우기 시작합니다. 마치 오래된 역사서 한 가운데에 서있는 기분과 함께 과거의 중대한 사건들이 선명히 떠오르기 시작합니다.</content>
+  <content contentuid="hb82c5c53g40a4g4736gbf3egfb86b1fd7adc" version="1">역사의 창</content>
+  <content contentuid="h2a008412gc70ag4480g880fgf3c7525dad7c" version="1">&lt;br&gt;&lt;LSTag Tooltip="History"&gt;역사&lt;/LSTag&gt;와 &lt;LSTag Tooltip="Insight"&gt;통찰&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="h0ad2c73bg8126g419eg9362g8c1d54070d1c" version="1">지옥불 반지</content>
+  <content contentuid="h161ad084gaed0g421bgbf55g569f3472ed35" version="1">아베르누스 아홉 지혹에서 유래된 듯한 반지로, 반지를 장식하고 있는 결정에서는 사악한 불길이 요동치고 있으며, 손에 쥐는 순간 격렬히 타오르기 시작합니다. 엄청난 중량감과 함께 약간의 작열통 마저도 느껴졌지만, 반지를 손에 끼우는 순간 모든 통증과 불편함이 사라져버립니다. 이제 남은 문제는 이 악마의 마력이 깃든 반지의 마법을... 어떻게든 활성화하는 방법 뿐이겠지요.</content>
+  <content contentuid="h28b97c45g962fg499dg8b96gcc6cc9ba29e6" version="1">지옥의 호수</content>
+  <content contentuid="he9744ebcg32f0g4071g9408ge26fed70c849" version="1">&lt;br&gt;전투 중 매 턴 마다 &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태가 될 경우, &lt;b&gt;[3]%&lt;/b&gt;확률로 &lt;b&gt;[2]&lt;/b&gt;턴 동안 발 밑에 &lt;b&gt;[1]&lt;/b&gt; 반경으로 &lt;b&gt;지옥불 호수&lt;/b&gt;를 생성합니다. 착용자는 더이상 &lt;b&gt;지옥불&lt;/b&gt;에 영향을 받지 않게 됩니다.</content>
+  <content contentuid="h6a6d853egb338g43d8gb1e5ga9399c71fbfa" version="1">셀루네의 은빛 반지</content>
+  <content contentuid="hf2ead5f3g6319g4752gb96ag35b4113c66f6" version="1">매끄럽게 세공된 달의 보석으로 장식되어있는 이 반지는, 강렬한 마력을 발산하고 있습니다. 손에 반지를 끼우는 순간, 하늘의 은총이 당신을 감싸는 듯한 기분과 함께 내면에서 확고한 믿음이 차오르기 시작합니다. 마치 그 동안 해결하지 못했던 오랜 질문들의 해답들을 모두 얻을 수 있을 것만 같은 기분이 듭니다.</content>
+  <content contentuid="h0ee08ed7gf75fg4938g881bgd32bc7fd8ee9" version="1">달의 축복</content>
+  <content contentuid="hee50cebdg75c4g4136gae25ged993241b441" version="1">&lt;br&gt;&lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt;이 &lt;b&gt;[1]&lt;/b&gt;으로 고정됩니다.</content>
+  <content contentuid="he0f6b01cgfd93g4642g980dg9d9f3265e9b9" version="1">복원된 반지</content>
+  <content contentuid="h389356abg698cg46d1gafc9g428311ae5ca9" version="1">당신은 평범한 노란 보석이 박혀있는 반지를 유심히 관찰해보기 시작합니다. 겉보기에도 특이점은 없어보이지만, 반지가 빛을 받을 때마다 무언가 숨겨진 깊은 비밀들이 드러나는 듯한 기분이 듭니다. 하지만 어떤 식으로든 당신이 힘을 끌어내려는 시도를 반지 그 자체가 저항하는 것 같아 보입니다. 더 뛰어난 마법사라면... 이 반지에 숨은 비밀을 풀어낼 수도 있지 않을까요?</content>
+  <content contentuid="h5402e67fgcda8g4f9aga8d8g00223cedb607" version="1">숨겨진 비밀</content>
+  <content contentuid="hdc339112g2483g443cgb2c3g140d5a3035e8" version="1">&lt;br&gt;&lt;LSTag Tooltip="ShortRest"&gt;짧은 휴식&lt;/LSTag&gt; 이후, &lt;b&gt;[1]%&lt;/b&gt;확률로 모든 &lt;LSTag Tooltip="SpellSlot"&gt;주문 슬롯&lt;/LSTag&gt;들을 회복시킵니다.</content>
+  <content contentuid="hfa34c354gf3aag4265g925dg6d0d3421aa93" version="1">샨티아 숭배자의 반지</content>
+  <content contentuid="h0cc0e7c0gd6d1g4a50g9d85g31b11f77a1fe" version="1">전설에 따르면 위대한 어머니는 풍요로운 수확과 따뜻한 가정을 수호해주는 여신으로, 이 반지에서도 그녀의 상징이 뚜렷하게 각인되어 있습니다. 각인된 문양들을 살펴보자 이상하리만치 따스하고 평온한 감정들과 눈 앞에 푸른 들판과 비옥한 대지가 펼쳐지는 환상이 펼쳐지기 시작합니다. 아무래도 이 반지는 혹한의 계절을 버티기 위해 한 시골 영주가 사용했던 유물인 것으로 보입니다. </content>
+  <content contentuid="hb2b44ed2g58e8g4cbagabc5gd7eb6d670910" version="1">위대한 어머니의 보호</content>
+  <content contentuid="h71e3f5cbgf2edg4150gaa40g326907e94eb9" version="1">&lt;br&gt;[2]에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항력&lt;/LSTag&gt;을 얻습니다. &lt;b&gt;진흙&lt;/b&gt; 표면을 밟을 경우, 착용자의 발 밑에 &lt;b&gt;[1]&lt;/b&gt; 반경의 &lt;b&gt;울창한 꽃밭&lt;/b&gt;이 생겨나며, 착용자는 그 위에서도 이동 속도가 느려지지 않습니다.</content>
+  <content contentuid="hdd4d0990g0cb2g4f5cga309ge14f0f8d87f4" version="1">기사의 반지</content>
+  <content contentuid="h5b2d2d9bg8ce5g43caga8a2g4adaf8a656dd" version="1">특수 합금으로 제작된 이 반지는, 강렬한 빛을 발산하고 있는 주홍빛 가넷들로 장식되어있습니다. 당신도 이전에 익히 봐서 알고 있는 보석이였지만, 이런 식으로 빛을 발하고 있는 경우는 처음이라 당황스러울 따름입니다. 면밀한 조사 끝에, 이 보석의 컷팅 방식과 세공 기술은 어느 인간 왕국의 전통적인 형식임을 알게 되었습니다. 하지만 반지에 깃든 마법은 원래부터 존재하던 것이 아닌, 후에 추가된 것이란 점이 아주 흥미롭습니다. 왕이 총애하던 기사에게 하사했던 보석으로, 기사들이 오랜 기간 착용하고 다니던 물건인 것으로 보입니다.</content>
+  <content contentuid="h0a096fcdgac06g4d18ga284gb64ad7a98203" version="1">자부심의 상징</content>
+  <content contentuid="hff3f8868gedd8g4d5fg947eged93e90d3082" version="1">&lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt; 주사위에 &lt;b&gt;[1]&lt;/b&gt;을 더해 굴립니다. &lt;br&gt;&lt;br&gt;적에게 피격시, 효과가 사라집니다.</content>
+  <content contentuid="h1fc7d593g902dg468cgacccgf136f7ce403c" version="1">흔들림없는 헌신</content>
+  <content contentuid="h2f7c842cg9c9cg4b8cg8bfbgc04c0c1ea85d" version="1">&lt;br&gt;적을 처치할 시, &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING47"&gt;자부심의 상징&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="hb3d77bf7gec82g49fagb5efgf54d2055b2ff" version="1">고대 황제의 반지</content>
+  <content contentuid="h49f49160ga441g47a1g83d4g5466ffa43c2f" version="1">두꺼운 먼지와 마른 진흙 더미 속에서 발견한 반지로, 깨끗히 닦아내자 매끄럽게 연마되어있는 비취 장식이 눈에 들어왔습니다. 본래 높은 가격에 팔아치울 생각이었으나, 반지는 마치 살아있는 자아를 가진 듯 당신을 유혹하여 반지를 착용하게끔 만들었습니다. 결국 반지의 유혹에 굴복하여 반지를 착용하자, 여섯 손가락의 주먹이라는 고대의 무술을 깨우치게 되었습니다. 그러나, 반지를 다시 벗는 순간, 기술에 대한 지식이 머릿 속에서 사라지기라도 한 듯 깨끗이 잊어버리고 말았습니다.</content>
+  <content contentuid="h4da98af5g18d9g4348gbc38gb9938abbf38f" version="1">여섯 손가락의 주먹</content>
+  <content contentuid="h6ee7d617g7602g418cgaedbg9167ee013851" version="1">&lt;br&gt;비무장 공격으로 공격할 시, 공격이 빗나가더라도 [1]를 입힙니다.&lt;br&gt;&lt;br&gt;이 효과는 &lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;당 한 번씩만 발동됩니다.</content>
+  <content contentuid="h380b2a44g7178g4252gbf82gd65aee380c88" version="1">악마의 링</content>
+  <content contentuid="h3aaa9907gc142g424fgab3ag5674b318acc1" version="1">보기만해도 불길한 기운이 감도는 반지로 반지의 힘을 활성화해보려 하자, 마치 반지가 당신의 육신과 결합하기라도 하려는 듯, 곧바로 사악한 기운이 온 몸을 타고 침투하기 시작합니다. 반지에는 착용자의 의지를 완전히 배제하고 스스로 움직이려는 듯한 성질을 지니고 있으며, 숙련된 마법사조차 다루기 힘든 위험한 물건 같아 보입니다. 그럼에도 불구하고, 당신은 끝끝내 이 유물을 가지고 가기로 결정했습니다.</content>
+  <content contentuid="heb38fd1eg7c2cg4a8bg933ega9ac1a64be6c" version="1">부패</content>
+  <content contentuid="hfc2fedaeg0c86g49c6g9a01gee86158dd2cb" version="1">턴이 시작될 때마다, [1]를 입습니다.&lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="hf53f0de1g14cag40degb18fg8be1cca875dc" version="1">어둠</content>
+  <content contentuid="hd1bc48f2gcbf5g482bg8d4bg15722a786596" version="1">대상의 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이 &lt;b&gt;[1]&lt;/b&gt; 감소합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="h10cdb9f5g28d8g4e2ag88f9gabf1ac2852cf" version="1">저주의 사슬</content>
+  <content contentuid="h01152e61g5947g4029gba7ag02638323f36a" version="1">턴이 시작될 때마다, 대상의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;b&gt;그림자에 잠식된 덩굴&lt;/b&gt;을 생성합니다.</content>
+  <content contentuid="hcc62df2dg95edg4ae0gaf9ag160066d9f54c" version="1">임박한 파멸</content>
+  <content contentuid="h10f020f8gab82g494dg875fg95ee0afe2e0c" version="1">대상은 효과가 적용되면 [1]을 입게 되며, 효과가 해제될 때 한 번 더 추가로 [2]를 입습니다.</content>
+  <content contentuid="h8f5bab12g2c5dg47ccg8743ge19a2efc2634" version="1">반지의 의지</content>
+  <content contentuid="h043e4e33gbc0cg4cb4g9902g0220f29d5939" version="1">&lt;br&gt;적을 공격할 때마다 반지의 사악한 정수가 &lt;b&gt;폭발적으로 발현되어&lt;/b&gt;, 적에게 강력한 피해를 입힐 수 있지만 동시에 착용자에게도 그 고통이 전이될 수 있습니다.</content>
+  <content contentuid="hac6d7d61g3a46g4b2fg8220g8676e0b96c2b" version="1">운명의 비밀 반지</content>
+  <content contentuid="h659f4420g3c6ag49b3gb6acgbc03f3302b4a" version="1">이 고대의 비취 반지는 수 많은 세월들을 견뎌왔으며 깊게 파여진 흠집들과 균열들이 반지 군데군데 나있습니다. 하지만 그에 반해 반지의 내구성은 놀라울 정도로 견고하며 쉽사리 부서질 것처럼 보이지 않습니다. 호기심이 생긴 당신은 망치로 반지를 내리쳐보지만, 아무런 타격없이 반지만 멀쩡히 남아있을 뿐이었습니다. 그리고 그 순간, 반지에서 치유의 안개가 피어오르며, 당신의 상처를 기적처럼 말끔히 치유하기 시작했습니다.</content>
+  <content contentuid="h0778cb97gfb37g4737g9244gc2bee91c52cc" version="1">자기 희생</content>
+  <content contentuid="h9eb86334g956dg456dga320g560f5869eadc" version="1">&lt;br&gt;전투 중 피해를 받을 때마다 반지에서 치유의 안개가 방출되어 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 크리처들을 회복시킵니다.</content>
+  <content contentuid="h0117d59cgf04eg4b0bgbea5g154010a21da0" version="1">무지갯빛 진주 반지</content>
+  <content contentuid="hbee40a44g1f63g4a2dg9e60gaf0fa51807d4" version="1">한 눈에 보아도 이 반지에 엄청난 마력이 깃들어있음을 알 수 있습니다. 장님이 아니라면 이 보석의 금속이 무지개빛으로 빛나고 있다는 걸 모를 수가 없을테니 말이죠. 하지만 그보다 더 눈에 띄는 것은 살짝 분홍색이 도는 노란색 빛의 오로라로, 이 반지의 마력의 원천을 나타내고 있는 듯 합니다. 반지를 제작한 자가 누구인지는 알 수가 없으나, 한 가지 확실한 것은 반지가 착용자의 감정 변화에 반응하여 강한 마법의 저항력을 부여한다는 점입니다.</content>
+  <content contentuid="h007a5cb8g5508g4c94gb2c5gfc7ab92546e9" version="1">기적의 마법</content>
+  <content contentuid="ha0489cffg5621g4028gb3ccg1cea98354940" version="1">&lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;이 &lt;b&gt;+[1]~[2]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h9755cf5dge954g4dffg8c4fg459a035bb688" version="1">무지갯빛 오로라</content>
+  <content contentuid="hee35d345gbebeg46f9g8cd5g4d10b72a93b9" version="1">&lt;br&gt;전투 중, 유효한 효과를 받을 때마다 &lt;b&gt;[1]%&lt;/b&gt;확률로 &lt;b&gt;[3]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING51"&gt;기적의 마법&lt;/LSTag&gt;을 얻고, [2]을 즉시 회복합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;레벨&lt;/b&gt;마다 증가합니다.</content>
+  <content contentuid="hb9805d85g9e66g4acdgb63egf3aa5b0dc025" version="1">사원의 반지</content>
+  <content contentuid="h21c4dde7g7dbeg4da0g9027g88cb57c13047" version="1">반지에 사용된 희귀한 푸른 대리석만봐도 그 기원을 짐작할 수 있을 정도입니다. 당신은 고대 문헌들을 뒤져본 끝에, 푸른 대리석을 다루는 기술은 잊혀진 신의 사제들만 가능하다는 사실을 알게 되었습니다. 이 반지에는 불멸의 수호자를 소환하는 마법이 깃들어있으며, 과거 이 반지를 소유했던 이들은 그 힘을 사용해보지도 못한 채 모두 비참한 최후를 맞이한 것으로 보입니다.</content>
+  <content contentuid="h16c86d3egb008g4326gb771g10f66c889bf5" version="1">마법 수호자</content>
+  <content contentuid="h9081b75cg7aa2g4bc1g8944g3149f3fabdc6" version="1">사원의 수호자들을 소환합니다.</content>
+  <content contentuid="h44989e7bgb1f3g40eaga984g45cd8daf1c1a" version="1">반지를 착용한 자는 강력한 전투 능력을 지닌 &lt;b&gt;두 명의 불멸의 수호자&lt;/b&gt;를 소환할 수 있게 됩니다.</content>
+  <content contentuid="h509d7404gfc71g451cgb195g4260c9b8c6c8" version="1">위대한 매혹술사의 반지</content>
+  <content contentuid="h85ad2aabgf50cg4a21g932egbcf86fab8fdf" version="1">이 거대한 자수정이 박혀있는 반지를 바라보고 있자니, 거부할 수 없이 강한 운명의 손길이 느껴집니다. 하지만 당신은 그런 운명따위 보다는 반지의 마법적 효능에 더 관심을 가질 것입니다. 여러 마법 주문들을 시도해보았지만 어떠한 반응도 없자 실망하려던 찰나, 우연히 당신과 부딪힌 행인이 당신의 동료가 되는 놀라운 광경과 마주하게 됩니다. 반지가 일으키는 기이한 현상들을 면밀히 연구하고 조사한 결과, 반지에 착용자의 적들을 강제로 동맹으로 만드는 엄청난 힘이 깃들어있음을 깨닫게 되었습니다. 반지를 만들었던 이는 인간 심리에 대한 뛰어난 통찰력을 지녔던 인물인 것으로 보입니다.</content>
+  <content contentuid="h651df09fg6af1g407eg8b2cgc2c314b0f588" version="1">우정의 전환</content>
+  <content contentuid="h21d51d2agdb5dg453ag98fag467eec8d486f" version="1">&lt;br&gt;&lt;b&gt;인간형&lt;/b&gt; 유형의 적에게 피격 당할 경우, 대상은 &lt;LSTag Tooltip="Wisdom"&gt;지혜&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 성공해야하며, 내성 굴림에 실패할 시 &lt;b&gt;[1]&lt;/b&gt;턴 동안 당신의 &lt;LSTag Type="Status" Tooltip="DOMINATE_PERSON"&gt;동료&lt;/LSTag&gt;가 됩니다.</content>
+  <content contentuid="h617f7adbgf325g467dg86dfg2af1808d37ce" version="1">천 개의 토파즈 반지</content>
+  <content contentuid="hb895c095g6cb7g4717gae14ge3cf1bd24db5" version="1">우연찮게 당신은 믿을 수 없을 정도로 아름다운 반지를 발견하게 되었습니다. 반지를 손에 끼자, 우아한 반지에 박혀있는 작은 청록빛 토파즈들의 광채가 더 강해지는 듯 합니다. 당신은 장인의 아름다운 솜씨에 감탄하면서도 반지에 어떤 마법을 깃들어있음을 깨달았고, 당신의 동료에게 착용자에게 정확하고 치명적인 일격의 축복을 선사하는 것으로 알려진 "천 개의 토파즈 반지"에 대한 이야기를 듣게 됩니다. 이 반지가 정말로 그 전설 속 반지인지 확인해볼 수 있는 방법은... 직접 사용해보는 수밖에 없겠지요.</content>
+  <content contentuid="h5de13080g6a6cg4bd8g84c2g315148bd1cea" version="1">치명적인 일격</content>
+  <content contentuid="h26da059dg98eag4342g92acgf1aac5f0d602" version="1">다음 무기 공격 시 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt; 피해량이 두 배가 됩니다.</content>
+  <content contentuid="hd899d281g9a95g4b97g8be4g6ab4da1b9215" version="1">치명타의 축복</content>
+  <content contentuid="hd53d5e6eg6087g4660g97c1ga2bebe6b7d90" version="1">&lt;br&gt;무기로 &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt; 공격이 적중할 시, &lt;b&gt;[1]&lt;/b&gt;턴동안 &lt;LSTag Type="Status" Tooltip="RING54"&gt;치명적인 일격&lt;/LSTag&gt;을 얻습니다.</content>
+  <content contentuid="h53216df6g9246g4c1cgab37gc92479db43d8" version="1">전설 속 장군의 반지</content>
+  <content contentuid="hdfaf0317gac2ag44e8g942agc210e99d71b2" version="1">겉보기엔 그저그런 평범한 금속 반지처럼 보였지만, 반지를 자세히 들여다보려 집어든 순간, 손에서 미끄러져 반지가 물 속에 빠져버렸고 다시 재빨리 집어들었을 땐, 반지 내부에서 떠오른 글귀가 눈에 들어왔습니다. "가장 힘든 순간에도 마음이 꺾이지 않는 자는 사악한 적의 군세로부터 보호받을 수 있으리라." 글귀를 읽은 당신은 이것이 단순한 강철 반지가 아닌 강력한 마법이 숨겨져있는 유물임을 직감하게 됩니다.</content>
+  <content contentuid="hc28f2629g9f85g4005ga58bg15380000102b" version="1">강철같은 인내</content>
+  <content contentuid="h057e6a5fgc314g4537g9ecbgc4adc29f63d3" version="1">&lt;br&gt;&lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;이 &lt;b&gt;[1]%&lt;/b&gt;이하일 경우,[3],[4],[5]를 절반만 입습니다. 동시에 &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt;이 &lt;b&gt;+[2]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h319618e4g95d1g4350gbd8dgafcb495946f6" version="1">눈 거인의 반지</content>
+  <content contentuid="h2061ad78g464eg48b7gba06gf4d106796ba5" version="1">반지 주변을 감싸고 있는 차가운 냉기만으로도 이 안에 강력한 마법이 깃들어있음을 짐작할 수 있습니다. 하지만 이 사람 사이즈를 아득히 뛰어넘을 정도로 큰 반지를 어떻게 착용해야할지 고민하다 결국 팔찌처럼 팔꿈치 쪽에 걸치듯 착용하기로 합니다. 그리고 그 순간, 반지를 감싸던 냉기가 완전히 사라지고 오히려 당신이 냉기를 흡수하는 듯한 기분을 받기 시작했습니다. 놀랍게도 주변에 있던 동료들에게도 같은 영향이 가는 듯 하며, 전투 중 냉기의 힘을 유리하게 사용할 수 있도록 고안된 물건인 것 같습니다. 이런 엄청난 힘의 반지를 우연찮게 발견될리 없습니다. 분명 반지의 전 주인은 이 반지를 차지하기 위해 수 많은 목숨을 빼앗고 희생을 치뤄야했을 것입니다.</content>
+  <content contentuid="h1452d6b8g4202g4953g8d60g0a034a81c75e" version="1">냉기를 퍼트리는 자</content>
+  <content contentuid="he5770228g2ba2g4f11gafb2g12f7648d3362" version="1">이 수정 반지를 착용한 자의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 아군들이[4]에 대한 &lt;LSTag Tooltip="Resistant"&gt;저항력&lt;/LSTag&gt;을 얻습니다. 또한, &lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;가 &lt;b&gt;+[3]&lt;/b&gt; 증가하며 &lt;b&gt;[2]&lt;/b&gt; 반경 내에 있는 모든 표면이 얼어붙게 되지만 착용자는 얼음 위에 있어도 더이상 &lt;LSTag Type="Status" Tooltip="PRONE"&gt;미끄러지지&lt;/LSTag&gt; 않게 됩니다.</content>
+  <content contentuid="h7de4168cgc370g41bdgb0a6g650f7707e3a7" version="1">서리의 힘</content>
+  <content contentuid="hf8ee3832g407eg4debg9fccg920e3ff85c99" version="1">&lt;br&gt;착용자와 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 아군에게 &lt;LSTag Type="Status" Tooltip="RING56"&gt;냉기를 퍼트리는 자&lt;/LSTag&gt;를 부여합니다. &lt;b&gt;얼음 표면&lt;/b&gt; 위에 서있을 경우, &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;가 &lt;b&gt;+[2]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h48377a80gfac7g4436g9993g433ba5e1bdd3" version="1">와우킨의 가호가 깃든 반지</content>
+  <content contentuid="hda370371g4bf9g4956g8deag6cf103f82697" version="1">당신은 아주 강력한 마력이 깃든 반지를 손에 넣게 되었습니다. 이는 단순한 장신구가 아닌 재물과 부를 관장하는 여신 와우킨의 축복이 깃든 성스러운 유물로, 순금으로 만들어진 반지엔 매끄럽게 연마된 흙빛 감람석이 장식되어있습니다. 허나 아무래도 이 반지에 마법을 부여한 마법사에겐 끔찍할 정도로 유쾌한 유머감각이 있었던 모양인것이, 반지엔 적을 처치할 때마다 그들이 가지고 있는 금화를 강탈(마법)하여 착용자의 발 밑으로 끌어당기는 마법이 부여되어있었기 때문입니다. 확실히 이건, 상인들을 위한 물건은 아니였던 것 같네요...</content>
+  <content contentuid="h8cabde83ga89cg4d45ga022gf68f6afdfdde" version="1">금화가 들어있는 마법 가방</content>
+  <content contentuid="h1b1571ddga09eg4fe4g8c8egf5c0a06e1716" version="1">마법 도둑</content>
+  <content contentuid="hdd14b85fgc4d2g4ea2gb68ag7b70c7dacbf9" version="1">&lt;br&gt;적을 처치하면 적이 들고 있던 &lt;b&gt;금화&lt;/b&gt;를 시체 아래에 떨어진 마법 가방 안으로 이동시킵니다.</content>
+  <content contentuid="hac002180g3586g4072gb82fgf2adb497e3fd" version="1">고대 마법의 반지</content>
+  <content contentuid="hc257487agbff3g42e1gad34gd5572d0468e0" version="1">불길한 기운을 풍기는 반지로, 피처럼 붉게 빛나는 깨어진 보석은 강제로 끼워넣기라도 한 듯 어설프게 고정되어있으며, 오랜 세월을 거친 탓에 반지 표면의 금속 부분은 해지고 거칠게 변색되어있습니다. 이 마법 유물 안에는 설명할 수 없을 고대의 강력한 힘이 깃들어있는 것이 분명합니다. 당신의 힘으로는 유물의 마력을 제어할 수도 없었지만, 그 유혹을 떨쳐내는 것도 불가능했습니다. 반지는 스스로 착용자의 자격을 시험하려 들고 있으며 당신은 점차 그 힘에 매료되어감을 느껴갑니다.</content>
+  <content contentuid="h76ec7df3gfcd7g4f07g943fg24d00914f6ce" version="1">실패의 분노</content>
+  <content contentuid="hacb032c6g4f2bg45dfgba52g0c8828c84210" version="1">다음 무기 공격이 빗나가도 [1]를 입힙니다.</content>
+  <content contentuid="hf9506d07g62c9g4600g82e4ge103c2b4e4a2" version="1">고대의 마력</content>
+  <content contentuid="h3cd04e1bg0c54g4fe3g8bfbgfb6d436112d6" version="1">&lt;br&gt;무기 공격이 빗나가면, &lt;b&gt;다음&lt;/b&gt; 공격 때까지 &lt;LSTag Type="Status" Tooltip="RING58"&gt;실패의 분노&lt;/LSTag&gt;을 얻고, 그 즉시 대상에게 [1]를 입힙니다.</content>
+  <content contentuid="hfcc187bdg93ddg4a57gbb51gcbda26084ba8" version="1">평온한 새벽빛 반지</content>
+  <content contentuid="hd377c7abg3fdcg40d4ga3a7g21f77f4a30e8" version="1">이 반지의 기원이 어디에서 온 것인지 고민하는데 끝없는 시간을 보낼 수도 있겠지만, 당신에게는 그것이 고대 드루이드가 만든 것인지, 아니면 강력한 위저드의 것인지, 그것도 아니면 어느 수도승의 것인지 판별할 시간따위는 없었습니다. 그보다 중요한 것은 이 장미빛 첨정석이 박혀있는 반지의 힘을 어떻게 이끌어내는지가 더 중요했지요. 이 반지에서 평온한 기운이 피어오르는 것을 알고 있었지만, 수 시간이 지난 연구와 실험 끝에도 반지의 힘을 활성화하는 방법을 끝내 알아낼 수 없었습니다. 그러던 중 당신은 한숨 자고나면 머리가 맑아질 것이란 믿음에 이 반지를 착용한 채로 잠에 들게 되었고, 아침이 밝자 당신과 당신 동료들에게 새벽에 밝아오는 여명빛처럼 강한 힘이 솟아오르는 것을 느낄 수 있었습니다.</content>
+  <content contentuid="h0312b606gdb67g4996g9677g474d554f0605" version="1">평온함의 마법</content>
+  <content contentuid="he56b3478g802eg47b4g8c51g1f40b62d1d19" version="1">착용자의 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 아군은 &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;를 &lt;b&gt;+[2]&lt;/b&gt; 얻고, 공격하는 적의 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;에 &lt;LSTag Tooltip="Disadvantage"&gt;불리 보정&lt;/LSTag&gt;을 줍니다.</content>
+  <content contentuid="hb4597019gc4d0g4415g9518gb9a4504be757" version="1">여명이 밝아올 때</content>
+  <content contentuid="h2345e30dg40ecg4477g9782g4bdafb79ab97" version="1">&lt;br&gt;&lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;이후, &lt;b&gt;[1]&lt;/b&gt;턴동안 착용자와 &lt;b&gt;[2]&lt;/b&gt; 반경 내 주변에 있는 모든 동료들에게 &lt;LSTag Type="Status" Tooltip="RING59"&gt;평온함의 마법&lt;/LSTag&gt;을 부여합니다.</content>
+  <content contentuid="hf69d3e08gd198g4e56g8f99g17fc392323be" version="1">야수 조련사의 반지</content>
+  <content contentuid="hbd971e0bgda51g4dfbg8862g70e41996cf17" version="1">이 흥미로운 반지를 손에 쥐는 순간, 당신은 이 마법의 장신구를 유용하게 써먹을 수 있는 방법을 떠올리게 됩니다. 녹색 수정에서 은은한 빛이 퍼져나가며, 당신의 동료 야수의 눈도 날카롭게 빛나기 시작합니다. 손가락에 반지를 끼우자, 당신은 야수의 마음을 꿰뚫어볼 수 있는 능력을 얻게 되었으며 이제 야수와 명확한 소통이 가능해지며 더 정확한 명령을 내릴 수 있을 것입니다.</content>
+  <content contentuid="h1b246468g5620g426egaf03gbd53160dac6f" version="1">복종의 마법</content>
+  <content contentuid="h0c2740ffg067fg414fga337g1a711b11e27f" version="1">&lt;br&gt;전투가 시작될 때, 모든 동료 &lt;b&gt;야수들&lt;/b&gt;에게 &lt;b&gt;[1]&lt;/b&gt;턴동안 &lt;LSTag Type="Status" Tooltip="RING60_2"&gt;제어된 정신&lt;/LSTag&gt; 상태를 부여합니다.</content>
+  <content contentuid="h967c917ege654g4255g89fegf2914450e901" version="1">제어된 정신</content>
+  <content contentuid="h36690dbdgbd78g4339gae2fg1908ac5acdcc" version="1">이 크리처는 야수 조련사가 지시하는 대로 공격하게 되며, &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;[2]&lt;/b&gt;레벨마다 증가합니다.</content>
+  <content contentuid="ha8b9b943g4f91g4257ga7d6g6660567104dd" version="1">거대한 반지</content>
+  <content contentuid="h117d67fcga89ag498fg8857g2ca82b4ed177" version="1">엄청나게 거대한 반지로 착용은 커녕 들고 있기조차 버거울 지경입니다. 그러나 곧, 이 반지에 어떤 마법적인 봉인이 가해져있음을 깨닫게 되었고, 긴 명상 끝에 마침내 반지를 손쉽게 집어들 수 있게 되었습니다. 반지를 착용하니 몸이 한결 가벼워지는 것을 느낍니다.</content>
+  <content contentuid="hcc73adc7g7f2cg40dbgb8c0g2d39b3f914bb" version="1">가벼운 주먹</content>
+  <content contentuid="hfc120f93g6eecg4d9eg8ce9gcc7cc82ccfab" version="1">&lt;br&gt;맨손 공격이 빗나갈 경우, &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;기력&lt;/LSTag&gt;을 &lt;b&gt;[1]&lt;/b&gt; 회복시킵니다. &lt;br&gt;&lt;br&gt;이 효과는 &lt;b&gt;전투 당&lt;/b&gt; 한 번씩만 발동됩니다.</content>
+  <content contentuid="h306525d8gd7c6g4784gbbbag41c4c447a9b0" version="1">침묵하는 선구자의 반지</content>
+  <content contentuid="h1c5ca89fg02fbg46c2gbd7bg32cebeb453c5" version="1">수 천년의 세월을 받은 탓에 손상된 황동 받침과 그 중앙을 장식하고 있는 거대한 검은 보석이 인상적인 물건으로, 그 힘은 이제 미약해졌지만 여전히 파이터들에겐 유용한 기능을 제공해줄 것입니다. 당신은 반지를 보자마자 과거 치뤄졌던 격렬한 전투에서 강력한 힘을 발휘하던 유물임을 직감할 수 있었습니다..</content>
+  <content contentuid="hab8a70fcg5076g4728g867dg938ca0161c4a" version="1">검은 원석의 힘</content>
+  <content contentuid="hfb01ce5fg8777g4fd4g878bga70720ec58d1" version="1">&lt;br&gt;전투에서 사용하는 첫번째 원거리 공격은 &lt;b&gt;반드시&lt;/b&gt; 명중합니다.</content>
+  <content contentuid="hcbcd7bcbgce41g4b1dg9452gd48731f598ff" version="1">마력의 화살</content>
+  <content contentuid="h6f44e439g2669g4edfgb3fcge929203a3492" version="1">다음 원거리 공격에 반드시 적중하는 &lt;b&gt;명중&lt;/b&gt; 판정을 받게 됩니다.</content>
+  <content contentuid="h7cb1f29cg8851g4ee5gb5bag9faa861ea6dc" version="1">갈색 사냥꾼의 반지</content>
+  <content contentuid="hc175609eg224bg4650g8d4cg648939877574" version="1">가히 예술품이라 할 정도로 아름다운 반지로 맑고 투명한 인공 원석이 단단한 참나무 받침 위에 박혀있으며, 반지를 바라보니 그 안에 잠들어있는 고대 의식의 힘이 깨어나는 듯한 느낌이 들기 시작합니다. 당신은 하루 종일 마치 사냥을 이끄는 존재 그 자체를 담고 있는 듯한 이 아름다운 반지를 착용해보고 싶다는 유혹을 떨쳐내려했지만 떨쳐낼 수 없었습니다.</content>
+  <content contentuid="h1a22a998g9556g4cafgbc28g2735b4142019" version="1">사냥개의 마력</content>
+  <content contentuid="haf9b3460gf082g4d38g951eg16b6aa187413" version="1">&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;가 &lt;b&gt;[1]&lt;/b&gt; 감소합니다. 적에게 피해를 입히면 &lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;의 &lt;b&gt;[2]%&lt;/b&gt;를 회복시킵니다.</content>
+  <content contentuid="h958fcc65ged6eg4dc7g81c0g273cbaa18cbd" version="1">에메랄드 꿈의 반지</content>
+  <content contentuid="hf79348d7g34d4g4056ga124g7c2429def76e" version="1">황동색 반지를 착용하는 순간, 기묘한 감각이 느껴지기 시작합니다. 차마 말로 설명할 수 없을 느낌과 함께 당신의 영혼이 작은 공과 같은 크기로 압축되었다가 곧이어 태고의 동물의 형상으로 다시 태어나는 듯한 오묘한 기분이 듭니다. 이 반지를 낀 채로 오랜 시간 걷고나니, 당신의 영혼 단련이 헛되지 않았다는 느낌과 함께, 반지가 착용자에게 특별한 마법 능력을 부여한다는 사실을 깨닫게 되었습니다.</content>
+  <content contentuid="h9b0e1ae4g09bfg4e20g8a63g6870e5a88736" version="1">영혼 조형</content>
+  <content contentuid="h8dce628cg6522g442fgaba7ga1396f597c6f" version="1">&lt;br&gt;전투 중, 매 턴마다 &lt;LSTag Type="Status" Tooltip="RING64"&gt;차원의 영혼 강화&lt;/LSTag&gt;를 얻습니다.</content>
+  <content contentuid="h4f4620bag7712g4a92ga587g58b2e9d98a4e" version="1">차원의 영혼 강화</content>
+  <content contentuid="h6015dc79g14feg4a50g866cg6b931b7453cc" version="1">전투 중, 매 턴이 끝날 때마다 [1]를 받습니다. &lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt; 이후에도 효과는 사라지지 않습니다.</content>
+  <content contentuid="h8d2605c2ge902g4e9fgb832g2a6baccc262d" version="1">영혼의 힘 흡수</content>
+  <content contentuid="h8c0c1cd9g7ce4g41d6ga188g0c3d743e0d61" version="1">&lt;br&gt;&lt;LSTag Type="Status" Tooltip="RING64"&gt;차원의 영혼 강화&lt;/LSTag&gt;가 &lt;b&gt;[1]&lt;/b&gt;회 중첩되면, 모든 중첩량을 소모하여 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="RING64_2"&gt;채워진 영혼&lt;/LSTag&gt; 상태를 부여합니다.</content>
+  <content contentuid="hb515e79bg55bdg44d8g8b24g6db4c39ab275" version="1">채워진 영혼</content>
+  <content contentuid="h5417e177gb5edg478bg8712g25c3b2666c6a" version="1">&lt;LSTag Tooltip="Intelligence"&gt;지능&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;지혜&lt;/LSTag&gt;, &lt;LSTag Tooltip="Charisma"&gt;매력&lt;/LSTag&gt;이 각각 &lt;b&gt;+[1]&lt;/b&gt;씩 증가합니다. 주문을 시전한 후 효과는 사라집니다.</content>
+  <content contentuid="h1858c9cfg6c85g4c0dg9cccg639e359fc52c" version="1">운명적 일격의 반지</content>
+  <content contentuid="hc352c9b2g07d3g4222g98b5g7f51c930506c" version="1">이 반지에 운명을 바꾸는 힘이 있다고 한다면... 그걸 믿을 사람이 있을까요? 우아하지만 이제는 다 해져버린 금속 합금에 검은색의 우주 원석이 박혀있는 이 반지는 우주 그 자체의 에너지를 발산하고 있는 것만 같습니다. 한 강력한 위저드가 별을 돌 속에 가두는데에는 성공한 것으로 보이나, 당신으로선 이 힘을 통제할 방법이 보이지 않습니다. 당신이 할 수 있는 유일한 활용처는 이 반지를 이용해 공격을 정확히 유도시키는 것 뿐이지요.</content>
+  <content contentuid="h375f5808g426fg4e5bga536g602e6e17fcd7" version="1">별의 에너지</content>
+  <content contentuid="hf31863efgc43eg4636gb6bagace3660d6653" version="1">&lt;br&gt;근접 공격과 투척 공격 시, &lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;&lt;i&gt;(주문 포함)&lt;/i&gt; 피해량에 &lt;b&gt;추가&lt;/b&gt; 주사위를 굴려 값을 더합니다. 동시에 모든 주사위 굴림 값이 &lt;b&gt;[2]&lt;/b&gt; 감소합니다.</content>
+  <content contentuid="hdfdd6031g5edeg4db1g8846g5297cc95beaf" version="1">용감한 모험가의 반지</content>
+  <content contentuid="h2bb86fa9gdb9bg45a4gb53fgcf8c9329aaa5" version="1">당신의 눈에 아름답게 연마된 오팔의 보석이 보입니다. 영혼 없는 눈동자와도 같지만 동시에 밝은 빛을 발산하고 있습니다. 보석은 주변의 모든 열기들을 빨아들이는 것 같아 보였으며, 반지의 금속 부분에는 희미한 그을음이 남아있습니다. 이것은 불을 뿜는 존재들로부터 착용자를 보호할 목적의 유물이었을 수도 있고, 단순히 고기가 너무 익는 것을 방지하려는 목적이었을 수도 있겠지요? 하지만 이미 수세기가 흘러버린 지금, 반지에 남아있는 힘은 너무 미약하여 예전만큼의 위용은 뽐내지 못하는 것처럼 보입니다.</content>
+  <content contentuid="hba06c72cg7187g4fabg8f4dg8aa5f6fa47ae" version="1">방어의 불꽃</content>
+  <content contentuid="h7236b62ag87b8g41e0gac58g2a601d2d25a5" version="1">&lt;br&gt;공격이나 &lt;b&gt;불&lt;/b&gt;에 의해 피해를 입을 시, &lt;b&gt;[1]&lt;/b&gt;의 &lt;LSTag Type="Status" Tooltip="RING66"&gt;불안정한 불의 보호막&lt;/LSTag&gt;을 얻습니다. 낮은 확률로 &lt;b&gt;[1]~[2]&lt;/b&gt;을 추가로 충전할 수도 있습니다.</content>
+  <content contentuid="h20aa6772gb4b2g4289gaa77g0926f6c5ce61" version="1">불안정한 불의 보호막</content>
+  <content contentuid="h74e5c232g6710g474egb49bg7a361a206714" version="1">효과가 중첩될 때마다 받는 피해가 &lt;b&gt;[1]&lt;/b&gt;만큼 감소합니다. 충전량이 &lt;b&gt;[3]&lt;/b&gt;개가 되면, 효과가 사라지며 시전자의 발 밑에 &lt;b&gt;[2]&lt;/b&gt; 반경의 &lt;b&gt;불의 표면&lt;/b&gt;을 생성합니다.</content>
+
+  <content contentuid="h867826a0gae29g4fdcgbce6g490be2e9f9a4" version="1">견습생의 애뮬릿</content>
+  <content contentuid="h42695c00g75dag4e6cgb8c2g4a38c7e395f8" version="1">수 세기를 거쳐 전해내려져온 듯한 애뮬릿으로, 그것이 정확히 어떤 마법을 위해 만들어졌는지 알 수 없으며, 숙련된 대장장이조차 이 유물을 이루고 있는 금속이 무엇인지 알지 못한다고 합니다. 한가지 확실한 것은, 이 애뮬릿은 선천적인 재능을 지닌 소서러들의 근처에 가면 특이한 반응을 보이기 시작하며, 끝없는 에너지를 해방시킬 수 있는 잠재력을 가지고 있다는 점입니다.</content>
+  <content contentuid="hdc0c83beg1e56g4943ga69eg6897bb7bc293" version="1">무한한 마력의 주문</content>
+  <content contentuid="hecc269c4g5ad9g4a4egaaa3gcf8e7cd4f6b7" version="1">&lt;br&gt;전투 중 &lt;LSTag Tooltip="EvocationSpells"&gt;방출술 주문&lt;/LSTag&gt;을 사용하면, &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;소서리 포인트&lt;/LSTag&gt; &lt;b&gt;[1]&lt;/b&gt;개를 소모하고 &lt;b&gt;[2]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;비전적 예리함&lt;/LSTag&gt;을 얻습니다.</content>
+  
+  <content contentuid="h2b693d9fg849fg49fbg8951g01f16f9272d8" version="1">네 개의 눈을 지닌 거미의 애뮬릿</content>
+  <content contentuid="h737d5f49g05efg4271gb44dgb62db664496f" version="1">두 쌍의 초록색 보석 눈이 당신을 주시하는 듯 합니다. 마치 끔찍한 존재의 눈처럼 빛나고 있는 보석은 아주 정교한 세공에도 불구하고, 어둡고 사악한 기운을 내뿜고 있으며 불꽃을 사그라들게 만들며, 꽃들을 시들게 하는 어둠의 마법이 서려있습니다.</content>
+  <content contentuid="hd98b91afgeae6g49fcg974bgb7df0a19ff26" version="1">부패의 마법</content>
+  <content contentuid="hf3bff743g7502g4253gb220g6e918cb6acc2" version="1">&lt;br&gt;전투가 시작되면 자신을 포함한 &lt;b&gt;[1]&lt;/b&gt; 반경 내에 &lt;b&gt;모든&lt;/b&gt; 대상들에게 &lt;LSTag Type="Status" Tooltip="NECK43"&gt;부패의 오라&lt;/LSTag&gt;를 부여합니다.</content>
+  <content contentuid="h756f432cg77f7g4347ga51cgb6c171369e5f" version="1">부패의 오라</content>
+  <content contentuid="hf58f3aaag5a89g4e3eg8636ga960e744f5a8" version="1">대상 혹은 물체의 &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태가 즉시 제거되며,[2]에 &lt;LSTag Tooltip="Vulnerable"&gt;취약성&lt;/LSTag&gt;을 얻습니다. &lt;br&gt;&lt;br&gt;전투가 끝나거나 오라의 범위에서 벗어나면 효과가 사라집니다.</content>
+  
+  <content contentuid="hc91c4228g50d2g419eg969bgb48c04acb9db" version="1">비로치의 애뮬릿</content>
+  <content contentuid="h274c3b2bgd8c0g46a5gb933g1709d5648ea9" version="1">기나긴 역사서들을 모두 읽은 끝에, 이 애뮬릿이 과거 비로치의 위저드들이 사용하던 장비임을 알게 되었습니다. 이들은 전쟁을 영원히 종식시키겠다는 신념 아래, 군인 가문들을 몰살하는데 모든 힘을 쏟아부었으며, 그들은 진정으로 대장장이와 상인들의 후손만이 남는다면 전쟁이 영원히 사라질 것이라 믿었다고 전해집니다. 하지만 그들의 그러한 목표는 이루어지지 못한 채로 끝나고 말았고, 이들이 남긴 마법 유물은 전사들에게 미약하게나마 도움이 될 것 같습니다. </content>
+  <content contentuid="hc7f1d10dga794g4129g8dc5g1cfc0e901a82" version="1">정복의 마법</content>
+  <content contentuid="h5af79359g9a4cg434agac79g0694bb026121" version="1">&lt;br&gt;적을 처치하면, &lt;b&gt;[1]&lt;/b&gt;의 &lt;LSTag Type="Status" Tooltip="NECK44"&gt;비로치의 마법&lt;/LSTag&gt;을 얻지만 동시에 &lt;b&gt;[2]&lt;/b&gt;를 받게 됩니다.</content>
+  <content contentuid="h5a753818g6235g4502g9322g974197771e79" version="1">비로치의 마법</content>
+  <content contentuid="h700c304dg954ag4aeag960cg7b227e8fe361" version="1">&lt;b&gt;[1]&lt;/b&gt;개이상 충전 되면, &lt;b&gt;모든 충전량&lt;/b&gt;을 소모하여 &lt;b&gt;[2]&lt;/b&gt;레벨 &lt;LSTag Tooltip="SpellSlot"&gt;주문 슬롯&lt; /LSTag&gt;을 회복합니다. 또한, &lt;b&gt;[5]%&lt;/b&gt;확률로 &lt;b&gt;[3]&lt;/b&gt; 레벨의 주문 슬롯을, &lt;b&gt;[6]%&lt;/b&gt;확률로 &lt;b&gt;[4]&lt;/b&gt; 레벨의 주문 슬롯도 추가로 회복시킵니다.</content>
+  <content contentuid="hdd19e7caged03g452eg9058ge892ee1bdb75" version="1">닫혀버린 정신의 애뮬릿</content>
+  <content contentuid="hee60e082g9333g4e43g9418g31488ef4a2bc" version="1">이 애뮬릿은 단순한 장신구처럼 보이지만, 어째서인지 당신은 그 아름다움에 눈을 뗄 수 없습니다. 하지만 동시에 어딘가 불길한 느낌이 감돌기 시작했고, 미묘하게 상한 우유와 같은 냄새가 나는 듯 합니다. 애뮬릿을 목에 걸자, 머릿속에서 희미한 속삭임이 울려퍼지기 시작합니다. "부탁이야, 날 여기서 풀어줘-", " 이 조각을 부수면- 난 자유로워질 수 있어..." 하지만 애뮬릿의 뒷면에는 작게 이런 글귀가 새겨져있습니다. "절대 해방시키지 말 것, 당신의 육신이 빼앗길 수 있음." 당신은 가까스로 속삭임을 무시하고 애뮬릿을 떼어냈지만, 여전히 그 속삭임이 머릿속을 맴도는 듯한 기분이 듭니다. </content>
+  <content contentuid="h3aaf5451gbb38g4df3gaf29g5733c1a6eb8e" version="1">의도치않은 동반자로부터의 보호</content>
+  <content contentuid="h1c85a0bbg15fcg4119gb998gf2f34998a448" version="1">&lt;br&gt;주문 공격에 피격당할 시, &lt;b&gt;[1]&lt;/b&gt;턴 동안 공격자에게 &lt;LSTag Type="Status" Tooltip="NECK45"&gt;정신 피로&lt;/LSTag&gt;를 부여합니다. 또한 목걸이를 착용하는 동안에 &lt;b&gt;[2]&lt;/b&gt;를 덜 받게 됩니다.</content>
+  <content contentuid="h0a74021bgdc66g4c70gb08cg5e29a3e8b0fb" version="1">정신 피로</content>
+  <content contentuid="h1f774717g754fg42c4g939egf03f65e64b84" version="1">대상은 &lt;LSTag Tooltip="Concentration"&gt;집중&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 대한 &lt;LSTag Tooltip="Disadvantage"&gt;불리 보정&lt;/LSTag&gt;을 받습니다. 효과를 받을 때, [1]도 함께 입습니다. &lt;br&gt;&lt;br&gt;전투가 끝나면 효과가 사라집니다.</content>
+  <content contentuid="h6ba6da60eb394875ab60973ffd77b5593ec8" version="1">빛과 어둠의 반지</content>
+  <content contentuid="h098278eb9dd74c2d8e1576ce1b453798a4ab" version="1">이 반지의 샤의 어두운 힘에 의해 주조된 반지이지만, 동시에 셀루네의 빛의 힘으로 정화되어 그녀의 팔라딘들에게 전달되었던 유물로, 이제는 거의 찾아볼 수 없는 아주 희귀한 반지라고 합니다.</content>
+  <content contentuid="h7f10df84gd1aag4782gb269g82c6a4970ea3" version="1">살육의 오라</content>
+  <content contentuid="h414c9178gaa25g464bg851fga5f8315b5807" version="1">&lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 적들은&lt;b&gt;[2]&lt;/b&gt;에 &lt;LSTag Tooltip="Vulnerable"&gt;취약&lt;/LSTag&gt;해집니다. 대상이 &lt;LSTag Tooltip="Immune"&gt;면역&lt;/LSTag&gt; 상태가 아니라면 영향을 받게 됩니다.</content>
+  
+  <content contentuid="h8a4d3e17g9befg4a92g97deg04189b3f6a1c" version="1">심연의 사파이어 애뮬릿</content>
+  <content contentuid="he81ea4bdg3ea6g49d8gb4b6gfc0f116af996" version="1">수정의 중심에는 전설적인 메두사의 샘에서 떨어졌다 전해지는 물방울이 춤추듯 일렁이고 있습니다. 오래 전 잊혀졌던 수도원의 사제들이 그것을 봉인했다 전해지며, 닳고 퇴색되어버린 금속 위에 새겨진 고대 아쿠안의 룬이 영원한 진실을 속삭이듯 말하고 있습니다. "마비를 받아들이는자, 심연의 자비를 깨닫게 되리니."</content>
+  <content contentuid="hf0d37a34gfb7dg4391gbd94g518886cbd319" version="1">심연의 축복</content>
+  <content contentuid="h14914b2agcf42g4e22g878fge4935bff9eca" version="1">&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;마비&lt;/LSTag&gt; 상태일 때, 턴이 끝나면 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;과 &lt;LSTag Type="ActionResource" Tooltip="KiPoint"&gt;기력&lt;/LSTag&gt;을 &lt;b&gt;모두&lt;/b&gt; 회복시킵니다. &lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;이동 속도&lt;/LSTag&gt;가 &lt;b&gt;[1]&lt;/b&gt; 감소합니다.</content>
+
+  <content contentuid="h1f52d956g7e35g4182g826dgab9ac7f3515a" version="1">압축의 반지</content>
+  <content contentuid="h5d08430aga96eg465dg9a5bg398db5394ef6" version="1">희귀한 자수성 수정이 차원의 균열 속에서 흘러나온 듯한 힘을 머금고 있습니다. 반지의 정교한 문양은 실버리문의 한 세공사가 세공한 것이라하며, 그 문양으로 작은 물체들을 압축시킬 수 있는 극소형의 특이점을 만들어냈다고 합니다. 하지만 매번 압축이 발생할 때마다 현실적인 구조에 미세한 균열이 생겨나는 듯 하며, 그 균열의 너머로 공허 속에서 무언가가 응시하고 있다고도 합니다...</content>
+  <content contentuid="h64b37061gc748g4602g802cg8c8b2ceca40e" version="1">차원의 특이점</content>
+  <content contentuid="hf8462e72g9d60g47dbgbc5fg1a1c77940f9c" version="1">&lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 모든 &lt;b&gt;소형&lt;/b&gt; 크리처들은 &lt;LSTag Tooltip="Constitution"&gt;건강&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;(&lt;b&gt;[2]&lt;/b&gt;)에 성공해야하며, 실패한 대상은 그 즉시 &lt;b&gt;반지의 힘으로 압축이 되어&lt;/b&gt; 사망하게 됩니다. 압축이 일어나는 과정에서 &lt;b&gt;이계로부터 적대적인 존재&lt;/b&gt;가 등장할 수도 있습니다. &lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt;&lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 성공한 대상은, 더이상 압축 반지의 영향을 받지 않게 됩니다. 반지의 장착을 해제하더라도 &lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;을 하기 전까지 반지의 효과는 지속됩니다.</content>
+  <content contentuid="h720eb2ddgf985g46d4g9adeg2221ac806975" version="1">%%% 기존값 %%%%</content>
+  <content contentuid="h147b11acg7217g481fgabfdgdca2c425a343" version="1">시각효과 토글</content>
+  <content contentuid="h22d8efedgcb24g4327g8cc2g02b8602ae0a0" version="1">압축의 시련</content>
+  <content contentuid="h6cefcec9gd9b4g43abg9b67gebc308295210" version="1">차원의 조율</content>
+  <content contentuid="hd3e98ae8g701bg437eg800dgea05debcc449" version="1">차원의 특이점이 당신의 머리 위를 맴돕니다. &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 &lt;b&gt;모든&lt;/b&gt; &lt;b&gt;소형&lt;/b&gt; 크리처들을 압축하여 즉사시킵니다.</content>
+  <content contentuid="hf816ae13g8425g4a79gbe58g0385073ea6e4" version="1">차원의 특이점이 당신의 머리 위를 맴돕니다. &lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 &lt;b&gt;모든&lt;/b&gt; &lt;b&gt;소형&lt;/b&gt; 크리처들을 압축하여 즉사시킵니다.</content>
+  <content contentuid="hcd7c8c7bg9179g422ag9414gd8c990c439ea" version="1">특이점 작용</content>
+  <content contentuid="h7c6d97e0gecc3g4505gac36g0cb204685dcc" version="1">견고한 내구성</content>
+  <content contentuid="h24c5f47cg4d33g4b30gae51ga89582071fca" version="1">대상은 차원의 특이점에 시련에 통과하여 다른 크리처를 &lt;b&gt;처치&lt;/b&gt;할 때까지 해당 효과에 &lt;b&gt;면역&lt;/b&gt; 상태가 됩니다. 그런데... 크기가 조금 커진 것 같은 건 기분탓이겠지요?</content>
+  <content contentuid="h879abd5egfca3g4a6fgb24ege22aa1a7a08c" version="1">베르발랑</content>
+  <content contentuid="h9a76513cg3173g4914gb0fdgee0e26092ab5" version="1">영혼 시야</content>
+  <content contentuid="h33c1ce6ag3d42g4ab1g8a29gdf9f5cc0dcef" version="1">베르발랑은 먼 거리도 볼 수 있으며 심지어는 벽을 투과할 수도, 보이지 않는 생명체까지도 감지해낼 수 있습니다.</content>
+  <content contentuid="h91136371g2a0ag4635g91b5g96e348a4bc0e" version="1">불안정한 존재</content>
+  <content contentuid="h1c6cc694g7070g4a0cg87cegcdaa9766db39" version="1">영혼의 감시자</content>
+  <content contentuid="h40de051agd8f8g4a2cgae81g0689cf33cc26" version="1">베르발랑이 민첩과 지능 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 &lt;b&gt;+[1]&lt;/b&gt; 의 보너스를 얻으며, 모든 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다.</content>
+
+  <content contentuid="h1342408bg4fdag42beg9d45gb39920f44a2d" version="1">차원의 프리즘</content>
+  <content contentuid="h54b137e5g4194g4029g8791gf6d3a7a4b574" version="1">이 프리즘은 림보 차원에서 부서진 조각들 중 하나로, 서로 다른 차원의 조각들이 담겨져있으며 끝없는 혼돈 속에서 끊임없이 갈라지고 융합되고를 반복하고 있습니다. 이 프리즘을 지니고 있는 자가 강력한 일격을 받게 되면 순간 프리즘이 열리며 인접 차원의 법칙이 그 공간을 침범하여 예측할 수 없는 혼돈의 결과를 초래한다고 합니다.</content>
+  <content contentuid="h9339a6a5geee0g4e1ag85d9g9268ee60f503" version="1">차원 왜곡</content>
+  <content contentuid="h055f14f5g84e3g44edgafc7gc00e0ba0aa69" version="1">&lt;LSTag Tooltip="CriticalHit"&gt;치명타&lt;/LSTag&gt;에 피격당하면 &lt;b&gt;[1]&lt;/b&gt;턴 동안 &lt;LSTag Type="Status" Tooltip="SJ03_01"&gt;현실이 대체&lt;/LSTag&gt;됩니다. &lt;b&gt;[2]&lt;/b&gt;턴 동안 추가적으로 무작위의 부작용이 적용될 수도 있습니다.</content>
+  <content contentuid="h07082adbg1813g4c66g831agb3b260d4b7d4" version="1">현실 대체</content>
+  <content contentuid="hcca42763ga08cg46aeg9d08g2c2aa899329f" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;가 &lt;b&gt;+[1]&lt;/b&gt; 증가합니다.</content>
+  <content contentuid="h50558969gc6c7g43a3ga4d0gb0df9cd97b51" version="1">차원 약화</content>
+  <content contentuid="h9c138805ga9acg4b58g8ae2gbdcb4aa0cf92" version="1">모든 &lt;LSTag Tooltip="Ability"&gt;능력치&lt;/LSTag&gt;가 &lt;b&gt;[1]&lt;/b&gt; 감소합니다.</content>
+  <content contentuid="hbbacb749g314cg4d9cgbe93g15280fa2a8c3" version="1">공간 액화</content>
+  <content contentuid="hfcda28f8gd4beg4ba9g844cg04d26f6a9ae7" version="1">&lt;b&gt;[1]&lt;/b&gt; 반경 내에 있는 &lt;b&gt;모든 크리처&lt;/b&gt;들은 어떤 &lt;b&gt;행동&lt;/b&gt;도 취할 수 없게 됩니다.</content>
+  <content contentuid="hbafc5b00g5fb0g4784g8103gf611811d86a1" version="1">액화된 이상 공간에 서있는 동안 그 어떤 행동도 취할 수 없게 됩니다.</content>
+  <content contentuid="h5a16fcc9g3c3ag4ef9g8412ga67b3cce0438" version="1">분열된 사고</content>
+  <content contentuid="h15fdcbe8g8bf4g4109g92f8g7075521082c3" version="1">지혜, 지능, 매력 &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;과 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;에 불리 보정을 받게 됩니다.</content>
+  <content contentuid="hf93e1decgd770g475egad6fga4061285dcf2" version="1">워터딥 차원문</content>
+  <content contentuid="hb722c65bg173bg4831ga308g17d2bbc348ad" version="1">당신은 워터딥 마법사들의 실험체였던 &lt;b&gt;작은 레드캡&lt;/b&gt;을 소환했습니다. 그것들을 어떻게든 처리해야할 것입니다!</content>
+  <content contentuid="h980c40a5gc9adg4142gb069gac6d8abde507" version="1">마력 흡수</content>
+  <content contentuid="hb8354f75g914dg437eg9b50gec340375c434" version="1">모든 주문으로부터 추가로 &lt;b&gt;[1]&lt;/b&gt;를 입게 되지만, 동시에 주문과 소마법 피해량이 추가로 &lt;b&gt;[1]&lt;/b&gt;를 입힙니다.</content>
+  <content contentuid="hdc9d6676gc8c8g49d2g83d2g73baf278a99a" version="1">잊혀진 바다</content>
+  <content contentuid="h935ada43g1c19g4ea3g881agf55df75f50c1" version="1">&lt;LSTag Type="Status" Tooltip="WET"&gt;젖음&lt;/LSTag&gt; 상태가 아니라면 매 턴이 끝날 때마다 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;의 &lt;b&gt;[1]%&lt;/b&gt;을 잃게 됩니다. 반대로 &lt;LSTag Type="Status" Tooltip="WET"&gt;젖음&lt;/LSTag&gt; 상태일 경우, 턴이 끝날 때마다 &lt;LSTag Tooltip="HitPoints"&gt;생명력&lt;/LSTag&gt;의 &lt;b&gt;[1]%&lt;/b&gt;을 회복시킵니다.</content>
+  <content contentuid="ha0c4b070gaf77g4c82g9df9g656b07a8197d" version="1">제어되지 않는 거대화</content>
+  <content contentuid="h1389a5a6g907fg4be9g840ag1d0704a9f3f1" version="1">당신의 &lt;b&gt;체격 등급&lt;/b&gt;과 &lt;b&gt;중량&lt;/b&gt;이 &lt;b&gt;[1]&lt;/b&gt; 증가하며, &lt;b&gt;무기&lt;/b&gt;와 &lt;b&gt;맨손&lt;/b&gt; 피해량이 &lt;b&gt;+[2]~[3]&lt;/b&gt;만큼 증가합니다.</content>
+
+  <content contentuid="hce1e4515g5bfeg4933gafcag5aca83f25cf2" version="1">파라'지의 반지</content>
+  <content contentuid="h358f93e5g7620g45e6g9e4egcdaacf7a15f4" version="1">오래 전 잊혀졌던 강령술사, 파라'지의 무덤에서 발견된 반지로, 반지에 박혀있는 녹색의 수정들은 셀 수 없을 정도로 많은 희생자들로부터 추출한 영혼 정수의 조각들이라고 합니다. 죽음의 기운이 닿는 그 순간, 수정들이 강하게 공명하며 강력한 부패의 힘을 방출시키기 시작합니다.</content>
+  <content contentuid="h7830f2bfgf6e6g4be6g9f19g6fbb270bc162" version="1">죽음의 메아리</content>
+  <content contentuid="hec8b872dg9dc7g4563gb54bgd944ce9a219a" version="1">&lt;b&gt;[1]&lt;/b&gt;의 피해를 입힐 때, &lt;b&gt;[2]&lt;/b&gt; 반경 내에 있는 &lt;b&gt;모든&lt;/b&gt; 크리처들에게 &lt;b&gt;[3]&lt;/b&gt;을 추가로 입힙니다.&lt;br&gt;&lt;br&gt;이 효과는 턴 당 &lt;b&gt;한 번씩만&lt;/b&gt; 발동됩니다.</content>
+
+  <content contentuid="h6b57aebegf528g4756ga657g93c32b9f168a" version="1">불의 군주의 반지</content>
+  <content contentuid="hba76796fg0844g4290ga95bg00e67f1cee6e" version="1">화염 정령계의 심장부에서 흑요석과 불꽃 수정의 합금을 사용하여 벼려낸 반지로, 물질계에서 "파괴"의 대명사가 되었던 이프리트 아자르가 남긴 마지막 유물이기도 합니다. 이 반지를 지닌 이는 불의 군주의 힘을 얻게 되지만 결코 꺼지지 않을 불꽃이 내면으로부터 영원히 불타오른다고 전해집니다.</content>
+  <content contentuid="hcd62e3d5gcffdg4e50gbe0dg745f2aefc0ec" version="1">불의 군주의 유산</content>
+  <content contentuid="haac9488ag6ee9g483ag9caeg637174310d24" version="1">&lt;b&gt;[2]&lt;/b&gt; 반경 내에 있는 생명체가&lt;b&gt;[1]&lt;/b&gt;을 받으면, 추가로 &lt;b&gt;[3]&lt;/b&gt;을 입습니다. &lt;br&gt;&lt;br&gt;또한 착용자가 시전하는&lt;b&gt;[2]&lt;/b&gt; 주문과 소마법의 피해량이 &lt;b&gt;두 배&lt;/b&gt;로 증가하게 됩니다.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Image" Info="SoftWarning"/&gt; 단, 착용자는 항상 &lt;LSTag Type="Status" Tooltip="BURNING"&gt;발화&lt;/LSTag&gt; 상태가 됩니다&lt;i&gt;(비전투시에도 유지)&lt;/i&gt;.</content>
+
+  <content contentuid="hf155b63eg7ab0g499cg8bf5gdab33f70fa04" version="1">불안정한 수은 반지</content>
+  <content contentuid="hffb8cb71gaeb3g4cd5g8555geac18649e5dd" version="1">광기에 찬 연금술사 티리우스 아르젠트의 실험실에서 만들어진 살아있는 수은으로, 정체불명의 시약들에 노출된 나머지 마법이 깃들어버린 이 물질은 끊임없이 그 형태를 미세하게 변화시키며 마법의 에너지가 요동칠 때마다 미약한 부식성 물질들을 분출한다고 합니다. 심지어는 그 워터딥의 내로라하는 연금술사들조차 이 물질의 본질을 파악하는데 실패했다고 전해집니다.</content>
+  <content contentuid="hd5f8512eg4a49g4ea3g84bag6dafddb1aa45" version="1">끓어오르는 분출</content>
+  <content contentuid="h31f92cddg5b37g4ea3g8addg59429651e3c5" version="1">주문 혹은 소마법으로 피해를 입히면 &lt;b&gt;[2]~[3]&lt;/b&gt;회만큼 추가로 &lt;b&gt;[1]&lt;/b&gt;를 입힙니다.&lt;br&gt;&lt;br&gt;이 효과는 턴 당 &lt;b&gt;한 번씩만&lt;/b&gt; 발동됩니다.</content>
+</contentList>

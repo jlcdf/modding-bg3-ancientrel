@@ -1,0 +1,15 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+CastedSpell((CHARACTER)_Character, "Shout_AMP_Test", _, _, _)
+AND
+IsPlayer(_Character, 1)
+THEN
+GenerateTreasure(_Character, "AMP_Test01", 1, _Character);
+PlayEffect(_Character, VFX_Enemies_Elemental_Air_AirBlast_Impact_Root_02_11158391-82c5-c343-8dc0-a555a1f63b52, "", 1.0);
+EXITSECTION
+
+ENDEXITSECTION
