@@ -90,7 +90,7 @@ GetItemByTemplateInInventory((ITEMROOT)AMP_Meme_Robe_4d6af33b-4727-40e0-9bb5-437
 THEN
 Equip((CHARACTER)_Player, _MemeRobe, 1, 0, 0);
 SetArmourSet(_Player, ARMOURSET.Normal);
-
 EXITSECTION
 
 ENDEXITSECTION
+ParentTargetEdge "__AAA_FirstGoal"

@@ -1,6 +1,5 @@
 Version 1
 SubGoalCombiner SGC_AND
-
 INITSECTION
 // Low Tier Potions (60% chance) - 8 items indexed 0-7
 DB_NECK17_PotionList_Low(0, (ITEMROOT)CONS_Potion_Healing_A_d47006e9-8a51-453d-b200-9e0d42e9bbab);
@@ -36,9 +35,7 @@ DB_NECK17_PotionList_Best(4, (ITEMROOT)ALCH_Solution_Potion_Remedy_ae9a9360-7cbe
 DB_NECK17_PotionList_Supreme(0, (ITEMROOT)CONS_Potion_Healing_A_Supreme_7d78f227-e8d4-486d-8121-25cf0bee751d);
 DB_NECK17_PotionList_Supreme(1, (ITEMROOT)CONS_Potion_Invulnerability_7eb0b7b6-97fa-4ff5-a7bb-570ca11a3c64);
 DB_NECK17_PotionList_Supreme(2, (ITEMROOT)ALCH_Solution_Potion_Rest_Greater_4d801c1a-691e-47c8-88e7-78367b4e2c8e);
-
 KBSECTION
-
 //========================
 // Main Trigger: Long Rest Detection
 //========================
@@ -172,7 +169,6 @@ AND
 DB_NECK17_PotionList_Supreme(_Index, _PotionTemplate)
 THEN
 TemplateAddTo(_PotionTemplate, _Player, 1, 1);
-
 EXITSECTION
 
 ENDEXITSECTION

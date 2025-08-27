@@ -98,7 +98,6 @@ DB_REL_TrackedTraders((CHARACTER)S_LOW_VoicelessPenitent_f4039bb7-7456-4c35-a45a
 DB_REL_TrackedTraders((CHARACTER)S_LOW_MurderTribunal_MurderMerchant_68a568cd-1e5e-46f1-9c5f-53d3eed23bd5);
 DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_Bartender_00c74e3b-5880-4525-9558-860e4f7c77e2);
 DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_FetchersBrat_002_3352a47c-4259-464d-8047-65bc8a2adff9);
-
 KBSECTION
 //REGION Initialization System
 
@@ -600,7 +599,6 @@ THEN
 DebugText(_Trader, _Msg);
 
 //END_REGION
-
 EXITSECTION
 // Clean up all databases when goal completes
 NOT DB_REL_TableMapping("DEN_Entrance_Trade", "DEN_Entrance_Trade_None");
@@ -693,5 +691,4 @@ NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_VoicelessPenitent_f4039bb7-7456-4c35-
 NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_MurderTribunal_MurderMerchant_68a568cd-1e5e-46f1-9c5f-53d3eed23bd5);
 NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_Bartender_00c74e3b-5880-4525-9558-860e4f7c77e2);
 NOT DB_REL_TrackedTraders((CHARACTER)S_LOW_Guildhall_FetchersBrat_002_3352a47c-4259-464d-8047-65bc8a2adff9);
-
 ENDEXITSECTION
