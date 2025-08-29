@@ -8,5 +8,5 @@ WIP
 - Removed all crafting ; replaced crafting reagents with valuables
 - Removed additional encounters
 - Removed additional unimmersive sources (Astral Chest, Cambion)
-- Removed AI Archetypes changes (feature-creep)
+- Removed AI Archetypes changes
 - Removed some changes on price/rarity (gems, valuables) and vanilla economy rebalances that seemed out of scope
